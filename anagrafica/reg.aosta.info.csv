@@ -1,0 +1,86 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;County;Comments;
+2;Ayas_-_Alpe_Courthoud;1010;OD:1010;45,87379837;7,715099812;NA;NA;VDA;NA;
+28;Gressoney-Saint-Jean_-_Capoluogo;1290;OD:1290;45,76750183;7,832520008;NA;NA;VDA;NA;
+39;Nus_-_Porliod;1420;OD:1420;45,80179977;7,492980003;NA;NA;VDA;NA;
+51;Roisan_-_Moulin_Closellinaz;1560;OD:1560;45,78649902;7,306099892;NA;NA;VDA;NA;
+59;Valpelline_-_Prelé;1640;OD:1640;45,83769989;7,369040012;NA;NA;VDA;NA;
+61;Valsavarenche_-_Molère;1660;OD:1660;45,64720154;7,202109814;NA;NA;VDA;NA;
+68;Pré-Saint-Didier_-_Capoluogo_Valle;1740;OD:1740;45,76319885;6,991919994;NA;NA;VDA;NA;
+99;Ayas_-_Mandriou;4400;OD:4400;45,82369995;7,687809944;NA;NA;VDA;NA;
+1;Arvier_-_Chamençon;1000;OD:1000;45,67839813;7,107460022;NA;NA;VDA;NA;
+3;Aymavilles_-_Centrale_idroelettrica_;1020;OD:1020;45,71080017;7,252590179;NA;NA;VDA;NA;
+4;Aymavilles_-_Vieyes;1030;OD:1030;45,64970016;7,250830173;NA;NA;VDA;NA;
+5;Bionaz_-_Place_Moulin;1040;OD:1040;45,89970016;7,491960049;NA;NA;VDA;NA;
+7;Brusson_-_Extrapieraz;1060;OD:1060;45,78039932;7,697539806;NA;NA;VDA;NA;
+9;Chamois_-_Lac_de_Lou;1080;OD:1080;45,8445015;7,622859955;NA;NA;VDA;NA;
+10;Champdepraz_-_Chevrère;1090;OD:1090;45,6833992;7,613409996;NA;NA;VDA;NA;
+11;Champdepraz_-_Ponte_Dora_Baltea;1100;OD:1100;45,68180084;7,67373991;NA;NA;VDA;NA;
+12;Champorcher_-_Chardonney;1110;OD:1110;45,62060165;7,608779907;NA;NA;VDA;NA;
+13;Champorcher_-_Rifugio_Dondena;1120;OD:1120;45,61230087;7,551869869;NA;NA;VDA;NA;
+14;Cogne_-_Crétaz;1130;OD:1130;45,61449814;7,340509892;NA;NA;VDA;NA;
+15;Cogne_-_Lillaz;1140;OD:1140;45,59529877;7,391439915;NA;NA;VDA;NA;
+16;Cogne_-_Valnontey;1150;OD:1150;45,58560181;7,337329865;NA;NA;VDA;NA;
+17;Cogne_-_Grand-Crot;1160;OD:1160;45,58940125;7,370120049;NA;NA;VDA;NA;
+18;Courmayeur_-_Ferrachet;1170;OD:1170;45,86640167;7,028920174;NA;NA;VDA;NA;
+19;Courmayeur_-_Lex_Blanche;1190;OD:1190;45,76639938;6,838280201;NA;NA;VDA;NA;
+20;Courmayeur_-_Mont_de_la_Saxe;1200;OD:1200;45,81620026;6,980350018;NA;NA;VDA;NA;
+21;Courmayeur_-_Pré-de-Bard;1220;OD:1220;45,88359833;7,064730167;NA;NA;VDA;NA;
+22;Fénis_-_Clavalité;1230;OD:1230;45,6867981;7,49737978;NA;NA;VDA;NA;
+23;Fénis_-_Lavodilec;1240;OD:1240;45,64379883;7,483920097;NA;NA;VDA;NA;
+24;Gressan_-_Pila-Leissé;1250;OD:1250;45,66429901;7,308869839;NA;NA;VDA;NA;
+25;Gressoney-La-Trinité_-_Alpe_Courtlys;1260;OD:1260;45,86859894;7,807459831;NA;NA;VDA;NA;
+26;Gressoney-La-Trinité_-_Eselbode;1270;OD:1270;45,83060074;7,825890064;NA;NA;VDA;NA;
+27;Gressoney-La-Trinité_-_Gabiet;1280;OD:1280;45,85219955;7,84882021;NA;NA;VDA;NA;
+29;Gressoney-Saint-Jean_-_Weissmatten;1300;OD:1300;45,74840164;7,825069904;NA;NA;VDA;NA;
+30;Hône_-_Ponte_Dora_Baltea;1310;OD:1310;45,61719894;7,739960194;NA;NA;VDA;NA;
+31;Issime_-_Capoluogo;1320;OD:1320;45,68730164;7,856239796;NA;NA;VDA;NA;
+32;La_Thuile_-_Foillex;1330;OD:1330;45,71730042;6,971260071;NA;NA;VDA;NA;
+33;La_Thuile_-_La_Grande_Tête;1340;OD:1340;45,68280029;6,915160179;NA;NA;VDA;NA;
+34;La_Thuile_-_Villaret;1360;OD:1360;45,70899963;6,955989838;NA;NA;VDA;NA;
+35;Lillianes_-_Granges;1370;OD:1370;45,62789917;7,856379986;NA;NA;VDA;NA;
+37;Morgex_-_Lavancher;1390;OD:1390;45,79520035;7,017960072;NA;NA;VDA;NA;
+40;Nus_-_Les_Iles;1430;OD:1430;45,73889923;7,438210011;NA;NA;VDA;NA;
+41;Ollomont_-_By;1440;OD:1440;45,88140106;7,300680161;NA;NA;VDA;NA;
+42;Pollein_-_Grande_Place;1450;OD:1450;45,7356987;7,360010147;NA;NA;VDA;NA;
+44;Pontboset_-_Fournier;1470;OD:1470;45,604599;7,679920197;NA;NA;VDA;NA;
+45;Pontey_-_Ponte_Dora_Baltea;1480;OD:1480;45,74629974;7,616419792;NA;NA;VDA;NA;
+46;Pré-Saint-Didier_-_Capoluogo;1490;OD:1490;45,76290131;6,990799904;NA;NA;VDA;NA;
+47;Pré-Saint-Didier_-_Plan_Praz;1500;OD:1500;45,75799942;6,952700138;NA;NA;VDA;NA;
+48;Rhêmes-Notre-Dame_-_Chanavey;1520;OD:1520;45,5788002;7,123400211;NA;NA;VDA;NA;
+49;Rhêmes-Saint-Georges_-_Feleumaz;1530;OD:1530;45,60749817;7,121409893;NA;NA;VDA;NA;
+50;Rhêmes-Saint-Georges_-_Capoluogo_;1550;OD:1550;45,64970016;7,152609825;NA;NA;VDA;NA;
+52;Saint-Oyen_-_Moulin;1570;OD:1570;45,82089996;7,208730221;NA;NA;VDA;NA;
+54;Saint-Rhémy-en-Bosses_-_Crévacol;1590;OD:1590;45,82910156;7,155910015;NA;NA;VDA;NA;
+55;Saint-Rhémy-en-Bosses_-_Gran_San_Bernardo;1600;OD:1600;45,86849976;7,15252018;NA;NA;VDA;NA;
+56;Saint-Rhémy-en-Bosses_-_Mont-Botzalet;1610;OD:1610;45,8404007;7,147799969;NA;NA;VDA;NA;
+57;Valgrisenche_-_Menthieu;1620;OD:1620;45,61370087;7,052519798;NA;NA;VDA;NA;
+58;Valpelline_-_Chosoz;1630;OD:1630;45,82690048;7,339650154;NA;NA;VDA;NA;
+60;Valsavarenche_-_Eaux-Rousses;1650;OD:1650;45,56679916;7,208370209;NA;NA;VDA;NA;
+62;Valsavarenche_-_Orvieille;1670;OD:1670;45,57989883;7,191979885;NA;NA;VDA;NA;
+63;Valtournenche_-_Cime_Bianche;1690;OD:1690;45,91820145;7,69148016;NA;NA;VDA;NA;
+64;Valtournenche_-_Lago_Goillet;1700;OD:1700;45,93119812;7,662129879;NA;NA;VDA;NA;
+65;Valtournenche_-_Grandes_Murailles;1710;OD:1710;45,92910004;7,601970196;NA;NA;VDA;NA;
+66;Valtournenche_-_Maen;1720;OD:1720;45,86259842;7,611189842;NA;NA;VDA;NA;
+67;Ayas_-_Alpe_Aventine;1730;OD:1730;45,87400055;7,719260216;NA;NA;VDA;NA;
+77;Verrès_-_Capoluogo;3000;OD:3000;45,66519928;7,686039925;NA;NA;VDA;NA;
+78;Saint-Denis_-_Raffort;3010;OD:3010;45,74990082;7,576429844;NA;NA;VDA;NA;
+79;Villeneuve_-_S.R._Saint-Nicolas;3020;OD:3020;45,70740128;7,207419872;NA;NA;VDA;NA;
+80;Morgex_-_Capoluogo;3030;OD:3030;45,75839996;7,038499832;NA;NA;VDA;NA;
+81;Gressoney-Saint-Jean_-_Bieltschocke;3040;OD:3040;45,76739883;7,833069801;NA;NA;VDA;NA;
+82;Champorcher_-_Petit-Mont-Blanc;3050;OD:3050;45,62469864;7,609489918;NA;NA;VDA;NA;
+83;Rhêmes-Notre-Dame_-_Chaudanne;3060;OD:3060;45,5603981;7,113770008;NA;NA;VDA;NA;
+84;Valsavarenche_-_Pont;3070;OD:3070;45,52679825;7,200960159;NA;NA;VDA;NA;
+85;Nus_-_Saint-Barthélemy_-_Osservatorio;3080;OD:3080;45,79000092;7,478079796;NA;NA;VDA;NA;
+88;Courmayeur_-_Dolonne;3110;OD:3110;45,79430008;6,966549873;NA;NA;VDA;NA;
+89;Saint-Vincent_-_Terme;3120;OD:3120;45,74950027;7,652629852;NA;NA;VDA;NA;
+96;Valtournenche_-_Breuil_Cervinia;3590;OD:3590;45,9314003;7,62624979;NA;NA;VDA;NA;
+97;Ayas_-_Champoluc;3600;OD:3600;45,83677673;7,728233814;NA;NA;VDA;NA;
+98;Saint-Christophe_-_Aeroporto;4090;OD:4090;45,73929977;7,363540173;NA;NA;VDA;NA;
+99;Aosta\S.Christophe;G001;OD:G001;45,737391;7,33215;583;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;Contiene la serie od:4090 cumulata su 00-24. Sostiuisce la serie HisCentral
+100;Rhêmes-N.D.;G002;OD:G002;45,569052;7,11819;1731;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;Contiene la serie od:3060 cumulata su 00-24 Sostiuisce la serie HisCentral
+101;Pontboset;G003;OD:G003;45,608818;7,68318;775;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;Nessuna serie HisCentral di precipitazione
+102;Gressoney-L.T.;G004;OD:G004;45,8305;7,82619;1631;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;Contiene la serie od:1270 cumulata su 00-24 Sostiuisce la serie HisCentral
+103;Saint-Christophe aeroporto;G005;OD:G005;45,739231;7,36354;545;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;In attesa di riscontro da Centro Funzionale
+104;Issime Grand-Praz;G006;OD:G006;45,672474;7,85904;915;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;In attesa di riscontro da Centro Funzionale
+105;Valgrisenche Diga;G007;OD:G007;45,618874;7,06073;1780;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;In attesa di riscontro da Centro Funzionale
+106;Gressoney-L.T. D'Ejola;G008;OD:G008;45,856062;7,8149;1850;;;Serie storiche inviate da Centro Funzionale. Codice inventato da Guido;In attesa di riscontro da Centro Funzionale
