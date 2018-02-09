@@ -1,19 +1,21 @@
+#revisione 9 febbraio 2018
+#ATTENZIONE: il programma potrebbe lamentaresi di non trovare il pulsante per fare il login. Questo succede (sembra)
+#se davanti al pulsante di login compare l'avvertenza per i cookies, etc etc...Quindi: quando si apre la prima pagina
+#cliccare manualmente sul pulsante di accettazione per quanto riguarda i termini della privacy in modo che il programma
+#possa funzionare.
 rm(list=objects())
 library("RSelenium")
-options(warn=2)
-
-ANNO<-2017
-#RSelenium::startServer()
+options(warn=2,error=recover)
 
 urlLoginAosta<-"http://cf.regione.vda.it/richiesta_dati.php"
+ANNO<-2017 #<------- selezionare anno
+
+SENSORE<-c("Termometro","Pluviometro")[c(2)] #<------ selezionare uno dei due
 
 rsDriver(port =4444L)->rD
 remDr <- rD[["client"]]
 remDr$open()
 
-# MYBROWSER<-"phantomjs"
-# remDr <- remoteDriver(browserName="chrome")
-# remDr$open()
 remDr$navigate(urlLoginAosta)
 Sys.sleep(8)
 remDr$findElement("id", "login")$clickElement()
@@ -33,11 +35,15 @@ Sys.sleep(4)
 remDr$findElement("id","passo_temporale")$sendKeysToElement(list("Semiorario (GMT)"))
 #clicca su termometri
 
-
-#per termometro
-remDr$executeScript(script="$('ul > li.par_tot > label> input[value=1]').click();")
-#per pluviometro
-#remDr$executeScript(script="$('ul > li.par_tot > label> input[value=7]').click();")
+if(SENSORE=="Termometro"){
+  #per termometro
+  remDr$executeScript(script="$('ul > li.par_tot > label> input[value=1]').click();")
+}else if(SENSORE=="Pluviometro"){  
+  #per pluviometro
+  remDr$executeScript(script="$('ul > li.par_tot > label> input[value=7]').click();")
+}else{
+  stop("SENSORE NON RICONOSCIUTO")
+}
 
 Sys.sleep(4)
 remDr$findElement("id","vendita_dati")$clickElement()
@@ -69,24 +75,25 @@ lapply(codiciStaz,FUN=function(codice){
   remDr$findElement("xpath",paste0("//select[@id='list_target']/option[@value=",codice,"]") )$clickElement()
   Sys.sleep(4)
   
-  #Per termometro
-    try({
-      remDr$executeScript(script="$('#labid_1~input[value=1]').click();")
-    })
-
-   #Per pluviometro
-   # try({
-   #   remDr$executeScript(script="$('#labid_7~input[value=7]').click();")
-   # })
+  if(SENSORE=="Termometro"){
+      #Per termometro
+        try({
+          remDr$executeScript(script="$('#labid_1~input[value=1]').click();")
+        })
+  }else if(SENSORE=="Pluviometro"){
+     #Per pluviometro
+     try({
+       remDr$executeScript(script="$('#labid_7~input[value=7]').click();")
+     })
+  }else{
+    stop("SENSORE NON RICONOSCIUTO")  
+  }
   
   Sys.sleep(4)  
   remDr$findElement("xpath","//a[@id='end_button']")$clickElement()
   remDr$executeScript(script="$('#end_button_r').click();")
   Sys.sleep(6)
   remDr$findElement("link text","Cancella")$clickElement()
-#   try({
-#     remDr$findElement("link text","Cancella")$clickElement()
-#   })   
 
 })#fine lapply
 
