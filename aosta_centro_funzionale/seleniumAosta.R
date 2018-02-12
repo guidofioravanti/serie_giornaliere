@@ -5,6 +5,7 @@
 #possa funzionare.
 rm(list=objects())
 library("RSelenium")
+library("purrr")
 options(warn=2,error=recover)
 
 urlLoginAosta<-"http://cf.regione.vda.it/richiesta_dati.php"
@@ -67,8 +68,13 @@ print(nomiStaz)
 write.table(data.frame(nomiStaz,codiciStaz),"codiciPrec.csv",row.names=F,col.names=T,quote=F,sep=";")
 
 
-lapply(codiciStaz,FUN=function(codice){
+purrr::walk(codiciStaz,.f=function(codice){
   
+  if(file.exists(paste0(SENSORE,"_",codice,".csv"))){
+    
+    print(sprintf("Stazione con codice %s già scaricata, passo oltre",codice))
+    return(NULL)
+  }
 
   if(!nchar(codice)) return()
   Sys.sleep(4)
@@ -91,11 +97,34 @@ lapply(codiciStaz,FUN=function(codice){
   
   Sys.sleep(4)  
   remDr$findElement("xpath","//a[@id='end_button']")$clickElement()
+  
+  #troviamo l'id dell'elemento che contiene il codice della stazione
+  remDr$findElement("css","tr[id^=comb]") ->elementoConCodiceStazione
+  elementoConCodiceStazione$getElementAttribute("id")->combID
+  if(!is.na(stringr::str_match(combID,"comb_"))){
+    stringr::str_split(combID,"_")[[1]][[2]]->codiceStazione    
+  }
+
+  
   remDr$executeScript(script="$('#end_button_r').click();")
   Sys.sleep(6)
   remDr$findElement("link text","Cancella")$clickElement()
+  
+  if(exists("codiceStazione")){
+    
+    list.files(pattern="^Dati.+zip$")->fileZip
+    if(length(fileZip)!=1) stop("File zip error")
+    unzip(fileZip)
+    file.remove(fileZip)
+    list.files(pattern="^Dati.+")->fileDati
+    if(length(fileDati)!=1) stop("File dati error")
+    file.rename(fileDati,to=paste0(SENSORE,"_",codiceStazione,".csv"))
+    
+  }#fine su exists
 
-})#fine lapply
+  
+  
+})#fine purrr::walk
 
 
 remDr$findElement("id", "logout")$click()
