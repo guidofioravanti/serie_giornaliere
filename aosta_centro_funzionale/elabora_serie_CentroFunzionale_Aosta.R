@@ -97,7 +97,7 @@ purrr::map(ffile,.f=function(nome.file){
   iconv(tmp[2],from="latin1",to="utf-8")->stringaStazione
   
   #verifichiamo che contenga la stringa Stazione
-  if(!grepl("Stazione:",stringaStazione)) stop(sprintf("Verificare la stringa %s nel file %s"),stringaStazione,nome.file)
+  if(!grepl("Stazione:",stringaStazione)) stop(sprintf("Verificare la stringa %s nel file %s",stringaStazione,nome.file))
   #estraiamo il nome della stazione
   str_replace(str_extract(stringaStazione,": .+$"),": ","")->nomeStazione
   rm(stringaStazione)
