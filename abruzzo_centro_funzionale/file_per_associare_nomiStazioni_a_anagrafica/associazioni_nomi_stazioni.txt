@@ -1,0 +1,121 @@
+#Il primo campo contiene il nome della stazione come può comparire nei file dati (intestazioni) inviati dall'Abruzzo. Una stazione può comparire con più nomi.
+#Il secondo campo contiene il nome della stazione come invece compare nell'anagrafica stazioni inviata dal CF. Questi due campi spesso non coincidono.
+#Attraverso un programma R e facendo uso del pacchetto stringdist è stata fatta una prima associazione (quasi perfetta) tra le due tipologie di nomi.
+#Le associazioni errate o le associazioni che non potevano essere risolte con un programma (nomi totalmente differenti, ad esempio) sono state corrette a mano.
+#Per la correzione si sono usati i nomi delle stazioni che compaiono nella mappa leaflet che si trova su web. Questi nomi coincidono con quelli delle stazioni
+#nell intestazioni dei file dati (primo campo). A questi nomi "leaflet" corrisponde un codice che permette di ricavare il nome della stazione nell'anagrafica
+#del CF (secondo campo). Da questa associazione si ricava il codice della stazione in HisCentral. Stazioni che non compaiono in HisCentral (totalmente assenti in
+# angrafica HisCentral sono scartate). Le stazioni che compaiono in "leaflet" con un codice e che nell'anagrafica stazioni del CF hanno lo stesso nome ma 
+#codici differenti sono scartate.
+Alento a San Leonardo;Alento a San Leonardo
+Anversa;Anversa degli Abruzzi
+Arsita;Arsita
+Assergi;L'Aquila, Assergi
+Aterno a Fagnano;Aterno a Fagnano
+Aterno Sagittario a allogg.idr;Aterno Sagittario ad allogg. idr.
+Atessa;Atessa, Piazzano
+Atri 1 Meteogeo;Atri, Calanchi
+Aventino a Selva di Altino;Aventino a Selva di Altino
+Barisciano;Barisciano
+Beffi;Acciano, Beffi
+Bomba CITTA';Bomba
+Campo di Giove;Campo di Giove
+Campo Imperatore;L'Aquila, Campo Imperatore
+Campotosto;Campotosto, Diga
+Canistro;Canistro
+Capestrano;Capestrano
+Caramanico Meteo;Caramanico Terme
+Carpineto della Nora;Carpineto della Nora
+Casalanguida;Casalanguida
+Case Incile;Case Incile
+Casoli diga;Casoli, Diga
+Casoli Piano La Roma;Casoli, Piano La Roma
+Castel del Monte;Castel del Monte
+Castiglione Messer Marino;Castiglione Messer Marino
+Catignano;Catignano
+Celano;Celano
+Celano 650100;Celano
+Cepagatti - Villareia;Cepagatti, Villareia
+Chieti Meteo;Chieti
+Civitella Fortezza;Civitella del Tronto
+Collarmele;Collarmele
+Colle Capuano;San Vito Chietino, Colle Capuano
+Collepietro;Collepietro
+Collelongo;Collelongo, Le Caserine
+Cupello;Cupello
+Foro a Ponte di Vacri;Foro a Ponte di Vacri
+Giulianova;Giulianova
+Giulianova Porto;Giulianova Porto
+Goriano Sicoli;Goriano Sicoli, Monte le Serre
+Guardiagrele;Guardiagrele
+Guilmi;Guilmi
+Lanciano 313800;Lanciano
+Lanciano;Lanciano
+L'Aquila CF;L'Aquila, Centro Funzionale
+L'Aquila Meteo;L'Aquila, S. Elia
+Loreto Aprutino;Loreto Aprutino
+Manoppello;Manoppello
+Montazzoli;Montazzoli
+Montenerodomo;Montenerodomo
+Montereale;Montereale
+Montesilvano;Montesilvano
+Moscufo;Moscufo
+Nerito;Crognaleto, Nerito
+Ortucchio 650200;Ortucchio
+Ovindoli;Ovindoli
+Palmoli;Palmoli
+Passo Godi-Scanno;Scanno, Passo Godi
+Passo Lanciano;Pretoro, Passo Lanciano
+Penne Diga;Penne, Diga
+Pereto;Pereto
+Pescara a Alanno;Pescara a Alanno
+Pescara Colli;Pescara, Colli
+Pescara a Santa Teresa;Pescara a Santa Teresa
+Pescara Meteo;Pescara
+Pescara Porto;Pescara Porto
+Pescasseroli;Pescasseroli
+Pescocostanzo;Pescocostanzo
+Pescosansonesco;Pescosansonesco, Pesco Nuovo
+Pietrasecca;Carsoli, Pietrasecca
+Piomba a Silvi;Piomba a Silvi
+Pineto;Pineto
+Pizzoli;Pizzoli
+P.te Vomano;Teramo, Ponte Vomano
+Pretoro 1;Pretoro
+Rivisondoli;Rivisondoli, Pratello
+Rocca di Mezzo;Rocca di Mezzo
+Rocca San Giovanni;Rocca San Giovanni, C.da Vallevò
+Roccacasale;Roccacasale
+Roccaraso;Roccaraso
+Roccacerro;Tagliacozzo, Roccacerro
+Roccavivi;San Vincenzo Valle Roveto, Roccavivi
+Rosello;Rosello
+Roseto degli Abruzzi;Roseto degli Abruzzi
+Salinello a Sant'Omero;Salinello a Sant'Omero
+Salle;Salle
+S.Eufemia a Maiella;Sant'Eufemia a Maiella
+Sant'Omero;Salinello a Sant'Omero
+Sangro ad Ateleta;Sangro ad Ateleta
+Sangro a Paglieta;Sangro a Paglieta
+Scerni;Scerni, Fontenuova
+Scoppito;Scoppito
+Sangro a Villa Santa Maria;Sangro a Villa Santa Maria
+S.Stefano;Torricella Sicura, Santo Stefano
+Sinello a Pollutri;Sinello a Pollutri
+Sulmona 198200;Sulmona
+Sulmona;Sulmona
+Tagliacozzo;Tagliacozzo
+Tagliacozzo Aia;Tagliacozzo, Villa S. Sebastiano
+Tasso a Scanno;Tasso a Scanno
+Teramo Meteo;Teramo
+Tirino a Madonnina;Tirino a Madonnina
+Tordino a Cordesco;Tordino a Cordesco
+Tornimparte;Tornimparte, Villagrande
+Tossicia;Tossicia, Azzinano
+Vasto;Vasto
+Vasto Porto;Vasto Porto
+Villa Celiera ETG;Villa Celiera
+Villa S.Lucia;Villa Santa Lucia
+Vomano a Fontanelle di Atri;Vomano a Fontanelle di Atri
+Vomano a Montorio;Vomano a Montorio
+Zittola a Montenero;Zittola a Montenero

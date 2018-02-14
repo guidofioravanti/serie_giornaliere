@@ -1,0 +1,9 @@
+Il file infoSitoAbruzzo_hisCentral_centroIdrografico.csv contiene l'incrocio fra l'anagrafica di HisCentral
+e l'anagrafica estratta da http://www.himet.it/cgi-bin/meteo/gmaps/stazioni/new_anagrafica.cgi?code=",codex (programma grabAna.R)
+
+
+I dati passati nel 2016 dal centro funzionale Abruzzo hanno dei codici che nn compaiono in anagrafica HisCentral. Questi codici però
+si trovano nel link sopra riportato da cui è poi possibile ricavare il codice HisCentral associato.
+
+
+
