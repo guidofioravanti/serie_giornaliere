@@ -1,0 +1,151 @@
+codiceCF;nomeStazione;sensore
+#stazioni disponibili su Centro Funzionale e scaricate (sono quelle che hanno un analogo in HisCentral)
+21767;Agerola;Pluviometro
+36428;Agerola METEO-1;Pluviometro
+37374;Ailano;Pluviometro
+36570;Albanella;Pluviometro
+36572;Albanella Calore;Pluviometro
+40114;Alfano;Pluviometro
+18385;Alife;Pluviometro
+21742;Altavilla Irpina;Pluviometro
+17259;Alvignano;Pluviometro
+21753;Amalfi;Pluviometro
+21770;Ariano Irpino;Pluviometro
+36478;Ariano Irpino METEO-1;Pluviometro
+18895;Arienzo;Pluviometro
+12267;Auletta;Pluviometro
+20909;Avella;Pluviometro
+20889;Avellino-Genio Civile;Pluviometro
+18398;Bagnoli Irpino;Pluviometro
+21774;Baronissi;Pluviometro
+17411;Battipaglia;Pluviometro
+12309;Bellosguardo;Pluviometro
+12251;Benevento;Pluviometro
+36453;Benevento METEO-1;Pluviometro
+17262;Boiara;Pluviometro
+38443;Bracigliano;Pluviometro
+18947;Caiazzo;Pluviometro
+36580;Capaccio;Pluviometro
+18408;Caposele;Pluviometro
+18919;Capri;Pluviometro
+37534;Capua;Pluviometro
+18945;Caserta Vecchia;Pluviometro
+36576;Cassano Irpino;Pluviometro
+20881;Castel Volturno;Pluviometro
+21785;Castelfranco in Miscano;Pluviometro
+12273;Castelluccio;Pluviometro
+21778;Castiglione del Genovesi;Pluviometro
+18917;Cava dei Tirreni;Pluviometro
+36309;Cellole METEO-1;Pluviometro
+18897;Cervinara;Pluviometro
+21764;Cetara;Pluviometro
+15279;Cetronico;Pluviometro
+37539;Cicciano;Pluviometro
+20897;Colle Sannita;Pluviometro
+21521;Cologna;Pluviometro
+17255;Contursi Meteo;Pluviometro
+36339;Conza della Campania METEO-1;Pluviometro
+18923;Corbara-S.Egidio M.;Pluviometro
+36911;Costa dei Corvi;Pluviometro
+20893;Cusano Mutri;Pluviometro
+21760;Ercolano;Pluviometro
+18939;Forino;Pluviometro
+18964;Giffoni Valle Piana;Pluviometro
+38533;Gioi Cilento;Pluviometro
+21789;Gragnano;Pluviometro
+12243;Grazzanise;Pluviometro
+33430;Ischia - Forio;Pluviometro
+18955;Ischia - Monte Epomeo;Pluviometro
+40341;Lago Patria METEO-1;Pluviometro
+37720;Letino;Pluviometro
+18927;Lettere;Pluviometro
+18889;Liberi;Pluviometro
+20901;Luogosano;Pluviometro
+21750;Maiori;Pluviometro
+18921;Massa Lubrense;Pluviometro
+37530;Melito Irpino;Pluviometro
+17399;Melizzano;Pluviometro
+17406;Mercato S.Severino;Pluviometro
+18937;Mercogliano;Pluviometro
+36905;Moiano;Pluviometro
+37291;Montecorvino Rovella;Pluviometro
+18931;Monteforte Irpino;Pluviometro
+12255;Montella;Pluviometro
+37448;Montella METEO-1;Pluviometro
+12276;Montemarano;Pluviometro
+36938;Montesano Marcellana METEO-1;Pluviometro
+38542;Montesano Terme;Pluviometro
+37714;Morcone;Pluviometro
+40111;Morigerati;Pluviometro
+37286;Morigerati Bussento;Pluviometro
+36881;Mugnano del Cardinale;Pluviometro
+18891;Napoli Camaldoli;Pluviometro
+18949;Napoli Capodimonte;Pluviometro
+36128;Nisida METEO-1;Pluviometro
+37384;Omignano Scalo;Pluviometro
+18901;Ottaviano;Pluviometro
+12263;Paduli;Pluviometro
+36914;Pago Veiano;Pluviometro
+37261;Palma Campania;Pluviometro
+18925;Pellezzano;Pluviometro
+12247;Persano Sele;Pluviometro
+15280;Piani di Prato;Pluviometro
+18887;Pietramelara;Pluviometro
+20905;Pietrastornina;Pluviometro
+18935;Pimonte;Pluviometro
+38977;Pizzolano;Pluviometro
+17266;Pompei;Pluviometro
+12298;Ponte Camerelle;Pluviometro
+20912;Ponte Valentino;Pluviometro
+21530;Pontecagnano;Pluviometro
+21781;Pontelatone;Pluviometro
+37717;Positano;Pluviometro
+36545;Postiglione METEO-1;Pluviometro
+18953;Pozzuoli;Pluviometro
+21452;Quattroventi;Pluviometro
+15282;Quindici;Pluviometro
+38485;Quindici Torre Vecchia;Pluviometro
+21756;Ravello;Pluviometro
+36924;Rocca d'Evandro;Pluviometro
+38784;Rocca d'Evandro METEO-1;Pluviometro
+36896;Roccadaspide;Pluviometro
+21792;Roccamonfina;Pluviometro
+37283;Rocchetta;Pluviometro
+38528;Rofrano;Pluviometro
+18893;Rotondi;Pluviometro
+18899;S.Agata dei Goti;Pluviometro
+36920;S.Agata dei Goti Isclero;Pluviometro
+17272;S.Angelo d'Alife;Pluviometro
+36246;S.Bartolomeo in Galdo METEO-1;Pluviometro
+21520;S.Castrese;Pluviometro
+18770;S.Felice a Cancello;Pluviometro
+38667;S.Marco Evangelista METEO-1;Pluviometro
+36899;S.Maria a Vico;Pluviometro
+18905;S.Martino Valle Caudina;Pluviometro
+36887;S.Marzano Sarno;Pluviometro
+12294;S.Mauro;Pluviometro
+38545;S.Mauro la Bruca;Pluviometro
+12290;S.Pietro;Pluviometro
+38595;S.Salvatore Telesino METEO-1;Pluviometro
+36908;Sala Consilina;Pluviometro
+37378;Sala Consilina Tanagro;Pluviometro
+18957;Salerno Genio Civile;Pluviometro
+36403;Salerno METEO-1;Pluviometro
+38496;Sanza;Pluviometro
+15276;Sarno;Pluviometro
+38445;Sarno (Acqued. Campano);Pluviometro
+45079;Scala - Pontone;Pluviometro
+12286;Senerchia;Pluviometro
+21746;Serino;Pluviometro
+36891;Sicignano;Pluviometro
+18933;Solofra;Pluviometro
+18393;Sorgenti Grassano;Pluviometro
+21739;Sorrento;Pluviometro
+38530;Torchiara;Pluviometro
+38548;Torraca;Pluviometro
+18929;Torre del Greco;Pluviometro
+36275;Torre Orsaia METEO-1;Pluviometro
+15285;Torriello;Pluviometro
+21735;Tramonti;Pluviometro
+37294;Vallo della Lucania;Pluviometro
+18903;Visciano;Pluviometro
