@@ -1,0 +1,174 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;County;Comments;codicePluviometroCentroFunzionale;nomeStazioneCentroFunzionale2;codiceTermometroCentroFunzionale;nomeStazioneCentroFunzionale
+3;S.Castrese;113650;OD:113650;41.2805;13.83625;10;Italy;Campania;Quota ricavata da dem;21520;S.Castrese;NA;NA
+5;Apice Calore;113670;OD:113670;41.13008333;14.92891667;229;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+6;Solopaca;113680;OD:113680;41.20780556;14.571;95;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+7;Amorosi;113690;OD:113690;41.19577778;14.44955556;54;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+8;Chianche;113700;OD:113700;41.04797222;14.77627778;243;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+9;Grazzanise;113740;OD:113740;41.09272222;14.10547222;13;Italy;Campania;Quota ricavata da dem;12243;Grazzanise;12242;Grazzanise
+10;Persano Sele;113750;OD:113750;40.54433333;15.03255556;27;Italy;Campania;Quota ricavata da dem;12247;Persano Sele;12246;Persano Sele
+11;Benevento;113760;OD:113760;41.142;14.76241667;126;Italy;Campania;Quota ricavata da dem;12251;Benevento;12250;Benevento
+12;Montella;113770;OD:113770;40.84791667;15.05030556;513;Italy;Campania;Quota ricavata da dem;12255;Montella;12254;Montella
+13;Paduli;113780;OD:113780;41.14822222;14.83480556;147;Italy;Campania;Quota ricavata da dem;12263;Paduli;12262;Paduli
+15;Castelluccio;113800;OD:113800;40.58191667;15.33786111;328;Italy;Campania;Quota ricavata da dem;12273;Castelluccio;12272;Castelluccio
+16;Montemarano;113810;OD:113810;40.91425;15.00366667;816;Italy;Campania;Quota ricavata da dem;12276;Montemarano;12275;Montemarano
+17;Auletta;113820;OD:113820;40.55180556;15.42830556;232;Italy;Campania;Quota ricavata da dem;12267;Auletta;12266;Auletta
+18;Contursi;115250;OD:115250;40.6515;15.22972222;125;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+19;Buccino;115260;OD:115260;40.60783333;15.3905;181;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+20;Ponte Calore;115270;OD:115270;40.55372222;15.13363889;46;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+21;Albanella;115280;OD:115280;40.49713889;15.01511111;12;Italy;Campania;Quota ricavata da dem;36570;Albanella;NA;NA
+22;Senerchia;115290;OD:115290;40.73861111;15.20569444;525;Italy;Campania;Quota ricavata da dem;12286;Senerchia;12287;Senerchia
+23;S.Pietro;117760;OD:117760;40.81847222;14.786972219999999;225;Italy;Campania;Quota ricavata da dem;12290;S.Pietro;12291;S.Pietro
+24;S.Mauro;117770;OD:117770;40.76408333;14.63233333;28;Italy;Campania;Quota ricavata da dem;12294;S.Mauro;12295;S.Mauro
+25;Ponte Camerelle;117780;OD:117780;40.73425;14.68483333;117;Italy;Campania;Quota ricavata da dem;12298;Ponte Camerelle;NA;NA
+26;Romagnano;118250;OD:118250;40.61183333;15.45166667;307;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+27;Salvitelle;118260;OD:118260;40.59730556;15.47;294;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+28;Castel S.Lorenzo;118270;OD:118270;40.42275;15.24241667;147;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+30;Bellosguardo;118290;OD:118290;40.42333333;15.31147222;514;Italy;Campania;Quota ricavata da dem;12309;Bellosguardo;NA;NA
+31;Sarno;121390;OD:121390;40.8295;14.61413889;134;Italy;Campania;Quota ricavata da dem;15276;Sarno;NA;NA
+32;Quindici;121400;OD:121400;40.86472222;14.64883333;269;Italy;Campania;Quota ricavata da dem;15282;Quindici;NA;NA
+33;Cetronico;121410;OD:121410;40.80961111;14.70841667;266;Italy;Campania;Quota ricavata da dem;15279;Cetronico;NA;NA
+34;Piani di Prato;121420;OD:121420;40.83488889;14.64872222;894;Italy;Campania;Quota ricavata da dem;15280;Piani di Prato;NA;NA
+35;Torriello;121430;OD:121430;40.84752778;14.62586111;875;Italy;Campania;Quota ricavata da dem;15285;Torriello;15286;Torriello
+36;Alife;121640;OD:121640;41.33922222;14.33372222;123;Italy;Campania;Quota ricavata da dem;18385;Alife;18387;Alife
+37;S.Angelo d'Alife;121650;OD:121650;41.35333333;14.23647222;155;Italy;Campania;Quota ricavata da dem;17272;S.Angelo d'Alife;17273;S.Angelo d'Alife
+38;Sorgenti Grassano;121660;OD:121660;41.222;14.50166667;66;Italy;Campania;Quota ricavata da dem;18393;Sorgenti Grassano;18395;Sorgenti Grassano
+39;Bagnoli Irpino;121670;OD:121670;40.82730556;15.07444444;697;Italy;Campania;Quota ricavata da dem;18398;Bagnoli Irpino;18401;Bagnoli Irpino
+41;Caposele;121720;OD:121720;40.81613889;15.22097222;455;Italy;Campania;Quota ricavata da dem;18408;Caposele;18411;Caposele
+42;Mercato S.Severino;121730;OD:121730;40.77841667;14.75288889;139;Italy;Campania;Quota ricavata da dem;17406;Mercato S.Severino;17409;Mercato S.Severino
+43;Pompei;121740;OD:121740;40.75669444;14.49275;18;Italy;Campania;Quota ricavata da dem;17266;Pompei;17267;Pompei
+44;Battipaglia;121800;OD:121800;40.61113889;14.97575;73;Italy;Campania;Quota ricavata da dem;17411;Battipaglia;17417;Battipaglia
+45;Contursi Meteo;125430;OD:125430;40.676;15.25197222;292;Italy;Campania;Quota ricavata da dem;17255;Contursi Meteo;17256;Contursi Meteo
+46;Alvignano;125440;OD:125440;41.21825;14.39466667;194;Italy;Campania;Quota ricavata da dem;17259;Alvignano;17260;Alvignano
+47;Boiara;125450;OD:125450;40.84144444;15.24288889;677;Italy;Campania;Quota ricavata da dem;17262;Boiara;17263;Boiara
+48;S.Felice a Cancello;125520;OD:125520;40.99972222;14.47877778;561;Italy;Campania;Quota ricavata da dem;18770;S.Felice a Cancello;NA;NA
+49;Melizzano;125530;OD:125530;41.16730556;14.50527778;217;Italy;Campania;Quota ricavata da dem;17399;Melizzano;17402;Melizzano
+50;Torre del Greco;126760;OD:126760;40.79430556;14.38066667;136;Italy;Campania;Quota ricavata da dem;18929;Torre del Greco;NA;NA
+51;S.Agata dei Goti;126770;OD:126770;41.08572222;14.49938889;159;Italy;Campania;Quota ricavata da dem;18899;S.Agata dei Goti;NA;NA
+52;Caiazzo;126780;OD:126780;41.17966667;14.35722222;178;Italy;Campania;Quota ricavata da dem;18947;Caiazzo;NA;NA
+53;Liberi;126790;OD:126790;41.22341667;14.28797222;489;Italy;Campania;Quota ricavata da dem;18889;Liberi;NA;NA
+54;Caserta Vecchia;126800;OD:126800;41.09616667;14.36822222;383;Italy;Campania;Quota ricavata da dem;18945;Caserta Vecchia;NA;NA
+55;Pozzuoli;126810;OD:126810;40.82980556;14.13547222;128;Italy;Campania;Quota ricavata da dem;18953;Pozzuoli;NA;NA
+56;Napoli Camaldoli;126820;OD:126820;40.85838889;14.19905556;389;Italy;Campania;Quota ricavata da dem;18891;Napoli Camaldoli;NA;NA
+57;Napoli Capodimonte;126830;OD:126830;40.86166667;14.23258333;215;Italy;Campania;Quota ricavata da dem;18949;Napoli Capodimonte;NA;NA
+58;Forino;126840;OD:126840;40.86005556;14.74580556;420;Italy;Campania;Quota ricavata da dem;18939;Forino;NA;NA
+59;Massa Lubrense;126850;OD:126850;40.60541667;14.37122222;381;Italy;Campania;Quota ricavata da dem;18921;Massa Lubrense;NA;NA
+60;Cava dei Tirreni;126860;OD:126860;40.70597222;14.70230556;194;Italy;Campania;Quota ricavata da dem;18917;Cava dei Tirreni;NA;NA
+61;Pellezzano;126870;OD:126870;40.72880556;14.75652778;323;Italy;Campania;Quota ricavata da dem;18925;Pellezzano;NA;NA
+62;Salerno Genio Civile;126880;OD:126880;40.67808333;14.75144444;54;Italy;Campania;Quota ricavata da dem;18957;Salerno Genio Civile;NA;NA
+63;Capri;126890;OD:126890;40.54841667;14.23869444;78;Italy;Campania;Quota ricavata da dem;18919;Capri;NA;NA
+64;S.Martino Valle Caudina;126900;OD:126900;40.99744444;14.67647222;835;Italy;Campania;Quota ricavata da dem;18905;S.Martino Valle Caudina;NA;NA
+65;Cervinara;126910;OD:126910;41.0145;14.63263889;412;Italy;Campania;Quota ricavata da dem;18897;Cervinara;NA;NA
+66;Ottaviano;126920;OD:126920;40.85497222;14.47880556;163;Italy;Campania;Quota ricavata da dem;18901;Ottaviano;NA;NA
+67;Visciano;126930;OD:126930;40.92752778;14.58663889;438;Italy;Campania;Quota ricavata da dem;18903;Visciano;NA;NA
+68;Pimonte;126940;OD:126940;40.67338889;14.50397222;473;Italy;Campania;Quota ricavata da dem;18935;Pimonte;NA;NA
+69;Mercogliano;126950;OD:126950;40.92005556;14.73188889;661;Italy;Campania;Quota ricavata da dem;18937;Mercogliano;NA;NA
+70;Lettere;126960;OD:126960;40.70355556;14.53202778;245;Italy;Campania;Quota ricavata da dem;18927;Lettere;NA;NA
+71;Corbara-S.Egidio M.;126970;OD:126970;40.72483333;14.60127778;180;Italy;Campania;Quota ricavata da dem;18923;Corbara-S.Egidio M.;NA;NA
+72;Ischia - Monte Epomeo;126980;OD:126980;40.71180556;13.89555556;349;Italy;Campania;Quota ricavata da dem;18955;Ischia - Monte Epomeo;NA;NA
+73;Arienzo;126990;OD:126990;41.02966667;14.49980556;137;Italy;Campania;Quota ricavata da dem;18895;Arienzo;NA;NA
+74;Giffoni Valle Piana;127000;OD:127000;40.78680556;14.91208333;890;Italy;Campania;Quota ricavata da dem;18964;Giffoni Valle Piana;NA;NA
+75;Monteforte Irpino;127010;OD:127010;40.88494444;14.7215;496;Italy;Campania;Quota ricavata da dem;18931;Monteforte Irpino;NA;NA
+76;Pietramelara;127020;OD:127020;41.26483333;14.20927778;174;Italy;Campania;Quota ricavata da dem;18887;Pietramelara;NA;NA
+77;Rotondi;127030;OD:127030;41.02119444;14.58969444;498;Italy;Campania;Quota ricavata da dem;18893;Rotondi;NA;NA
+78;Salerno Giovi;127040;OD:127040;40.67488889;14.83252778;222;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+79;Solofra;127050;OD:127050;40.82366667;14.85511111;557;Italy;Campania;Quota ricavata da dem;18933;Solofra;NA;NA
+80;Cancello Arnone;127080;OD:127080;41.07444444;14.02808333;8;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+81;Ponte Annibale;127090;OD:127090;41.13072222;14.26;73;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+82;Ponte Limatola;127100;OD:127100;41.14719444;14.40147222;43;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+83;Quattroventi;127110;OD:127110;41.35291667;14.21241667;111;Italy;Campania;Quota ricavata da dem;21452;Quattroventi;NA;NA
+85;Ponte Valentino;127130;OD:127130;41.14166667;14.83602778;147;Italy;Campania;Quota ricavata da dem;20912;Ponte Valentino;NA;NA
+90;Castel Volturno;127210;OD:127210;41.03388889;13.93997222;2;Italy;Campania;Quota ricavata da dem;20881;Castel Volturno;NA;NA
+91;Sele alla Foce;127220;OD:127220;40.48116667;14.94891667;1;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+92;Cologna;127230;OD:127230;40.71919444;14.77588889;221;Italy;Campania;Quota ricavata da dem;21521;Cologna;NA;NA
+93;Pontecagnano;127240;OD:127240;40.64255556;14.86644444;26;Italy;Campania;Quota ricavata da dem;21530;Pontecagnano;NA;NA
+94;Battipaglia Idro;127250;OD:127250;40.61413889;14.98252778;73;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+95;Ravello;127260;OD:127260;40.65672222;14.61469444;319;Italy;Campania;Quota ricavata da dem;21756;Ravello;21757;Ravello
+98;Roccamonfina;127290;OD:127290;41.27697222;13.96822222;588;Italy;Campania;Quota ricavata da dem;21792;Roccamonfina;22717;Roccamonfina
+99;Colle Sannita;127300;OD:127300;41.36883333;14.83936111;762;Italy;Campania;Quota ricavata da dem;20897;Colle Sannita;20898;Colle Sannita
+100;Castelfranco in Miscano;127310;OD:127310;41.29952778;15.08822222;724;Italy;Campania;Quota ricavata da dem;21785;Castelfranco in Miscano;21786;Castelfranco in Miscano
+101;Ariano Irpino;127320;OD:127320;41.14852778;15.08541667;634;Italy;Campania;Quota ricavata da dem;21770;Ariano Irpino;21771;Ariano Irpino
+102;Luogosano;127330;OD:127330;40.98394444;15.00311111;409;Italy;Campania;Quota ricavata da dem;20901;Luogosano;20902;Luogosano
+103;Pietrastornina;127340;OD:127340;40.99269444;14.73419444;409;Italy;Campania;Quota ricavata da dem;20905;Pietrastornina;20906;Pietrastornina
+104;Castiglione del Genovesi;127350;OD:127350;40.72002778;14.84830556;514;Italy;Campania;Quota ricavata da dem;21778;Castiglione del Genovesi;NA;NA
+106;Baronissi;127370;OD:127370;40.75127778;14.76627778;200;Italy;Campania;Quota ricavata da dem;21774;Baronissi;NA;NA
+108;Altavilla Irpina;127390;OD:127390;41.00627778;14.78386111;381;Italy;Campania;Quota ricavata da dem;21742;Altavilla Irpina;21743;Altavilla Irpina
+109;Avella;127400;OD:127400;40.95938889;14.59511111;215;Italy;Campania;Quota ricavata da dem;20909;Avella;NA;NA
+110;Avellino-Genio Civile;127410;OD:127410;40.91197222;14.78358333;346;Italy;Campania;Quota ricavata da dem;20889;Avellino-Genio Civile;20890;Avellino-Genio Civile
+111;Serino;127420;OD:127420;40.89136111;14.84452778;336;Italy;Campania;Quota ricavata da dem;21746;Serino;21747;Serino
+112;Cusano Mutri;127430;OD:127430;41.32766667;14.52055556;372;Italy;Campania;Quota ricavata da dem;20893;Cusano Mutri;20894;Cusano Mutri
+113;Ercolano;127440;OD:127440;40.82555556;14.37244444;207;Italy;Campania;Quota ricavata da dem;21760;Ercolano;21761;Ercolano
+114;Sorrento;127450;OD:127450;40.62991667;14.38233333;26;Italy;Campania;Quota ricavata da dem;21739;Sorrento;NA;NA
+115;Agerola;127460;OD:127460;40.63825;14.545;601;Italy;Campania;Quota ricavata da dem;21767;Agerola;NA;NA
+116;Gragnano;127470;OD:127470;40.68652778;14.52638889;249;Italy;Campania;Quota ricavata da dem;21789;Gragnano;NA;NA
+117;Maiori;127480;OD:127480;40.65038889;14.63958333;106;Italy;Campania;Quota ricavata da dem;21750;Maiori;NA;NA
+118;Amalfi;127490;OD:127490;40.62227778;14.57958333;119;Italy;Campania;Quota ricavata da dem;21753;Amalfi;NA;NA
+119;Cetara;127500;OD:127500;40.65016667;14.70261111;143;Italy;Campania;Quota ricavata da dem;21764;Cetara;NA;NA
+120;Tramonti;127510;OD:127510;40.70280556;14.64622222;511;Italy;Campania;Quota ricavata da dem;21735;Tramonti;21736;Tramonti
+121;Pontelatone;127530;OD:127530;41.20436111;14.24183333;196;Italy;Campania;Quota ricavata da dem;21781;Pontelatone;21782;Pontelatone
+122;Rocchetta;145320;OD:145320;41.12461111;14.97075;523;Italy;Campania;Quota ricavata da dem;37283;Rocchetta;37284;Rocchetta
+123;Montecorvino Rovella;145330;OD:145330;40.66236111;14.98394444;144;Italy;Campania;Quota ricavata da dem;37291;Montecorvino Rovella;37292;Montecorvino Rovella
+124;Roccadaspide;145340;OD:145340;40.47597222;15.17036111;371;Italy;Campania;Quota ricavata da dem;36896;Roccadaspide;36897;Roccadaspide
+125;Morigerati;145350;OD:145350;40.14394444;15.56183333;404;Italy;Campania;Quota ricavata da dem;40111;Morigerati;40112;Morigerati
+126;Moiano;145360;OD:145360;40.6535;14.46388889;531;Italy;Campania;Quota ricavata da dem;36905;Moiano;36906;Moiano
+127;Positano;145370;OD:145370;40.6305;14.50344444;429;Italy;Campania;Quota ricavata da dem;37717;Positano;37718;Positano
+128;Pizzolano;145380;OD:145380;40.78502778;14.78663889;334;Italy;Campania;Quota ricavata da dem;38977;Pizzolano;38978;Pizzolano
+129;Sala Consilina;145390;OD:145390;40.39433333;15.60305556;785;Italy;Campania;Quota ricavata da dem;36908;Sala Consilina;36909;Sala Consilina
+130;Vallo della Lucania;145400;OD:145400;40.22988889;15.26261111;371;Italy;Campania;Quota ricavata da dem;37294;Vallo della Lucania;37295;Vallo della Lucania
+131;Palma Campania;145410;OD:145410;40.87488889;14.56094444;87;Italy;Campania;Quota ricavata da dem;37261;Palma Campania;37262;Palma Campania
+132;Capaccio;145430;OD:145430;40.46847222;14.96594444;3;Italy;Campania;Quota ricavata da dem;36580;Capaccio;36581;Capaccio
+133;Morcone;145440;OD:145440;41.33536111;14.66602778;583;Italy;Campania;Quota ricavata da dem;37714;Morcone;37715;Morcone
+134;S.Maria a Vico;145450;OD:145450;41.02758333;14.48602778;109;Italy;Campania;Quota ricavata da dem;36899;S.Maria a Vico;36900;S.Maria a Vico
+135;Letino;145460;OD:145460;41.45391667;14.25302778;954;Italy;Campania;Quota ricavata da dem;37720;Letino;37721;Letino
+136;Cassano Irpino;145470;OD:145470;40.88008333;15.02944444;461;Italy;Campania;Quota ricavata da dem;36576;Cassano Irpino;36577;Cassano Irpino
+137;Rocca d'Evandro;145480;OD:145480;41.40583333;13.88997222;23;Italy;Campania;Quota ricavata da dem;36924;Rocca d'Evandro;NA;NA
+138;Omignano Scalo;145490;OD:145490;40.25769444;15.12997222;40;Italy;Campania;Quota ricavata da dem;37384;Omignano Scalo;NA;NA
+139;Alfano;145500;OD:145500;40.17525;15.43113889;210;Italy;Campania;Quota ricavata da dem;40114;Alfano;NA;NA
+140;Mugnano del Cardinale;145510;OD:145510;40.941305560000004;14.62530556;236;Italy;Campania;Quota ricavata da dem;36881;Mugnano del Cardinale;NA;NA
+141;Melito Irpino;145520;OD:145520;41.09102778;15.05355556;347;Italy;Campania;Quota ricavata da dem;37530;Melito Irpino;NA;NA
+142;Pago Veiano;145530;OD:145530;41.25983333;14.89761111;287;Italy;Campania;Quota ricavata da dem;36914;Pago Veiano;NA;NA
+143;Capua;145540;OD:145540;41.10886111;14.20833333;24;Italy;Campania;Quota ricavata da dem;37534;Capua;NA;NA
+144;Sicignano;145550;OD:145550;40.60469444;15.29258333;201;Italy;Campania;Quota ricavata da dem;36891;Sicignano;NA;NA
+145;S.Marzano Sarno;145560;OD:145560;40.77994444;14.57330556;15;Italy;Campania;Quota ricavata da dem;36887;S.Marzano Sarno;NA;NA
+146;Sala Consilina Tanagro;145570;OD:145570;40.39119444;15.57152778;453;Italy;Campania;Quota ricavata da dem;37378;Sala Consilina Tanagro;NA;NA
+147;Morigerati Bussento;145580;OD:145580;40.134;15.54394444;148;Italy;Campania;Quota ricavata da dem;37286;Morigerati Bussento;NA;NA
+148;Albanella Calore;145590;OD:145590;40.51208333;15.04280556;24;Italy;Campania;Quota ricavata da dem;36572;Albanella Calore;NA;NA
+149;Costa dei Corvi;145600;OD:145600;40.63736111;15.35163889;550;Italy;Campania;Quota ricavata da dem;36911;Costa dei Corvi;36912;Costa dei Corvi
+150;S.Agata dei Goti Isclero;145610;OD:145610;41.10236111;14.464;76;Italy;Campania;Quota ricavata da dem;36920;S.Agata dei Goti Isclero;NA;NA
+151;Ailano;145620;OD:145620;41.38247222;14.17280556;124;Italy;Campania;Quota ricavata da dem;37374;Ailano;NA;NA
+152;Cicciano;145630;OD:145630;40.95911111;14.54094444;54;Italy;Campania;Quota ricavata da dem;37539;Cicciano;NA;NA
+153;Agerola METEO;145690;OD:145690;40.64683333;14.54061111;818;Italy;Campania;Quota ricavata da dem;36428;Agerola METEO-1;36423;Agerola METEO-1
+154;Ariano Irpino METEO;145700;OD:145700;41.19661111;15.13608333;626;Italy;Campania;Quota ricavata da dem;36478;Ariano Irpino METEO-1;36473;Ariano Irpino METEO-1
+155;S.Marco Evangelista METEO;145710;OD:145710;41.0225;14.33586111;31;Italy;Campania;Quota ricavata da dem;38667;S.Marco Evangelista METEO-1;38662;S.Marco Evangelista METEO-1
+156;Benevento METEO;145720;OD:145720;41.11505556;14.82502778;239;Italy;Campania;Quota ricavata da dem;36453;Benevento METEO-1;36448;Benevento METEO-1
+157;Rocca d'Evandro METEO;145730;OD:145730;41.42461111;13.88016667;62;Italy;Campania;Quota ricavata da dem;38784;Rocca d'Evandro METEO-1;38786;Rocca d'Evandro METEO-1
+158;Cellole METEO;145740;OD:145740;41.19636111;13.83833333;8;Italy;Campania;Quota ricavata da dem;36309;Cellole METEO-1;36303;Cellole METEO-1
+159;Conza della Campania METEO;145750;OD:145750;40.86197222;15.28191667;741;Italy;Campania;Quota ricavata da dem;36339;Conza della Campania METEO-1;36333;Conza della Campania METEO-1
+160;Montella METEO;145760;OD:145760;40.83847222;15.03936111;510;Italy;Campania;Quota ricavata da dem;37448;Montella METEO-1;37443;Montella METEO-1
+161;Montesano Marcellana METEO;145770;OD:145770;40.25558333;15.66013889;526;Italy;Campania;Quota ricavata da dem;36938;Montesano Marcellana METEO-1;36932;Montesano Marcellana METEO-1
+162;Nisida METEO;145780;OD:145780;40.79372222;14.16383333;15;Italy;Campania;Quota ricavata da dem;36128;Nisida METEO-1;36127;Nisida METEO-1
+163;Postiglione METEO;145790;OD:145790;40.56188889;15.23691667;668;Italy;Campania;Quota ricavata da dem;36545;Postiglione METEO-1;36546;Postiglione METEO-1
+164;Salerno METEO;145800;OD:145800;40.64380556;14.83652778;24;Italy;Campania;Quota ricavata da dem;36403;Salerno METEO-1;36398;Salerno METEO-1
+165;Lago Patria METEO;145810;OD:145810;40.94122222;14.02133333;1;Italy;Campania;Quota ricavata da dem;40341;Lago Patria METEO-1;40336;Lago Patria METEO-1
+166;S.Bartolomeo METEO;145820;OD:145820;41.42213889;15.04075;735;Italy;Campania;Quota ricavata da dem;36246;S.Bartolomeo in Galdo METEO-1;36240;S.Bartolomeo in Galdo METEO-1
+167;S.Salvatore Telesino METEO;145830;OD:145830;41.24691667;14.47283333;156;Italy;Campania;Quota ricavata da dem;38595;S.Salvatore Telesino METEO-1;38590;S.Salvatore Telesino METEO-1
+168;Torre Orsaia METEO;145840;OD:145840;40.13202778;15.45866667;294;Italy;Campania;Quota ricavata da dem;36275;Torre Orsaia METEO-1;36269;Torre Orsaia METEO-1
+169;Ischia - Forio;146050;OD:146050;40.732;13.87927778;383;Italy;Campania;Quota ricavata da dem;33430;Ischia - Forio;NA;NA
+170;Scala - Pontone;163880;OD:163880;40.64130556;14.60391667;145;Italy;Campania;Quota ricavata da dem;45079;Scala - Pontone;NA;NA
+171;Chiusura Lambro;304000;OD:304000;40.04608333;15.29108333;35;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+172;Chiusura Mingardo;305000;OD:305000;40.03552778;15.31636111;28;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+173;Chiusura Sarno;306000;OD:306000;40.73202778;14.47725;3;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+174;Calore Irpino a pt Calore;307000;OD:307000;41.05527778;14.94711111;209;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+175;Chiusura Alento;310000;OD:310000;40.17305556;15.13858333;3;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+176;Sabato ad Atripalda;311000;OD:311000;40.91772222;14.83183333;302;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+177;Chiusura Bussento;312000;OD:312000;40.07111111;15.50744444;10;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+178;Chiusura Regi Lagni;313000;OD:313000;41.03966667;14.14052778;10;Italy;Campania;Quota ricavata da dem;NA;NA;NA;NA
+179;S.Mauro la Bruca;314000;OD:314000;40.12797222;15.28858333;388;Italy;Campania;Quota ricavata da dem;38545;S.Mauro la Bruca;38546;S.Mauro La Bruca
+180;Torraca;315000;OD:315000;40.11577778;15.62769444;475;Italy;Campania;Quota ricavata da dem;38548;Torraca;38549;Torraca
+181;Rofrano;316000;OD:316000;40.21636111;15.43452778;592;Italy;Campania;Quota ricavata da dem;38528;Rofrano;NA;NA
+183;Torchiara;318000;OD:318000;40.32077778;15.05766667;337;Italy;Campania;Quota ricavata da dem;38530;Torchiara;38531;Torchiara
+184;Sanza;322000;OD:322000;40.24425;15.55338889;601;Italy;Campania;Quota ricavata da dem;38496;Sanza;38497;Sanza
+185;Montesano Terme;323000;OD:323000;40.27936111;15.70413889;863;Italy;Campania;Quota ricavata da dem;38542;Montesano Terme;38543;Montesano Terme
+187;Gioi Cilento;326000;OD:326000;40.29125;15.22619444;757;Italy;Campania;Quota ricavata da dem;38533;Gioi Cilento;38534;Gioi Cilento
+188;Bracigliano;362000;OD:362000;40.82480556;14.71116667;356;Italy;Campania;Quota ricavata da dem;38443;Bracigliano;NA;NA
+189;Quindici Torre Vecchia;363000;OD:363000;40.85508333;14.65733333;391;Italy;Campania;Quota ricavata da dem;38485;Quindici Torre Vecchia;NA;NA
+190;Sarno (Acqued. Campano);365000;OD:365000;40.83519444;14.59519444;285;Italy;Campania;Quota ricavata da dem;38445;Sarno (Acqued. Campano);NA;NA
