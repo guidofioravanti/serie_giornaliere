@@ -39,13 +39,13 @@ SiteID;SiteName;FullSiteCode;SiteCode;County;Latitude;Longitude;Elevation;Commen
 3551;GUALDO TADINO;3551;3551;Umbria;43.24;12.78;552;Quota ricavata da dem;Italy;Gualdo Tadino
 301;GUBBIO;301;301;Umbria;43.341;12.563;449;Quota ricavata da dem;Italy;Gubbio
 742;ISOLA POLVESE 1;742;742;Umbria;43.115;12.143;263;Quota ricavata da dem;Italy;Polvese 1
-752;ISOLA POLVESE 2;752;752;Umbria;43.118;12.137;285;Quota ricavata da dem;Italy;NA
+752;ISOLA POLVESE 2;752;752;Umbria;43.118;12.137;285;Quota ricavata da dem;Italy;Polvese 2 La Villa
 1092;LA BOLSELLA;1092;1092;Umbria;43.038;12.667;982;Quota ricavata da dem;Italy;La Bolsella
 4961;LA BRUNA;4961;4961;Umbria;42.82;12.688;238;Quota ricavata da dem;Italy;Bruna
 4510;LA CIMA;4510;4510;Umbria;43.234;12.122;694;Quota ricavata da dem;Italy;La Cima
 4590;LISCIANO NICCONE;4590;4590;Umbria;43.243;12.143;323;Quota ricavata da dem;Italy;NA
 802;LUPO;802;802;Umbria;43.492;12.173;287;Quota ricavata da dem;Italy;NA
-807;MARSCIANO;807;807;Umbria;42.916;12.337;168;Quota ricavata da dem;Italy;NA
+807;MARSCIANO;807;807;Umbria;42.916;12.337;168;Quota ricavata da dem;Italy;Marsciano
 4066;MASSA MARTANA;4066;4066;Umbria;42.774;12.524;320;Quota ricavata da dem;Italy;Massa Martana
 5122;MELEZZOLE;5122;5122;Umbria;42.681;12.348;506;Quota ricavata da dem;Italy;Melezzole
 782;MERCATELLO;782;782;Umbria;42.974;12.266;215;Quota ricavata da dem;Italy;NA
@@ -54,7 +54,7 @@ SiteID;SiteName;FullSiteCode;SiteCode;County;Latitude;Longitude;Elevation;Commen
 1079;MOIANO 1;1079;1079;Umbria;43.004;12.022;278;Quota ricavata da dem;Italy;Moiano
 1683;MONTE CUCCO;1683;1683;Umbria;43.375;12.729;1155;Quota ricavata da dem;Italy;Monte Cucco
 4853;MONTE DEL LAGO;4853;4853;Umbria;43.143;12.159;284;Quota ricavata da dem;Italy;Monte del Lago
-3541;MONTE MOLINO;3541;3541;Umbria;42.803;12.402;144;Quota ricavata da dem;Italy;NA
+3541;MONTE MOLINO;3541;3541;Umbria;42.803;12.402;144;Quota ricavata da dem;Italy;Monte Molino
 1176;MONTEDOGLIO;1176;1176;Umbria;43.592;12.053;367;Quota ricavata da dem;Italy;Montedoglio
 4028;MONTELEONE DI SPOLETO;4028;4028;Umbria;42.647;12.949;895;Quota ricavata da dem;Italy;Monteleone di Spoleto
 264;MONTELOVESCO;264;264;Umbria;43.308;12.418;590;Quota ricavata da dem;Italy;Montelovesco
@@ -67,14 +67,14 @@ SiteID;SiteName;FullSiteCode;SiteCode;County;Latitude;Longitude;Elevation;Commen
 2011;NORCIA;2011;2011;Umbria;42.799;13.105;678;Quota ricavata da dem;Italy;Norcia
 2005;ORVIETO;2005;2005;Umbria;42.719;12.11;264;Quota ricavata da dem;Italy;Orvieto
 813;ORVIETO SCALO;813;813;Umbria;42.725;12.136;127;Quota ricavata da dem;Italy;Orvieto Scalo
-3547;PALAZZETTA;3547;3547;Umbria;42.969;12.292;208;Quota ricavata da dem;Italy;NA
+3547;PALAZZETTA;3547;3547;Umbria;42.969;12.292;208;Quota ricavata da dem;Italy;Palazzetta
 289;PALE;289;289;Umbria;42.981;12.779;560;Quota ricavata da dem;Italy;NA
 748;PASSIGNANO;748;748;Umbria;43.187;12.142;308;Quota ricavata da dem;Italy;Passignano Alta
 491;PERUGIA ISA;491;491;Umbria;43.101;12.396;376;Quota ricavata da dem;Italy;NA
 3539;PERUGIA SANTA GIULIANA;3539;3539;Umbria;43.105;12.387;412;Quota ricavata da dem;Italy;Perugia Santa Giuliana
 1482;PERUGIA SEDE;1482;1482;Umbria;43.106;12.376;352;Quota ricavata da dem;Italy;Perugia Fontivegge
 266;PETRELLE;266;266;Umbria;43.35;12.16;400;Quota ricavata da dem;Italy;Petrelle
-773;PETRIGNANO D'ASSISI;773;773;Umbria;43.103;12.537;212;Quota ricavata da dem;Italy;NA
+773;PETRIGNANO D'ASSISI;773;773;Umbria;43.103;12.537;212;Quota ricavata da dem;Italy;Petrignano d'Assisi
 738;PETRIGNANO DEL LAGO - SP 302;738;738;Umbria;43.161;11.953;301;Quota ricavata da dem;Italy;Petrignano del Lago
 2842;PIANELLO;2842;2842;Umbria;43.144;12.565;273;Quota ricavata da dem;Italy;Pianello
 1522;PIEDILUCO;1522;1522;Umbria;42.534;12.767;389;Quota ricavata da dem;Italy;Piediluco
@@ -82,7 +82,7 @@ SiteID;SiteName;FullSiteCode;SiteCode;County;Latitude;Longitude;Elevation;Commen
 4952;PIEVE DI SADDI;4952;4952;Umbria;43.427;12.362;594;Quota ricavata da dem;Italy;Pieve di Saddi
 1516;PISTRINO;1516;1516;Umbria;43.497;12.158;299;Quota ricavata da dem;Italy;Pistrino
 770;PONTE BETTONA;770;770;Umbria;43.025;12.509;184;Quota ricavata da dem;Italy;NA
-804;PONTE BUGGIANINO;804;804;Umbria;42.843;12.926;535;Quota ricavata da dem;Italy;NA
+804;PONTE BUGGIANINO;804;804;Umbria;42.843;12.926;535;Quota ricavata da dem;Italy;Ponte Buggianino
 3542;PONTE FELCINO;3542;3542;Umbria;43.127;12.435;202;Quota ricavata da dem;Italy;Ponte Felcino
 453;PONTE NUOVO;453;453;Umbria;43.01;12.429;176;Quota ricavata da dem;Italy;Ponte Nuovo di Torgiano
 251;PONTE OSTERIA;251;251;Umbria;42.874;12.056;259;Quota ricavata da dem;Italy;NA
