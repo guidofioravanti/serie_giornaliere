@@ -1,0 +1,160 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;County;Comments
+1;Roia di Fuori Osservatore;00800BM;OD:00800BM;46.80958839;10.48411317;1880;Italy;Bolzano;Quota ricavata da dem
+2;Melago;01100MS;OD:01100MS;46.83743215;10.65658211;1935;Italy;Bolzano;Quota ricavata da dem
+4;S.Valentino alla Muta;02200MS;OD:02200MS;46.77587237;10.52890216;1498;Italy;Bolzano;Quota ricavata da dem
+5;Monte Maria;02500MS;OD:02500MS;46.70568911;10.5212676;1256;Italy;Bolzano;Quota ricavata da dem
+6;Slingia;02600MS;OD:02600MS;46.70413103;10.47392043;1743;Italy;Bolzano;Quota ricavata da dem
+7;Tubre - Rivaira Osservatore;03200BM;OD:03200BM;46.65033081;10.47752863;1163;Italy;Bolzano;Quota ricavata da dem
+10;Mazia Osservatore;04800BM;OD:04800BM;46.69431625;10.61752601;1524;Italy;Bolzano;Quota ricavata da dem
+11;Agumes - Prato;05400MS;OD:05400MS;46.62131713;10.58243449;951;Italy;Bolzano;Quota ricavata da dem
+12;Adige - Spondigna;05950PG;OD:05950PG;46.63650324;10.60348138;965;Italy;Bolzano;Quota ricavata da dem
+13;Solda;06400MS;OD:06400MS;46.51588752;10.59531423;1981;Italy;Bolzano;Quota ricavata da dem
+14;Trafoi Osservatore;07500BM;OD:07500BM;46.55009348;10.50788686;1721;Italy;Bolzano;Quota ricavata da dem
+16;Lasa;08800MS;OD:08800MS;46.61717636;10.69433606;887;Italy;Bolzano;Quota ricavata da dem
+17;Adige - Lasa;08850PG;OD:08850PG;46.61743104;10.69476195;887;Italy;Bolzano;Quota ricavata da dem
+18;Silandro;09700MS;OD:09700MS;46.62375473;10.78026981;684;Italy;Bolzano;Quota ricavata da dem
+19;Rio di Silandro;09750PG;OD:09750PG;46.67727807;10.77138411;1947;Italy;Bolzano;Quota ricavata da dem
+21;Val di Silandro;09800MS;OD:09800MS;46.67414966;10.77406673;1825;Italy;Bolzano;Quota ricavata da dem
+23;Diga di Gioveretto Osservatore;11200BM;OD:11200BM;46.50906285;10.72507183;1896;Italy;Bolzano;Quota ricavata da dem
+24;#NOME?;11500MS;OD:11500MS;46.52733588;10.7373205;1665;Italy;Bolzano;Quota ricavata da dem
+25;Stava Osservatore;14800BM;OD:14800BM;46.64282791;10.97053752;613;Italy;Bolzano;Quota ricavata da dem
+26;Maso Corto;15300MS;OD:15300MS;46.75401076;10.7827621;2024;Italy;Bolzano;Quota ricavata da dem
+28;Vernago;15800MS;OD:15800MS;46.73565796;10.84927965;1823;Italy;Bolzano;Quota ricavata da dem
+29;Casere di Fuori Osservatore;17500BM;OD:17500BM;46.73510025;10.92669711;1838;Italy;Bolzano;Quota ricavata da dem
+30;Naturno;19300MS;OD:19300MS;46.64766321;10.99117805;561;Italy;Bolzano;Quota ricavata da dem
+32;Adige - Tel;19850PG;OD:19850PG;46.67213226;11.07972619;608;Italy;Bolzano;Quota ricavata da dem
+33;Passirio - Belprato;20150PG;OD:20150PG;46.88608517;11.13304632;1680;Italy;Bolzano;Quota ricavata da dem
+34;Belprato;20200MS;OD:20200MS;46.88668353;11.13859623;1777;Italy;Bolzano;Quota ricavata da dem
+35;Plan;20500MS;OD:20500MS;46.79651209;11.08827631;1662;Italy;Bolzano;Quota ricavata da dem
+36;Rio Plan - Eschbaum;20750PG;OD:20750PG;46.80144934;11.10271314;1790;Italy;Bolzano;Quota ricavata da dem
+37;Rio Plan - Plan;20770PG;OD:20770PG;46.79740603;11.09156084;1732;Italy;Bolzano;Quota ricavata da dem
+38;Rio Plan - Bagni di Plata;20850PG;OD:20850PG;46.82528301;11.16193581;1030;Italy;Bolzano;Quota ricavata da dem
+39;Plata;20900MS;OD:20900MS;46.82249293;11.17808117;1118;Italy;Bolzano;Quota ricavata da dem
+40;Passirio - Moso;21150PG;OD:21150PG;46.82644652;11.17509414;1270;Italy;Bolzano;Quota ricavata da dem
+43;S.Leonardo in Passiria;21700MS;OD:21700MS;46.80906229;11.24712617;731;Italy;Bolzano;Quota ricavata da dem
+44;S.Martino in Passiria Osservatore;22200BM;OD:22200BM;46.78268262;11.227909;681;Italy;Bolzano;Quota ricavata da dem
+45;Passirio - Saltusio;22330PG;OD:22330PG;46.73493226;11.19994506;551;Italy;Bolzano;Quota ricavata da dem
+46;Passirio - Saltusio;22350PG;OD:22350PG;46.73493226;11.19994506;551;Italy;Bolzano;Quota ricavata da dem
+47;Scena Osservatore;22900BM;OD:22900BM;46.68959619;11.19083111;605;Italy;Bolzano;Quota ricavata da dem
+49;Merano - Quarazze;23200MS;OD:23200MS;46.68805798;11.13656021;369;Italy;Bolzano;Quota ricavata da dem
+50;Maia Alta Osservatore;23400BM;OD:23400BM;46.6578197;11.18323354;487;Italy;Bolzano;Quota ricavata da dem
+52;Lago Verde Osservatore;24200BM;OD:24200BM;46.48233097;10.79940082;2555;Italy;Bolzano;Quota ricavata da dem
+54;Valsura - S.Geltrude;24750PG;OD:24750PG;46.49062197;10.86938744;1491;Italy;Bolzano;Quota ricavata da dem
+56;Diga di Quaira Osservatore;25200BM;OD:25200BM;46.55203129;10.89376376;2149;Italy;Bolzano;Quota ricavata da dem
+57;Diga di Zoccolo Osservatore;25800BM;OD:25800BM;46.54186675;10.98836176;1282;Italy;Bolzano;Quota ricavata da dem
+58;Diga di Zoccolo-S.Valburga;25900MS;OD:25900MS;46.54187189;10.99013577;1282;Italy;Bolzano;Quota ricavata da dem
+60;Pavicolo;26700MS;OD:26700MS;46.62776161;11.10933865;1491;Italy;Bolzano;Quota ricavata da dem
+61;Valsura - Lana;26850PG;OD:26850PG;46.62789314;11.10952666;1491;Italy;Bolzano;Quota ricavata da dem
+63;Tesimo Osservatore;27500BM;OD:27500BM;46.56136731;11.17862896;601;Italy;Bolzano;Quota ricavata da dem
+64;Meltina Osservatore;27800BM;OD:27800BM;46.58577237;11.25168816;1171;Italy;Bolzano;Quota ricavata da dem
+67;Adige - Ponte Adige;29850PG;OD:29850PG;46.48315265;11.30379853;242;Italy;Bolzano;Quota ricavata da dem
+68;Terme di Brennero;30200MS;OD:30200MS;46.98100874;11.48874153;1409;Italy;Bolzano;Quota ricavata da dem
+69;Isarco - Terme di Brennero;30250PG;OD:30250PG;46.97032473;11.47179865;1381;Italy;Bolzano;Quota ricavata da dem
+71;Malga Zirago;30600MS;OD:30600MS;46.96697561;11.49219179;1843;Italy;Bolzano;Quota ricavata da dem
+72;Fleres;31400MS;OD:31400MS;46.96396827;11.34757067;1314;Italy;Bolzano;Quota ricavata da dem
+73;Rio Fleres - Colle Isarco;31950PG;OD:31950PG;46.93824935;11.43831433;1099;Italy;Bolzano;Quota ricavata da dem
+74;Isarco - Colle Isarco;32150PG;OD:32150PG;46.93471317;11.44124121;1099;Italy;Bolzano;Quota ricavata da dem
+75;Isarco - Vipiteno;32450PG;OD:32450PG;46.89745714;11.43567571;973;Italy;Bolzano;Quota ricavata da dem
+77;Vipiteno;32600MS;OD:32600MS;46.89782475;11.42939034;946;Italy;Bolzano;Quota ricavata da dem
+78;Rio Vizze - Novale;33550PG;OD:33550PG;46.9337747;11.52593906;1389;Italy;Bolzano;Quota ricavata da dem
+79;Diga di Vizze Osservatore;33600BM;OD:33600BM;46.92499219;11.5246721;1415;Italy;Bolzano;Quota ricavata da dem
+80;Prati di Vizze Osservatore;33800BM;OD:33800BM;46.90120929;11.48342914;1267;Italy;Bolzano;Quota ricavata da dem
+83;Ridanna;34500MS;OD:34500MS;46.90908292;11.30677415;1337;Italy;Bolzano;Quota ricavata da dem
+84;Racines di Dentro Osservatore;35500BM;OD:35500BM;46.8660261;11.31719654;1360;Italy;Bolzano;Quota ricavata da dem
+88;Rio Ridanna - Vipiteno;36750PG;OD:36750PG;46.88394957;11.43141494;947;Italy;Bolzano;Quota ricavata da dem
+89;Vipiteno Sud;36800MS;OD:36800MS;46.8840445;11.43118297;947;Italy;Bolzano;Quota ricavata da dem
+91;Isarco - Campo di Trens;37250PG;OD:37250PG;46.87053885;11.47845698;944;Italy;Bolzano;Quota ricavata da dem
+92;Isarco - Pra di Sopra;38250PG;OD:38250PG;46.79565769;11.60345083;854;Italy;Bolzano;Quota ricavata da dem
+93;Fortezza Osservatore;38500BM;OD:38500BM;46.77830419;11.63224641;840;Italy;Bolzano;Quota ricavata da dem
+94;Dobbiaco;41000MS;OD:41000MS;46.72997843;12.21915906;1219;Italy;Bolzano;Quota ricavata da dem
+95;Rio Braies - S.Vito;42550PG;OD:42550PG;46.71218108;12.09980216;1361;Italy;Bolzano;Quota ricavata da dem
+96;S.Vito di Braies;42700MS;OD:42700MS;46.71187817;12.10002032;1361;Italy;Bolzano;Quota ricavata da dem
+97;Braies - Ferrara Osservatore;42800BM;OD:42800BM;46.71923949;12.12878708;1261;Italy;Bolzano;Quota ricavata da dem
+99;Monguelfo;43200MS;OD:43200MS;46.74313028;12.12893968;1228;Italy;Bolzano;Quota ricavata da dem
+100;Rienza - Monguelfo;43350PG;OD:43350PG;46.75140491;12.11496318;1150;Italy;Bolzano;Quota ricavata da dem
+102;S.Maddalena in Casies;44500MS;OD:44500MS;46.83526049;12.24271916;1456;Italy;Bolzano;Quota ricavata da dem
+103;Rio Casies - Colle;45750PG;OD:45750PG;46.76702236;12.1702072;1235;Italy;Bolzano;Quota ricavata da dem
+104;Diga di Valdaora Osservatore;46500BM;OD:46500BM;46.75973668;12.0536567;1184;Italy;Bolzano;Quota ricavata da dem
+106;Anterselva di Sopra;47400MS;OD:47400MS;46.87035666;12.11660908;1401;Italy;Bolzano;Quota ricavata da dem
+107;Anterselva di Mezzo Osservatore;47600BM;OD:47600BM;46.86072197;12.10089661;1274;Italy;Bolzano;Quota ricavata da dem
+108;Rio Anterselva - Bagni Salomone;48750PG;OD:48750PG;46.82270292;12.08272504;1118;Italy;Bolzano;Quota ricavata da dem
+110;Predoi;50500MS;OD:50500MS;47.03658867;12.09912721;1515;Italy;Bolzano;Quota ricavata da dem
+111;Aurino - Cadipietra;51450PG;OD:51450PG;46.9945953;11.98027539;1114;Italy;Bolzano;Quota ricavata da dem
+114;Cadipietra;51700MS;OD:51700MS;46.9933903;11.97505234;1114;Italy;Bolzano;Quota ricavata da dem
+115;Riva di Tures;54500MS;OD:54500MS;46.94283829;12.08249862;1736;Italy;Bolzano;Quota ricavata da dem
+116;Rio Riva - Seghe;54730PG;OD:54730PG;46.93130779;12.03816601;1612;Italy;Bolzano;Quota ricavata da dem
+117;Rio Riva - Seghe di Riva;54750PG;OD:54750PG;46.93066768;12.03651384;1612;Italy;Bolzano;Quota ricavata da dem
+120;Diga di Neves Osservatore;55200BM;OD:55200BM;46.94141734;11.78708945;2095;Italy;Bolzano;Quota ricavata da dem
+121;Rio Molini - Selva dei Molini;56350PG;OD:56350PG;46.89076455;11.86192936;1248;Italy;Bolzano;Quota ricavata da dem
+122;Selva dei Molini;56500MS;OD:56500MS;46.89013604;11.87443281;1225;Italy;Bolzano;Quota ricavata da dem
+123;Molini di Tures;56800MS;OD:56800MS;46.90025669;11.94743948;855;Italy;Bolzano;Quota ricavata da dem
+124;Aurino - Caminata;57150PG;OD:57150PG;46.90345417;11.9560581;857;Italy;Bolzano;Quota ricavata da dem
+126;Gais;58600MS;OD:58600MS;46.83258126;11.94419325;863;Italy;Bolzano;Quota ricavata da dem
+127;Aurino - S.Giorgio;59450PG;OD:59450PG;46.81703918;11.9347178;849;Italy;Bolzano;Quota ricavata da dem
+128;Aurino - S.Giorgio;59470PG;OD:59470PG;46.81608433;11.93264692;818;Italy;Bolzano;Quota ricavata da dem
+129;Brunico;59700MS;OD:59700MS;46.8042795;11.93148052;824;Italy;Bolzano;Quota ricavata da dem
+130;Rienza - S.Lorenzo;60650PG;OD:60650PG;46.78414511;11.89587619;865;Italy;Bolzano;Quota ricavata da dem
+134;Corvara in Badia;61300MS;OD:61300MS;46.55041119;11.87326091;1540;Italy;Bolzano;Quota ricavata da dem
+135;La Villa in Badia Osservatore;61500BM;OD:61500BM;46.5836304;11.90707588;1398;Italy;Bolzano;Quota ricavata da dem
+136;S.Cassiano Osservatore;61600BM;OD:61600BM;46.56871313;11.93646221;1635;Italy;Bolzano;Quota ricavata da dem
+138;Longiar� Osservatore;62300BM;OD:62300BM;46.63934499;11.8608778;1465;Italy;Bolzano;Quota ricavata da dem
+139;S.Martino in Badia;62600MS;OD:62600MS;46.67918144;11.89793455;1133;Italy;Bolzano;Quota ricavata da dem
+141;S.Vigilio di Marebbe;63600MS;OD:63600MS;46.70643457;11.92298254;1194;Italy;Bolzano;Quota ricavata da dem
+142;Rio S.Vigilio - Longega;63850PG;OD:63850PG;46.72081576;11.89470783;1147;Italy;Bolzano;Quota ricavata da dem
+145;Mantana;64500MS;OD:64500MS;46.77613712;11.87976595;869;Italy;Bolzano;Quota ricavata da dem
+146;Gadera - Mantana;64550PG;OD:64550PG;46.77621693;11.87945581;869;Italy;Bolzano;Quota ricavata da dem
+148;Vandoies di Sopra;65400MS;OD:65400MS;46.81407166;11.74244279;757;Italy;Bolzano;Quota ricavata da dem
+149;Terento;65600MS;OD:65600MS;46.83445756;11.78557637;1437;Italy;Bolzano;Quota ricavata da dem
+150;Fundres;66500MS;OD:66500MS;46.88718005;11.7029428;1151;Italy;Bolzano;Quota ricavata da dem
+152;Rienza - Vandoies;67350PG;OD:67350PG;46.81554557;11.70815818;775;Italy;Bolzano;Quota ricavata da dem
+153;Valles;68600MS;OD:68600MS;46.84832903;11.62722014;1499;Italy;Bolzano;Quota ricavata da dem
+154;Luson Osservatore;69300BM;OD:69300BM;46.74503124;11.76389069;1029;Italy;Bolzano;Quota ricavata da dem
+155;Bressanone;69600MS;OD:69600MS;46.71744138;11.66787228;661;Italy;Bolzano;Quota ricavata da dem
+157;Isarco - Bressanone;69750PG;OD:69750PG;46.71025389;11.65961527;579;Italy;Bolzano;Quota ricavata da dem
+159;Bressanone Sud;70500MS;OD:70500MS;46.68729138;11.63529961;547;Italy;Bolzano;Quota ricavata da dem
+160;S.Pietro Funes;71500MS;OD:71500MS;46.64032367;11.67933864;1156;Italy;Bolzano;Quota ricavata da dem
+161;Rio Funes - S.Pietro;71550PG;OD:71550PG;46.64030887;11.67766536;1156;Italy;Bolzano;Quota ricavata da dem
+162;Valluzza Osservatore;71700BM;OD:71700BM;46.62357402;11.66281009;1433;Italy;Bolzano;Quota ricavata da dem
+163;Isarco - Chiusa;72250PG;OD:72250PG;46.63948491;11.56642781;616;Italy;Bolzano;Quota ricavata da dem
+165;Lazfons;72600MS;OD:72600MS;46.67240083;11.54613904;1180;Italy;Bolzano;Quota ricavata da dem
+166;Selva Gardena;73500MS;OD:73500MS;46.54555526;11.76842971;1713;Italy;Bolzano;Quota ricavata da dem
+168;Ortisei Osservatore;73900BM;OD:73900BM;46.57404443;11.67296415;1269;Italy;Bolzano;Quota ricavata da dem
+170;Alpe di Siusi;74300MS;OD:74300MS;46.53890209;11.64460524;1877;Italy;Bolzano;Quota ricavata da dem
+171;Premesa Osservatore;74500BM;OD:74500BM;46.59408624;11.5873387;847;Italy;Bolzano;Quota ricavata da dem
+172;Colma-Barbiano;74900MS;OD:74900MS;46.59512824;11.52910684;511;Italy;Bolzano;Quota ricavata da dem
+173;Rio Tisana - Castelrotto;75250PG;OD:75250PG;46.59511954;11.52909338;511;Italy;Bolzano;Quota ricavata da dem
+174;Rio Freddo - Siusi;75450PG;OD:75450PG;46.59511954;11.52909338;511;Italy;Bolzano;Quota ricavata da dem
+176;Fi� allo Sciliar;75600MS;OD:75600MS;46.51340578;11.50595194;804;Italy;Bolzano;Quota ricavata da dem
+177;Tires;76400MS;OD:76400MS;46.4669645;11.52889197;1204;Italy;Bolzano;Quota ricavata da dem
+179;Rio Bria a Maso Lampl;76750PG;OD:76750PG;46.46205312;11.53202459;990;Italy;Bolzano;Quota ricavata da dem
+180;Isarco - Costa di sotto;77250PG;OD:77250PG;46.48954301;11.42645053;516;Italy;Bolzano;Quota ricavata da dem
+182;Cardano Osservatore;77800BM;OD:77800BM;46.49429859;11.39598573;409;Italy;Bolzano;Quota ricavata da dem
+183;Passo Costalunga;78100MS;OD:78100MS;46.4050738;11.5858765;1668;Italy;Bolzano;Quota ricavata da dem
+186;Nova Levante;78305MS;OD:78305MS;46.42887659;11.53659145;1177;Italy;Bolzano;Quota ricavata da dem
+187;Rio Ega - Ponte Nova;78750PG;OD:78750PG;46.43134995;11.47716821;991;Italy;Bolzano;Quota ricavata da dem
+189;Costalovara Osservatore;79400BM;OD:79400BM;46.52748928;11.42930121;1266;Italy;Bolzano;Quota ricavata da dem
+191;Pennes;80300MS;OD:80300MS;46.77985135;11.41444687;1497;Italy;Bolzano;Quota ricavata da dem
+192;Corvara-Sarentino Osservatore;80500BM;OD:80500BM;46.73799048;11.35111768;1324;Italy;Bolzano;Quota ricavata da dem
+193;Talvera a Campolasta;80950PG;OD:80950PG;46.66718677;11.36306532;1073;Italy;Bolzano;Quota ricavata da dem
+194;San Martino Osservatore;81600BM;OD:81600BM;46.70104927;11.41450083;1417;Italy;Bolzano;Quota ricavata da dem
+195;Rio Valdurna a Campolasta;81950PG;OD:81950PG;46.66721612;11.36556357;1073;Italy;Bolzano;Quota ricavata da dem
+197;Sarentino;82200MS;OD:82200MS;46.64063165;11.3550613;976;Italy;Bolzano;Quota ricavata da dem
+199;Vanga Osservatore;82700BM;OD:82700BM;46.55179495;11.39747258;1066;Italy;Bolzano;Quota ricavata da dem
+200;S.Genesio Atesino;82900MS;OD:82900MS;46.53910662;11.32948489;1092;Italy;Bolzano;Quota ricavata da dem
+203;Bolzano;83200MS;OD:83200MS;46.49768516;11.31283145;246;Italy;Bolzano;Quota ricavata da dem
+206;Nova Ponente;85120MS;OD:85120MS;46.42048615;11.42685821;1416;Italy;Bolzano;Quota ricavata da dem
+207;Rio Vallarsa a Maso Gr�tner;85350PG;OD:85350PG;46.49761559;11.31271121;246;Italy;Bolzano;Quota ricavata da dem
+208;Adige - Bronzolo;85550PG;OD:85550PG;46.41377215;11.31535645;230;Italy;Bolzano;Quota ricavata da dem
+209;Bronzolo;85700MS;OD:85700MS;46.40647893;11.31106644;227;Italy;Bolzano;Quota ricavata da dem
+211;Ora;86900MS;OD:86900MS;46.34688548;11.30501735;318;Italy;Bolzano;Quota ricavata da dem
+212;Redagno;87300MS;OD:87300MS;46.34654504;11.39682245;1531;Italy;Bolzano;Quota ricavata da dem
+213;Rio Nero - Fontanefredde;87550PG;OD:87550PG;46.33424629;11.37028484;1135;Italy;Bolzano;Quota ricavata da dem
+214;Doladizza Osservatore;87700BM;OD:87700BM;46.34280277;11.32396201;674;Italy;Bolzano;Quota ricavata da dem
+217;Salorno;88820MS;OD:88820MS;46.23623649;11.18548738;288;Italy;Bolzano;Quota ricavata da dem
+218;Monticolo;89100MS;OD:89100MS;46.42584727;11.295421;568;Italy;Bolzano;Quota ricavata da dem
+219;Favogna di sotto Osservatore;89900BM;OD:89900BM;46.27161823;11.1792626;1064;Italy;Bolzano;Quota ricavata da dem
+220;Anterivo;91000MS;OD:91000MS;46.27734553;11.36775096;1222;Italy;Bolzano;Quota ricavata da dem
+221;Rio Sesto a Moso;91250PG;OD:91250PG;46.68799585;12.37049421;1432;Italy;Bolzano;Quota ricavata da dem
+222;Rio Sesto - Sesto;91350PG;OD:91350PG;46.69831995;12.35363446;1326;Italy;Bolzano;Quota ricavata da dem
+223;Sesto;91500MS;OD:91500MS;46.70305366;12.34996391;1490;Italy;Bolzano;Quota ricavata da dem
+224;Drava - Versciaco;91850PG;OD:91850PG;46.73354989;12.33783471;1316;Italy;Bolzano;Quota ricavata da dem
