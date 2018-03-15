@@ -1,0 +1,144 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
+1;Lentina;1010;OD:1010;38.052187000000004;12.674973;113;Italy;Sicilia;Quota ricavata da dem
+2;Trapani;1030;OD:1030;38.013603;12.506774;2;Italy;Sicilia;Quota ricavata da dem
+3;Castellammare del Golfo;1040;OD:1040;38.020576;12.885201;61;Italy;Sicilia;Quota ricavata da dem
+4;San Vito Lo Capo;1050;OD:1050;38.187465;12.732357;9;Italy;Sicilia;Quota ricavata da dem
+5;Fastaia;1060;OD:1060;37.929297;12.741669;226;Italy;Sicilia;Quota ricavata da dem
+6;Borgo Fazio;1080;OD:1080;37.85613;12.663609;176;Italy;Sicilia;Quota ricavata da dem
+7;Birgi Nuovo;1100;OD:1100;37.883963;12.495327;21;Italy;Sicilia;Quota ricavata da dem
+8;Ciavolo;1110;OD:1110;37.759824;12.550884;98;Italy;Sicilia;Quota ricavata da dem
+9;Marsala;1120;OD:1120;37.810158;12.456187;5;Italy;Sicilia;Quota ricavata da dem
+10;Mazara del Vallo;1140;OD:1140;37.656656;12.599055;8;Italy;Sicilia;Quota ricavata da dem
+11;Salemi;1150;OD:1150;37.828797;12.80567;327;Italy;Sicilia;Quota ricavata da dem
+12;Diga Trinità;1160;OD:1160;37.691296;12.752419;138;Italy;Sicilia;Quota ricavata da dem
+13;Partanna;1180;OD:1180;37.729407;12.891589;426;Italy;Sicilia;Quota ricavata da dem
+14;Castelvetrano;1190;OD:1190;37.691017;12.800031;174;Italy;Sicilia;Quota ricavata da dem
+15;Maganoce Diga;1240;OD:1240;37.963727;13.288741;701;Italy;Sicilia;Quota ricavata da dem
+16;Corleone;1270;OD:1270;37.814435;13.301266;629;Italy;Sicilia;Quota ricavata da dem
+17;Montalbano Elicona;130;OD:130;38.022565;15.016871;946;Italy;Sicilia;Quota ricavata da dem
+18;Roccamena;1300;OD:1300;37.833963;13.153068;471;Italy;Sicilia;Quota ricavata da dem
+19;Menfi;1340;OD:1340;37.600933;12.962563;121;Italy;Sicilia;Quota ricavata da dem
+20;Diga Arancio;1370;OD:1370;37.625709;13.061259;184;Italy;Sicilia;Quota ricavata da dem
+21;Caltabellotta;1390;OD:1390;37.576012;13.215319;736;Italy;Sicilia;Quota ricavata da dem
+22;Sciacca;1400;OD:1400;37.511873;13.126871;110;Italy;Sicilia;Quota ricavata da dem
+23;Prizzi;1410;OD:1410;37.718879;13.420185;890;Italy;Sicilia;Quota ricavata da dem
+24;Piano del Leone;1420;OD:1420;37.670792;13.465549;876;Italy;Sicilia;Quota ricavata da dem
+25;Palazzo Adriano;1430;OD:1430;37.685958;13.378685;620;Italy;Sicilia;Quota ricavata da dem
+26;Bisacquino;1455;OD:1455;37.698209;13.257793;590;Italy;Sicilia;Quota ricavata da dem
+27;Ribera;1460;OD:1460;37.50326;13.272236;216;Italy;Sicilia;Quota ricavata da dem
+28;Diga Castello;1475;OD:1475;37.580671;13.408301;264;Italy;Sicilia;Quota ricavata da dem
+29;Bivona;1480;OD:1480;37.61914;13.438949;554;Italy;Sicilia;Quota ricavata da dem
+30;Lercara Friddi;1490;OD:1490;37.74721;13.599913;676;Italy;Sicilia;Quota ricavata da dem
+31;San Piero Patti;150;OD:150;38.05387;14.965536;384;Italy;Sicilia;Quota ricavata da dem
+32;Diga Platani (Fanaco);1520;OD:1520;37.670208;13.552996;667;Italy;Sicilia;Quota ricavata da dem
+33;Vivaio Cammarata;1530;OD:1530;37.617762;13.60486;1403;Italy;Sicilia;Quota ricavata da dem
+34;Santa Caterina Villarmosa;1600;OD:1600;37.587764;14.029313;606;Italy;Sicilia;Quota ricavata da dem
+35;Marianopoli;1630;OD:1630;37.603097;13.900365;525;Italy;Sicilia;Quota ricavata da dem
+36;Vallelunga;1660;OD:1660;37.67867;13.834319;472;Italy;Sicilia;Quota ricavata da dem
+37;Mussomeli;1680;OD:1680;37.583624;13.754307;821;Italy;Sicilia;Quota ricavata da dem
+38;Racalmuto;1700;OD:1700;37.409678;13.729697;419;Italy;Sicilia;Quota ricavata da dem
+40;Cattolica  Eraclea;1760;OD:1760;37.440389;13.396481;197;Italy;Sicilia;Quota ricavata da dem
+41;Agrigento;1810;OD:1810;37.303537;13.588111;212;Italy;Sicilia;Quota ricavata da dem
+42;Aragona;1820;OD:1820;37.379207;13.642465;332;Italy;Sicilia;Quota ricavata da dem
+43;Canicattì;1840;OD:1840;37.357789;13.849812;456;Italy;Sicilia;Quota ricavata da dem
+44;Petralia Sottana;1860;OD:1860;37.818103;14.093591;1025;Italy;Sicilia;Quota ricavata da dem
+45;Savochella;1880;OD:1880;37.825671;14.120958;1447;Italy;Sicilia;Quota ricavata da dem
+46;Alimena;1900;OD:1900;37.705657;14.120925;798;Italy;Sicilia;Quota ricavata da dem
+47;Castellana Sicula;1915;OD:1915;37.78663;14.036867;770;Italy;Sicilia;Quota ricavata da dem
+48;Enna;1960;OD:1960;37.56782;14.272487;804;Italy;Sicilia;Quota ricavata da dem
+49;Villadoro;1970;OD:1970;37.692547;14.263375;834;Italy;Sicilia;Quota ricavata da dem
+50;Caltanissetta;2020;OD:2020;37.496096;14.057065;635;Italy;Sicilia;Quota ricavata da dem
+51;Pietraperzia;2040;OD:2040;37.420457999999996;14.137957;456;Italy;Sicilia;Quota ricavata da dem
+52;Sommatino;2100;OD:2100;37.337374;13.995316;352;Italy;Sicilia;Quota ricavata da dem
+53;Cambobello di Licata;2180;OD:2180;37.264901;13.918287;312;Italy;Sicilia;Quota ricavata da dem
+54;Cipolla Sottana;2190;OD:2190;37.198233;13.84337;319;Italy;Sicilia;Quota ricavata da dem
+55;Tortorici;220;OD:220;38.030117;14.824671;590;Italy;Sicilia;Quota ricavata da dem
+56;Licata;2200;OD:2200;37.098433;13.932402;48;Italy;Sicilia;Quota ricavata da dem
+57;Butera;2220;OD:2220;37.187795;14.184211;252;Italy;Sicilia;Quota ricavata da dem
+58;Comunelli Diga;2230;OD:2230;37.155767;14.150239;78;Italy;Sicilia;Quota ricavata da dem
+59;Gela;2240;OD:2240;37.063464;14.251353;23;Italy;Sicilia;Quota ricavata da dem
+60;Piazza  Armerina;2250;OD:2250;37.388265;14.369765;708;Italy;Sicilia;Quota ricavata da dem
+61;Dissueri Diga;2260;OD:2260;37.190185;14.289906;165;Italy;Sicilia;Quota ricavata da dem
+63;Chiaramonte Gulfi;2300;OD:2300;37.028439;14.703078;673;Italy;Sicilia;Quota ricavata da dem
+64;Ragoleto Diga;2310;OD:2310;37.126438;14.681745;353;Italy;Sicilia;Quota ricavata da dem
+65;Ponte Dirillo;2340;OD:2340;37.022689;14.407827;24;Italy;Sicilia;Quota ricavata da dem
+66;Ragusa;2370;OD:2370;36.922496;14.723773;532;Italy;Sicilia;Quota ricavata da dem
+67;Modica;2380;OD:2380;36.858803;14.761858;382;Italy;Sicilia;Quota ricavata da dem
+68;Ispica;2410;OD:2410;36.784694;14.915745;124;Italy;Sicilia;Quota ricavata da dem
+70;Castelluccio;2440;OD:2440;36.932496;14.916855;180;Italy;Sicilia;Quota ricavata da dem
+71;Palazzolo Acreide;2470;OD:2470;37.060965;14.899688;633;Italy;Sicilia;Quota ricavata da dem
+72;Siracusa;2540;OD:2540;37.059442;15.29155;10;Italy;Sicilia;Quota ricavata da dem
+73;Augusta;2550;OD:2550;37.228938;15.223771;9;Italy;Sicilia;Quota ricavata da dem
+74;Lentini città;2580;OD:2580;37.290823;14.998246;40;Italy;Sicilia;Quota ricavata da dem
+75;Ancipa;2735;OD:2735;37.82844;14.57658;986;Italy;Sicilia;Quota ricavata da dem
+76;Bronte;2790;OD:2790;37.785136;14.83284;737;Italy;Sicilia;Quota ricavata da dem
+77;Nicosia;2800;OD:2800;37.746825;14.396684;673;Italy;Sicilia;Quota ricavata da dem
+78;Pozzillo Diga;2850;OD:2850;37.672687;14.60819;412;Italy;Sicilia;Quota ricavata da dem
+79;Nicoletti Diga;2950;OD:2950;37.606211;14.348322;367;Italy;Sicilia;Quota ricavata da dem
+80;Ziriò Caserma Forestale;30;OD:30;38.177247;15.470964;799;Italy;Sicilia;Quota ricavata da dem
+81;Don Sturzo Diga;3010;OD:3010;37.445905;14.576464;178;Italy;Sicilia;Quota ricavata da dem
+82;Caltagirone;3050;OD:3050;37.239686;14.517966;428;Italy;Sicilia;Quota ricavata da dem
+83;Mineo;3060;OD:3060;37.264436;14.690246;459;Italy;Sicilia;Quota ricavata da dem
+84;Nicolosi;3090;OD:3090;37.613601;15.02659;674;Italy;Sicilia;Quota ricavata da dem
+85;San Fratello;310;OD:310;38.016142;14.598359;654;Italy;Sicilia;Quota ricavata da dem
+86;Zafferana Etnea;3110;OD:3110;37.694213;15.105789;590;Italy;Sicilia;Quota ricavata da dem
+87;Linguaglossa;3120;OD:3120;37.839333;15.144488;512;Italy;Sicilia;Quota ricavata da dem
+88;Acireale;3150;OD:3150;37.620461;15.165228;184;Italy;Sicilia;Quota ricavata da dem
+89;Catania Istituto d'Agraria;3160;OD:3160;37.517405;15.071749;102;Italy;Sicilia;Quota ricavata da dem
+90;Cavagrande;3180;OD:3180;37.730938;15.142818;301;Italy;Sicilia;Quota ricavata da dem
+91;Floresta;3210;OD:3210;37.986395;14.908035;1266;Italy;Sicilia;Quota ricavata da dem
+92;Randazzo;3250;OD:3250;37.876891;14.945065;759;Italy;Sicilia;Quota ricavata da dem
+93;Francavilla di Sicilia;3280;OD:3280;37.906173;15.144709;263;Italy;Sicilia;Quota ricavata da dem
+94;Mistretta;330;OD:330;37.925314;14.361823;858;Italy;Sicilia;Quota ricavata da dem
+95;Taormina;3310;OD:3310;37.851785;15.292077;78;Italy;Sicilia;Quota ricavata da dem
+96;Ranciara;3330;OD:3330;37.956568;15.271158;271;Italy;Sicilia;Quota ricavata da dem
+97;Santo Stefano di Briga;3360;OD:3360;38.099023;15.480576;219;Italy;Sicilia;Quota ricavata da dem
+98;Messina Istituto Geofisico;3380;OD:3380;38.200472;15.554106;31;Italy;Sicilia;Quota ricavata da dem
+99;Ganzirri;3400;OD:3400;38.25589;15.608303;1;Italy;Sicilia;Quota ricavata da dem
+100;Lampedusa;3470;OD:3470;35.501699;12.59181;NA;Italy;Sicilia;Quota ricavata da dem
+101;Linosa;3480;OD:3480;35.858969;12.859115;NA;Italy;Sicilia;Quota ricavata da dem
+103;Torrente dei Mulini a Guglielmotto;3550;OD:3550;37.914441;14.133481;295;Italy;Sicilia;Quota ricavata da dem
+104;Isnello a Ponte Grande;3560;OD:3560;37.936108;13.998482;619;Italy;Sicilia;Quota ricavata da dem
+105;Castelbuono a Ponte Vecchio;3570;OD:3570;37.949158;14.100978;238;Italy;Sicilia;Quota ricavata da dem
+106;Imera Settendrionale a Scillato;3580;OD:3580;37.840543;13.918471;290;Italy;Sicilia;Quota ricavata da dem
+107;Tusa;360;OD:360;37.972913;14.235875;560;Italy;Sicilia;Quota ricavata da dem
+108;Milicia a Milicia;3630;OD:3630;38.00277;13.505685;149;Italy;Sicilia;Quota ricavata da dem
+109;Eleuterio a Lupo;3640;OD:3640;37.901378;13.37263;538;Italy;Sicilia;Quota ricavata da dem
+110;Oreto a Parco;3670;OD:3670;38.064715;13.303466;173;Italy;Sicilia;Quota ricavata da dem
+111;Jato a Fellamonica;3690;OD:3690;37.96277;13.13234;228;Italy;Sicilia;Quota ricavata da dem
+113;Platani a Passofonduto;3830;OD:3830;37.491095;13.680142;224;Italy;Sicilia;Quota ricavata da dem
+114;Imera Meridionale a Petralia;3860;OD:3860;37.80305;14.084315;882;Italy;Sicilia;Quota ricavata da dem
+115;Salso a Monzanaro;3900;OD:3900;37.67055;14.16432;415;Italy;Sicilia;Quota ricavata da dem
+116;Imera Meridionale a Cinque Archi;3910;OD:3910;37.603881;14.132088;368;Italy;Sicilia;Quota ricavata da dem
+117;Imera Meridionale a Besaro;3950;OD:3950;37.433598;14.085987;267;Italy;Sicilia;Quota ricavata da dem
+118;Imera Merionale a Drasi;3960;OD:3960;37.206928;13.993483;82;Italy;Sicilia;Quota ricavata da dem
+119;Tellaro a Castelluccio;3980;OD:3980;36.929998;14.920717;180;Italy;Sicilia;Quota ricavata da dem
+121;Saraceno a Chiusitta;4070;OD:4070;37.932502;14.82962;1209;Italy;Sicilia;Quota ricavata da dem
+122;Troina a Serravalle;4080;OD:4080;37.80528;14.795446;565;Italy;Sicilia;Quota ricavata da dem
+123;Pomieri;410;OD:410;37.856799;14.058979;1333;Italy;Sicilia;Quota ricavata da dem
+124;Salso a Ponte Gagliano;4100;OD:4100;37.674439;14.532104;419;Italy;Sicilia;Quota ricavata da dem
+125;Flascio a Ponte Flascio;4150;OD:4150;37.869443;14.888228;884;Italy;Sicilia;Quota ricavata da dem
+126;Alcantara a Moio;4180;OD:4180;37.896389;15.056293;530;Italy;Sicilia;Quota ricavata da dem
+127;Castelbuono;430;OD:430;37.929744;14.089174;390;Italy;Sicilia;Quota ricavata da dem
+128;Piano Formaggio;450;OD:450;37.882271;14.004754;1298;Italy;Sicilia;Quota ricavata da dem
+129;Cefalù;470;OD:470;38.033856;14.016339;58;Italy;Sicilia;Quota ricavata da dem
+130;Collesano;480;OD:480;37.918019;13.937667;519;Italy;Sicilia;Quota ricavata da dem
+131;Polizzi Generosa;510;OD:510;37.823825;14.008393;879;Italy;Sicilia;Quota ricavata da dem
+132;Scillato;520;OD:520;37.862158;13.914364;425;Italy;Sicilia;Quota ricavata da dem
+133;Alia;550;OD:550;37.7766;13.713416;698;Italy;Sicilia;Quota ricavata da dem
+134;Bivio Cerda;590;OD:590;37.948686;13.782945;36;Italy;Sicilia;Quota ricavata da dem
+135;Vicari;600;OD:600;37.827546;13.569884;546;Italy;Sicilia;Quota ricavata da dem
+136;Ciminna;660;OD:660;37.891796;13.559357;467;Italy;Sicilia;Quota ricavata da dem
+138;Monumentale;670;OD:670;37.988936;13.681665;19;Italy;Sicilia;Quota ricavata da dem
+139;Castroreale;70;OD:70;38.09821;15.211153;300;Italy;Sicilia;Quota ricavata da dem
+141;Misilmeri;750;OD:750;38.033158;13.453966;106;Italy;Sicilia;Quota ricavata da dem
+142;San Ciro;760;OD:760;38.085577;13.387358;73;Italy;Sicilia;Quota ricavata da dem
+143;Poggio San Francesco;770;OD:770;38.01791;13.266572;760;Italy;Sicilia;Quota ricavata da dem
+144;San Martino delle Scale;840;OD:840;38.089348;13.253264;558;Italy;Sicilia;Quota ricavata da dem
+145;Partinico;850;OD:850;38.0553;13.127707;180;Italy;Sicilia;Quota ricavata da dem
+146;Cinisi;860;OD:860;38.154079;13.106979;67;Italy;Sicilia;Quota ricavata da dem
+147;Palermo Osservatorio Astronomico;880;OD:880;38.109161;13.350685;27;Italy;Sicilia;Quota ricavata da dem
+148;Palermo Istituto Castelnuovo;910;OD:910;38.158634;13.33471;67;Italy;Sicilia;Quota ricavata da dem
+149;San Giuseppe Jato;950;OD:950;37.973021;13.187319;583;Italy;Sicilia;Quota ricavata da dem
+152;Calatafimi;980;OD:980;37.905647;12.875499;251;Italy;Sicilia;Quota ricavata da dem
+153;Erice;990;OD:990;38.036853;12.588026;662;Italy;Sicilia;Quota ricavata da dem

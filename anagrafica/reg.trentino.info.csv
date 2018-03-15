@@ -1,0 +1,153 @@
+SiteID;SiteName;Longitude;Latitude;Elevation;FullSiteCode;SiteCode;Rete;Comments;State
+6507;Pergine;11.236686;46.062297;475;1;1;32;Regionale_Trentino;Italy
+6508;Tenna;11.263616;46.015757;569;3;3;32;Regionale_Trentino;Italy
+6509;Centa;11.234123;45.970184;815;9;9;32;Regionale_Trentino;Italy
+6510;Levico (Terme);11.304882;46.010585;502;10;10;32;Regionale_Trentino;Italy
+6511;Pontarso;11.494414;46.115589;925;14;14;32;Regionale_Trentino;Italy
+6512;Bieno;11.553742;46.079537;806;15;15;32;Regionale_Trentino;Italy
+6513;Costabrunella;11.584905;46.131138;2030;17;17;32;Regionale_Trentino;Italy
+6514;Pieve Tesino (O.P. Enel);11.619781;46.070275;775;18;18;32;Regionale_Trentino;Italy
+6515;S. Martino di Castrozza;11.801413;46.261299;1450;21;21;32;Regionale_Trentino;Italy
+6516;Passo Cereda;11.906843;46.194016;1375;24;24;32;Regionale_Trentino;Italy
+6517;Tonadico;11.836006;46.179227;744;26;26;32;Regionale_Trentino;Italy
+6518;Val Noana (Diga);11.838542;46.138635;1017;27;27;32;Regionale_Trentino;Italy
+6519;Caoria (Centrale);11.661763;46.204444;908;29;29;32;Regionale_Trentino;Italy
+6520;Canal San Bovo;11.73469;46.149827;757;30;30;32;Regionale_Trentino;Italy
+6521;Lavarone;11.254037;45.939893;1155;32;32;32;Regionale_Trentino;Italy
+6522;San Michele All'Adige;11.132434;46.192616;205;38;38;32;Regionale_Trentino;Italy
+6523;Pian Palu' (Diga);10.61394;46.336534;1795;63;63;32;Regionale_Trentino;Italy
+6524;Peio;10.675627;46.363996;1565;64;64;32;Regionale_Trentino;Italy
+6525;Careser (Diga);10.699326;46.42264;2600;65;65;32;Regionale_Trentino;Italy
+6526;Cogolo Pont (Centrale);10.688066;46.362229;1185;68;68;32;Regionale_Trentino;Italy
+6527;Passo Tonale T0069;10.611037;46.263316;1795;69;69;32;Regionale_Trentino;Italy
+6528;Mezzana;10.795807;46.313429;905;71;71;32;Regionale_Trentino;Italy
+6529;Male';10.916104;46.355098;735;74;74;32;Regionale_Trentino;Italy
+6530;Somrabbi (Piazzola di Rabbi);10.803592;46.410351;1352;75;75;32;Regionale_Trentino;Italy
+6531;S. Bernardo di Rabbi;10.844362;46.400503;1098;76;76;32;Regionale_Trentino;Italy
+6532;Fondo;11.138006;46.439668;987;80;80;32;Regionale_Trentino;Italy
+6533;Passo Mendola;11.189417;46.419238;1320;82;82;32;Regionale_Trentino;Italy
+6534;Cles;11.031223;46.362003;665;83;83;32;Regionale_Trentino;Italy
+6535;Santa Giustina;11.061704;46.34568;532;84;84;32;Regionale_Trentino;Italy
+6536;Denno;11.050831;46.273139;426;86;86;32;Regionale_Trentino;Italy
+6537;Tres (Diga);11.099216;46.326476;830;88;88;32;Regionale_Trentino;Italy
+6538;Mezzolombardo;11.093366;46.214254;225;90;90;32;Regionale_Trentino;Italy
+6539;Pian Fedaia (Diga);11.862414;46.461795;2040;92;92;32;Regionale_Trentino;Italy
+6540;Passo Costalunga;11.613467;46.404425;1750;94;94;32;Regionale_Trentino;Italy
+6541;Pezze' di Moena (Diga);11.664561;46.383662;1205;96;96;32;Regionale_Trentino;Italy
+6542;Moena;11.659198;46.375264;1200;98;98;32;Regionale_Trentino;Italy
+6543;Paganella;11.037444;46.143291;2125;99;99;32;Regionale_Trentino;Italy
+6544;Zambana;11.079707;46.156372;201;101;101;32;Regionale_Trentino;Italy
+6545;Predazzo (Centrale);11.595046;46.310039;1005;102;102;32;Regionale_Trentino;Italy
+6546;Passo Rolle;11.787638;46.297214;1995;103;103;32;Regionale_Trentino;Italy
+6547;Passo Valles;11.799764;46.338417;2032;104;104;32;Regionale_Trentino;Italy
+6548;Forte Buso (Diga);11.704362;46.305812;1480;105;105;32;Regionale_Trentino;Italy
+6549;Cavalese;11.459207;46.291154;1000;107;107;32;Regionale_Trentino;Italy
+6550;Cadino di Fiemme;11.41451;46.245739;964;109;109;32;Regionale_Trentino;Italy
+6551;Stramentizzo (Diga);11.376125;46.264652;815;110;110;32;Regionale_Trentino;Italy
+6552;Grumes;11.29664;46.220772;845;113;113;32;Regionale_Trentino;Italy
+6553;Valda;11.267092;46.209185;855;114;114;32;Regionale_Trentino;Italy
+6554;Segonzano (Gresta);11.289532;46.211348;660;115;115;32;Regionale_Trentino;Italy
+6555;Segonzano (Scancio);11.259966;46.191578;720;116;116;32;Regionale_Trentino;Italy
+6556;Cembra;11.217991;46.170656;652;118;118;32;Regionale_Trentino;Italy
+6557;Lisignago;11.192061;46.159357;613;119;119;32;Regionale_Trentino;Italy
+6558;Pozzolago (Centrale);11.231823;46.165436;420;120;120;32;Regionale_Trentino;Italy
+6559;Lavis;11.118534;46.138459;230;121;121;32;Regionale_Trentino;Italy
+6560;Trento (Laste);11.135627;46.071872;312;129;129;32;Regionale_Trentino;Italy
+6561;Trento (Roncafort);11.101279;46.095667;194;135;135;32;Regionale_Trentino;Italy
+6562;Trento - via Zambra - Top Cent;11.117933;46.09004;218;136;136;32;Regionale_Trentino;Italy
+6563;Trento Piazza Vittoria;11.123815;46.067682;196;137;137;32;Regionale_Trentino;Italy
+6564;Sant'Orsola;11.3022;46.107105;930;139;139;32;Regionale_Trentino;Italy
+6565;Piazze di Pine';11.273518;46.149998;1025;140;140;32;Regionale_Trentino;Italy
+6566;Sternigo;11.252195;46.139962;1040;141;141;32;Regionale_Trentino;Italy
+6567;Povo;11.157701;46.066903;430;142;142;32;Regionale_Trentino;Italy
+6568;Monte Bondone;11.054025;46.013516;1500;144;144;32;Regionale_Trentino;Italy
+6569;Aldeno;11.091715;45.967849;182;146;146;32;Regionale_Trentino;Italy
+6570;Rovereto;11.043954;45.896097;203;147;147;32;Regionale_Trentino;Italy
+6571;Terragnolo (Piazza);11.150991;45.879596;800;148;148;32;Regionale_Trentino;Italy
+6572;Speccheri (Diga);11.13496;45.768496;875;149;149;32;Regionale_Trentino;Italy
+6573;Raossi-Foxi;11.110982;45.790165;665;150;150;32;Regionale_Trentino;Italy
+6574;Loppio;10.931337;45.855358;230;151;151;32;Regionale_Trentino;Italy
+6575;Brentonico;10.953086;45.817249;693;152;152;32;Regionale_Trentino;Italy
+6576;Ronchi di Ala;11.065345;45.739264;692;153;153;32;Regionale_Trentino;Italy
+6577;Ala;10.999862;45.757143;165;154;154;32;Regionale_Trentino;Italy
+6578;Pra' Da Stua (Diga);10.904517;45.772256;1045;155;155;32;Regionale_Trentino;Italy
+6579;Malga Bissina (Diga);10.513969;46.054834;1792;156;156;32;Regionale_Trentino;Italy
+6580;Malga Boazzo (Diga);10.523781;45.996058;1200;157;157;32;Regionale_Trentino;Italy
+6581;Ponte Murandin (Diga);10.604256;45.948587;720;158;158;32;Regionale_Trentino;Italy
+6582;Cimego (Centrale);10.626739;45.921034;490;160;160;32;Regionale_Trentino;Italy
+6583;Storo (Centrale);10.575394;45.85929;393;163;163;32;Regionale_Trentino;Italy
+6584;Val di Genova (O.P. Enel);10.727231;46.169622;900;166;166;32;Regionale_Trentino;Italy
+6585;Pradalago Rifugio Agostini;10.813874;46.249712;2084;167;167;32;Regionale_Trentino;Italy
+6586;Campo Carlo Magno;10.838333;46.242499;1681;168;168;32;Regionale_Trentino;Italy
+6587;Groste' Rifugio Graffer;10.889395;46.219644;2262;169;169;32;Regionale_Trentino;Italy
+6588;Sant'Antonio di Mavignola;10.784477;46.188489;1100;172;172;32;Regionale_Trentino;Italy
+6589;Dos Del Sabion;10.805898;46.167119;2100;174;174;32;Regionale_Trentino;Italy
+6590;Pinzolo;10.757755;46.156746;755;175;175;32;Regionale_Trentino;Italy
+6591;Torrente Arno';10.640512;46.032072;1148;177;177;32;Regionale_Trentino;Italy
+6592;La Rocca;10.708133;46.022459;943;178;178;32;Regionale_Trentino;Italy
+6593;Tione;10.725573;46.027804;575;179;179;32;Regionale_Trentino;Italy
+6594;Montagne;10.751656;46.059134;955;182;182;32;Regionale_Trentino;Italy
+6595;Stenico;10.855194;46.050119;632;183;183;32;Regionale_Trentino;Italy
+6596;S. Lorenzo In Banale;10.899411;46.075665;734;184;184;32;Regionale_Trentino;Italy
+6597;Nembia (Centrale);10.937998;46.106248;810;186;186;32;Regionale_Trentino;Italy
+6598;Santa Massenza (Centrale);10.980894;46.065821;245;189;189;32;Regionale_Trentino;Italy
+6599;Lago di Cavedine;10.951172;45.994339;245;190;190;32;Regionale_Trentino;Italy
+6600;Arco;10.890917;45.922584;91;192;192;32;Regionale_Trentino;Italy
+6601;Torbole;10.882485;45.881852;70;193;193;32;Regionale_Trentino;Italy
+6602;Tenno;10.831122;45.919256;428;200;200;32;Regionale_Trentino;Italy
+6603;Forte D'Ampola;10.646264;45.863908;725;203;203;32;Regionale_Trentino;Italy
+6604;Bezzecca;10.719061;45.896785;698;204;204;32;Regionale_Trentino;Italy
+6605;Levico (Selva);11.315713;46.011671;445;207;207;32;Regionale_Trentino;Italy
+6606;Lago Delle Piazze (Diga);11.277609;46.155299;1028;209;209;32;Regionale_Trentino;Italy
+6607;Folgaria;11.17142;45.914087;1140;210;210;32;Regionale_Trentino;Italy
+6608;Ronzo;10.952205;45.891077;974;211;211;32;Regionale_Trentino;Italy
+6609;Spormaggiore;11.047544;46.212402;655;212;212;32;Regionale_Trentino;Italy
+6610;Borgo Valsugana;11.450447;46.053008;385;222;222;32;Regionale_Trentino;Italy
+6611;Castello Tesino;11.630812;46.063217;825;224;224;32;Regionale_Trentino;Italy
+6612;Campestrin;11.715069;46.464796;1385;231;231;32;Regionale_Trentino;Italy
+6613;Lodrone (Frana);10.524837;45.83635;995;232;232;32;Regionale_Trentino;Italy
+6614;Dare';10.716825;46.074908;622;233;233;32;Regionale_Trentino;Italy
+6615;Romeno;11.118834;46.390724;958;236;236;32;Regionale_Trentino;Italy
+6616;Fontanazzo di Mazzin;11.729211;46.470741;1400;237;237;32;Regionale_Trentino;Italy
+6617;Malga Mare;10.680628;46.414259;1950;238;238;32;Regionale_Trentino;Italy
+6618;Ponte Plaza;10.817946;46.198212;1150;239;239;32;Regionale_Trentino;Italy
+6619;Tasse' di Rabbi;10.857973;46.392561;1010;240;240;32;Regionale_Trentino;Italy
+6620;Piazzola di Rabbi;10.819776;46.41068;1352;241;241;32;Regionale_Trentino;Italy
+6621;S. Silvestro;11.769182;46.134209;577;242;242;32;Regionale_Trentino;Italy
+6622;Vetriolo;11.305957;46.042353;1490;243;243;32;Regionale_Trentino;Italy
+6623;Levico;11.30854;46.010961;512;245;245;32;Regionale_Trentino;Italy
+6624;Levico Lido;11.286097;46.010512;440;246;246;32;Regionale_Trentino;Italy
+6625;Dosso Larici;11.041901;46.152814;1850;262;262;32;Regionale_Trentino;Italy
+6626;Mazzin;11.700117;46.457419;1380;265;265;32;Regionale_Trentino;Italy
+6627;Paneveggio T0267;11.675551;46.31153;1415;267;267;32;Regionale_Trentino;Italy
+6628;Madonna di Campiglio;10.82742;46.230632;1510;286;286;32;Regionale_Trentino;Italy
+6629;Riva;10.845313;45.891405;82;298;298;32;Regionale_Trentino;Italy
+6630;Arco (Arboreto);10.883014;45.922291;115;322;322;32;Regionale_Trentino;Italy
+6631;Campodenno;11.028354;46.259824;610;323;323;32;Regionale_Trentino;Italy
+6632;Prezzo;10.631729;45.934202;680;324;324;32;Regionale_Trentino;Italy
+6633;Villa Rendena;10.722822;46.06067;840;325;325;32;Regionale_Trentino;Italy
+6634;Vigolo Vattaro;11.181354;46.00923;815;326;326;32;Regionale_Trentino;Italy
+6635;Monte Bondone (G. Botanico);11.039854;46.021924;1552;327;327;32;Regionale_Trentino;Italy
+6636;Tremalzo;10.683719;45.84185;1520;354;354;32;Regionale_Trentino;Italy
+6637;Passo Brocon;11.659658;46.116488;1560;355;355;32;Regionale_Trentino;Italy
+6638;Passo Tonale T0360;10.635572;46.261915;1880;360;360;32;Regionale_Trentino;Italy
+6639;Pejo Frana;10.678177;46.364472;1580;366;366;32;Regionale_Trentino;Italy
+6640;Cavalese (meteotrentino);11.451794;46.284762;958;367;367;32;Regionale_Trentino;Italy
+6641;Viote del Bondone;11.055597;46.013749;1495;368;368;32;Regionale_Trentino;Italy
+6642;Passo Sommo - Folgaria;11.206388;45.918907;1360;369;369;32;Regionale_Trentino;Italy
+6643;Lases;11.218375;46.137987;740;371;371;32;Regionale_Trentino;Italy
+6644;Malga Bissina;10.514022;46.053933;1750;373;373;32;Regionale_Trentino;Italy
+6944;Paneveggio;11.747165;46.309382;1535;353;353;32;Regionale_Trentino;Italy
+6945;Vallarsa (Malga Boffetal);11.166761;45.750769;1550;363;363;32;Regionale_Trentino;Italy
+6946;Vermiglio (Capanna Presena);10.58013;46.227993;2730;364;364;32;Regionale_Trentino;Italy
+6947;Cima Presena;10.583453;46.219964;3015;365;365;32;Regionale_Trentino;Italy
+6948;Storo (Lodrone);10.535649;45.829107;392;370;370;32;Regionale_Trentino;Italy
+6949;Monte Vioz (Rifugio Mantova);10.633891;46.384045;2950;372;372;32;Regionale_Trentino;Italy
+6950;Rovereto (Malga Zugna);11.057866;45.807536;1610;374;374;32;Regionale_Trentino;Italy
+6951;Marmolada (Pian Dei Fiacconi);11.860795;46.444738;2676;375;375;32;Regionale_Trentino;Italy
+6952;Tesero (Pala De Sant;11.530301;46.346665;2200;376;376;32;Regionale_Trentino;Italy
+6953;Cima Rosetta;11.833081;46.264631;2685;377;377;32;Regionale_Trentino;Italy
+6954;San Lorenzo In Banale (Pergole;10.911055;46.066522;690;414;414;32;Regionale_Trentino;Italy
+6955;Brentonico (Santa Caterina);10.959814;45.823933;727;443;443;32;Regionale_Trentino;Italy
+6956;Ghiacciaio di Fradusta;11.871709;46.255107;2720;444;444;32;Regionale_Trentino;Italy
+6957;Canazei (Coi de Paussa);11.849006;46.471964;2376;445;445;32;Regionale_Trentino;Italy

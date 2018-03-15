@@ -1,0 +1,299 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
+1;Airole;AIRO0;OD:AIRO0;43.87309;7.54478;208;Italy;Liguria;Quota ricavata da dem
+2;Alassio;ALASS;OD:ALASS;44.00624;8.1693;12;Italy;Liguria;Quota ricavata da dem
+3;Albenga;ALBG0;OD:ALBG0;44.04899;8.21262;10;Italy;Liguria;Quota ricavata da dem
+4;Alpicella;ALPI0;OD:ALPI0;44.40667;8.52604;440;Italy;Liguria;Quota ricavata da dem
+6;Alassio;ALSS0;OD:ALSS0;44.00624;8.1693;12;Italy;Liguria;Quota ricavata da dem
+7;Merelli;AMERE;OD:AMERE;43.88137;7.84759;130;Italy;Liguria;Quota ricavata da dem
+8;Colonia Arnaldi;ARDI0;OD:ARDI0;44.4084;9.18148;494;Italy;Liguria;Quota ricavata da dem
+9;Arenzano;AREN0;OD:AREN0;44.40416;8.67859;36;Italy;Liguria;Quota ricavata da dem
+10;Arlia;ARL20;OD:ARL20;44.26209;10.13459;481;Italy;Liguria;Quota ricavata da dem
+11;Arlia;ARLI0;OD:ARLI0;44.26209;10.13459;481;Italy;Liguria;Quota ricavata da dem
+13;Colonia Arnaldi;ARNAL;OD:ARNAL;44.4084;9.18148;494;Italy;Liguria;Quota ricavata da dem
+14;Pogli d'Ortovero;ARPO0;OD:ARPO0;44.05445;8.06393;126;Italy;Liguria;Quota ricavata da dem
+15;Aulla;AULL0;OD:AULL0;44.2073;9.96913;108;Italy;Liguria;Quota ricavata da dem
+17;Soliera;AULS0;OD:AULS0;44.20281;10.06217;177;Italy;Liguria;Quota ricavata da dem
+18;Bagnone;BAGN0;OD:BAGN0;44.32;10;358;Italy;Liguria;Quota ricavata da dem
+19;Balestrino;BAL20;OD:BAL20;44.12362;8.16945;279;Italy;Liguria;Quota ricavata da dem
+20;Balestrino;BALE0;OD:BALE0;44.12362;8.16945;279;Italy;Liguria;Quota ricavata da dem
+21;Piana Battolla;BATT0;OD:BATT0;44.19247;9.8515;53;Italy;Liguria;Quota ricavata da dem
+24;Bestagno;BESTA;OD:BESTA;43.9333;8.0007;143;Italy;Liguria;Quota ricavata da dem
+25;Bagnone;BGNN0;OD:BGNN0;44.31629;9.99485;326;Italy;Liguria;Quota ricavata da dem
+26;Bagnone;BGNNE;OD:BGNNE;44.32;10;358;Italy;Liguria;Quota ricavata da dem
+27;La Presa;BLPR0;OD:BLPR0;44.44088;9.04709;290;Italy;Liguria;Quota ricavata da dem
+28;Borgomaro;BMAR0;OD:BMAR0;43.97685;7.94569;323;Italy;Liguria;Quota ricavata da dem
+29;Bola di Tresana;BOLA0;OD:BOLA0;44.23423;9.89667;394;Italy;Liguria;Quota ricavata da dem
+30;Bolsine;BOLS0;OD:BOLS0;44.37234;8.57322;78;Italy;Liguria;Quota ricavata da dem
+31;Bolzaneto;BOLZ0;OD:BOLZ0;44.45391;8.8949;66;Italy;Liguria;Quota ricavata da dem
+32;Genova - Bolzaneto;BOLZA;OD:BOLZA;44.4553;8.89561;66;Italy;Liguria;Quota ricavata da dem
+34;Baracca Bracco;BRAC0;OD:BRAC0;44.24489;9.57999;616;Italy;Liguria;Quota ricavata da dem
+35;Brugneto Diga;BRUG0;OD:BRUG0;44.53634;9.20492;777;Italy;Liguria;Quota ricavata da dem
+38;Busalla;BSLL0;OD:BSLL0;44.5697;8.94892;361;Italy;Liguria;Quota ricavata da dem
+39;Bestagno;BSTG0;OD:BSTG0;43.9341;8.00035;143;Italy;Liguria;Quota ricavata da dem
+40;Torri;BTOR0;OD:BTOR0;43.83784;7.5538;168;Italy;Liguria;Quota ricavata da dem
+41;Genova - Bolzaneto;BTRS0;OD:BTRS0;44.4553;8.89561;66;Italy;Liguria;Quota ricavata da dem
+44;Brugnato;BVARA;OD:BVARA;44.23132;9.71552;124;Italy;Liguria;Quota ricavata da dem
+45;Cabanne;CABA0;OD:CABA0;44.48333;9.35222;974;Italy;Liguria;Quota ricavata da dem
+47;Caderiva;CADE0;OD:CADE0;44.42636;8.94755;65;Italy;Liguria;Quota ricavata da dem
+48;Calvo;CAGT0;OD:CAGT0;43.82936;7.5549;104;Italy;Liguria;Quota ricavata da dem
+49;Cairo Montenotte;CAIR0;OD:CAIR0;44.38331;8.27494;348;Italy;Liguria;Quota ricavata da dem
+51;Calamazza;CALA0;OD:CALA0;44.19802;9.95015;131;Italy;Liguria;Quota ricavata da dem
+52;Calamazza;CALAM;OD:CALAM;44.19802;9.95015;131;Italy;Liguria;Quota ricavata da dem
+55;Calvo;CALV0;OD:CALV0;43.82936;7.5549;104;Italy;Liguria;Quota ricavata da dem
+56;Canellona;CANE0;OD:CANE0;44.45;8.73;346;Italy;Liguria;Quota ricavata da dem
+57;Carasco;CARAS;OD:CARAS;44.34615;9.34825;39;Italy;Liguria;Quota ricavata da dem
+58;Ponte Carrega;CARRE;OD:CARRE;44.44;8.96;62;Italy;Liguria;Quota ricavata da dem
+60;Casarza Ligure;CASR0;OD:CASR0;44.29405;9.45258;233;Italy;Liguria;Quota ricavata da dem
+62;Castelvecchio di R. B.;CAST0;OD:CAST0;44.12951;8.11853;513;Italy;Liguria;Quota ricavata da dem
+65;Castiglione Chiavarese;CCAS0;OD:CCAS0;44.27501;9.51734;388;Italy;Liguria;Quota ricavata da dem
+66;Cichero;CCHE0;OD:CCHE0;44.41704;9.32118;605;Italy;Liguria;Quota ricavata da dem
+68;Calice al Cornoviglio;CCOR0;OD:CCOR0;44.24392;9.83881;426;Italy;Liguria;Quota ricavata da dem
+70;Calice al Cornoviglio;CCORN;OD:CCORN;44.24392;9.83881;426;Italy;Liguria;Quota ricavata da dem
+71;Cembrano;CEMBR;OD:CEMBR;44.35237;9.58414;367;Italy;Liguria;Quota ricavata da dem
+73;Ceriana;CERN0;OD:CERN0;43.8809;7.77382;398;Italy;Liguria;Quota ricavata da dem
+75;Crocefieschi;CFSC0;OD:CFSC0;44.58405;9.02269;764;Italy;Liguria;Quota ricavata da dem
+76;Genova - Centro Funzionale;CFUNZ;OD:CFUNZ;44.40035;8.94591;45;Italy;Liguria;Quota ricavata da dem
+77;Chiesanuova Garibaldo;CHGA0;OD:CHGA0;44.35466;9.41745;227;Italy;Liguria;Quota ricavata da dem
+78;Chiavari;CHIA0;OD:CHIA0;44.3167;9.3138;8;Italy;Liguria;Quota ricavata da dem
+80;Chiusola;CHIU0;OD:CHIU0;44.33708;9.70385;591;Italy;Liguria;Quota ricavata da dem
+81;Chiusola;CHIUS;OD:CHIUS;44.33775;9.70429;591;Italy;Liguria;Quota ricavata da dem
+82;Chiavari;CHIV0;OD:CHIV0;44.31528;9.32333;NA;Italy;Liguria;Quota ricavata da dem
+83;Ciaira;CIAI0;OD:CIAI0;43.83472;7.5555;168;Italy;Liguria;Quota ricavata da dem
+84;Resordo;CICA0;OD:CICA0;44.4;9.34719;342;Italy;Liguria;Quota ricavata da dem
+85;Cichero;CICHE;OD:CICHE;44.41704;9.32118;605;Italy;Liguria;Quota ricavata da dem
+86;Cisano Sul Neva;CINE0;OD:CINE0;44.08569;8.14602;98;Italy;Liguria;Quota ricavata da dem
+87;Cisano sul Neva;CISAN;OD:CISAN;44.08552;8.14573;98;Italy;Liguria;Quota ricavata da dem
+89;Calice Ligure;CLGR0;OD:CLGR0;44.2031;8.29344;127;Italy;Liguria;Quota ricavata da dem
+90;Colle Melosa;CMEL0;OD:CMEL0;43.9895;7.68451;1419;Italy;Liguria;Quota ricavata da dem
+92;Camogli;CMGL0;OD:CMGL0;44.34704;9.15897;180;Italy;Liguria;Quota ricavata da dem
+93;Cembrano;CMNO0;OD:CMNO0;44.3527;9.58509;367;Italy;Liguria;Quota ricavata da dem
+94;Caminata;CMNT0;OD:CMNT0;44.33999;9.40959;201;Italy;Liguria;Quota ricavata da dem
+96;Colle Belenda;COBE0;OD:COBE0;43.98152;7.69983;1267;Italy;Liguria;Quota ricavata da dem
+97;Colle S. Bartolomeo;COCA0;OD:COCA0;44.01039;7.952;610;Italy;Liguria;Quota ricavata da dem
+98;Cogoleto;COGO0;OD:COGO0;44.39092;8.64615;22;Italy;Liguria;Quota ricavata da dem
+99;Comago;COMA0;OD:COMA0;44.49052;8.9705;290;Italy;Liguria;Quota ricavata da dem
+100;Colle del Melogno;COME0;OD:COME0;44.23056;8.19732;1001;Italy;Liguria;Quota ricavata da dem
+101;Colle di Nava;CONA0;OD:CONA0;44.08325;7.87331;963;Italy;Liguria;Quota ricavata da dem
+105;Cornua;CRNU0;OD:CRNU0;44.43409;9.14225;261;Italy;Liguria;Quota ricavata da dem
+106;Crocetta di Orero;CROC0;OD:CROC0;44.52014;8.98586;490;Italy;Liguria;Quota ricavata da dem
+107;Crocetta di Orero;CRORE;OD:CRORE;44.52014;8.98586;490;Italy;Liguria;Quota ricavata da dem
+108;Cassagna;CSGN0;OD:CSGN0;44.33996;9.47037;514;Italy;Liguria;Quota ricavata da dem
+111;Cartiera Valle;CVAL0;OD:CVAL0;44.40776;8.65104;64;Italy;Liguria;Quota ricavata da dem
+114;Dolcedo;DLCD0;OD:DLCD0;43.90674;7.95115;143;Italy;Liguria;Quota ricavata da dem
+115;Dolcedo;DOLCD;OD:DOLCD;43.90674;7.95115;143;Italy;Liguria;Quota ricavata da dem
+117;Davagna;DVGN0;OD:DVGN0;44.46781;9.09539;475;Italy;Liguria;Quota ricavata da dem
+118;Diga Val Noci;DVNO0;OD:DVNO0;44.49291;9.03475;665;Italy;Liguria;Quota ricavata da dem
+119;Ellera;ELLE0;OD:ELLE0;44.36218;8.46848;166;Italy;Liguria;Quota ricavata da dem
+121;Ellera;ELRA0;OD:ELRA0;44.36301;8.4647;113;Italy;Liguria;Quota ricavata da dem
+122;Panesi;EPAN0;OD:EPAN0;44.34209;9.35624;50;Italy;Liguria;Quota ricavata da dem
+123;Equi terme;EQUIT;OD:EQUIT;44.16905;10.14987;358;Italy;Liguria;Quota ricavata da dem
+124;Equi Terme;ETRME;OD:ETRME;44.16905;10.14987;358;Italy;Liguria;Quota ricavata da dem
+125;Genova - S. Eusebio;EUSE0;OD:EUSE0;44.44309;8.98836;187;Italy;Liguria;Quota ricavata da dem
+126;Favale di Malvaro;FAV20;OD:FAV20;44.45242;9.25877;420;Italy;Liguria;Quota ricavata da dem
+127;Favale di Malvaro;FAVA0;OD:FAVA0;44.45242;9.25877;420;Italy;Liguria;Quota ricavata da dem
+128;Feglino;FEGL0;OD:FEGL0;44.2204;8.32505;214;Italy;Liguria;Quota ricavata da dem
+133;La Foce;FOSP0;OD:FOSP0;44.12485;9.78808;269;Italy;Liguria;Quota ricavata da dem
+134;Fornola;FRNLA;OD:FRNLA;44.13805;9.90619;17;Italy;Liguria;Quota ricavata da dem
+135;Fiorino;FRNO0;OD:FRNO0;44.46494;8.70493;306;Italy;Liguria;Quota ricavata da dem
+136;Garlenda;GARL0;OD:GARL0;44.03337;8.0974;148;Italy;Liguria;Quota ricavata da dem
+137;Genova - Castellaccio;GCAS0;OD:GCAS0;44.42834;8.93448;171;Italy;Liguria;Quota ricavata da dem
+142;Genova - Pontedecimo;GEPTX;OD:GEPTX;44.48852;8.9001;181;Italy;Liguria;Quota ricavata da dem
+143;Grattola;GGRA0;OD:GGRA0;44.37;9.88;241;Italy;Liguria;Quota ricavata da dem
+145;Pontremoli - S.Giustina;GIUS0;OD:GIUS0;44.36182;9.89656;226;Italy;Liguria;Quota ricavata da dem
+146;Ca' di Ferra;GOTTR;OD:GOTTR;44.28059;9.66244;225;Italy;Liguria;Quota ricavata da dem
+148;Giacopiane;GPIA0;OD:GPIA0;44.46268;9.39525;998;Italy;Liguria;Quota ricavata da dem
+149;Madonna della Guardia;GUAR0;OD:GUAR0;44.48905;8.86297;642;Italy;Liguria;Quota ricavata da dem
+150;Madonna della Guardia;GUARD;OD:GUARD;44.48905;8.86297;642;Italy;Liguria;Quota ricavata da dem
+151;Guinadi - Presa Verde;GUIND;OD:GUIND;44.41206;9.84836;446;Italy;Liguria;Quota ricavata da dem
+152;Iera;IERA2;OD:IERA2;44.33267;10.03362;637;Italy;Liguria;Quota ricavata da dem
+153;Iera;IERAA;OD:IERAA;44.33304;10.03354;680;Italy;Liguria;Quota ricavata da dem
+154;Genova - S. Ilario;ILAR0;OD:ILAR0;44.384;9.06066;237;Italy;Liguria;Quota ricavata da dem
+155;Imperia - Oss. Meteosismico;IMP20;OD:IMP20;43.87957;8.01652;46;Italy;Liguria;Quota ricavata da dem
+157;Savona - Istituto Nautico;INASV;OD:INASV;44.3062;8.48305;5;Italy;Liguria;Quota ricavata da dem
+158;Albenga - Isolabella;ISBLL;OD:ISBLL;44.06875;8.17956;34;Italy;Liguria;Quota ricavata da dem
+159;Isolabona;ISBO0;OD:ISBO0;43.87758;7.63767;151;Italy;Liguria;Quota ricavata da dem
+160;Isola del Cantone;ISOC0;OD:ISOC0;44.645;8.9586;388;Italy;Liguria;Quota ricavata da dem
+161;Albenga - Isolabella;ISOL0;OD:ISOL0;44.06866;8.17985;34;Italy;Liguria;Quota ricavata da dem
+162;Isoverde;ISOVE;OD:ISOVE;44.53013;8.85822;253;Italy;Liguria;Quota ricavata da dem
+164;Isoverde;ISVD0;OD:ISVD0;44.53013;8.85822;253;Italy;Liguria;Quota ricavata da dem
+165;Laccio;LACI0;OD:LACI0;44.49529;9.13061;619;Italy;Liguria;Quota ricavata da dem
+167;La Presa;LAPRS;OD:LAPRS;44.44076;9.04717;290;Italy;Liguria;Quota ricavata da dem
+168;S. Martino;LASM0;OD:LASM0;44.36047;9.34033;100;Italy;Liguria;Quota ricavata da dem
+170;Lavezze - Lago;LAVE0;OD:LAVE0;44.54953;8.82328;705;Italy;Liguria;Quota ricavata da dem
+171;Loco Carchelli;LCAR0;OD:LCAR0;44.55604;9.28601;680;Italy;Liguria;Quota ricavata da dem
+174;La Foce;LFSPE;OD:LFSPE;44.12485;9.78808;269;Italy;Liguria;Quota ricavata da dem
+175;Giacopiane;LGIAC;OD:LGIAC;44.46268;9.39525;998;Italy;Liguria;Quota ricavata da dem
+176;Levanto;LNTO0;OD:LNTO0;44.17346;9.61578;27;Italy;Liguria;Quota ricavata da dem
+177;Verzi Loano;LOAN0;OD:LOAN0;44.15611;8.23647;205;Italy;Liguria;Quota ricavata da dem
+178;Lerca;LRCA0;OD:LRCA0;44.4035;8.64766;93;Italy;Liguria;Quota ricavata da dem
+179;Salto del Lupo;LUPO0;OD:LUPO0;44.13992;8.18301;261;Italy;Liguria;Quota ricavata da dem
+180;Levanto;LVANT;OD:LVANT;44.17346;9.61578;27;Italy;Liguria;Quota ricavata da dem
+183;Pontremoli - S.Giustina;MAGSG;OD:MAGSG;44.36182;9.89656;226;Italy;Liguria;Quota ricavata da dem
+184;Madonna delle Grazie;MAGZ0;OD:MAGZ0;44.43429;8.74155;77;Italy;Liguria;Quota ricavata da dem
+185;Manie;MANI0;OD:MANI0;44.19866;8.37656;292;Italy;Liguria;Quota ricavata da dem
+188;Marsiglia;MARS0;OD:MARS0;44.47043;8.92044;153;Italy;Liguria;Quota ricavata da dem
+189;Matucaso;MAT20;OD:MAT20;44.27157;10.16665;725;Italy;Liguria;Quota ricavata da dem
+190;Matucaso;MATU0;OD:MATU0;44.27157;10.16665;725;Italy;Liguria;Quota ricavata da dem
+191;Mazzola;MAZLA;OD:MAZLA;44.21117;10.11668;530;Italy;Liguria;Quota ricavata da dem
+192;Mazzola;MAZZ0;OD:MAZZ0;44.21061;10.11584;433;Italy;Liguria;Quota ricavata da dem
+193;Madonna del Bosco;MBO20;OD:MBO20;44.4188;9.1328;381;Italy;Liguria;Quota ricavata da dem
+195;Mele;MEL20;OD:MEL20;44.47419;8.73312;351;Italy;Liguria;Quota ricavata da dem
+196;Mele;MELEE;OD:MELEE;44.47419;8.73312;351;Italy;Liguria;Quota ricavata da dem
+197;Merelli;MERE0;OD:MERE0;43.88137;7.84759;130;Italy;Liguria;Quota ricavata da dem
+199;Mignanego;MGNG0;OD:MGNG0;44.53978;8.93975;339;Italy;Liguria;Quota ricavata da dem
+200;Madonna delle Grazie;MGRAZ;OD:MGRAZ;44.43429;8.74155;77;Italy;Liguria;Quota ricavata da dem
+202;Mignanego;MIGNA;OD:MIGNA;44.54028;8.93816;339;Italy;Liguria;Quota ricavata da dem
+203;Millesimo;MILL0;OD:MILL0;44.35964;8.20845;529;Italy;Liguria;Quota ricavata da dem
+204;Montale di Levanto;MLEV0;OD:MLEV0;44.1883;9.6274;112;Italy;Liguria;Quota ricavata da dem
+206;Murella d'Isola;MMISL;OD:MMISL;44.18542;9.92608;63;Italy;Liguria;Quota ricavata da dem
+209;Monte Cappellino;MOCA0;OD:MOCA0;44.55062;8.95687;618;Italy;Liguria;Quota ricavata da dem
+210;Genova - Molassana;MOLA0;OD:MOLA0;44.45521;8.98066;97;Italy;Liguria;Quota ricavata da dem
+211;Molinetto;MOLIN;OD:MOLIN;44.43946;8.74603;77;Italy;Liguria;Quota ricavata da dem
+212;Montagna;MONT0;OD:MONT0;44.28;8.37;194;Italy;Liguria;Quota ricavata da dem
+213;Montalto Ligure;MONTL;OD:MONTL;43.93074;7.84202;338;Italy;Liguria;Quota ricavata da dem
+214;Molino Perti;MOPE0;OD:MOPE0;44.18502;8.3086;221;Italy;Liguria;Quota ricavata da dem
+215;Mortola Inferiore;MORT0;OD:MORT0;43.78481;7.5533;96;Italy;Liguria;Quota ricavata da dem
+218;Mattarana;MTRAN;OD:MTRAN;44.24501;9.6151;478;Italy;Liguria;Quota ricavata da dem
+219;Mattarana;MTRN0;OD:MTRN0;44.24501;9.6151;478;Italy;Liguria;Quota ricavata da dem
+221;Monte Zatta (Tarola);MZA20;OD:MZA20;44.40482;9.4474;1103;Italy;Liguria;Quota ricavata da dem
+223;Nasceto;NASC0;OD:NASC0;44.27808;9.65595;256;Italy;Liguria;Quota ricavata da dem
+224;Nasceto;NASCE;OD:NASCE;44.27808;9.65595;256;Italy;Liguria;Quota ricavata da dem
+225;Buggio;NBUG0;OD:NBUG0;43.96126;7.68502;691;Italy;Liguria;Quota ricavata da dem
+226;Cisano Sul Neva;NCIS0;OD:NCIS0;44.08548;8.14601;98;Italy;Liguria;Quota ricavata da dem
+227;Genova - Nervi;NEVI0;OD:NEVI0;44.38237;9.0438;31;Italy;Liguria;Quota ricavata da dem
+230;Neirone;NRNE0;OD:NRNE0;44.44588;9.18689;380;Italy;Liguria;Quota ricavata da dem
+231;Ognio;OGNI0;OD:OGNI0;44.44026;9.17167;297;Italy;Liguria;Quota ricavata da dem
+232;Osiglia Diga;OSID0;OD:OSID0;44.31071;8.19721;646;Italy;Liguria;Quota ricavata da dem
+234;Passo del Cerreto;PACE0;OD:PACE0;44.30407;10.21694;1215;Italy;Liguria;Quota ricavata da dem
+235;Padivarma;PADIV;OD:PADIV;44.19435;9.76967;103;Italy;Liguria;Quota ricavata da dem
+236;Pannesi;PAN20;OD:PAN20;44.4199;9.1191;444;Italy;Liguria;Quota ricavata da dem
+237;Panesi;PANES;OD:PANES;44.34209;9.35624;50;Italy;Liguria;Quota ricavata da dem
+238;Pannesi;PANN0;OD:PANN0;44.4199;9.1191;444;Italy;Liguria;Quota ricavata da dem
+239;Parana;PARAN;OD:PARAN;44.28091;9.86336;667;Italy;Liguria;Quota ricavata da dem
+240;Patigno;PATIG;OD:PATIG;44.35282;9.76238;725;Italy;Liguria;Quota ricavata da dem
+241;Piana Battolla;PBA20;OD:PBA20;44.19247;9.8515;53;Italy;Liguria;Quota ricavata da dem
+242;Piana Battolla - Ponte;PBATT;OD:PBATT;44.19801;9.84904;58;Italy;Liguria;Quota ricavata da dem
+243;Genova - Ponte Carrega;PCA20;OD:PCA20;44.43853;8.9627;62;Italy;Liguria;Quota ricavata da dem
+244;Passo del Cerreto;PCERR;OD:PCERR;44.30407;10.21694;1215;Italy;Liguria;Quota ricavata da dem
+246;Passo Cento Croci;PCR20;OD:PCR20;44.41632;9.62481;927;Italy;Liguria;Quota ricavata da dem
+247;Passo Cento Croci;PCRO0;OD:PCRO0;44.4187;9.62679;1011;Italy;Liguria;Quota ricavata da dem
+249;Genova - Pegli;PEG20;OD:PEG20;44.42675;8.8235;34;Italy;Liguria;Quota ricavata da dem
+250;Il Pero;PEROO;OD:PEROO;44.38241;8.55555;188;Italy;Liguria;Quota ricavata da dem
+253;Piana di Soglio;PIAN0;OD:PIAN0;44.39573;9.25968;94;Italy;Liguria;Quota ricavata da dem
+254;Piazza;PIAZ0;OD:PIAZ0;44.23407;9.55914;281;Italy;Liguria;Quota ricavata da dem
+255;Piccatello;PICC0;OD:PICC0;44.3929;9.88582;396;Italy;Liguria;Quota ricavata da dem
+256;Piena;PIEN0;OD:PIEN0;43.91062;7.51643;309;Italy;Liguria;Quota ricavata da dem
+257;Pigna;PIGN0;OD:PIGN0;43.93297;7.66162;372;Italy;Liguria;Quota ricavata da dem
+258;Piampaludo;PLDO0;OD:PLDO0;44.46181;8.58278;865;Italy;Liguria;Quota ricavata da dem
+259;Panesi;PNSI0;OD:PNSI0;44.34209;9.35624;50;Italy;Liguria;Quota ricavata da dem
+260;Pontedecimo;PNT10;OD:PNT10;44.4989;8.90178;151;Italy;Liguria;Quota ricavata da dem
+263;Pogli d'Ortovero;POGLI;OD:POGLI;44.05445;8.06393;126;Italy;Liguria;Quota ricavata da dem
+265;Genova - Pontedecimo;PON20;OD:PON20;44.48852;8.9001;181;Italy;Liguria;Quota ricavata da dem
+266;Pontremoli - Verdeno;PONVD;OD:PONVD;44.37486;9.87634;256;Italy;Liguria;Quota ricavata da dem
+267;Pontremoli - S.S.Annunziata;PONZT;OD:PONZT;44.37014;9.88597;290;Italy;Liguria;Quota ricavata da dem
+268;Pogli d'Ortovero;POORT;OD:POORT;44.05394;8.05562;134;Italy;Liguria;Quota ricavata da dem
+270;Portovenere;PORT0;OD:PORT0;44.05215;9.83414;29;Italy;Liguria;Quota ricavata da dem
+271;Pogli d'Ortovero;POVE0;OD:POVE0;44.05394;8.05562;134;Italy;Liguria;Quota ricavata da dem
+272;Genova - Prato;PRATO;OD:PRATO;44.44908;9.01292;122;Italy;Liguria;Quota ricavata da dem
+274;Presa Gordana;PRGO0;OD:PRGO0;44.34969;9.7998;705;Italy;Liguria;Quota ricavata da dem
+275;Parana;PRNA0;OD:PRNA0;44.28279;9.86066;667;Italy;Liguria;Quota ricavata da dem
+276;Propata;PROP0;OD:PROP0;44.55318;9.19228;894;Italy;Liguria;Quota ricavata da dem
+277;Genova - Prato;PRTO0;OD:PRTO0;44.44908;9.01292;122;Italy;Liguria;Quota ricavata da dem
+278;Parazzuolo;PRZZ0;OD:PRZZ0;44.47679;9.32516;856;Italy;Liguria;Quota ricavata da dem
+279;Pontremoli - SS.Annunziata;PSSA0;OD:PSSA0;44.37014;9.88597;290;Italy;Liguria;Quota ricavata da dem
+280;Pieve di Teco;PTCO0;OD:PTCO0;44.04952;7.91473;293;Italy;Liguria;Quota ricavata da dem
+281;Pieve di Teco;PTECO;OD:PTECO;44.04952;7.91473;293;Italy;Liguria;Quota ricavata da dem
+284;Pieve S. Paolo;PVSPO;OD:PVSPO;44.25625;10.17423;614;Italy;Liguria;Quota ricavata da dem
+286;Collodari;RCOL0;OD:RCOL0;44.37697;9.15162;110;Italy;Liguria;Quota ricavata da dem
+287;Reppia;REPPI;OD:REPPI;44.37488;9.45774;625;Italy;Liguria;Quota ricavata da dem
+288;Rialto;RIAL0;OD:RIAL0;44.22664;8.26437;453;Italy;Liguria;Quota ricavata da dem
+289;Ricco' del Golfo;RICC0;OD:RICC0;44.15261;9.76264;168;Italy;Liguria;Quota ricavata da dem
+291;Rocchetta;ROCC0;OD:ROCC0;44.32652;9.84724;473;Italy;Liguria;Quota ricavata da dem
+292;Rocchetta Nervina;ROCNE;OD:ROCNE;43.88859;7.60177;336;Italy;Liguria;Quota ricavata da dem
+293;Rovegno;ROGN0;OD:ROGN0;44.57594;9.2825;686;Italy;Liguria;Quota ricavata da dem
+295;Rondanina;ROND0;OD:ROND0;44.55;9.20222;1001;Italy;Liguria;Quota ricavata da dem
+296;Rocchetta Nervina;RONE0;OD:RONE0;43.88859;7.60177;336;Italy;Liguria;Quota ricavata da dem
+297;Rossiglione;ROSG0;OD:ROSG0;44.5694;8.6681;401;Italy;Liguria;Quota ricavata da dem
+298;Rocca Sigillina;ROSIG;OD:ROSIG;44.36652;9.95572;530;Italy;Liguria;Quota ricavata da dem
+301;Reppia;RPPA0;OD:RPPA0;44.37488;9.45774;625;Italy;Liguria;Quota ricavata da dem
+302;Rocca Sigillina;RSIGN;OD:RSIGN;44.36652;9.95572;530;Italy;Liguria;Quota ricavata da dem
+303;Rugge di Pontedassio;RUG20;OD:RUG20;43.94153;8.00619;181;Italy;Liguria;Quota ricavata da dem
+304;Rugge di Pontedassio;RUGGE;OD:RUGGE;43.94153;8.00619;181;Italy;Liguria;Quota ricavata da dem
+305;Ponte Poggi;SAEL0;OD:SAEL0;44.36676;8.46609;146;Italy;Liguria;Quota ricavata da dem
+306;S. Alberto;SALB0;OD:SALB0;44.45;8.83;458;Italy;Liguria;Quota ricavata da dem
+309;Sanguineto;SANG0;OD:SANG0;44.48333;9.03556;648;Italy;Liguria;Quota ricavata da dem
+310;Santuario di Savona;SANTU;OD:SANTU;44.34555;8.43753;140;Italy;Liguria;Quota ricavata da dem
+311;Sestri Levante - Sara;SARAA;OD:SARAA;44.27;9.42966;20;Italy;Liguria;Quota ricavata da dem
+312;Sanremo - Casino';SARE0;OD:SARE0;43.81484;7.77634;2;Italy;Liguria;Quota ricavata da dem
+313;Sarola;SARO0;OD:SARO0;43.95551;7.99402;133;Italy;Liguria;Quota ricavata da dem
+315;Santuario di Savona;SASA0;OD:SASA0;44.34555;8.43753;140;Italy;Liguria;Quota ricavata da dem
+316;Sciarborasca;SCIA0;OD:SCIA0;44.40117;8.61465;251;Italy;Liguria;Quota ricavata da dem
+317;Scoffera;SCO20;OD:SCO20;44.47901;9.1185;729;Italy;Liguria;Quota ricavata da dem
+318;Scoffera;SCOFF;OD:SCOFF;44.47901;9.1185;729;Italy;Liguria;Quota ricavata da dem
+319;Segno;SEGN0;OD:SEGN0;44.25404;8.3835;127;Italy;Liguria;Quota ricavata da dem
+321;Sella di Savona;SELL0;OD:SELL0;44.34548;8.34743;408;Italy;Liguria;Quota ricavata da dem
+323;Genova - Servizio Idrografico;SIMG0;OD:SIMG0;44.40081;8.94619;45;Italy;Liguria;Quota ricavata da dem
+324;Genova - Servizio Idrografico;SIMGE;OD:SIMGE;44.40081;8.94619;45;Italy;Liguria;Quota ricavata da dem
+325;Genova - S. Siro Struppa;SIRO0;OD:SIRO0;44.45;9;165;Italy;Liguria;Quota ricavata da dem
+326;Sestri Levante;SLEVA;OD:SLEVA;44.27377;9.40992;10;Italy;Liguria;Quota ricavata da dem
+327;S. Margherita Ligure;SMAR0;OD:SMAR0;44.33438;9.2124;55;Italy;Liguria;Quota ricavata da dem
+328;S. Michele;SMCH0;OD:SMCH0;44.42362;9.39401;327;Italy;Liguria;Quota ricavata da dem
+330;S. Martino del Monte;SMON0;OD:SMON0;44.36555;9.3478;153;Italy;Liguria;Quota ricavata da dem
+331;S. Maria di Sturla;SMST0;OD:SMST0;44.35819;9.35104;108;Italy;Liguria;Quota ricavata da dem
+332;S. Margherita Vara;SMVA0;OD:SMVA0;44.2747;9.65964;225;Italy;Liguria;Quota ricavata da dem
+333;S. Margherita Vara;SMVAR;OD:SMVAR;44.2747;9.65964;225;Italy;Liguria;Quota ricavata da dem
+334;Sanda;SNDA0;OD:SNDA0;44.36189;8.5273;191;Italy;Liguria;Quota ricavata da dem
+335;Stella S. Giustina;SNTA0;OD:SNTA0;44.41582;8.48252;369;Italy;Liguria;Quota ricavata da dem
+336;Soliera;SOLIE;OD:SOLIE;44.20233;10.06207;177;Italy;Liguria;Quota ricavata da dem
+337;Segheria Piccardo;SPIC0;OD:SPIC0;44.33852;8.45384;160;Italy;Liguria;Quota ricavata da dem
+338;S. Pietro di Novella;SPIE0;OD:SPIE0;44.36319;9.21077;91;Italy;Liguria;Quota ricavata da dem
+339;La Spezia;SPZA0;OD:SPZA0;44.10703;9.82819;3;Italy;Liguria;Quota ricavata da dem
+343;Sarzana;SRZN0;OD:SRZN0;44.11378;9.964;33;Italy;Liguria;Quota ricavata da dem
+344;S. Stefano d'Aveto;SSAT0;OD:SSAT0;44.54724;9.45159;1073;Italy;Liguria;Quota ricavata da dem
+345;Stella S. Giustina;SSGIU;OD:SSGIU;44.41582;8.48252;369;Italy;Liguria;Quota ricavata da dem
+347;Statale;STAT0;OD:STAT0;44.34761;9.48235;583;Italy;Liguria;Quota ricavata da dem
+348;Stella S. Bernardo;STBE0;OD:STBE0;44.39531;8.47703;305;Italy;Liguria;Quota ricavata da dem
+349;Stellanello;STELL;OD:STELL;44.00021;8.05527;255;Italy;Liguria;Quota ricavata da dem
+350;Stellanello;STLL0;OD:STLL0;44.00021;8.05527;255;Italy;Liguria;Quota ricavata da dem
+351;Stella S. Martino;STMA0;OD:STMA0;44.39091;8.51543;295;Italy;Liguria;Quota ricavata da dem
+352;Mele;STMEL;OD:STMEL;44.47419;8.73312;351;Italy;Liguria;Quota ricavata da dem
+353;Montelungo Superiore;SUPE0;OD:SUPE0;44.44728;9.90811;789;Italy;Liguria;Quota ricavata da dem
+354;Vignolo;SVIG0;OD:SVIG0;44.38158;9.37344;166;Italy;Liguria;Quota ricavata da dem
+355;Savona - Istituto Nautico;SVIN0;OD:SVIN0;44.3062;8.48305;5;Italy;Liguria;Quota ricavata da dem
+356;Sero' di Zignago;SZGN0;OD:SZGN0;44.26434;9.73698;525;Italy;Liguria;Quota ricavata da dem
+357;Sero' di Zignago;SZIGN;OD:SZIGN;44.26434;9.73698;525;Italy;Liguria;Quota ricavata da dem
+358;Taggia;TAGG0;OD:TAGG0;43.86182;7.85207;48;Italy;Liguria;Quota ricavata da dem
+360;Tavole;TAVO0;OD:TAVO0;43.93014;7.90804;529;Italy;Liguria;Quota ricavata da dem
+361;Tavarone;TAVRN;OD:TAVRN;44.31274;9.54859;587;Italy;Liguria;Quota ricavata da dem
+362;Testico;TESTI;OD:TESTI;44.00653;8.03517;349;Italy;Liguria;Quota ricavata da dem
+363;Tigliolo;TGLL0;OD:TGLL0;44.44327;9.36156;418;Italy;Liguria;Quota ricavata da dem
+364;Licciana;TLIC0;OD:TLIC0;44.26329;10.03743;276;Italy;Liguria;Quota ricavata da dem
+365;Tendola;TNDL0;OD:TNDL0;44.16089;10.03783;290;Italy;Liguria;Quota ricavata da dem
+366;Tendola;TNDLA;OD:TNDLA;44.15582;10.03346;289;Italy;Liguria;Quota ricavata da dem
+367;Carpe;TOIR0;OD:TOIR0;44.14276;8.16522;510;Italy;Liguria;Quota ricavata da dem
+368;Riva Trigoso;TRIG0;OD:TRIG0;44.26439;9.42572;30;Italy;Liguria;Quota ricavata da dem
+370;Triora;TROR0;OD:TROR0;43.99229;7.76762;598;Italy;Liguria;Quota ricavata da dem
+371;Testico;TSTC0;OD:TSTC0;44.00538;8.02774;379;Italy;Liguria;Quota ricavata da dem
+372;Turano;TURAN;OD:TURAN;44.24682;10.15149;481;Italy;Liguria;Quota ricavata da dem
+373;Turano;TURN0;OD:TURN0;44.24682;10.15149;481;Italy;Liguria;Quota ricavata da dem
+374;Tavole;TVLE0;OD:TVLE0;43.93014;7.90804;529;Italy;Liguria;Quota ricavata da dem
+375;Tavarone;TVNE0;OD:TVNE0;44.31274;9.54859;587;Italy;Liguria;Quota ricavata da dem
+376;Genova - Universit�;UNIGE;OD:UNIGE;44.41561;8.92708;48;Italy;Liguria;Quota ricavata da dem
+377;Genova - Universit�;UNIV0;OD:UNIV0;44.41561;8.92708;48;Italy;Liguria;Quota ricavata da dem
+378;Villanova di Albenga;VALB0;OD:VALB0;44.04597;8.14423;94;Italy;Liguria;Quota ricavata da dem
+379;Vallenzona;VALE0;OD:VALE0;44.6;9.08556;807;Italy;Liguria;Quota ricavata da dem
+380;Varese Ligure;VALI0;OD:VALI0;44.38425;9.58135;441;Italy;Liguria;Quota ricavata da dem
+382;Piana Battolla;VAPBL;OD:VAPBL;44.19792;9.84883;58;Italy;Liguria;Quota ricavata da dem
+383;Varazze;VARZ0;OD:VARZ0;44.38306;8.57833;344;Italy;Liguria;Quota ricavata da dem
+384;Valle Tane;VATA0;OD:VATA0;43.98987;7.67756;1492;Italy;Liguria;Quota ricavata da dem
+385;Ventimiglia;VENT0;OD:VENT0;43.78777;7.61211;21;Italy;Liguria;Quota ricavata da dem
+388;Villafranca Lunigiana;VFRA0;OD:VFRA0;44.2908;9.95065;162;Italy;Liguria;Quota ricavata da dem
+390;Vicomorasso;VICT0;OD:VICT0;44.48555;8.97849;348;Italy;Liguria;Quota ricavata da dem
+391;Viganego;VIG20;OD:VIG20;44.42855;9.06338;502;Italy;Liguria;Quota ricavata da dem
+392;Viganego;VIGAN;OD:VIGAN;44.42846;9.06348;502;Italy;Liguria;Quota ricavata da dem
+393;Villafranca Lunigiana;VILFR;OD:VILFR;44.2908;9.95065;162;Italy;Liguria;Quota ricavata da dem
+395;Valle Murialdo;VLMUR;OD:VLMUR;44.30681;8.12143;594;Italy;Liguria;Quota ricavata da dem
+396;Padivarma;VPAD0;OD:VPAD0;44.19934;9.77326;103;Italy;Liguria;Quota ricavata da dem
+397;Valleregia;VRE30;OD:VRE30;44.5196;8.94784;348;Italy;Liguria;Quota ricavata da dem
+398;Valleregia;VREGI;OD:VREGI;44.52038;8.94744;348;Italy;Liguria;Quota ricavata da dem
+399;Varese Ligure;VRLIG;OD:VRLIG;44.38425;9.58135;441;Italy;Liguria;Quota ricavata da dem

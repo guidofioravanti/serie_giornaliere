@@ -1,0 +1,155 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;Regione;State;Comments
+1;Craco Peschiera;176900;OD:176900;40.3667;16.5153;65;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+2;Torre Accio;177000;OD:177000;40.3925;16.6539;21;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+5;Campomaggiore;179800;OD:179800;40.5486;16.0778;437;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+6;Albano di Lucania;179900;OD:179900;40.5894;16.0378;794;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+7;Sinni SS106;203900;OD:203900;40.1678;16.6514;10;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+8;Cavone SS106;204000;OD:204000;40.2983;16.7267;14;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+9;Basento freatimetro;215900;OD:215900;40.3742;16.7789;8;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+11;Bradano freatimetro;230600;OD:230600;40.425;16.8181;9;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+12;Terra Montonata;233200;OD:233200;40.31;16.7519;10;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+13;Basento SS 106;240400;OD:240400;40.3694;16.7806;8;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+15;Grassano SP;240700;OD:240700;40.6347;16.275;450;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+17;Episcopia-Pizzutello;275500;OD:275500;40.07;16.1036;471;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+18;Castrocucco;275600;OD:275600;40.0011;15.7967;163;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+19;Terranova di Pollino;276500;OD:276500;39.9839;16.2983;1150;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+20;Tursi;276900;OD:276900;40.2517;16.4711;257;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+21;Marsico Nuovo;277300;OD:277300;40.405;15.725;666;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+23;Castelsaraceno;331200;OD:331200;40.1611;15.9861;959;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+25;Roccanova;332500;OD:332500;40.2128;16.2067;610;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+26;Potenza Q.A.;387900;OD:387900;40.6264;15.7969;708;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+29;Oppido Lucano;418000;OD:418000;40.7639;15.9983;580;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+30;Lavello;418100;OD:418100;41.0369;15.7914;314;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+31;Venosa;418200;OD:418200;40.9597;15.8036;406;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+32;Palazzo S.Gervasio;418300;OD:418300;40.9339;15.98;422;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+33;Picerno;419700;OD:419700;40.6372;15.6369;638;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+34;Balvano;419800;OD:419800;40.6494;15.5014;477;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+35;Brienza;419900;OD:419900;40.4794;15.6411;765;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+36;Tito;420000;OD:420000;40.5742;15.6569;728;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+38;Montescaglioso;481200;OD:481200;40.5583;16.7014;82;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+39;Tramutola;54700;OD:54700;40.2986;15.7867;875;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+40;Stigliano;54800;OD:54800;40.3928;16.2236;807;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+41;Noepoli;54900;OD:54900;40.0894;16.3306;575;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+42;Matera;55000;OD:55000;40.6694;16.6017;389;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+43;Lagonegro;55100;OD:55100;40.1344;15.7622;879;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+44;Irsina;55200;OD:55200;40.7417;16.2461;453;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+48;Potenza;83800;OD:83800;40.6328;15.8108;669;Basilicata;Italy;Quota ricavata da dem ** fonte: hisCentral ** Codici OD di His Central ** NA
+100;Accettura;100;OD:100;40.5006772266;16.1486295986;799;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+101;Acerenza;101;OD:101;40.8006734953;15.9326469898;833;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+102;Acquafredda;102;OD:102;40.0339926458;15.6668096649;86;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+103;Agromonte_C._C.;103;OD:103;40.0673364119;16.0489373913;500;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+104;Albano_di_Lucania;104;OD:104;40.5819656006;16.0358513363;824;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 179900
+105;Aliano;105;OD:105;40.3006782273;16.2316980607;497;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+106;Anzi;106;OD:106;40.5173368977;15.9160287691;1066;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+107;Armento;107;OD:107;40.3006725172;16.0655547873;640;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+108;Baraccone_C.C.;108;OD:108;40.3840161189;16.3313852006;335;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+109;Basentello_C.C.;109;OD:109;40.7673526196;16.3147786413;350;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+110;Basento_Freatimetro;110;OD:110;40.3686516743;16.7809974729;10;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 215900
+111;Bella_S._Antonio_Casalini;111;OD:111;40.7399756097;15.6091527557;744;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+112;Bernalda;112;OD:112;40.4173649903;16.6802875505;127;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+113;Bradano_Freatimetro;113;OD:113;40.4228998378;16.8217376684;16;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+114;C.le_Castrocucco;114;OD:114;39.969893442;15.791169045;92;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+115;Calciano;115;OD:115;40.5840131859;16.1984741718;450;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+116;Calvello;116;OD:116;40.4673345694;15.8495707085;700;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+117;Calvera;117;OD:117;40.1498402558;16.1422550252;605;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+118;Cancellara;118;OD:118;40.7340057189;15.9160314423;620;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+119;Caprarico;119;OD:119;40.3006839613;16.3812264909;160;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+120;Caprarizzo;120;OD:120;40.6840204577;16.3646204672;420;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+121;Carbone;121;OD:121;40.1340047612;16.082166511;685;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+122;Castelluccio_Inferiore;122;OD:122;40.0062538635;15.970752416;490;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+123;Castelluccio_Superiore;123;OD:123;40.0173333505;15.9658655302;700;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+124;Castelsaraceno;124;OD:124;40.1673353537;15.9824815219;950;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+125;Castronuovo_S.Andrea;125;OD:125;40.1876198356;16.1837913079;660;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+126;Cavone_a_Ponte_SS_106;126;OD:126;40.2956991438;16.7212662881;17;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+127;Cersosimo;127;OD:127;40.0506801656;16.347993192;563;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+128;Chiaromonte;128;OD:128;40.1173419033;16.1984659845;794;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+129;Cogliandrino;129;OD:129;40.1006665617;15.9326381987;700;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+130;Cognato;130;OD:130;40.5673440253;16.1320163054;557;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+131;Colonna_C.C.;131;OD:131;40.7340117706;16.1154049126;350;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+132;Corleto_Perticara;132;OD:132;40.3840056668;16.0323276153;746;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+133;Craco;133;OD:133;40.384020093;16.4310715375;391;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+134;Craco_Peschiera_Idrometro;134;OD:134;40.3609996686;16.5215140057;6;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+135;Episcopia;135;OD:135;40.0673379983;16.0987800489;520;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 275500
+136;Ferrandina;136;OD:136;40.4979110602;16.4518417679;492;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+137;Foce_Sinni;137;OD:137;40.1645829007;16.641514138;35;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+138;Francavilla_in_Sinni;138;OD:138;40.0840081974;16.1984654173;421;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+139;Genzano_di_Lucania;139;OD:139;40.8530053431;16.0344202582;591;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+140;Gorgoglione;140;OD:140;40.4173431235;16.1486282139;800;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+141;Grancia;141;OD:141;40.6173383044;15.9326446586;747;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+142;Grassano;142;OD:142;40.6323635167;16.2699718294;577;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 240700
+143;Grottole;143;OD:143;40.6006868861;16.3812328283;481;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+144;Grumento_Nova;144;OD:144;40.2909452333;15.8969195432;585;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+145;Irsina;145;OD:145;40.7484605691;16.2355827272;533;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 55200
+146;Isca_di_Tramutola;146;OD:146;40.3339987163;15.7997263908;597;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+147;Lagonegro;147;OD:147;40.1341863273;15.7619997491;666;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+148;Latronico;148;OD:148;40.084002207;16.0157088827;884;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+149;Laurenzana;149;OD:149;40.4552513368;15.9758100073;850;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+150;Lauria_Inferiore;150;OD:150;40.050663337;15.8329519563;630;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+151;Malabocca_C.C.;151;OD:151;40.3173556597;16.4975273961;175;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+152;Maratea;152;OD:152;39.9839932465;15.7166521825;300;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+153;Marsico_Nuovo;153;OD:153;40.4238614952;15.7305235232;850;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+154;Marsicovetere;154;OD:154;40.3673327736;15.8163410146;1039;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+155;Matera;155;OD:155;40.6597138001;16.5954416605;450;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 55000
+156;Metaponto;156;OD:156;40.3673712428;16.8132006622;3;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+157;Mezzana_di_Lucania;157;OD:157;39.9673392612;16.1652352679;918;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+158;Miglionico;158;OD:158;40.5673581226;16.4975331755;466;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+159;Mileo;159;OD:159;40.0506690741;16.0323229256;750;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+160;Missanello;160;OD:160;40.2840090316;16.1652405664;566;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+161;Moliterno;161;OD:161;40.2339993734;15.8661827466;879;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+162;Montalbano_Jonico;162;OD:162;40.2840248999;16.5639835872;292;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+163;Monte_Serico;163;OD:163;40.8506807382;16.1486355404;557;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+164;Montemurro;164;OD:164;40.300669927;15.9824832418;710;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+165;Montepitecchio;165;OD:165;40.9173487304;16.1652514496;450;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+166;Montescaglioso;166;OD:166;40.5673657536;16.6636772043;364;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+167;Noepoli;167;OD:167;40.0896520552;16.3298788144;676;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 54900
+168;Nova_Siri;168;OD:168;40.1506888404;16.5307518084;300;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+169;Nova_Siri_Scalo;169;OD:169;40.1340265269;16.6304369854;2;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+170;Oppido_Lucano;170;OD:170;40.7673418467;15.9991043104;650;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+171;Palazzo_San_Gervasio;171;OD:171;40.9340096998;15.9824919721;483;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+172;Pietragalla;172;OD:172;40.7506711655;15.8661886206;839;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+173;Pignola;173;OD:173;40.5926116503;15.7712076581;742;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+174;Pignola_di_Lucania;174;OD:174;40.5840007949;15.783114558;924;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+175;Pisticci;175;OD:175;40.2950459358;16.734492897;364;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+176;Pizzutello;176;OD:176;40.0656875279;16.102201969;445;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+177;Policoro;177;OD:177;40.1578978962;16.6533702214;31;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+178;Pomarico;178;OD:178;40.517359798;16.5473751583;455;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+179;Ponte_Colonna;179;OD:179;40.738735538;16.1580487555;215;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+180;Potenza;180;OD:180;40.6369822844;15.8021046436;811;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 83800
+181;Potenza_Q.A.;181;OD:181;40.6361099574;15.8136122939;659;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+182;Recoleta;182;OD:182;40.2506951312;16.6470542922;83;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+183;Ripa_d_Api_Scalo;183;OD:183;40.7673454521;16.1154054903;298;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+184;Rivello;184;OD:184;40.0839949713;15.7498814609;450;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+185;Roccanova;185;OD:185;40.2173428179;16.1984676643;654;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+186;Rotonda;186;OD:186;39.9506680072;16.0323214783;630;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+187;Salandra;187;OD:187;40.5173500882;16.3147735342;598;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+188;San_Basilio;188;OD:188;40.3173648791;16.6968989903;67;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+189;San_Chirico_Raparo;189;OD:189;40.1840047179;16.0655530412;750;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+190;San_Giorgio_Lucano;190;OD:190;40.1173488296;16.3812227681;416;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+191;San_Giuliano;191;OD:191;40.6026377525;16.5310397674;69;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+192;San_Giuliano_C.C.;192;OD:192;40.6006939681;16.5473772249;90;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+193;San_Martino_d_Agri;193;OD:193;40.2340046635;16.048939812;661;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+194;San_Mauro_Forte;194;OD:194;40.4840139215;16.2483157797;565;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+195;San_Nicola_d__Avigliano;195;OD:195;40.7340026715;15.7997303975;848;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+196;San_Salvatore;196;OD:196;40.4340376731;16.7965885223;46;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+197;San_Severino_Lucano;197;OD:197;40.0173386406;16.1320073823;884;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+198;Sant_Arcangelo;198;OD:198;40.2506788815;16.2649254194;370;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+199;Scanzano;199;OD:199;40.2506975236;16.6968971702;23;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+200;Sciffra;200;OD:200;40.5703885563;15.7446246904;780;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+201;Sellata_C.C.;201;OD:201;40.5340002114;15.7831140351;1200;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+202;Senise;202;OD:202;40.1506786087;16.2815381097;330;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+203;Stigliano;203;OD:203;40.3975859707;16.2273575423;908;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 54800
+204;Teana;204;OD:204;40.1340069241;16.1486234795;800;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+205;Terra_Montonata;205;OD:205;40.304716496;16.7528726406;11;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 233200
+206;Terranova_di_Pollino;206;OD:206;39.9804455322;16.3037065364;930;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 276500
+207;Tolve;207;OD:207;40.6981327723;16.0289716683;568;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+208;Torre_Accio;208;OD:208;40.4034744433;16.6484426712;140;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 177000
+209;Tramutola;209;OD:209;40.3252638513;15.7739768238;654;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+210;Trecchina;210;OD:210;40.0173284563;15.7831089649;500;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+211;Tricarico;211;OD:211;40.6173450812;16.1486315605;698;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+212;Tursi;212;OD:212;40.247202419;16.4801779065;348;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** Codice assegnato dopo unione: 276900
+213;Vaglio_di_Lucania;213;OD:213;40.6673383418;15.9160305896;933;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+214;Valsinni;214;OD:214;40.1673513371;16.4310668755;250;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+215;Venusio_Scalo;215;OD:215;40.734029396;16.5639946024;338;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+216;Vietri;216;OD:216;40.595006942;15.5175103774;421;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+217;Viggianello;217;OD:217;39.9673364679;16.0821639726;512;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA
+218;Viggiano;218;OD:218;40.3340008317;15.8827978295;1023;Basilicata;Italy; ** fonte: ProtezioneCvile ** Codici OD inventati da Guido Fioravanti ** NA

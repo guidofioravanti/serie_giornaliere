@@ -1,0 +1,391 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
+1;COLLE LOMBARDA;001;OD:001;44.207915;7.147733;2334;Italy;Piemonte;Quota ricavata da dem
+2;FORMAZZA;010;OD:010;46.433411;8.358262;2385;Italy;Piemonte;Quota ricavata da dem
+3;ACQUI TERME;101;OD:101;44.678664;8.479704;198;Italy;Piemonte;Quota ricavata da dem
+4;PRALORMO;102;OD:102;44.853681;7.912513;307;Italy;Piemonte;Quota ricavata da dem
+5;MONTALDO SCARAMPI;103;OD:103;44.829305;8.259033;226;Italy;Piemonte;Quota ricavata da dem
+6;LUSERNA S. GIOVANNI;105;OD:105;44.812815;7.241162;488;Italy;Piemonte;Quota ricavata da dem
+7;MONTE MALANOTTE;106;OD:106;44.259454;7.793629;1506;Italy;Piemonte;Quota ricavata da dem
+8;BOVES;107;OD:107;44.335107;7.562019;573;Italy;Piemonte;Quota ricavata da dem
+9;MONTE FRAITEVE;108;OD:108;44.976889;6.861176;2494;Italy;Piemonte;Quota ricavata da dem
+10;CUMIANA;109;OD:109;44.9637;7.390844;325;Italy;Piemonte;Quota ricavata da dem
+11;VEROLENGO;110;OD:110;45.185042;8.01098;165;Italy;Piemonte;Quota ricavata da dem
+12;LANZO;111;OD:111;45.2888;7.492759;565;Italy;Piemonte;Quota ricavata da dem
+13;ALBANO VERCELLESE;112;OD:112;45.437997;8.388335;155;Italy;Piemonte;Quota ricavata da dem
+14;BORGOFRANCO D'IVREA;113;OD:113;45.514302;7.847817;282;Italy;Piemonte;Quota ricavata da dem
+15;CAMERI;114;OD:114;45.548011;8.693801;152;Italy;Piemonte;Quota ricavata da dem
+16;ALESSANDRIA LOBBI;115;OD:115;44.937081;8.704011;88;Italy;Piemonte;Quota ricavata da dem
+17;MOMBARCARO;116;OD:116;44.468365;8.085443;731;Italy;Piemonte;Quota ricavata da dem
+18;DOMODOSSOLA;117;OD:117;46.103003;8.302292;255;Italy;Piemonte;Quota ricavata da dem
+19;MOTTARONE;118;OD:118;45.881619;8.453694;1366;Italy;Piemonte;Quota ricavata da dem
+20;CASALE MONFERRATO;119;OD:119;45.13224;8.504171;105;Italy;Piemonte;Quota ricavata da dem
+21;BARDONECCHIA PRANUDIN;012;OD:012;45.104594;6.704337;1993;Italy;Piemonte;Quota ricavata da dem
+22;PINO TORINESE;120;OD:120;45.04134;7.765183;490;Italy;Piemonte;Quota ricavata da dem
+23;CAPANNE DI COSOLA;121;OD:121;44.675551;9.200151;1449;Italy;Piemonte;Quota ricavata da dem
+24;COLLE SAN BERNARDO;122;OD:122;44.178048;8.047958;913;Italy;Piemonte;Quota ricavata da dem
+25;OROPA;123;OD:123;45.626759;7.981253;1222;Italy;Piemonte;Quota ricavata da dem
+26;MEUGLIANO;124;OD:124;45.473686;7.781619;638;Italy;Piemonte;Quota ricavata da dem
+27;BERTODASCO;125;OD:125;45.439409;7.409723;855;Italy;Piemonte;Quota ricavata da dem
+28;NERAISSA;126;OD:126;44.324612;7.151676;1343;Italy;Piemonte;Quota ricavata da dem
+29;PONZONE BRIC BERTON;127;OD:127;44.518414;8.539126;681;Italy;Piemonte;Quota ricavata da dem
+30;VARZO;128;OD:128;46.249606;8.193045;1763;Italy;Piemonte;Quota ricavata da dem
+31;DRUOGNO;129;OD:129;46.134148;8.426022;924;Italy;Piemonte;Quota ricavata da dem
+32;BORGOMANERO;130;OD:130;45.688235;8.460267;299;Italy;Piemonte;Quota ricavata da dem
+33;POIRINO BANNA;131;OD:131;44.923986;7.829636;239;Italy;Piemonte;Quota ricavata da dem
+34;VARALLO;132;OD:132;45.819585;8.273839;592;Italy;Piemonte;Quota ricavata da dem
+35;ACCEGLIO;133;OD:133;44.485154;6.981433;1645;Italy;Piemonte;Quota ricavata da dem
+36;SEROLE BRIC PUSCHERA;135;OD:135;44.563002;8.258215;766;Italy;Piemonte;Quota ricavata da dem
+37;PERLO;136;OD:136;44.3303;8.083452;754;Italy;Piemonte;Quota ricavata da dem
+38;SOMANO;137;OD:137;44.540937;8.017379;625;Italy;Piemonte;Quota ricavata da dem
+39;ASTI TANARO;138;OD:138;44.884886;8.212291;116;Italy;Piemonte;Quota ricavata da dem
+40;MONTECHIARO D'ASTI;139;OD:139;45.00704;8.101097;225;Italy;Piemonte;Quota ricavata da dem
+41;COSTIGLIOLE SALUZZO;140;OD:140;44.557648;7.495934;442;Italy;Piemonte;Quota ricavata da dem
+42;CAPANNE MARCAROLO;141;OD:141;44.563186;8.768246;735;Italy;Piemonte;Quota ricavata da dem
+43;AVIGLIANA;142;OD:142;45.093913;7.394816;342;Italy;Piemonte;Quota ricavata da dem
+44;BORGONE;143;OD:143;45.11643;7.243961;426;Italy;Piemonte;Quota ricavata da dem
+45;PIETRASTRETTA;146;OD:146;45.14194;7.054042;732;Italy;Piemonte;Quota ricavata da dem
+46;FINIERE;148;OD:148;45.116951;6.966265;1041;Italy;Piemonte;Quota ricavata da dem
+47;VAL CLAREA;149;OD:149;45.141211;6.964779;1188;Italy;Piemonte;Quota ricavata da dem
+48;SALBERTRAND;150;OD:150;45.071209;6.894004;1150;Italy;Piemonte;Quota ricavata da dem
+49;GAD;151;OD:151;45.042714;6.840287;1101;Italy;Piemonte;Quota ricavata da dem
+50;PRERICHARD;152;OD:152;45.075005;6.716423;1358;Italy;Piemonte;Quota ricavata da dem
+51;ALPE DEVERO;154;OD:154;46.31601;8.260078;1652;Italy;Piemonte;Quota ricavata da dem
+52;CRODO;156;OD:156;46.22655;8.323771;558;Italy;Piemonte;Quota ricavata da dem
+53;PIZZANCO;157;OD:157;46.124028;8.17777;1015;Italy;Piemonte;Quota ricavata da dem
+54;SAUZE CESANA;158;OD:158;44.894544;6.918892;1954;Italy;Piemonte;Quota ricavata da dem
+55;CURSOLO;159;OD:159;46.098716;8.56737;733;Italy;Piemonte;Quota ricavata da dem
+56;ALPE CHEGGIO;160;OD:160;46.085088;8.115682;1617;Italy;Piemonte;Quota ricavata da dem
+57;ANZINO;162;OD:162;45.986732;8.155971;623;Italy;Piemonte;Quota ricavata da dem
+58;CASTELL'ALFERO;174;OD:174;44.988121;8.222917;143;Italy;Piemonte;Quota ricavata da dem
+59;VIGNALE MONFERRATO;175;OD:175;45.018353;8.408355;173;Italy;Piemonte;Quota ricavata da dem
+60;SAN SALVATORE MONFERRATO;176;OD:176;44.99294;8.566458;199;Italy;Piemonte;Quota ricavata da dem
+61;MASIO TANARO;177;OD:177;44.871552;8.41062;108;Italy;Piemonte;Quota ricavata da dem
+62;ALESSANDRIA BORMIDA;178;OD:178;44.905515;8.645525;91;Italy;Piemonte;Quota ricavata da dem
+63;SANTENA BANNA;180;OD:180;44.944598;7.782001;236;Italy;Piemonte;Quota ricavata da dem
+64;CARCOFORO;182;OD:182;45.907224;8.050604;1378;Italy;Piemonte;Quota ricavata da dem
+65;RASSA;185;OD:185;45.769478;8.016379;1085;Italy;Piemonte;Quota ricavata da dem
+66;PRAY SESSERA;188;OD:188;45.674006;8.221645;504;Italy;Piemonte;Quota ricavata da dem
+67;TRIVERO;189;OD:189;45.67499;8.147638;1045;Italy;Piemonte;Quota ricavata da dem
+68;LE SELLE;019;OD:019;45.05439;6.917355;2161;Italy;Piemonte;Quota ricavata da dem
+69;PIEDICAVALLO;191;OD:191;45.689378;7.956293;1108;Italy;Piemonte;Quota ricavata da dem
+70;CARMAGNOLA;195;OD:195;44.886173;7.686048;234;Italy;Piemonte;Quota ricavata da dem
+71;VERCELLI;198;OD:198;45.324569;8.389506;132;Italy;Piemonte;Quota ricavata da dem
+72;PIAN DELLE BARACCHE;002;OD:002;44.548832;7.133438;2282;Italy;Piemonte;Quota ricavata da dem
+73;RIFUGIO VACCARONE;020;OD:020;45.154212;6.916494;2677;Italy;Piemonte;Quota ricavata da dem
+74;PALESTRO SESIA;200;OD:200;45.284985;8.540152;115;Italy;Piemonte;Quota ricavata da dem
+75;MASSERANO;201;OD:201;45.55791;8.255167;239;Italy;Piemonte;Quota ricavata da dem
+76;CALIZZANO;203;OD:203;44.236251;8.118399;681;Italy;Piemonte;Quota ricavata da dem
+77;SAN DAMIANO BORBORE;204;OD:204;44.841978;8.081626;153;Italy;Piemonte;Quota ricavata da dem
+78;NIZZA MONFERRATO;207;OD:207;44.76457;8.345925;139;Italy;Piemonte;Quota ricavata da dem
+79;CAMERANA BORMIDA;208;OD:208;44.43601;8.156941;417;Italy;Piemonte;Quota ricavata da dem
+80;TONENGO;209;OD:209;45.115502;8.005533;413;Italy;Piemonte;Quota ricavata da dem
+81;CREA;211;OD:211;45.093703;8.277696;236;Italy;Piemonte;Quota ricavata da dem
+82;BASALUZZO;212;OD:212;44.762;8.680974;133;Italy;Piemonte;Quota ricavata da dem
+83;ARQUATA SCRIVIA;213;OD:213;44.682533;8.880944;320;Italy;Piemonte;Quota ricavata da dem
+84;ISOLA S. ANTONIO PO;216;OD:216;45.036157;8.821952;73;Italy;Piemonte;Quota ricavata da dem
+85;CASTELLAR PONZANO;217;OD:217;44.827294;8.846694;151;Italy;Piemonte;Quota ricavata da dem
+86;MONTECASTELLO TANARO;218;OD:218;44.946679;8.684428;87;Italy;Piemonte;Quota ricavata da dem
+87;CASTELLANIA;219;OD:219;44.798542;8.931128;371;Italy;Piemonte;Quota ricavata da dem
+88;ISOLA S. ANTONIO;220;OD:220;45.020719;8.85382;76;Italy;Piemonte;Quota ricavata da dem
+89;GUAZZORA SCRIVIA;221;OD:221;45.028686;8.876344;75;Italy;Piemonte;Quota ricavata da dem
+90;ROCCAFORTE LIGURE;222;OD:222;44.678587;9.023012;760;Italy;Piemonte;Quota ricavata da dem
+91;NOVI LIGURE;225;OD:225;44.785621;8.757333;168;Italy;Piemonte;Quota ricavata da dem
+92;BASALUZZO ORBA;226;OD:226;44.767492;8.671694;125;Italy;Piemonte;Quota ricavata da dem
+93;BRIGNANO FRASCATA;227;OD:227;44.803213;9.030282;433;Italy;Piemonte;Quota ricavata da dem
+94;FRACONALTO;228;OD:228;44.591896;8.879731;640;Italy;Piemonte;Quota ricavata da dem
+95;SARDIGLIANO;229;OD:229;44.756115;8.906681;266;Italy;Piemonte;Quota ricavata da dem
+96;OVADA;230;OD:230;44.647301;8.635638;193;Italy;Piemonte;Quota ricavata da dem
+97;PARETO;231;OD:231;44.527308;8.389323;497;Italy;Piemonte;Quota ricavata da dem
+98;PIVERONE;234;OD:234;45.430487;8.03351;244;Italy;Piemonte;Quota ricavata da dem
+99;PASSOBREVE CERVO;235;OD:235;45.630475;8.038148;609;Italy;Piemonte;Quota ricavata da dem
+100;MOMBALDONE BORMIDA;236;OD:236;44.568949;8.335125;206;Italy;Piemonte;Quota ricavata da dem
+101;LAGO AGNEL;237;OD:237;45.467888;7.139207;2326;Italy;Piemonte;Quota ricavata da dem
+102;PIAMPRATO;239;OD:239;45.556817;7.573003;1609;Italy;Piemonte;Quota ricavata da dem
+103;TRAVERSELLA;240;OD:240;45.528227;7.708164;1174;Italy;Piemonte;Quota ricavata da dem
+104;CAVALLARIA;241;OD:241;45.517119;7.808312;1088;Italy;Piemonte;Quota ricavata da dem
+105;CESANA THURAS;242;OD:242;44.88959;6.844015;1982;Italy;Piemonte;Quota ricavata da dem
+106;PONZONE CIMAFERLE;243;OD:243;44.553641;8.492302;636;Italy;Piemonte;Quota ricavata da dem
+107;ROCCAVERANO;244;OD:244;44.610625;8.301101;503;Italy;Piemonte;Quota ricavata da dem
+108;PIANO AUDI;245;OD:245;45.353583;7.517517;1252;Italy;Piemonte;Quota ricavata da dem
+109;CASTELLETTO UZZONE;246;OD:246;44.493061;8.188103;411;Italy;Piemonte;Quota ricavata da dem
+110;FRONT MALONE;247;OD:247;45.283373;7.665753;271;Italy;Piemonte;Quota ricavata da dem
+111;TORINO VALLERE;249;OD:249;45.016984;7.673922;221;Italy;Piemonte;Quota ricavata da dem
+112;ALA DI STURA;250;OD:250;45.312406;7.31043;1063;Italy;Piemonte;Quota ricavata da dem
+113;FORNO ALPI GRAIE;253;OD:253;45.360516;7.224243;1259;Italy;Piemonte;Quota ricavata da dem
+114;PRAROTTO;255;OD:255;45.146523;7.238165;1366;Italy;Piemonte;Quota ricavata da dem
+115;VENARIA CERONDA;256;OD:256;45.134224;7.631325;255;Italy;Piemonte;Quota ricavata da dem
+116;COLLE BERCIA;257;OD:257;44.921011;6.783162;2223;Italy;Piemonte;Quota ricavata da dem
+117;BARCENISIO;258;OD:258;45.19179;6.985;1435;Italy;Piemonte;Quota ricavata da dem
+118;COAZZE;260;OD:260;45.042072;7.243724;1110;Italy;Piemonte;Quota ricavata da dem
+119;CLOT DELLA SOMA;261;OD:261;44.982706;6.941566;2034;Italy;Piemonte;Quota ricavata da dem
+120;SESTRIERE;262;OD:262;44.95122;6.874858;1998;Italy;Piemonte;Quota ricavata da dem
+121;PRALY;264;OD:264;44.904828;7.057527;1436;Italy;Piemonte;Quota ricavata da dem
+122;PRA' CATINAT;265;OD:265;45.037015;7.074704;1653;Italy;Piemonte;Quota ricavata da dem
+123;TALUCCO;268;OD:268;44.948902;7.29053;897;Italy;Piemonte;Quota ricavata da dem
+124;MASSAZZA;272;OD:272;45.47291;8.169854;222;Italy;Piemonte;Quota ricavata da dem
+125;BAUDUCCHI;273;OD:273;44.960112;7.708604;225;Italy;Piemonte;Quota ricavata da dem
+126;MARENTINO;274;OD:274;45.046339;7.878888;326;Italy;Piemonte;Quota ricavata da dem
+127;BRA - ISOLA SONORA;275;OD:275;44.692246;7.839463;278;Italy;Piemonte;Quota ricavata da dem
+128;PERRERO GERMANASCA;276;OD:276;44.946557;7.16275;765;Italy;Piemonte;Quota ricavata da dem
+129;PAESANA;277;OD:277;44.661515;7.262949;1092;Italy;Piemonte;Quota ricavata da dem
+130;TRANA SANGONE;278;OD:278;45.03551;7.420013;379;Italy;Piemonte;Quota ricavata da dem
+131;PARELLA CHIUSELLA;279;OD:279;45.419971;7.798087;255;Italy;Piemonte;Quota ricavata da dem
+132;GOVONE;280;OD:280;44.786909;8.113116;138;Italy;Piemonte;Quota ricavata da dem
+133;VILLANOVA SOLARO;281;OD:281;44.734694;7.569869;266;Italy;Piemonte;Quota ricavata da dem
+134;PONTECHIANALE;283;OD:283;44.611974;7.052509;1650;Italy;Piemonte;Quota ricavata da dem
+135;CARTOSIO ERRO;284;OD:284;44.573441;8.421146;270;Italy;Piemonte;Quota ricavata da dem
+136;PIANA CRIXIA BORMIDA;286;OD:286;44.49042;8.309518;332;Italy;Piemonte;Quota ricavata da dem
+137;FOSSANO STURA DI DEMONTE;292;OD:292;44.523878;7.724333;345;Italy;Piemonte;Quota ricavata da dem
+138;CASTELMAGNO;294;OD:294;44.400024;7.168214;1913;Italy;Piemonte;Quota ricavata da dem
+139;DIGA LA PIASTRA;295;OD:295;44.226767;7.388735;920;Italy;Piemonte;Quota ricavata da dem
+140;ARGENTERA;298;OD:298;44.39536;6.939459;1788;Italy;Piemonte;Quota ricavata da dem
+141;COLLE BARANT;003;OD:003;44.774458;7.060564;2287;Italy;Piemonte;Quota ricavata da dem
+143;VALDIERI;303;OD:303;44.204772;7.268158;1554;Italy;Piemonte;Quota ricavata da dem
+144;SASSELLO;305;OD:305;44.473479;8.48368;428;Italy;Piemonte;Quota ricavata da dem
+145;GAVI;306;OD:306;44.693765;8.796185;265;Italy;Piemonte;Quota ricavata da dem
+146;CHIUSA PESIO;307;OD:307;44.233407;7.660203;924;Italy;Piemonte;Quota ricavata da dem
+147;UPEGA;308;OD:308;44.129537;7.725378;1403;Italy;Piemonte;Quota ricavata da dem
+148;RIFUGIO MONDOVI';309;OD:309;44.191689;7.732122;1696;Italy;Piemonte;Quota ricavata da dem
+149;BORELLO;310;OD:310;44.223763;7.833183;1150;Italy;Piemonte;Quota ricavata da dem
+150;PAMPARATO;311;OD:311;44.283186;7.904382;965;Italy;Piemonte;Quota ricavata da dem
+151;MONTE BERLINO;312;OD:312;44.204936;7.933318;1468;Italy;Piemonte;Quota ricavata da dem
+152;GARESSIO TANARO;313;OD:313;44.201952;8.015159;581;Italy;Piemonte;Quota ricavata da dem
+153;PRIERO;314;OD:314;44.377157;8.10814;553;Italy;Piemonte;Quota ricavata da dem
+154;MONDOVI';315;OD:315;44.395602;7.810511;414;Italy;Piemonte;Quota ricavata da dem
+155;BELVEDERE LANGHE;316;OD:316;44.500179;7.975094;556;Italy;Piemonte;Quota ricavata da dem
+156;BRA;317;OD:317;44.701199;7.851553;327;Italy;Piemonte;Quota ricavata da dem
+157;CASTELLINALDO;318;OD:318;44.770155;8.026845;245;Italy;Piemonte;Quota ricavata da dem
+158;MANGO;319;OD:319;44.708147;8.147243;317;Italy;Piemonte;Quota ricavata da dem
+159;TREISO;320;OD:320;44.677439;8.082034;328;Italy;Piemonte;Quota ricavata da dem
+160;PRUNETTO;322;OD:322;44.509751;8.163062;743;Italy;Piemonte;Quota ricavata da dem
+161;FOSSANO;323;OD:323;44.53885;7.787194;402;Italy;Piemonte;Quota ricavata da dem
+162;RODELLO;324;OD:324;44.639699;8.053187;385;Italy;Piemonte;Quota ricavata da dem
+163;BERGALLI;325;OD:325;44.406799;8.182114;414;Italy;Piemonte;Quota ricavata da dem
+164;SOMERARO;326;OD:326;45.888993;8.51193;365;Italy;Piemonte;Quota ricavata da dem
+165;FEISOGLIO;327;OD:327;44.545809;8.112115;705;Italy;Piemonte;Quota ricavata da dem
+166;PIANTORRE TANARO;328;OD:328;44.417841;7.972087;431;Italy;Piemonte;Quota ricavata da dem
+167;RODDINO;329;OD:329;44.578601;8.008771;520;Italy;Piemonte;Quota ricavata da dem
+168;BALDISSERO D'ALBA;332;OD:332;44.752347;7.921427;301;Italy;Piemonte;Quota ricavata da dem
+169;CALDIROLA;334;OD:334;44.718018;9.151497;1035;Italy;Piemonte;Quota ricavata da dem
+170;FORMAZZA BRUGGI;336;OD:336;46.347667;8.428795;1408;Italy;Piemonte;Quota ricavata da dem
+171;LARECCHIO;337;OD:337;46.204817;8.431522;1867;Italy;Piemonte;Quota ricavata da dem
+172;MACUGNAGA PECETTO;338;OD:338;45.972198;7.957718;1379;Italy;Piemonte;Quota ricavata da dem
+173;CANNOBIO;339;OD:339;46.065502;8.691276;215;Italy;Piemonte;Quota ricavata da dem
+174;CICOGNA;340;OD:340;46.003659;8.491588;597;Italy;Piemonte;Quota ricavata da dem
+175;ALAGNA;341;OD:341;45.874425;7.936058;1458;Italy;Piemonte;Quota ricavata da dem
+176;DRONERO;342;OD:342;44.451344;7.410737;576;Italy;Piemonte;Quota ricavata da dem
+177;BOCCIOLETO;343;OD:343;45.834773;8.111402;841;Italy;Piemonte;Quota ricavata da dem
+178;CAMPARIENT;344;OD:344;45.7321;8.08491;1292;Italy;Piemonte;Quota ricavata da dem
+179;PETTINENGO;345;OD:345;45.608056;8.102575;683;Italy;Piemonte;Quota ricavata da dem
+180;ANDRATE PINALBA;346;OD:346;45.561025;7.892286;1557;Italy;Piemonte;Quota ricavata da dem
+181;COLLERETTO;347;OD:347;45.442319;7.659607;1182;Italy;Piemonte;Quota ricavata da dem
+182;CERESOLE VILLA;348;OD:348;45.440186;7.210991;1631;Italy;Piemonte;Quota ricavata da dem
+183;MALCIAUSSIA;349;OD:349;45.20778;7.148372;1879;Italy;Piemonte;Quota ricavata da dem
+184;NIQUIDETTO;350;OD:350;45.196913;7.358947;1277;Italy;Piemonte;Quota ricavata da dem
+185;VARISELLA;351;OD:351;45.193293;7.469655;593;Italy;Piemonte;Quota ricavata da dem
+186;MASSELLO;352;OD:352;44.959964;7.064859;1475;Italy;Piemonte;Quota ricavata da dem
+187;VACCERA;353;OD:353;44.875133;7.201638;1343;Italy;Piemonte;Quota ricavata da dem
+188;BARGE;354;OD:354;44.731872;7.249617;1020;Italy;Piemonte;Quota ricavata da dem
+189;BELLINO;355;OD:355;44.575045;6.982972;2067;Italy;Piemonte;Quota ricavata da dem
+190;BROSSASCO;356;OD:356;44.568239;7.373378;675;Italy;Piemonte;Quota ricavata da dem
+191;CANOSIO;357;OD:357;44.454536;7.086471;1322;Italy;Piemonte;Quota ricavata da dem
+192;S. GIACOMO DEMONTE;358;OD:358;44.345636;7.203181;1380;Italy;Piemonte;Quota ricavata da dem
+193;VINADIO S. BERNOLFO;359;OD:359;44.261595;7.043822;1623;Italy;Piemonte;Quota ricavata da dem
+194;PIAGGIA;360;OD:360;44.071767;7.731327;1653;Italy;Piemonte;Quota ricavata da dem
+195;MONTE CARZA;361;OD:361;46.042601;8.67972;904;Italy;Piemonte;Quota ricavata da dem
+196;PAROLDO;363;OD:363;44.445761;8.081221;750;Italy;Piemonte;Quota ricavata da dem
+197;MONCALIERI SANGONE;365;OD:365;45.007821;7.668563;220;Italy;Piemonte;Quota ricavata da dem
+198;VILLAFRANCA PELLICE;370;OD:370;44.812064;7.499439;253;Italy;Piemonte;Quota ricavata da dem
+199;TORINO DORA RIPARIA;371;OD:371;45.075856;7.71803;215;Italy;Piemonte;Quota ricavata da dem
+200;TORINO STURA DI LANZO;372;OD:372;45.111211;7.706548;219;Italy;Piemonte;Quota ricavata da dem
+201;BRANDIZZO MALONE;373;OD:373;45.182024;7.85193;184;Italy;Piemonte;Quota ricavata da dem
+202;SAN BENIGNO ORCO;374;OD:374;45.246798;7.806179;214;Italy;Piemonte;Quota ricavata da dem
+203;VEROLENGO DORA BALTEA;375;OD:375;45.192007;8.041259;163;Italy;Piemonte;Quota ricavata da dem
+204;VARALLO MASTALLONE;376;OD:376;45.830484;8.255685;578;Italy;Piemonte;Quota ricavata da dem
+205;CARISIO ELVO;377;OD:377;45.418613;8.207511;186;Italy;Piemonte;Quota ricavata da dem
+206;GRAVELLONA STRONA;378;OD:378;45.926886;8.434252;201;Italy;Piemonte;Quota ricavata da dem
+207;NOVARA AGOGNA;379;OD:379;45.431025;8.590679;143;Italy;Piemonte;Quota ricavata da dem
+208;POLONGHERA VARAITA;381;OD:381;44.802405;7.59867;247;Italy;Piemonte;Quota ricavata da dem
+209;RACCONIGI MAIRA;382;OD:382;44.76756;7.667296;257;Italy;Piemonte;Quota ricavata da dem
+210;CARRU' PESIO;383;OD:383;44.464835;7.882912;301;Italy;Piemonte;Quota ricavata da dem
+211;MONTEROSSO GRANA;385;OD:385;44.409399;7.324373;874;Italy;Piemonte;Quota ricavata da dem
+212;MONDOVI' ELLERO;386;OD:386;44.390209;7.820049;446;Italy;Piemonte;Quota ricavata da dem
+213;CESSOLE BORMIDA;387;OD:387;44.649367;8.249284;217;Italy;Piemonte;Quota ricavata da dem
+214;PONT SOANA;388;OD:388;45.421595;7.601607;481;Italy;Piemonte;Quota ricavata da dem
+215;BUSALLA;397;OD:397;44.558205;8.946472;429;Italy;Piemonte;Quota ricavata da dem
+216;ROSSIGLIONE;398;OD:398;44.575145;8.658684;326;Italy;Piemonte;Quota ricavata da dem
+217;CAIRO MONTENOTTE;399;OD:399;44.388754;8.279239;348;Italy;Piemonte;Quota ricavata da dem
+218;RIFUGIO GASTALDI;004;OD:004;45.298081;7.143266;2598;Italy;Piemonte;Quota ricavata da dem
+219;BEAULARD DORA DI BARDONECCHIA;401;OD:401;45.046711;6.75812;1200;Italy;Piemonte;Quota ricavata da dem
+220;OULX DORA RIPARIA;402;OD:402;45.033608;6.833394;1095;Italy;Piemonte;Quota ricavata da dem
+221;SUSA CENISCHIA;403;OD:403;45.141829;7.056017;732;Italy;Piemonte;Quota ricavata da dem
+222;PONTETTO ISORNO;406;OD:406;46.151741;8.328249;471;Italy;Piemonte;Quota ricavata da dem
+223;PONTE CADDO BOGNA;409;OD:409;46.121782;8.274046;382;Italy;Piemonte;Quota ricavata da dem
+224;CARIGNANO PO;412;OD:412;44.908819;7.691195;231;Italy;Piemonte;Quota ricavata da dem
+225;BORGOSESIA SESIA;413;OD:413;45.736729;8.260531;416;Italy;Piemonte;Quota ricavata da dem
+226;TAVAGNASCO DORA BALTEA;414;OD:414;45.548058;7.826822;274;Italy;Piemonte;Quota ricavata da dem
+227;LANZO STURA DI LANZO;415;OD:415;45.268343;7.482822;489;Italy;Piemonte;Quota ricavata da dem
+228;SAN MARTINO CHISONE;417;OD:417;44.885361;7.283031;493;Italy;Piemonte;Quota ricavata da dem
+229;LUSERNA S. GIOVANNI PELLICE;418;OD:418;44.811129;7.243907;468;Italy;Piemonte;Quota ricavata da dem
+230;ROSSANA VARAITA;420;OD:420;44.554272;7.441529;512;Italy;Piemonte;Quota ricavata da dem
+231;BUSCA MAIRA;421;OD:421;44.515045;7.481391;491;Italy;Piemonte;Quota ricavata da dem
+232;GAIOLA STURA DI DEMONTE;422;OD:422;44.331985;7.416511;739;Italy;Piemonte;Quota ricavata da dem
+233;SERRAVALLE SCRIVIA;423;OD:423;44.725065;8.860956;219;Italy;Piemonte;Quota ricavata da dem
+234;VOLPEDO CURONE;424;OD:424;44.887034;8.982953;188;Italy;Piemonte;Quota ricavata da dem
+235;CASTELNUOVO BELBO;427;OD:427;44.798399;8.418901;144;Italy;Piemonte;Quota ricavata da dem
+236;CORIO;428;OD:428;45.309216;7.544813;535;Italy;Piemonte;Quota ricavata da dem
+237;ALBA TANARO;429;OD:429;44.705228;8.02758;163;Italy;Piemonte;Quota ricavata da dem
+238;CASAL CERMELLI ORBA;430;OD:430;44.832896;8.631497;108;Italy;Piemonte;Quota ricavata da dem
+239;CASSINE BORMIDA;431;OD:431;44.751393;8.542509;117;Italy;Piemonte;Quota ricavata da dem
+240;FARIGLIANO TANARO;435;OD:435;44.517115;7.901655;246;Italy;Piemonte;Quota ricavata da dem
+241;FOBELLO;437;OD:437;45.893966;8.158537;1257;Italy;Piemonte;Quota ricavata da dem
+242;SABBIA;438;OD:438;45.856883;8.236616;643;Italy;Piemonte;Quota ricavata da dem
+243;CASALE MONFERRATO PO;440;OD:440;45.14182;8.447679;113;Italy;Piemonte;Quota ricavata da dem
+244;DOMODOSSOLA TOCE;441;OD:441;46.112595;8.306299;267;Italy;Piemonte;Quota ricavata da dem
+245;MOMO AGOGNA;442;OD:442;45.571136;8.547717;208;Italy;Piemonte;Quota ricavata da dem
+247;CALTIGNAGA TERDOPPIO;444;OD:444;45.518727;8.609903;175;Italy;Piemonte;Quota ricavata da dem
+248;FOMARCO;445;OD:445;46.004079;8.265875;294;Italy;Piemonte;Quota ricavata da dem
+249;TORINO GIARDINI REALI;446;OD:446;45.071707;7.691915;230;Italy;Piemonte;Quota ricavata da dem
+250;BOCCHETTA DELLE PISSE;006;OD:006;45.875551;7.901;2200;Italy;Piemonte;Quota ricavata da dem
+251;CANDOGLIA TOCE;604;OD:604;45.974769;8.421824;375;Italy;Piemonte;Quota ricavata da dem
+252;MOTTARONE - BAITA CAI;635;OD:635;45.880183;8.447045;1381;Italy;Piemonte;Quota ricavata da dem
+253;MOTTAC;637;OD:637;46.061405;8.404268;1568;Italy;Piemonte;Quota ricavata da dem
+254;SAMBUGHETTO;638;OD:638;45.906249;8.311323;807;Italy;Piemonte;Quota ricavata da dem
+255;PALLANZA;641;OD:641;45.924138;8.548765;196;Italy;Piemonte;Quota ricavata da dem
+256;LAGO PAIONE;642;OD:642;46.175985;8.190366;2333;Italy;Piemonte;Quota ricavata da dem
+257;PASSO DEL MORO;007;OD:007;45.997038;7.976467;2837;Italy;Piemonte;Quota ricavata da dem
+258;LAGO PILONE;008;OD:008;45.002284;6.876129;2220;Italy;Piemonte;Quota ricavata da dem
+259;PRAGELATO - TRAMPOLINO A VALLE;095;OD:095;45.008798;6.941292;1537;Italy;Piemonte;Quota ricavata da dem
+260;CEPPO MORELLI;098;OD:098;45.987112;8.046398;2031;Italy;Piemonte;Quota ricavata da dem
+261;CANDIA;099;OD:099;45.321177;7.898539;234;Italy;Piemonte;Quota ricavata da dem
+262;CASTAGNOLE LANZE;S1728;OD:S1728;44.751408;8.178582;210;Italy;Piemonte;Quota ricavata da dem
+263;PIAMPALUDO;S2047;OD:S2047;44.456531;8.578969;903;Italy;Piemonte;Quota ricavata da dem
+264;VALENZA PO;S2115;OD:S2115;45.050969;8.631585;91;Italy;Piemonte;Quota ricavata da dem
+265;CASTIGLIONE TORINESE PO;S2422;OD:S2422;45.130468;7.784638;195;Italy;Piemonte;Quota ricavata da dem
+266;GARDETTA;S2561;OD:S2561;44.409178;7.012006;2428;Italy;Piemonte;Quota ricavata da dem
+267;PIANI DI CARREGA;S2562;OD:S2562;44.613591;9.187473;1283;Italy;Piemonte;Quota ricavata da dem
+268;PALANFRE';S2563;OD:S2563;44.193338;7.488765;1549;Italy;Piemonte;Quota ricavata da dem
+269;TRICERRO;S2564;OD:S2564;45.234896;8.329863;136;Italy;Piemonte;Quota ricavata da dem
+270;ARVOGNO;S2565;OD:S2565;46.167939;8.456488;1223;Italy;Piemonte;Quota ricavata da dem
+271;BIELLA;S2566;OD:S2566;45.558729;8.056504;411;Italy;Piemonte;Quota ricavata da dem
+272;VIALFRE';S2567;OD:S2567;45.379816;7.817075;442;Italy;Piemonte;Quota ricavata da dem
+273;CESARA;S2568;OD:S2568;45.83613;8.364815;584;Italy;Piemonte;Quota ricavata da dem
+274;CHIAVES;S2569;OD:S2569;45.33544;7.412636;1527;Italy;Piemonte;Quota ricavata da dem
+275;SAN DAMIANO MACRA;S2570;OD:S2570;44.506983;7.250211;964;Italy;Piemonte;Quota ricavata da dem
+276;DEMONTE;S2571;OD:S2571;44.316338;7.312178;803;Italy;Piemonte;Quota ricavata da dem
+277;ELVA;S2572;OD:S2572;44.546092;7.089188;1809;Italy;Piemonte;Quota ricavata da dem
+278;CALUSO;S2573;OD:S2573;45.288207;7.850287;257;Italy;Piemonte;Quota ricavata da dem
+279;PREMIA;S2575;OD:S2575;46.303947;8.369178;888;Italy;Piemonte;Quota ricavata da dem
+280;DIGA DEL CHIOTAS;S2576;OD:S2576;44.161233;7.334116;2057;Italy;Piemonte;Quota ricavata da dem
+281;LEMIE;S2578;OD:S2578;45.227703;7.273771;1125;Italy;Piemonte;Quota ricavata da dem
+282;LOZZOLO;S2579;OD:S2579;45.642544;8.333425;427;Italy;Piemonte;Quota ricavata da dem
+283;PIAN GIASSET;S2580;OD:S2580;44.689469;7.128597;2108;Italy;Piemonte;Quota ricavata da dem
+284;RIMA;S2581;OD:S2581;45.87981;8.009395;1376;Italy;Piemonte;Quota ricavata da dem
+285;MONTENOTTE INFERIORE;S2582;OD:S2582;44.405698;8.411186;633;Italy;Piemonte;Quota ricavata da dem
+286;SALUZZO;S2583;OD:S2583;44.632295;7.478159;483;Italy;Piemonte;Quota ricavata da dem
+287;SPARONE;S2584;OD:S2584;45.409812;7.543931;550;Italy;Piemonte;Quota ricavata da dem
+288;VARALLO POMBIA;S2585;OD:S2585;45.674308;8.628801;279;Italy;Piemonte;Quota ricavata da dem
+289;BOBBIO PELLICE;S2586;OD:S2586;44.818482;7.115586;1346;Italy;Piemonte;Quota ricavata da dem
+290;OSIGLIA;S2587;OD:S2587;44.287082;8.204231;726;Italy;Piemonte;Quota ricavata da dem
+291;MALLARE;S2588;OD:S2588;44.287085;8.299522;490;Italy;Piemonte;Quota ricavata da dem
+292;ALPE VOBBIA;S2589;OD:S2589;44.575152;9.076752;1034;Italy;Piemonte;Quota ricavata da dem
+293;PONTE DI NAVA TANARO;S2590;OD:S2590;44.117675;7.867616;924;Italy;Piemonte;Quota ricavata da dem
+294;ISOLA DEL CANTONE VOBBIA;S2591;OD:S2591;44.64293;8.983693;649;Italy;Piemonte;Quota ricavata da dem
+295;TIGLIETO ORBA;S2592;OD:S2592;44.524315;8.618133;487;Italy;Piemonte;Quota ricavata da dem
+296;MURIALDO BORMIDA DI MILLESIMO;S2598;OD:S2598;44.30403;8.158406;754;Italy;Piemonte;Quota ricavata da dem
+297;SAN SICARIO;S2619;OD:S2619;44.967498;6.836215;2147;Italy;Piemonte;Quota ricavata da dem
+298;LA LOGGIA CHISOLA;S2752;OD:S2752;44.970657;7.669778;226;Italy;Piemonte;Quota ricavata da dem
+299;PARELLA CHIUSELLA;S2887;OD:S2887;45.419971;7.798087;255;Italy;Piemonte;Quota ricavata da dem
+300;BIELMONTE;S2888;OD:S2888;45.661245;8.075809;1464;Italy;Piemonte;Quota ricavata da dem
+301;ALPE VEGLIA;S2889;OD:S2889;46.275113;8.141313;1863;Italy;Piemonte;Quota ricavata da dem
+302;CUNEO CAMERA COMMERCIO;S2891;OD:S2891;44.388037;7.547277;531;Italy;Piemonte;Quota ricavata da dem
+303;SETTEPANI;S2892;OD:S2892;44.236248;8.194798;1170;Italy;Piemonte;Quota ricavata da dem
+304;SESTRIERE ALPETTE;S2893;OD:S2893;44.951049;6.888961;2086;Italy;Piemonte;Quota ricavata da dem
+305;CASELLE;S2896;OD:S2896;45.185433;7.650884;281;Italy;Piemonte;Quota ricavata da dem
+306;CAPANNA MARGHERITA;S2897;OD:S2897;45.927134;7.877037;4030;Italy;Piemonte;Quota ricavata da dem
+307;ROCCA DELL'ABISSO;S2898;OD:S2898;44.14328;7.503083;2497;Italy;Piemonte;Quota ricavata da dem
+308;GRAN VAUDALA;S2900;OD:S2900;45.495685;7.118978;3014;Italy;Piemonte;Quota ricavata da dem
+309;CHATEAU BEAULARD;S2960;OD:S2960;45.026328;6.753877;1715;Italy;Piemonte;Quota ricavata da dem
+310;GERMAGNANO BORGO STURA DI VIU';S2980;OD:S2980;45.244535;7.433507;703;Italy;Piemonte;Quota ricavata da dem
+311;QUINTO VERCELLESE CERVO;S2985;OD:S2985;45.38133;8.374296;138;Italy;Piemonte;Quota ricavata da dem
+312;CASTAGNETO PO;S3098;OD:S3098;45.15042;7.883782;430;Italy;Piemonte;Quota ricavata da dem
+313;PRADEBONI;S3099;OD:S3099;44.298737;7.638548;945;Italy;Piemonte;Quota ricavata da dem
+314;GRAGLIA;S3212;OD:S3212;45.569149;7.95;864;Italy;Piemonte;Quota ricavata da dem
+315;FORZO;S3214;OD:S3214;45.513487;7.487117;1220;Italy;Piemonte;Quota ricavata da dem
+316;MOROZZO;S3215;OD:S3215;44.417886;7.692122;438;Italy;Piemonte;Quota ricavata da dem
+317;GARBAGNA;S3216;OD:S3216;44.784294;8.991984;310;Italy;Piemonte;Quota ricavata da dem
+318;CERANO;S3217;OD:S3217;45.41434;8.801457;123;Italy;Piemonte;Quota ricavata da dem
+319;NEBBIUNO;S3218;OD:S3218;45.826504;8.506155;819;Italy;Piemonte;Quota ricavata da dem
+320;SANTINO SAN BERNARDINO;S3222;OD:S3222;45.956615;8.525428;263;Italy;Piemonte;Quota ricavata da dem
+321;VIGLIANO CERVO;S3223;OD:S3223;45.554279;8.111119;297;Italy;Piemonte;Quota ricavata da dem
+322;COSSATO STRONA;S3224;OD:S3224;45.568938;8.182999;258;Italy;Piemonte;Quota ricavata da dem
+323;CAMPERTOGNO SESIA;S3226;OD:S3226;45.798592;8.031849;873;Italy;Piemonte;Quota ricavata da dem
+324;LOAZZOLO;S3228;OD:S3228;44.67417;8.233281;503;Italy;Piemonte;Quota ricavata da dem
+325;SESTRIERE BANCHETTA;S3237;OD:S3237;44.964868;6.910035;2368;Italy;Piemonte;Quota ricavata da dem
+326;BARDONECCHIA PIAN DEL SOLE;S3238;OD:S3238;45.063259;6.704811;1603;Italy;Piemonte;Quota ricavata da dem
+327;CUNEO CASCINA VECCHIA;S3254;OD:S3254;44.370028;7.527265;563;Italy;Piemonte;Quota ricavata da dem
+328;TRASQUERA;S3375;OD:S3375;46.215046;8.205933;1054;Italy;Piemonte;Quota ricavata da dem
+329;TORINO VIA DELLA CONSOLATA;S3447;OD:S3447;45.075935;7.678378;234;Italy;Piemonte;Quota ricavata da dem
+330;PINEROLO;S3685;OD:S3685;44.897099;7.359495;338;Italy;Piemonte;Quota ricavata da dem
+331;SAN BARTOLOMEO PESIO;S3716;OD:S3716;44.270974;7.663033;810;Italy;Piemonte;Quota ricavata da dem
+332;CORTEMILIA UZZONE;S3735;OD:S3735;44.57892;8.195928;286;Italy;Piemonte;Quota ricavata da dem
+333;LEVALDIGI GRANA;S3736;OD:S3736;44.558959;7.618176;364;Italy;Piemonte;Quota ricavata da dem
+334;MARGARITA BROBBIO;S3755;OD:S3755;44.399511;7.687371;446;Italy;Piemonte;Quota ricavata da dem
+335;MOMBASIGLIO MONGIA;S3758;OD:S3758;44.368023;7.964525;462;Italy;Piemonte;Quota ricavata da dem
+336;DOGLIANI REA;S3762;OD:S3762;44.531717;7.954392;339;Italy;Piemonte;Quota ricavata da dem
+337;FRABOSA SOPRANA CORSAGLIA;S3781;OD:S3781;44.274725;7.836335;907;Italy;Piemonte;Quota ricavata da dem
+338;TORINO REISS ROMOLI;S3869;OD:S3869;45.112512;7.670936;234;Italy;Piemonte;Quota ricavata da dem
+339;ROCCHETTA BELBO;S3886;OD:S3886;44.634834;8.174492;332;Italy;Piemonte;Quota ricavata da dem
+340;PORNASSINO NEGRONE;S3923;OD:S3923;44.124936;7.812169;1150;Italy;Piemonte;Quota ricavata da dem
+341;STAFFARDA GHIANDONE;S3924;OD:S3924;44.727444;7.431202;262;Italy;Piemonte;Quota ricavata da dem
+342;RASTELLO ELLERO;S3925;OD:S3925;44.264692;7.731105;938;Italy;Piemonte;Quota ricavata da dem
+343;ROBILANTE VERMENAGNA;S3926;OD:S3926;44.262099;7.517372;813;Italy;Piemonte;Quota ricavata da dem
+344;TORRETTE VARAITA;S3927;OD:S3927;44.583609;7.106137;1390;Italy;Piemonte;Quota ricavata da dem
+345;MONASTEROLO CASOTTO;S3930;OD:S3930;44.310927;7.937143;742;Italy;Piemonte;Quota ricavata da dem
+346;ANDONNO GESSO;S3931;OD:S3931;44.29087;7.434212;911;Italy;Piemonte;Quota ricavata da dem
+347;VINADIO STURA DI DEMONTE;S3932;OD:S3932;44.30272;7.114441;1092;Italy;Piemonte;Quota ricavata da dem
+348;RIVOLI LA PEROSA;S3948;OD:S3948;45.079874;7.498936;370;Italy;Piemonte;Quota ricavata da dem
+349;VIOLA;S3949;OD:S3949;44.286036;7.953847;963;Italy;Piemonte;Quota ricavata da dem
+350;ROCCAFORTE MONDOVI';S3950;OD:S3950;44.309922;7.744098;625;Italy;Piemonte;Quota ricavata da dem
+351;TORRE MONDOVI' CORSAGLIA;S3951;OD:S3951;44.358667;7.902549;508;Italy;Piemonte;Quota ricavata da dem
+352;SUSA DORA RIPARIA VIA MAZZINI;S3952;OD:S3952;45.136829;7.047844;501;Italy;Piemonte;Quota ricavata da dem
+353;BACENO DEVERO;S4059;OD:S4059;46.262153;8.314692;656;Italy;Piemonte;Quota ricavata da dem
+354;VERBANIA SAN GIOVANNI;S4060;OD:S4060;45.93954;8.577794;205;Italy;Piemonte;Quota ricavata da dem
+355;ACCEGLIO COLLET;S4062;OD:S4062;44.520138;6.906438;2000;Italy;Piemonte;Quota ricavata da dem
+356;COLLE DELL'AGNELLO;S4063;OD:S4063;44.680971;6.978655;2612;Italy;Piemonte;Quota ricavata da dem
+357;BALME;S4101;OD:S4101;45.302492;7.221885;1526;Italy;Piemonte;Quota ricavata da dem
+358;CABELLA LIGURE;S4103;OD:S4103;44.673799;9.092047;509;Italy;Piemonte;Quota ricavata da dem
+359;NOASCA;S4105;OD:S4105;45.454004;7.311526;1188;Italy;Piemonte;Quota ricavata da dem
+360;LAGO DIETRO LA TORRE;S4108;OD:S4108;45.259039;7.164218;2450;Italy;Piemonte;Quota ricavata da dem
+361;LAVAGNINA LAGO;S4109;OD:S4109;44.605631;8.754707;373;Italy;Piemonte;Quota ricavata da dem
+362;MONCALIERI PO;S4111;OD:S4111;45.000751;7.679118;222;Italy;Piemonte;Quota ricavata da dem
+363;MONTE MESMA;S4113;OD:S4113;45.772961;8.440055;421;Italy;Piemonte;Quota ricavata da dem
+364;OMEGNA LAGO D'ORTA;S4114;OD:S4114;45.874394;8.409065;409;Italy;Piemonte;Quota ricavata da dem
+365;PARUZZARO;S4115;OD:S4115;45.74899;8.512213;310;Italy;Piemonte;Quota ricavata da dem
+366;ROCHEMOLLES;S4117;OD:S4117;45.1309;6.76525;1978;Italy;Piemonte;Quota ricavata da dem
+367;ROSONE;S4119;OD:S4119;45.433482;7.418468;909;Italy;Piemonte;Quota ricavata da dem
+368;SEZZADIO;S4121;OD:S4121;44.782664;8.567327;120;Italy;Piemonte;Quota ricavata da dem
+369;UNCHIO TROBASO;S4124;OD:S4124;45.960349;8.531552;339;Italy;Piemonte;Quota ricavata da dem
+370;VIU' CENTRALE FUCINE;S4127;OD:S4127;45.230718;7.364204;821;Italy;Piemonte;Quota ricavata da dem
+371;CEVA;S4145;OD:S4145;44.386256;8.016731;398;Italy;Piemonte;Quota ricavata da dem
+372;MARENE;S4148;OD:S4148;44.668201;7.732008;306;Italy;Piemonte;Quota ricavata da dem
+373;PAESANA ERASCA;S4151;OD:S4151;44.682088;7.26366;679;Italy;Piemonte;Quota ricavata da dem
+374;NOVARA;S4193;OD:S4193;45.441287;8.63312;152;Italy;Piemonte;Quota ricavata da dem
+375;ASTI;S4194;OD:S4194;44.91766;8.190064;177;Italy;Piemonte;Quota ricavata da dem
+376;BUTTIGLIERA D'ASTI;S4195;OD:S4195;45.019878;7.932839;289;Italy;Piemonte;Quota ricavata da dem
+377;TORINO ALENIA;S4294;OD:S4294;45.079651;7.61075;272;Italy;Piemonte;Quota ricavata da dem
+378;SOUCHERES BASSES CHISONE;S4336;OD:S4336;45.028479;6.959043;1520;Italy;Piemonte;Quota ricavata da dem
+379;VENARIA LA MANDRIA;S4587;OD:S4587;45.174961;7.559233;332;Italy;Piemonte;Quota ricavata da dem
+380;CELLIO;S4591;OD:S4591;45.751289;8.327002;739;Italy;Piemonte;Quota ricavata da dem
+381;LIMONE PANCANI;S4613;OD:S4613;44.160844;7.590009;1836;Italy;Piemonte;Quota ricavata da dem
+382;GRANGE MARTINA;S4669;OD:S4669;45.157651;6.975059;1690;Italy;Piemonte;Quota ricavata da dem
+383;TORINO MURAZZI PO;S4816;OD:S4816;45.06825;7.708508;219;Italy;Piemonte;Quota ricavata da dem
+384;SAN SEBASTIANO PO;S4825;OD:S4825;45.172399;7.94314;174;Italy;Piemonte;Quota ricavata da dem
+385;MACUGNAGA RIFUGIO ZAMBONI;S4895;OD:S4895;45.951371;7.917038;2166;Italy;Piemonte;Quota ricavata da dem
+386;CANTOIRA STURA DI VAL GRANDE;S4982;OD:S4982;45.339441;7.382824;768;Italy;Piemonte;Quota ricavata da dem
+387;MEZZENILE STURA DI LANZO;S4983;OD:S4983;45.297964;7.399513;642;Italy;Piemonte;Quota ricavata da dem
+388;DRONERO MAIRA;S5166;OD:S5166;44.464025;7.333446;653;Italy;Piemonte;Quota ricavata da dem
+389;VILLAFRANCA PIEMONTE PO;S5605;OD:S5605;44.77995;7.512253;251;Italy;Piemonte;Quota ricavata da dem
+390;CRISSOLO PO;S5615;OD:S5615;44.699914;7.153631;1453;Italy;Piemonte;Quota ricavata da dem
+391;SPINETO ORCO;S5616;OD:S5616;45.386798;7.674141;388;Italy;Piemonte;Quota ricavata da dem
+392;BRIC CASTELLARO;S6159;OD:S6159;44.642891;8.790298;348;Italy;Piemonte;Quota ricavata da dem

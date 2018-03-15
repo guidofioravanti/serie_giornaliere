@@ -1,0 +1,425 @@
+SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
+1;Gorgazzo sorgente;A001;OD:A001;46.0399;12.4967;68;Italy;FVG;Quota ricavata da dem
+2;GORGAZZO;A002;OD:A002;46.038;12.4951;68;Italy;FVG;Quota ricavata da dem
+3;Molinetto c/o impianto ittiogenico;A003;OD:A003;46.0111;12.4757;51;Italy;FVG;Quota ricavata da dem
+4;FIASCHETTI;A004;OD:A004;45.9851;12.4828;33;Italy;FVG;Quota ricavata da dem
+5;MARSURE BARES;A007;OD:A007;46.0873;12.601;188;Italy;FVG;Quota ricavata da dem
+7;VAL DEI SASS;A009;OD:A009;46.1155;12.4919;1777;Italy;FVG;Quota ricavata da dem
+8;SACILE PONTE LACCHIN;A021;OD:A021;45.9509;12.502;24;Italy;FVG;Quota ricavata da dem
+9;Ponte della Muda;A023;OD:A023;45.9476;12.4467;42;Italy;FVG;Quota ricavata da dem
+10;AVIANO;A050;OD:A050;46.0648;12.6026;150;Italy;FVG;Quota ricavata da dem
+11;AVIANO CASA MARCHI;A051;OD:A051;46.0707;12.622;171;Italy;FVG;Quota ricavata da dem
+12;San Cassiano;A100;OD:A100;45.8767;12.5349;15;Italy;FVG;Quota ricavata da dem
+13;BRUGNERA;A101;OD:A101;45.8992;12.5231;15;Italy;FVG;Quota ricavata da dem
+14;Tremeacque ponte destro;A102;OD:A102;45.8284;12.5686;13;Italy;FVG;Quota ricavata da dem
+15;TRAMONTI DI SOPRA;A201;OD:A201;46.3098;12.7889;506;Italy;FVG;Quota ricavata da dem
+16;TRAMONTI DI SOTTO SCUOLE NUOVE;A202;OD:A202;46.2982;12.7931;373;Italy;FVG;Quota ricavata da dem
+17;MALGA REST;A204;OD:A204;46.3479;12.7989;1331;Italy;FVG;Quota ricavata da dem
+18;CA' ZUL;A220;OD:A220;46.2922;12.7162;707;Italy;FVG;Quota ricavata da dem
+19;CA' SELVA;A221;OD:A221;46.2585;12.7008;788;Italy;FVG;Quota ricavata da dem
+20;CHIEVOLIS;A223;OD:A223;46.2539;12.7331;368;Italy;FVG;Quota ricavata da dem
+21;CAMPONE;A224;OD:A224;46.2595;12.8313;566;Italy;FVG;Quota ricavata da dem
+22;MALGA VALINE ALTA;A226;OD:A226;46.236;12.6751;1350;Italy;FVG;Quota ricavata da dem
+23;PONTE RACLI;A240;OD:A240;46.2412;12.7499;479;Italy;FVG;Quota ricavata da dem
+24;PREPLANS;A241;OD:A241;46.2179;12.773;334;Italy;FVG;Quota ricavata da dem
+25;BORGO CILIA;A242;OD:A242;46.2259;12.795;798;Italy;FVG;Quota ricavata da dem
+26;VALDESTALI;A243;OD:A243;46.2075;12.7572;505;Italy;FVG;Quota ricavata da dem
+27;POFFABRO;A244;OD:A244;46.2165;12.7095;519;Italy;FVG;Quota ricavata da dem
+28;CAVASSO NUOVO;A260;OD:A260;46.2028;12.7747;263;Italy;FVG;Quota ricavata da dem
+29;MANIAGO PONTE SS. 464;A261;OD:A261;46.1739;12.7188;259;Italy;FVG;Quota ricavata da dem
+30;FRATTA VIVAIO FORESTALE;A262;OD:A262;46.1785;12.727;289;Italy;FVG;Quota ricavata da dem
+31;Colle ponte SS 464;A263;OD:A263;46.1636;12.8151;224;Italy;FVG;Quota ricavata da dem
+32;COLLE;A264;OD:A264;46.1688;12.8034;215;Italy;FVG;Quota ricavata da dem
+33;ARBA;A280;OD:A280;46.1435;12.8043;205;Italy;FVG;Quota ricavata da dem
+34;Tesis;A281;OD:A281;46.1251;12.7889;181;Italy;FVG;Quota ricavata da dem
+35;Ponte Meduna;A300;OD:A300;45.946;12.6993;24;Italy;FVG;Quota ricavata da dem
+36;PORDENONE LOCALITA' TORRE;A301;OD:A301;45.9682;12.6727;29;Italy;FVG;Quota ricavata da dem
+37;PORDENONE SEDE C.B.C.M.;A302;OD:A302;45.9635;12.6579;31;Italy;FVG;Quota ricavata da dem
+38;PORDENONE CAMPO ATLETICA;A303;OD:A303;45.9588;12.6498;31;Italy;FVG;Quota ricavata da dem
+39;Pordenone ponte via Santissima;A304;OD:A304;45.9518;12.659;23;Italy;FVG;Quota ricavata da dem
+40;Prata di Sopra;A320;OD:A320;45.9033;12.6025;17;Italy;FVG;Quota ricavata da dem
+41;Visinale di Sopra;A321;OD:A321;45.9029;12.6144;17;Italy;FVG;Quota ricavata da dem
+42;VISINALE PONTE FERRO;A322;OD:A322;45.8978;12.605;17;Italy;FVG;Quota ricavata da dem
+43;Prata di Pordenone;A323;OD:A323;45.8985;12.6035;17;Italy;FVG;Quota ricavata da dem
+44;Tremeacque ponte sinistro;A324;OD:A324;45.8283;12.5702;13;Italy;FVG;Quota ricavata da dem
+45;PORCIA RONDOVER;A325;OD:A325;45.9221;12.6141;19;Italy;FVG;Quota ricavata da dem
+46;CIMOLAIS CANONICA;A400;OD:A400;46.288;12.4383;648;Italy;FVG;Quota ricavata da dem
+47;CIMOLAIS PONTE SS. 251;A401;OD:A401;46.2857;12.4408;648;Italy;FVG;Quota ricavata da dem
+48;CLAUT;A402;OD:A402;46.2675;12.5147;678;Italy;FVG;Quota ricavata da dem
+49;LESIS;A403;OD:A403;46.2721;12.5445;724;Italy;FVG;Quota ricavata da dem
+50;BALDASS;A409;OD:A409;46.2425;12.5732;1689;Italy;FVG;Quota ricavata da dem
+51;CASERA PODESTINE;A410;OD:A410;46.2973;12.6014;1146;Italy;FVG;Quota ricavata da dem
+52;CASERA PRADUT;A411;OD:A411;46.2562;12.5643;1393;Italy;FVG;Quota ricavata da dem
+53;Val Settimana briglia;A413;OD:A413;46.2827;12.5001;811;Italy;FVG;Quota ricavata da dem
+54;FORCELLA SAVALONS;A414;OD:A414;46.3498;12.4868;1929;Italy;FVG;Quota ricavata da dem
+55;RIFUGIO PORDENONE;A415;OD:A415;46.3788;12.4893;1216;Italy;FVG;Quota ricavata da dem
+56;RIFUGIO PUSSA;A416;OD:A416;46.345;12.59;1054;Italy;FVG;Quota ricavata da dem
+57;CLAUT TRE PINI;A417;OD:A417;46.2635;12.5003;636;Italy;FVG;Quota ricavata da dem
+58;CELLINO DI SOPRA;A418;OD:A418;46.2465;12.4714;547;Italy;FVG;Quota ricavata da dem
+59;PRESCUDIN VILLA EMMA;A422;OD:A422;46.1927;12.4892;650;Italy;FVG;Quota ricavata da dem
+60;Arcola ponte per Prescudin;A424;OD:A424;46.2026;12.5156;538;Italy;FVG;Quota ricavata da dem
+61;Casa Fasolera;A425;OD:A425;46.1944;12.5423;547;Italy;FVG;Quota ricavata da dem
+63;PIANCAVALLO PISTA DI FONDO;A440;OD:A440;46.1133;12.5217;1281;Italy;FVG;Quota ricavata da dem
+64;BARCIS PONTE ANTOI;A461;OD:A461;46.1881;12.5749;497;Italy;FVG;Quota ricavata da dem
+65;BARCIS BORDO LAGO;A462;OD:A462;46.1897;12.5599;432;Italy;FVG;Quota ricavata da dem
+66;BARCIS STAZIONE FORESTALE;A463;OD:A463;46.1929;12.5637;612;Italy;FVG;Quota ricavata da dem
+67;ANDREIS PIAZZOLA CAMPEGGIO;A464;OD:A464;46.1989;12.612;449;Italy;FVG;Quota ricavata da dem
+68;PALA BARZANA;A467;OD:A467;46.1959;12.6592;860;Italy;FVG;Quota ricavata da dem
+69;DIGA CELLINA;A468;OD:A468;46.1879;12.5972;545;Italy;FVG;Quota ricavata da dem
+70;RAVEDIS INVASO;A469;OD:A469;46.1719;12.6566;392;Italy;FVG;Quota ricavata da dem
+71;Vajont argine Cellina;A470;OD:A470;46.1478;12.6815;269;Italy;FVG;Quota ricavata da dem
+72;Prapiero ponte svincolo gallerie;A471;OD:A471;46.1953;12.6039;450;Italy;FVG;Quota ricavata da dem
+73;Val Pentina casa Bimbo;A472;OD:A472;46.1874;12.5369;490;Italy;FVG;Quota ricavata da dem
+74;SAN LEONARDO VALCELLINA PARTIDOR;A480;OD:A480;46.0983;12.7058;214;Italy;FVG;Quota ricavata da dem
+75;LA CROSETTA;A600;OD:A600;46.0353;12.4052;1132;Italy;FVG;Quota ricavata da dem
+76;VAL SUGHET;A601;OD:A601;46.1193;12.5041;1770;Italy;FVG;Quota ricavata da dem
+77;CANDAGLIA;A603;OD:A603;46.0641;12.4428;1288;Italy;FVG;Quota ricavata da dem
+78;LUOGO DI GIULIO;A610;OD:A610;46.1396;12.7117;269;Italy;FVG;Quota ricavata da dem
+79;SAN QUIRINO LA ROIATA;A620;OD:A620;46.0166;12.6398;109;Italy;FVG;Quota ricavata da dem
+80;SAN QUIRINO OFFICINA C.B.C.M.;A621;OD:A621;46.0318;12.6312;122;Italy;FVG;Quota ricavata da dem
+81;SAN MARTINO DI CAMPAGNA;A622;OD:A622;46.0785;12.6441;188;Italy;FVG;Quota ricavata da dem
+82;RAUSCEDO STAZIONE DI POMPAGGIO C.B.C.M.;A623;OD:A623;46.0657;12.8244;109;Italy;FVG;Quota ricavata da dem
+83;BASALDELLA DI VIVARO;A624;OD:A624;46.0882;12.7906;139;Italy;FVG;Quota ricavata da dem
+84;SAN LEONARDO VALCELLINA;A625;OD:A625;46.0982;12.6824;220;Italy;FVG;Quota ricavata da dem
+85;VILLA RINALDI;A626;OD:A626;46.0295;12.7074;95;Italy;FVG;Quota ricavata da dem
+86;CORDENONS ACQUEDOTTO SAN GIOVANNI;A627;OD:A627;46.0092;12.7004;72;Italy;FVG;Quota ricavata da dem
+87;FORCATE EX ACQUEDOTTO;A640;OD:A640;45.9986;12.5886;70;Italy;FVG;Quota ricavata da dem
+88;COLESIT;A641;OD:A641;46.0124;12.5548;72;Italy;FVG;Quota ricavata da dem
+89;VILLADOLT;A642;OD:A642;45.9792;12.5683;50;Italy;FVG;Quota ricavata da dem
+90;VIGONOVO;A643;OD:A643;45.9859;12.5452;46;Italy;FVG;Quota ricavata da dem
+91;ERTO;B001;OD:B001;46.2778;12.3707;830;Italy;FVG;Quota ricavata da dem
+92;RIFUGIO MANIAGO;B004;OD:B004;46.3207;12.3937;1906;Italy;FVG;Quota ricavata da dem
+93;MAURIA;C001;OD:C001;46.4447;12.539;1096;Italy;FVG;Quota ricavata da dem
+94;FORNI DI SOPRA;C003;OD:C003;46.4236;12.5832;989;Italy;FVG;Quota ricavata da dem
+95;ANDRAZZA;C006;OD:C006;46.4047;12.5876;850;Italy;FVG;Quota ricavata da dem
+96;VARMOST PLAN DAI POS;C009;OD:C009;46.4546;12.5596;1913;Italy;FVG;Quota ricavata da dem
+97;PASSO DELLA MORTE STAVOLO MEZZAN;C022;OD:C022;46.3928;12.7151;771;Italy;FVG;Quota ricavata da dem
+98;Caprizi;C023;OD:C023;46.3732;12.7792;619;Italy;FVG;Quota ricavata da dem
+99;MALGA CJAMPIUZ;C032;OD:C032;46.3512;12.679;1585;Italy;FVG;Quota ricavata da dem
+100;Invillino Madonna del Ponte;C050;OD:C050;46.4038;12.9296;356;Italy;FVG;Quota ricavata da dem
+101;Tolmezzo Ponte Avons;C051;OD:C051;46.3902;13.0129;295;Italy;FVG;Quota ricavata da dem
+102;SELLA CHIANZUTAN;C052;OD:C052;46.3589;12.9403;1097;Italy;FVG;Quota ricavata da dem
+103;SAURIS DI SOPRA;C100;OD:C100;46.4673;12.6819;1543;Italy;FVG;Quota ricavata da dem
+104;SAURIS DI SOTTO;C101;OD:C101;46.4656;12.7081;1163;Italy;FVG;Quota ricavata da dem
+105;LA MAINA;C102;OD:C102;46.4509;12.7331;1169;Italy;FVG;Quota ricavata da dem
+106;CASERA CHIANSAVEIT;C103;OD:C103;46.4519;12.6264;1642;Italy;FVG;Quota ricavata da dem
+107;CASERA PIELTINIS;C104;OD:C104;46.4845;12.723;1785;Italy;FVG;Quota ricavata da dem
+108;AMPEZZO;C120;OD:C120;46.4148;12.7988;530;Italy;FVG;Quota ricavata da dem
+109;FORNI AVOLTRI;C150;OD:C150;46.5868;12.7738;936;Italy;FVG;Quota ricavata da dem
+110;COLLINA;C151;OD:C151;46.5856;12.839;1345;Italy;FVG;Quota ricavata da dem
+111;PRATO CARNICO PONTE R. AGAZZO;C152;OD:C152;46.5199;12.8113;728;Italy;FVG;Quota ricavata da dem
+112;PRATO CARNICO PONTE T. PESARINA;C153;OD:C153;46.5188;12.8056;712;Italy;FVG;Quota ricavata da dem
+113;PESARIIS;C154;OD:C154;46.5218;12.7757;760;Italy;FVG;Quota ricavata da dem
+114;COMEGLIANS;C155;OD:C155;46.5057;12.8645;558;Italy;FVG;Quota ricavata da dem
+115;RAVASCLETTO;C156;OD:C156;46.519;12.9166;948;Italy;FVG;Quota ricavata da dem
+116;CHIALINA;C159;OD:C159;46.4741;12.8715;513;Italy;FVG;Quota ricavata da dem
+117;PE' DI CLEVA CENTRO SCI NORDICO;C164;OD:C164;46.5705;12.7464;1065;Italy;FVG;Quota ricavata da dem
+118;ESEMON DI SOTTO;C183;OD:C183;46.4112;12.9068;381;Italy;FVG;Quota ricavata da dem
+119;RAVEO;C184;OD:C184;46.4331;12.8706;520;Italy;FVG;Quota ricavata da dem
+120;VILLA SANTINA;C185;OD:C185;46.4182;12.9115;440;Italy;FVG;Quota ricavata da dem
+121;PASSO DI MONTE CROCE CARNICO;C200;OD:C200;46.6028;12.945;1522;Italy;FVG;Quota ricavata da dem
+122;TIMAU;C201;OD:C201;46.5764;13.0068;855;Italy;FVG;Quota ricavata da dem
+123;CLEULIS;C202;OD:C202;46.5677;13.0056;822;Italy;FVG;Quota ricavata da dem
+124;PALUZZA;C203;OD:C203;46.5281;13.0118;595;Italy;FVG;Quota ricavata da dem
+125;ZOVELLO;C204;OD:C204;46.5308;12.9494;934;Italy;FVG;Quota ricavata da dem
+126;MALGA PLOTTA;C206;OD:C206;46.5942;12.8991;2066;Italy;FVG;Quota ricavata da dem
+127;MALGA PRAMOSIO;C207;OD:C207;46.5875;13.0296;1564;Italy;FVG;Quota ricavata da dem
+128;CASERA ZOUFPLAN BASSA;C208;OD:C208;46.5571;12.9839;1528;Italy;FVG;Quota ricavata da dem
+129;RIFUGIO TAMAI;C211;OD:C211;46.5015;12.9315;1660;Italy;FVG;Quota ricavata da dem
+130;PAULARO;C230;OD:C230;46.5263;13.1209;678;Italy;FVG;Quota ricavata da dem
+131;Ponte Lovea;C231;OD:C231;46.4732;13.075;542;Italy;FVG;Quota ricavata da dem
+132;CEDARCHIS;C232;OD:C232;46.4564;13.0359;434;Italy;FVG;Quota ricavata da dem
+133;CASON DI LANZA;C235;OD:C235;46.568;13.1687;1703;Italy;FVG;Quota ricavata da dem
+134;CASERA DEL MESTRI;C236;OD:C236;46.4812;13.1414;1550;Italy;FVG;Quota ricavata da dem
+135;AVOSACCO;C260;OD:C260;46.4793;13.0206;500;Italy;FVG;Quota ricavata da dem
+136;ARTA TERME;C261;OD:C261;46.4743;13.025;629;Italy;FVG;Quota ricavata da dem
+137;Terme di Arta;C262;OD:C262;46.4772;13.0183;500;Italy;FVG;Quota ricavata da dem
+138;TOLMEZZO;C263;OD:C263;46.4226;13.0225;397;Italy;FVG;Quota ricavata da dem
+139;TOLMEZZO PONTE DI CANEVA;C264;OD:C264;46.4098;13.0052;352;Italy;FVG;Quota ricavata da dem
+140;CAMPOROSSO;C300;OD:C300;46.5087;13.524;913;Italy;FVG;Quota ricavata da dem
+141;VAL UGOVIZZA;C301;OD:C301;46.548;13.4784;1267;Italy;FVG;Quota ricavata da dem
+142;Ugovizza;C303;OD:C303;46.5104;13.4717;851;Italy;FVG;Quota ricavata da dem
+143;MALBORGHETTO PONTE PER NEBRIA;C304;OD:C304;46.506100000000004;13.44;741;Italy;FVG;Quota ricavata da dem
+144;MALGA ACOMIZZA;C307;OD:C307;46.5481;13.5152;1637;Italy;FVG;Quota ricavata da dem
+145;Pontebba ponte vecchio SS 13;C331;OD:C331;46.5092;13.3256;689;Italy;FVG;Quota ricavata da dem
+146;PONTEBBA;C333;OD:C333;46.506100000000004;13.3075;584;Italy;FVG;Quota ricavata da dem
+147;Pontebba ponte per Studena Alta;C335;OD:C335;46.5105;13.3;698;Italy;FVG;Quota ricavata da dem
+148;STRADA PER PRAMOLLO;C336;OD:C336;46.5299;13.3035;1041;Italy;FVG;Quota ricavata da dem
+149;PASSO PRAMOLLO VALICO;C338;OD:C338;46.5597;13.275;1551;Italy;FVG;Quota ricavata da dem
+151;CHIOUT;C362;OD:C362;46.4522;13.3718;962;Italy;FVG;Quota ricavata da dem
+152;Dogna;C400;OD:C400;46.4425;13.3126;498;Italy;FVG;Quota ricavata da dem
+153;CHIUSAFORTE;C402;OD:C402;46.4076;13.3136;436;Italy;FVG;Quota ricavata da dem
+154;SALETTO DI RACCOLANA;C410;OD:C410;46.4027;13.3757;636;Italy;FVG;Quota ricavata da dem
+155;RACCOLANA;C411;OD:C411;46.4046;13.3175;690;Italy;FVG;Quota ricavata da dem
+156;LIVINAL LUNC;C412;OD:C412;46.3758;13.4722;1514;Italy;FVG;Quota ricavata da dem
+157;CORITIS;C420;OD:C420;46.348;13.3926;689;Italy;FVG;Quota ricavata da dem
+158;STOLVIZZA;C421;OD:C421;46.3635;13.3517;675;Italy;FVG;Quota ricavata da dem
+159;OSEACCO;C422;OD:C422;46.3628;13.3115;483;Italy;FVG;Quota ricavata da dem
+160;RESIA PRATO;C423;OD:C423;46.3759;13.2957;610;Italy;FVG;Quota ricavata da dem
+161;BORGO POVICI;C425;OD:C425;46.3887;13.2215;337;Italy;FVG;Quota ricavata da dem
+162;BEVORCHIANS;C440;OD:C440;46.4859;13.1891;781;Italy;FVG;Quota ricavata da dem
+163;GRAUZARIA;C442;OD:C442;46.4511;13.1844;535;Italy;FVG;Quota ricavata da dem
+164;Pradis;C444;OD:C444;46.423;13.2013;472;Italy;FVG;Quota ricavata da dem
+165;BIVACCO BIANCHI;C445;OD:C445;46.4561;13.2487;1613;Italy;FVG;Quota ricavata da dem
+166;DIGA IN ALBA;C462;OD:C462;46.4344;13.2158;760;Italy;FVG;Quota ricavata da dem
+167;MOGGIO UDINESE;C463;OD:C463;46.4088;13.2003;467;Italy;FVG;Quota ricavata da dem
+168;MOGGIO UDINESE PONTE SUL FELLA;C464;OD:C464;46.4001;13.1861;343;Italy;FVG;Quota ricavata da dem
+169;MALGA CJARIGUART;C467;OD:C467;46.3591;13.1849;1638;Italy;FVG;Quota ricavata da dem
+170;Pioverno;C500;OD:C500;46.3417;13.136;240;Italy;FVG;Quota ricavata da dem
+171;VENZONE;C501;OD:C501;46.3314;13.1428;418;Italy;FVG;Quota ricavata da dem
+172;Venzone ponte per Pioverno;C503;OD:C503;46.3355;13.1341;239;Italy;FVG;Quota ricavata da dem
+173;GEMONA CASA DI RIPOSO;C508;OD:C508;46.2788;13.1412;290;Italy;FVG;Quota ricavata da dem
+174;GEMONA CANCIANE;C509;OD:C509;46.2656;13.1363;189;Italy;FVG;Quota ricavata da dem
+175;Venzone spalla ponte Pioverno;C512;OD:C512;46.3354;13.1341;239;Italy;FVG;Quota ricavata da dem
+176;Ponte di Braulins sponda destra;C513;OD:C513;46.2827;13.0936;198;Italy;FVG;Quota ricavata da dem
+177;ALESSO;C551;OD:C551;46.3092;13.0556;200;Italy;FVG;Quota ricavata da dem
+178;OSOPPO;C553;OD:C553;46.2365;13.0711;173;Italy;FVG;Quota ricavata da dem
+179;ARTEGNA;C554;OD:C554;46.2337;13.1542;215;Italy;FVG;Quota ricavata da dem
+180;MAGNANO IN RIVIERA;C555;OD:C555;46.2284;13.1616;187;Italy;FVG;Quota ricavata da dem
+181;ANDREUZZA;C556;OD:C556;46.2038;13.086;164;Italy;FVG;Quota ricavata da dem
+182;SAN FRANCESCO;C600;OD:C600;46.3126;12.9365;442;Italy;FVG;Quota ricavata da dem
+183;San Francesco ponte;C601;OD:C601;46.3134;12.934;442;Italy;FVG;Quota ricavata da dem
+184;Flagogna Ponte Armistizio;C602;OD:C602;46.2115;12.956;170;Italy;FVG;Quota ricavata da dem
+186;PINZANO;C620;OD:C620;46.1792;12.9492;173;Italy;FVG;Quota ricavata da dem
+187;Villuzza;C621;OD:C621;46.1815;12.9566;146;Italy;FVG;Quota ricavata da dem
+188;CLAUZETTO;C640;OD:C640;46.2299;12.9178;607;Italy;FVG;Quota ricavata da dem
+189;Travesio ponte latteria;C641;OD:C641;46.1965;12.8713;242;Italy;FVG;Quota ricavata da dem
+190;TRAVESIO;C642;OD:C642;46.1989;12.8722;242;Italy;FVG;Quota ricavata da dem
+191;VACILE;C643;OD:C643;46.144;12.8878;161;Italy;FVG;Quota ricavata da dem
+192;BASEGLIA;C660;OD:C660;46.1275;12.9014;137;Italy;FVG;Quota ricavata da dem
+193;BARBEANO;C661;OD:C661;46.0846;12.8498;121;Italy;FVG;Quota ricavata da dem
+194;ISTRAGO;C662;OD:C662;46.1193;12.8805;137;Italy;FVG;Quota ricavata da dem
+195;Ponte di Dignano;C664;OD:C664;46.0854;12.9277;99;Italy;FVG;Quota ricavata da dem
+196;SPILIMBERGO LA FAVORITA;C665;OD:C665;46.1086;12.8825;129;Italy;FVG;Quota ricavata da dem
+197;PONTE DELLA DELIZIA CASELLO C.B.C.M.;C700;OD:C700;45.9733;12.8922;52;Italy;FVG;Quota ricavata da dem
+198;PONTE DELLA DELIZIA;C701;OD:C701;45.9652;12.9003;51;Italy;FVG;Quota ricavata da dem
+199;VARMO CASELLO IDRAULICO C.B.B.F.;C702;OD:C702;45.8792;12.9805;16;Italy;FVG;Quota ricavata da dem
+200;Madrisio ponte sul Tagliamento;C703;OD:C703;45.8608;12.9747;14;Italy;FVG;Quota ricavata da dem
+201;LATISANA;C800;OD:C800;45.7728;12.9969;6;Italy;FVG;Quota ricavata da dem
+202;Latisana scala;C801;OD:C801;45.7727;12.9958;6;Italy;FVG;Quota ricavata da dem
+203;BEVAZZANA CASELLO LITORANEA VENETA;C803;OD:C803;45.672;13.069;2;Italy;FVG;Quota ricavata da dem
+205;Casali Grinta;C805;OD:C805;45.8421;13.0094;11;Italy;FVG;Quota ricavata da dem
+206;SAN MARTINO AL TAGLIAMENTO;D001;OD:D001;46.0295;12.8597;75;Italy;FVG;Quota ricavata da dem
+207;ARZENUTTO;D002;OD:D002;46.0166;12.8706;70;Italy;FVG;Quota ricavata da dem
+208;SAN VITO AL TAGLIAMENTO OSPEDALE;D003;OD:D003;45.9123;12.8542;30;Italy;FVG;Quota ricavata da dem
+209;SAN VITO AL TAGLIAMENTO CIMITERO;D004;OD:D004;45.9255;12.8693;37;Italy;FVG;Quota ricavata da dem
+210;Stalis;D005;OD:D005;45.8509;12.862;15;Italy;FVG;Quota ricavata da dem
+211;SESTO AL REGHENA;D100;OD:D100;45.8475;12.8162;13;Italy;FVG;Quota ricavata da dem
+212;MURE;D101;OD:D101;45.8402;12.8052;12;Italy;FVG;Quota ricavata da dem
+214;ZUIANO;D300;OD:D300;45.874;12.7132;14;Italy;FVG;Quota ricavata da dem
+215;Panigai;D301;OD:D301;45.8295;12.6756;9;Italy;FVG;Quota ricavata da dem
+216;AZZANO DECIMO;D302;OD:D302;45.883;12.7137;14;Italy;FVG;Quota ricavata da dem
+217;Pescincanna;D400;OD:D400;45.9427;12.7493;27;Italy;FVG;Quota ricavata da dem
+218;SQUARZARE';D401;OD:D401;45.8439;12.6177;12;Italy;FVG;Quota ricavata da dem
+219;Biauzzo;E001;OD:E001;45.9668;12.9418;49;Italy;FVG;Quota ricavata da dem
+220;Codroipo centro;E002;OD:E002;45.9631;12.9788;43;Italy;FVG;Quota ricavata da dem
+221;Campomolle;E003;OD:E003;45.8485;13.0273;10;Italy;FVG;Quota ricavata da dem
+222;Teor;E004;OD:E004;45.851;13.0466;11;Italy;FVG;Quota ricavata da dem
+223;Flambruzzo;E005;OD:E005;45.884;13.067;12;Italy;FVG;Quota ricavata da dem
+224;Flambruzzo villa Badoglio;E006;OD:E006;45.8845;13.0697;12;Italy;FVG;Quota ricavata da dem
+225;Case Zoncolan;E007;OD:E007;45.8779;13.0831;13;Italy;FVG;Quota ricavata da dem
+226;Ariis;E008;OD:E008;45.8725;13.0881;11;Italy;FVG;Quota ricavata da dem
+227;Ariis cimitero;E009;OD:E009;45.8699;13.0946;11;Italy;FVG;Quota ricavata da dem
+228;Ariis Parco;E010;OD:E010;45.872;13.0839;11;Italy;FVG;Quota ricavata da dem
+229;ARIIS CENTRO E.T.P.;E011;OD:E011;45.8718;13.0835;11;Italy;FVG;Quota ricavata da dem
+230;Casali Sacile;E012;OD:E012;45.8633;13.0818;10;Italy;FVG;Quota ricavata da dem
+231;Casali Petazzo;E013;OD:E013;45.8682;13.1051;11;Italy;FVG;Quota ricavata da dem
+232;Pocenia;E014;OD:E014;45.8364;13.086;5;Italy;FVG;Quota ricavata da dem
+233;Case Trevisan;E015;OD:E015;45.8136;13.102;6;Italy;FVG;Quota ricavata da dem
+234;Casali Gambellini;E016;OD:E016;45.8462;13.0943;9;Italy;FVG;Quota ricavata da dem
+235;LATISANA CROSERE;E019;OD:E019;45.7865;13.0221;5;Italy;FVG;Quota ricavata da dem
+236;RIVAROTTA;E020;OD:E020;45.8193;13.081;6;Italy;FVG;Quota ricavata da dem
+237;PRECENICCO;E021;OD:E021;45.7873;13.0765;3;Italy;FVG;Quota ricavata da dem
+238;POCENIA ZONA INDUSTRIALE;E024;OD:E024;45.8332;13.1132;9;Italy;FVG;Quota ricavata da dem
+239;Palazzolo dello Stella;E025;OD:E025;45.8033;13.0743;4;Italy;FVG;Quota ricavata da dem
+240;Casa di guardia;E033;OD:E033;45.9041;13.0859;20;Italy;FVG;Quota ricavata da dem
+241;SAN DANIELE DEL FRIULI;E200;OD:E200;46.1569;13.014;190;Italy;FVG;Quota ricavata da dem
+242;SAN MAURO;E201;OD:E201;46.1469;13.0265;166;Italy;FVG;Quota ricavata da dem
+243;CODROIPO;E202;OD:E202;45.967;12.9873;49;Italy;FVG;Quota ricavata da dem
+244;Zompicchia;E203;OD:E203;45.9648;13.0016;42;Italy;FVG;Quota ricavata da dem
+245;GORICIZZA CASERME;E206;OD:E206;45.9697;12.9761;47;Italy;FVG;Quota ricavata da dem
+246;Coseano;E207;OD:E207;46.0851;13.0262;120;Italy;FVG;Quota ricavata da dem
+247;Codroipo ponte SP. 65;E208;OD:E208;45.9566;12.9926;38;Italy;FVG;Quota ricavata da dem
+248;Molino Vecchio;E400;OD:E400;45.8814;13.0511;13;Italy;FVG;Quota ricavata da dem
+249;Sivigliano;E401;OD:E401;45.882;13.0534;13;Italy;FVG;Quota ricavata da dem
+250;TURRIDA;E500;OD:E500;46.0262;12.9385;82;Italy;FVG;Quota ricavata da dem
+251;FLAIBANO;E501;OD:E501;46.0476;12.9817;92;Italy;FVG;Quota ricavata da dem
+252;LESTIZZA;E502;OD:E502;45.9512;13.1353;42;Italy;FVG;Quota ricavata da dem
+253;VILLACACCIA;E503;OD:E503;45.9723;13.0708;46;Italy;FVG;Quota ricavata da dem
+254;VILLAORBA;E504;OD:E504;46.0105;13.0686;72;Italy;FVG;Quota ricavata da dem
+255;SAN LORENZO DI SEDEGLIANO;E505;OD:E505;46.0011;12.9991;66;Italy;FVG;Quota ricavata da dem
+256;RIVOLTO;E507;OD:E507;45.9544;13.0213;37;Italy;FVG;Quota ricavata da dem
+257;TALMASSONS;E509;OD:E509;45.9287;13.1159;29;Italy;FVG;Quota ricavata da dem
+258;FAGAGNA POLIAMBULATORIO;E512;OD:E512;46.1143;13.098;198;Italy;FVG;Quota ricavata da dem
+259;PANTIANICCO;E513;OD:E513;46.0142;13.0393;75;Italy;FVG;Quota ricavata da dem
+260;COLLOREDO DI PRATO;E514;OD:E514;46.0572;13.1396;100;Italy;FVG;Quota ricavata da dem
+261;Casello F.S.;F001;OD:F001;45.8093;13.1036;6;Italy;FVG;Quota ricavata da dem
+262;Casa Longo;F003;OD:F003;45.8084;13.1046;6;Italy;FVG;Quota ricavata da dem
+263;ZEGLIANUTTO;G001;OD:G001;46.1961;13.1535;219;Italy;FVG;Quota ricavata da dem
+264;COLLALTO BORGO DI SOTTO;G002;OD:G002;46.1922;13.2034;207;Italy;FVG;Quota ricavata da dem
+265;COLLOREDO DI MONTE ALBANO;G003;OD:G003;46.1668;13.1458;170;Italy;FVG;Quota ricavata da dem
+266;ALNICCO;G004;OD:G004;46.1178;13.1658;193;Italy;FVG;Quota ricavata da dem
+267;CASTELLERIO;G005;OD:G005;46.1197;13.1875;159;Italy;FVG;Quota ricavata da dem
+268;Pagnacco;G006;OD:G006;46.1141;13.1964;132;Italy;FVG;Quota ricavata da dem
+269;MORUZZO;G007;OD:G007;46.1178;13.1269;233;Italy;FVG;Quota ricavata da dem
+270;Colugna;G008;OD:G008;46.0927;13.1925;126;Italy;FVG;Quota ricavata da dem
+271;RIZZI;G009;OD:G009;46.0879;13.1989;120;Italy;FVG;Quota ricavata da dem
+272;UDINE CASTELLO;G010;OD:G010;46.0649;13.2367;109;Italy;FVG;Quota ricavata da dem
+273;PASIAN DI PRATO;G011;OD:G011;46.0523;13.1797;104;Italy;FVG;Quota ricavata da dem
+274;TAVAGNACCO;G012;OD:G012;46.1266;13.2153;156;Italy;FVG;Quota ricavata da dem
+275;Basaldella di Campoformido;G013;OD:G013;46.0281;13.2079;90;Italy;FVG;Quota ricavata da dem
+276;POZZUOLO DEL FRIULI;G050;OD:G050;45.9883;13.195;69;Italy;FVG;Quota ricavata da dem
+277;MORTEGLIANO;G051;OD:G051;45.9474;13.1797;40;Italy;FVG;Quota ricavata da dem
+278;CASTIONS DI STRADA;G052;OD:G052;45.9052;13.1941;22;Italy;FVG;Quota ricavata da dem
+279;CORMOR PARADISO;G053;OD:G053;45.8797;13.1588;16;Italy;FVG;Quota ricavata da dem
+280;SANT'ANDRAT DEL CORMOR;G054;OD:G054;45.9144;13.162;24;Italy;FVG;Quota ricavata da dem
+281;ZAVATTINA;G100;OD:G100;45.8336;13.1599;9;Italy;FVG;Quota ricavata da dem
+282;Muzzana del Turgnano ponte SS 14;G101;OD:G101;45.8184;13.1296;7;Italy;FVG;Quota ricavata da dem
+283;Ponte SS 252 km 13;G102;OD:G102;45.9267;13.1655;31;Italy;FVG;Quota ricavata da dem
+284;Ponte SS 252 km 14;G103;OD:G103;45.9223;13.1825;27;Italy;FVG;Quota ricavata da dem
+285;TRICESIMO;G200;OD:G200;46.1514;13.2139;188;Italy;FVG;Quota ricavata da dem
+286;ADEGLIACCO;G201;OD:G201;46.1153;13.2287;138;Italy;FVG;Quota ricavata da dem
+287;Feletto Umberto;G202;OD:G202;46.0999;13.2281;133;Italy;FVG;Quota ricavata da dem
+288;Zellina;H001;OD:H001;45.83;13.1725;6;Italy;FVG;Quota ricavata da dem
+289;Zellina ponte ferrovia;H002;OD:H002;45.8271;13.1739;6;Italy;FVG;Quota ricavata da dem
+290;FAUGLIS;J001;OD:J001;45.8888;13.2648;19;Italy;FVG;Quota ricavata da dem
+291;Chiarisacco;J002;OD:J002;45.8385;13.2172;7;Italy;FVG;Quota ricavata da dem
+292;SAN GIORGIO DI NOGARO;J003;OD:J003;45.839;13.2097;7;Italy;FVG;Quota ricavata da dem
+293;San Giorgio di Nogaro cimitero;J004;OD:J004;45.8355;13.2071;7;Italy;FVG;Quota ricavata da dem
+294;PLANAIS;J005;OD:J005;45.7729;13.2426;2;Italy;FVG;Quota ricavata da dem
+295;Sevegliano;J200;OD:J200;45.8865;13.2979;19;Italy;FVG;Quota ricavata da dem
+296;Torviscosa case Savoiano;J201;OD:J201;45.8273;13.2451;6;Italy;FVG;Quota ricavata da dem
+297;Torviscosa Molino;J202;OD:J202;45.8286;13.2805;5;Italy;FVG;Quota ricavata da dem
+298;Torviscosa ponte ferrovia;J203;OD:J203;45.826;13.2903;4;Italy;FVG;Quota ricavata da dem
+299;Tre Ponti;J204;OD:J204;45.8268;13.3056;3;Italy;FVG;Quota ricavata da dem
+300;Muscoli;J205;OD:J205;45.8355;13.3322;7;Italy;FVG;Quota ricavata da dem
+301;Muscoli via San Zenone;J206;OD:J206;45.8357;13.3405;8;Italy;FVG;Quota ricavata da dem
+302;Cervignano floricoltura Vrech;J207;OD:J207;45.8239;13.3459;8;Italy;FVG;Quota ricavata da dem
+303;CASTIONS DELLE MURE CASALI FABBRICA;J208;OD:J208;45.8419;13.312;6;Italy;FVG;Quota ricavata da dem
+304;TORVISCOSA;J209;OD:J209;45.8188;13.2754;3;Italy;FVG;Quota ricavata da dem
+305;Visco;J210;OD:J210;45.8927;13.3462;25;Italy;FVG;Quota ricavata da dem
+306;BELVAT;J211;OD:J211;45.802;13.2951;3;Italy;FVG;Quota ricavata da dem
+307;CERVIGNANO;J212;OD:J212;45.8163;13.3412;9;Italy;FVG;Quota ricavata da dem
+308;RISANO CASE MOSCHIONI;J400;OD:J400;45.9847;13.2514;65;Italy;FVG;Quota ricavata da dem
+309;GRIS CUCCANA;J401;OD:J401;45.9366;13.2343;38;Italy;FVG;Quota ricavata da dem
+310;PALMANOVA;J402;OD:J402;45.9125;13.2997;30;Italy;FVG;Quota ricavata da dem
+311;TRIVIGNANO UDINESE;J403;OD:J403;45.949;13.34;45;Italy;FVG;Quota ricavata da dem
+312;LAUZACCO;J404;OD:J404;45.9784;13.2827;60;Italy;FVG;Quota ricavata da dem
+313;IALMICCO SEDE PROTEZIONE CIVILE REGIONALE;J405;OD:J405;45.9112;13.3331;29;Italy;FVG;Quota ricavata da dem
+314;PAVIA DI UDINE;J406;OD:J406;45.992;13.2962;67;Italy;FVG;Quota ricavata da dem
+315;AQUILEIA IDROVORA CA' PADOVANO;K001;OD:K001;45.7471;13.3534;2;Italy;FVG;Quota ricavata da dem
+316;Scodovacca;K002;OD:K002;45.8207;13.3703;8;Italy;FVG;Quota ricavata da dem
+317;Borgo Modena;K003;OD:K003;45.8189;13.3811;8;Italy;FVG;Quota ricavata da dem
+318;Case Polzin;K005;OD:K005;45.8076;13.3637;4;Italy;FVG;Quota ricavata da dem
+319;Malborghetto di Cervignano;K006;OD:K006;45.8051;13.3652;4;Italy;FVG;Quota ricavata da dem
+320;CA' VIOLA;L001;OD:L001;45.7422;13.4159;2;Italy;FVG;Quota ricavata da dem
+321;VAL LOVATO;M001;OD:M001;45.682;13.0981;1;Italy;FVG;Quota ricavata da dem
+322;LIGNANO SABBIADORO;M002;OD:M002;45.6865;13.1212;1;Italy;FVG;Quota ricavata da dem
+323;VAL PANTANI;M004;OD:M004;45.692;13.0755;1;Italy;FVG;Quota ricavata da dem
+324;FRAIDA;M005;OD:M005;45.7371;13.104;1;Italy;FVG;Quota ricavata da dem
+325;LAME DI PRECENICCO;M006;OD:M006;45.7148;13.0654;3;Italy;FVG;Quota ricavata da dem
+326;MARANO LAGUNARE COLOMBA;M007;OD:M007;45.7754;13.1906;2;Italy;FVG;Quota ricavata da dem
+327;CA' ANFORA;M050;OD:M050;45.7601;13.3142;2;Italy;FVG;Quota ricavata da dem
+328;GRADO SEDE G.I.T.;M051;OD:M051;45.6765;13.3947;1;Italy;FVG;Quota ricavata da dem
+329;GRADO MOLO TORPEDINIERE;M053;OD:M053;45.6831;13.3835;1;Italy;FVG;Quota ricavata da dem
+330;GRADO VALLE CAVARERA;M054;OD:M054;45.6861;13.4198;1;Italy;FVG;Quota ricavata da dem
+331;UCCEA;N001;OD:N001;46.3065;13.4004;703;Italy;FVG;Quota ricavata da dem
+332;Ponte Piuma;N020;OD:N020;45.9562;13.6143;65;Italy;FVG;Quota ricavata da dem
+333;Gorizia teleferica Ponte Piuma;N021;OD:N021;45.957;13.6156;65;Italy;FVG;Quota ricavata da dem
+334;GORIZIA PRESA C.B.P.I.;N022;OD:N022;45.9341;13.596;49;Italy;FVG;Quota ricavata da dem
+335;Mainizza;N023;OD:N023;45.9064;13.5589;40;Italy;FVG;Quota ricavata da dem
+336;FARRA D'ISONZO M. FORTIN;N024;OD:N024;45.9083;13.5344;52;Italy;FVG;Quota ricavata da dem
+337;GRADISCA D'ISONZO;N026;OD:N026;45.8845;13.4971;30;Italy;FVG;Quota ricavata da dem
+338;Gradisca d'Isonzo ponte pedonale;N027;OD:N027;45.8857;13.5052;31;Italy;FVG;Quota ricavata da dem
+339;Gradisca d'Isonzo casello idraulico;N028;OD:N028;45.8827;13.5001;64;Italy;FVG;Quota ricavata da dem
+340;Sagrado ponte SS 305;N029;OD:N029;45.8786;13.485;29;Italy;FVG;Quota ricavata da dem
+341;RUDA CIMITERO;N030;OD:N030;45.832;13.404;10;Italy;FVG;Quota ricavata da dem
+342;Gorizia via San Gabriele;N031;OD:N031;45.9529;13.6338;92;Italy;FVG;Quota ricavata da dem
+343;Turriaco;N040;OD:N040;45.8164;13.4301;11;Italy;FVG;Quota ricavata da dem
+344;Pieris ponte SS 14;N041;OD:N041;45.8055;13.4296;9;Italy;FVG;Quota ricavata da dem
+345;FIUMICELLO;N042;OD:N042;45.7661;13.4048;2;Italy;FVG;Quota ricavata da dem
+346;ISOLA MOROSINI EX MAGAZZINO TABACCO;N043;OD:N043;45.7672;13.4402;3;Italy;FVG;Quota ricavata da dem
+347;ISOLA MOROSINI IDROVORA TERRANOVA;N044;OD:N044;45.7527;13.4771;2;Italy;FVG;Quota ricavata da dem
+348;FOSSALON BONIFICA VITTORIA;N045;OD:N045;45.7341;13.4966;1;Italy;FVG;Quota ricavata da dem
+349;Villa Vicentina via Sant'Antonio;N046;OD:N046;45.8101;13.4004;9;Italy;FVG;Quota ricavata da dem
+350;MUSI LOCALITA' TANATAVIELE;N100;OD:N100;46.3132;13.272;669;Italy;FVG;Quota ricavata da dem
+351;MUSI SORGENTI TORRE;N101;OD:N101;46.3072;13.2726;622;Italy;FVG;Quota ricavata da dem
+352;VEDRONZA;N103;OD:N103;46.2618;13.2562;351;Italy;FVG;Quota ricavata da dem
+353;CISERIIS;N104;OD:N104;46.2288;13.2294;295;Italy;FVG;Quota ricavata da dem
+354;TARCENTO PONTE PER OLTRETORRE;N105;OD:N105;46.2169;13.2237;238;Italy;FVG;Quota ricavata da dem
+355;GRAN MONTE RIFUGIO ALPINI;N108;OD:N108;46.2905;13.3508;1499;Italy;FVG;Quota ricavata da dem
+356;Qualso ponte di Nimis;N150;OD:N150;46.1891;13.2511;184;Italy;FVG;Quota ricavata da dem
+357;ZOMPITTA PRESA C.B.L.T.;N151;OD:N151;46.1714;13.2547;174;Italy;FVG;Quota ricavata da dem
+358;Zompitta Borgo di Sotto;N153;OD:N153;46.1638;13.2573;167;Italy;FVG;Quota ricavata da dem
+359;Cerneglons ponte;N154;OD:N154;46.0427;13.3107;89;Italy;FVG;Quota ricavata da dem
+360;Viscone;N155;OD:N155;45.9246;13.3781;33;Italy;FVG;Quota ricavata da dem
+361;Tapogliano ex ponte SS 252;N156;OD:N156;45.8927;13.4072;27;Italy;FVG;Quota ricavata da dem
+362;Villesse ponte SS 351;N157;OD:N157;45.8511;13.4199;18;Italy;FVG;Quota ricavata da dem
+363;PONTE SAMBO;N200;OD:N200;46.267;13.3293;509;Italy;FVG;Quota ricavata da dem
+364;CERGNEU SUPERIORE;N201;OD:N201;46.2148;13.3134;316;Italy;FVG;Quota ricavata da dem
+365;Molmentet;N202;OD:N202;46.1899;13.2664;241;Italy;FVG;Quota ricavata da dem
+366;ATTIMIS BORGO FARIS;N300;OD:N300;46.1731;13.3179;216;Italy;FVG;Quota ricavata da dem
+367;SUBIT;N301;OD:N301;46.2049;13.3515;752;Italy;FVG;Quota ricavata da dem
+368;POVOLETTO;N302;OD:N302;46.1229;13.309;128;Italy;FVG;Quota ricavata da dem
+369;CANALUTTO;N303;OD:N303;46.1573;13.4317;362;Italy;FVG;Quota ricavata da dem
+370;TOGLIANO;N304;OD:N304;46.121;13.3902;155;Italy;FVG;Quota ricavata da dem
+371;Faedis;N305;OD:N305;46.1513;13.3485;198;Italy;FVG;Quota ricavata da dem
+372;Faedis campo sportivo;N306;OD:N306;46.1482;13.3451;161;Italy;FVG;Quota ricavata da dem
+373;Torreano;N309;OD:N309;46.1255;13.43;193;Italy;FVG;Quota ricavata da dem
+374;Selvis;N310;OD:N310;46.0693;13.3339;100;Italy;FVG;Quota ricavata da dem
+375;CERNEGLONS;N311;OD:N311;46.0558;13.3181;90;Italy;FVG;Quota ricavata da dem
+376;Attimis ponte SS 365;N312;OD:N312;46.1883;13.3058;195;Italy;FVG;Quota ricavata da dem
+377;ORZANO;N313;OD:N313;46.0617;13.358;106;Italy;FVG;Quota ricavata da dem
+378;PLATISCHIS;N400;OD:N400;46.243;13.3806;739;Italy;FVG;Quota ricavata da dem
+379;STUPIZZA;N401;OD:N401;46.2004;13.4711;313;Italy;FVG;Quota ricavata da dem
+380;LINDER;N402;OD:N402;46.1814;13.4773;281;Italy;FVG;Quota ricavata da dem
+381;PULFERO;N404;OD:N404;46.1733;13.4831;245;Italy;FVG;Quota ricavata da dem
+382;MONTEMAGGIORE;N405;OD:N405;46.1945;13.5329;1022;Italy;FVG;Quota ricavata da dem
+383;SAN VOLFANGO;N406;OD:N406;46.165;13.6427;582;Italy;FVG;Quota ricavata da dem
+384;DRENCHIA;N407;OD:N407;46.1752;13.6223;670;Italy;FVG;Quota ricavata da dem
+385;CLODIG;N408;OD:N408;46.1557;13.5924;312;Italy;FVG;Quota ricavata da dem
+386;AZZIDA;N410;OD:N410;46.1183;13.4947;165;Italy;FVG;Quota ricavata da dem
+387;TRIBIL INFERIORE;N416;OD:N416;46.1193;13.5853;548;Italy;FVG;Quota ricavata da dem
+388;MALGHE MERSINO;N417;OD:N417;46.2122;13.5243;1424;Italy;FVG;Quota ricavata da dem
+389;CIVIDALE ISTITUTO AGRARIO;N450;OD:N450;46.0967;13.4182;135;Italy;FVG;Quota ricavata da dem
+390;Cividale Ponte del Diavolo;N451;OD:N451;46.0913;13.4301;133;Italy;FVG;Quota ricavata da dem
+391;MANZANO PONTE CASE;N452;OD:N452;45.9918;13.391;75;Italy;FVG;Quota ricavata da dem
+392;MANZANO;N454;OD:N454;45.9973;13.3819;85;Italy;FVG;Quota ricavata da dem
+393;ALBANA;N601;OD:N601;46.0483;13.4898;105;Italy;FVG;Quota ricavata da dem
+394;BRAZZANO;N602;OD:N602;45.9768;13.4534;90;Italy;FVG;Quota ricavata da dem
+395;CORMONS;N603;OD:N603;45.96;13.4693;101;Italy;FVG;Quota ricavata da dem
+396;Versa ponte SS 252;N604;OD:N604;45.898;13.4219;23;Italy;FVG;Quota ricavata da dem
+397;GIASBANA;N605;OD:N605;45.9678;13.5748;148;Italy;FVG;Quota ricavata da dem
+398;CAPRIVA LOCALITA' LA BAITA;N606;OD:N606;45.9468;13.5122;50;Italy;FVG;Quota ricavata da dem
+399;Ruzzis;N607;OD:N607;45.9538;13.5196;57;Italy;FVG;Quota ricavata da dem
+400;La Baita ponte;N608;OD:N608;45.9467;13.5111;50;Italy;FVG;Quota ricavata da dem
+401;Fratta;N609;OD:N609;45.909;13.4372;29;Italy;FVG;Quota ricavata da dem
+402;Mariano del Friuli;N610;OD:N610;45.9211;13.4561;34;Italy;FVG;Quota ricavata da dem
+403;VERSA;N611;OD:N611;45.8948;13.4077;27;Italy;FVG;Quota ricavata da dem
+405;Rupa ponte SS 55;N700;OD:N700;45.8897;13.5875;57;Italy;FVG;Quota ricavata da dem
+406;GORIZIA AEROPORTO DI MERNA;N701;OD:N701;45.9112;13.5967;61;Italy;FVG;Quota ricavata da dem
+407;Savogna d'Isonzo ponte ferrovia;N703;OD:N703;45.8987;13.57;50;Italy;FVG;Quota ricavata da dem
+408;Savogna d'Isonzo ponte SP 8;N704;OD:N704;45.9005;13.5686;44;Italy;FVG;Quota ricavata da dem
+409;MONFALCONE;P001;OD:P001;45.8068;13.5371;9;Italy;FVG;Quota ricavata da dem
+410;ALBERONI IDROVORA SACCHETTI;P002;OD:P002;45.7779;13.5131;3;Italy;FVG;Quota ricavata da dem
+411;MONFALCONE PISCINA COMUNALE;P005;OD:P005;45.7965;13.5115;4;Italy;FVG;Quota ricavata da dem
+412;DOBERDO' CENTRO VISITE GRADINA;R001;OD:R001;45.843;13.5472;144;Italy;FVG;Quota ricavata da dem
+413;SAN PELAGIO;R100;OD:R100;45.7655;13.6868;217;Italy;FVG;Quota ricavata da dem
+414;PROSECCO ELIPORTO;R101;OD:R101;45.7031;13.7576;263;Italy;FVG;Quota ricavata da dem
+415;BORGO GROTTA GIGANTE;R102;OD:R102;45.7094;13.7644;278;Italy;FVG;Quota ricavata da dem
+416;OPICINA;R103;OD:R103;45.6842;13.7914;327;Italy;FVG;Quota ricavata da dem
+417;BASOVIZZA;R104;OD:R104;45.6416;13.8598;380;Italy;FVG;Quota ricavata da dem
+418;BARCOLA;S001;OD:S001;45.6828;13.7523;48;Italy;FVG;Quota ricavata da dem
+419;TRIESTE ISTITUTO NAUTICO;S002;OD:S002;45.6475;13.7646;18;Italy;FVG;Quota ricavata da dem
+420;SERVOLA;S003;OD:S003;45.6269;13.7829;14;Italy;FVG;Quota ricavata da dem
+421;MUGGIA;S005;OD:S005;45.6011;13.7747;NA;Italy;FVG;Quota ricavata da dem
+422;TRIESTE CATTINARA;S006;OD:S006;45.6354;13.8331;340;Italy;FVG;Quota ricavata da dem
+423;Francovec;T001;OD:T001;45.6073;13.82;50;Italy;FVG;Quota ricavata da dem
+424;NOGHERE;U003;OD:U003;45.5853;13.8168;42;Italy;FVG;Quota ricavata da dem
+425;TARVISIO CAMPO SPORTIVO;V001;OD:V001;46.5045;13.5938;732;Italy;FVG;Quota ricavata da dem
+426;TARVISIO;V002;OD:V002;46.5063;13.5701;770;Italy;FVG;Quota ricavata da dem
+427;CAVE DEL PREDIL;V003;OD:V003;46.4423;13.5707;935;Italy;FVG;Quota ricavata da dem
+428;VALICO DI FUSINE;V005;OD:V005;46.4997;13.6823;998;Italy;FVG;Quota ricavata da dem
+429;PASSO DEL PREDIL EX FORTE;V008;OD:V008;46.4189;13.5735;1151;Italy;FVG;Quota ricavata da dem
+430;CAVE DEL PREDIL PONTE MINIERA;V010;OD:V010;46.4411;13.5698;989;Italy;FVG;Quota ricavata da dem
+431;MALGA ALPE DEL LAGO;V013;OD:V013;46.4667;13.662;968;Italy;FVG;Quota ricavata da dem
