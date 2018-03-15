@@ -1,394 +1,394 @@
-SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
-1;Domanico;1000;OD:1000;39.21638889;16.2075;749;Italy;Calabria;Quota ricavata da dem
-2;Cosenza;1010;OD:1010;39.28694444;16.26527778;269;Italy;Calabria;Quota ricavata da dem
-4;Cosenza - Busento;1015;OD:1015;39.29177778;16.25733333;229;Italy;Calabria;Quota ricavata da dem
-5;Cerisano;1020;OD:1020;39.28111111;16.17444444;584;Italy;Calabria;Quota ricavata da dem
-6;Castiglione Cosentino;1025;OD:1025;39.35641667;16.25908333;196;Italy;Calabria;Quota ricavata da dem
-7;San Pietro in Guarano;1030;OD:1030;39.34555556;16.31361111;766;Italy;Calabria;Quota ricavata da dem
-8;Rende;1040;OD:1040;39.33111111;16.18027778;392;Italy;Calabria;Quota ricavata da dem
-9;Rose;1050;OD:1050;39.39833333;16.2875;396;Italy;Calabria;Quota ricavata da dem
-10;Montalto Uffugo;1060;OD:1060;39.40111111;16.13055556;436;Italy;Calabria;Quota ricavata da dem
-11;Laghitello C.C.;1070;OD:1070;39.43805556;16.10111111;764;Italy;Calabria;Quota ricavata da dem
-12;San Martino di Finita;1080;OD:1080;39.48972222;16.10805556;480;Italy;Calabria;Quota ricavata da dem
-13;Camigliatello Silano (ex Federici);1090;OD:1090;39.33722222;16.4372;1284;Italy;Calabria;Quota ricavata da dem
-14;Camigliatello - Monte Curcio;1092;OD:1092;39.31611111;16.42305556;1711;Italy;Calabria;Quota ricavata da dem
-15;Cecita;1100;OD:1100;39.39994444;16.53777778;1173;Italy;Calabria;Quota ricavata da dem
-16;Pinutello C.C.;1110;OD:1110;39.45138889;16.47416667;1124;Italy;Calabria;Quota ricavata da dem
-17;Acri;1120;OD:1120;39.48252778;16.3935;746;Italy;Calabria;Quota ricavata da dem
-18;Torano Scalo;1130;OD:1130;39.49388889;16.21;93;Italy;Calabria;Quota ricavata da dem
-19;Fitterizzi;1135;OD:1135;39.52027778;16.14083333;208;Italy;Calabria;Quota ricavata da dem
-20;Tarsia;1140;OD:1140;39.61722222;16.27277778;203;Italy;Calabria;Quota ricavata da dem
-21;Mongrassano Scalo;1145;OD:1145;39.53388889;16.21583333;124;Italy;Calabria;Quota ricavata da dem
-22;Santa Sofia d'Epiro;1150;OD:1150;39.5475;16.32;517;Italy;Calabria;Quota ricavata da dem
-23;Santa Sofia d'Epiro - Crati;1155;OD:1155;39.59138889;16.2625;68;Italy;Calabria;Quota ricavata da dem
-24;Sant'Agata C.C.;1160;OD:1160;39.64027778;16.38388889;99;Italy;Calabria;Quota ricavata da dem
-25;Morano Calabro;1170;OD:1170;39.84008333;16.13802778;604;Italy;Calabria;Quota ricavata da dem
-26;Castrovillari;1180;OD:1180;39.76555556;16.25416667;199;Italy;Calabria;Quota ricavata da dem
-27;Piano Campolongo;1184;OD:1184;39.775;16.10666639;1385;Italy;Calabria;Quota ricavata da dem
-28;Castrovillari - Camerata;1185;OD:1185;39.73308333;16.27191667;63;Italy;Calabria;Quota ricavata da dem
-29;Firmo;1190;OD:1190;39.72194444;16.17416667;311;Italy;Calabria;Quota ricavata da dem
-30;Lungro;1195;OD:1195;39.73669444;16.12391667;573;Italy;Calabria;Quota ricavata da dem
-31;Santa Agata d'Esaro;1200;OD:1200;39.61944444;16.00277778;383;Italy;Calabria;Quota ricavata da dem
-32;Malvito;1210;OD:1210;39.59888889;16.05277778;320;Italy;Calabria;Quota ricavata da dem
-33;Roggiano Gravina;1220;OD:1220;39.61777778;16.15055556;258;Italy;Calabria;Quota ricavata da dem
-34;San Sosti;1230;OD:1230;39.66444444;16.02805556;384;Italy;Calabria;Quota ricavata da dem
-35;Acquaformosa;1240;OD:1240;39.72222222;16.10666667;518;Italy;Calabria;Quota ricavata da dem
-36;Fagnano Castello;1250;OD:1250;39.56388889;16.05555556;504;Italy;Calabria;Quota ricavata da dem
-37;San Marco Argentano;1260;OD:1260;39.55944444;16.11083333;285;Italy;Calabria;Quota ricavata da dem
-38;Tarsia Scalo;1264;OD:1264;39.62583333;16.28305556;286;Italy;Calabria;Quota ricavata da dem
-39;Mongrassano;1270;OD:1270;39.52555556;16.12333333;425;Italy;Calabria;Quota ricavata da dem
-40;Spezzano Albanese Scalo;1280;OD:1280;39.71;16.29027778;52;Italy;Calabria;Quota ricavata da dem
-41;Caselle;1290;OD:1290;39.72055556;16.42083333;12;Italy;Calabria;Quota ricavata da dem
-42;Thurio;1294;OD:1294;39.69222222;16.48999972;7;Italy;Calabria;Quota ricavata da dem
-43;Sibari;1295;OD:1295;39.71041667;16.49675;5;Italy;Calabria;Quota ricavata da dem
-44;Macchia Albanese;1296;OD:1296;39.58055556;16.38138889;353;Italy;Calabria;Quota ricavata da dem
-45;San Giorgio Albanese;1300;OD:1300;39.58333333;16.45277778;325;Italy;Calabria;Quota ricavata da dem
-46;Corigliano Idrometro;1301;OD:1301;39.60083333;16.53416667;90;Italy;Calabria;Quota ricavata da dem
-47;Pizzuto;1302;OD:1302;39.55888889;16.66888889;202;Italy;Calabria;Quota ricavata da dem
-48;Pagania d'Acri;1305;OD:1305;39.6;16.40666639;178;Italy;Calabria;Quota ricavata da dem
-49;Schiavonea;1310;OD:1310;39.65333333;16.53916667;3;Italy;Calabria;Quota ricavata da dem
-50;San Giacomo d'Acri;1320;OD:1320;39.52416667;16.465;720;Italy;Calabria;Quota ricavata da dem
-51;Corigliano Calabro;1324;OD:1324;39.58733333;16.52063889;254;Italy;Calabria;Quota ricavata da dem
-52;Rossano;1330;OD:1330;39.57444444;16.63416667;223;Italy;Calabria;Quota ricavata da dem
-53;Staggi;1340;OD:1340;39.47083333;16.57333333;1338;Italy;Calabria;Quota ricavata da dem
-54;Difesa;1341;OD:1341;39.45083333;16.56333306;1207;Italy;Calabria;Quota ricavata da dem
-55;Difesella;1350;OD:1350;39.45333333;16.53166667;1038;Italy;Calabria;Quota ricavata da dem
-56;Longobucco;1360;OD:1360;39.44611111;16.61027778;869;Italy;Calabria;Quota ricavata da dem
-57;Cozzo Carbonella;1365;OD:1365;39.43333333;16.89;187;Italy;Calabria;Quota ricavata da dem
-58;Bocchigliero;1370;OD:1370;39.41722222;16.75305556;763;Italy;Calabria;Quota ricavata da dem
-59;Macchia di Pietra;1375;OD:1375;39.34472222;16.58999972;1420;Italy;Calabria;Quota ricavata da dem
-60;Cropalati;1380;OD:1380;39.51583333;16.72444444;321;Italy;Calabria;Quota ricavata da dem
-61;Cropalati - Trionto;1385;OD:1385;39.519;16.74461111;129;Italy;Calabria;Quota ricavata da dem
-62;Crosia;1390;OD:1390;39.56666667;16.77305556;136;Italy;Calabria;Quota ricavata da dem
-63;Pietrapaola;1400;OD:1400;39.48722222;16.81444444;346;Italy;Calabria;Quota ricavata da dem
-64;Cariati Marina;1410;OD:1410;39.50513889;16.94022222;14;Italy;Calabria;Quota ricavata da dem
-65;Crucoli SS 106;1415;OD:1415;39.47344444;17.01027778;13;Italy;Calabria;Quota ricavata da dem
-66;Campana;1420;OD:1420;39.40805556;16.8275;474;Italy;Calabria;Quota ricavata da dem
-67;Scala Coeli;1430;OD:1430;39.44527778;16.89;296;Italy;Calabria;Quota ricavata da dem
-68;Crucoli;1440;OD:1440;39.42444444;17.00388889;279;Italy;Calabria;Quota ricavata da dem
-69;Montagna C.C.;1444;OD:1444;39.39;16.80583333;818;Italy;Calabria;Quota ricavata da dem
-70;Umbriatico;1450;OD:1450;39.35361111;16.91916667;301;Italy;Calabria;Quota ricavata da dem
-71;Ciro' Marina - Punta Alice;1455;OD:1455;39.38416667;17.12611111;8;Italy;Calabria;Quota ricavata da dem
-72;Cir� Superiore;1456;OD:1456;39.38158333;17.05880556;269;Italy;Calabria;Quota ricavata da dem
-73;Ciro' Marina;1460;OD:1460;39.40777778;17.10944444;27;Italy;Calabria;Quota ricavata da dem
-74;San Giovanni in Fiore;1470;OD:1470;39.26333333;16.71583333;967;Italy;Calabria;Quota ricavata da dem
-76;Juntura;1472;OD:1472;39.23833333;16.72638861;1074;Italy;Calabria;Quota ricavata da dem
-77;Torre Garga;1474;OD:1474;39.27805556;16.66805528;1204;Italy;Calabria;Quota ricavata da dem
-78;Trepid� Idrometro;1475;OD:1475;39.20444444;16.69972194;1243;Italy;Calabria;Quota ricavata da dem
-79;Schiena D'Asino;1476;OD:1476;39.30916667;16.75972194;1086;Italy;Calabria;Quota ricavata da dem
-80;Quaresima C.C.;1480;OD:1480;39.21611111;16.44777778;1345;Italy;Calabria;Quota ricavata da dem
-81;San Bernardo;1485;OD:1485;39.3;16.60666639;1320;Italy;Calabria;Quota ricavata da dem
-82;Lorica C.C.;1490;OD:1490;39.25138889;16.51305556;1383;Italy;Calabria;Quota ricavata da dem
-83;Rovale C.C.;1494;OD:1494;39.25055556;16.55666639;1330;Italy;Calabria;Quota ricavata da dem
-84;Botte Donato;1495;OD:1495;39.28072222;16.45838889;1751;Italy;Calabria;Quota ricavata da dem
-85;Nocelle - Arvo;1500;OD:1500;39.24333333;16.545;1307;Italy;Calabria;Quota ricavata da dem
-86;Sculca;1510;OD:1510;39.32194444;16.50222222;1360;Italy;Calabria;Quota ricavata da dem
-87;Monteoliveto C.C.;1520;OD:1520;39.30583333;16.60305556;1320;Italy;Calabria;Quota ricavata da dem
-88;Serralunga;1524;OD:1524;39.25805556;16.67333306;1055;Italy;Calabria;Quota ricavata da dem
-89;Stratalati C.C.;1530;OD:1530;39.27861111;16.66583333;1222;Italy;Calabria;Quota ricavata da dem
-91;Berberano C.C.;1540;OD:1540;39.18166667;16.575;1335;Italy;Calabria;Quota ricavata da dem
-92;Trepido';1550;OD:1550;39.18861111;16.69777778;1243;Italy;Calabria;Quota ricavata da dem
-93;Casa Pasquale;1560;OD:1560;39.18111111;16.71888889;1122;Italy;Calabria;Quota ricavata da dem
-94;Savelli;1570;OD:1570;39.31277778;16.77277778;986;Italy;Calabria;Quota ricavata da dem
-95;Cerenzia;1580;OD:1580;39.2425;16.78333333;596;Italy;Calabria;Quota ricavata da dem
-96;Belvedere Spinello;1590;OD:1590;39.20722222;16.88777778;287;Italy;Calabria;Quota ricavata da dem
-97;Santa Severina;1600;OD:1600;39.14638889;16.91222222;216;Italy;Calabria;Quota ricavata da dem
-98;Rocca di Neto;1610;OD:1610;39.17527778;17.02277778;32;Italy;Calabria;Quota ricavata da dem
-99;Verzino;1620;OD:1620;39.31305556;16.86222222;484;Italy;Calabria;Quota ricavata da dem
-100;Casabona;1630;OD:1630;39.24805556;16.95583333;248;Italy;Calabria;Quota ricavata da dem
-101;San Nicola dell'Alto;1640;OD:1640;39.29458333;16.96783333;500;Italy;Calabria;Quota ricavata da dem
-102;Strongoli;1650;OD:1650;39.26555556;17.04777778;260;Italy;Calabria;Quota ricavata da dem
-103;Crepacuore;1660;OD:1660;39.11722222;17.08999972;13;Italy;Calabria;Quota ricavata da dem
-104;Crotone - Ponte Forcosa;1665;OD:1665;39.04111111;17.07111111;56;Italy;Calabria;Quota ricavata da dem
-105;Ponticelli a Ponte SS. 106;1667;OD:1667;39.12916667;17.11416639;18;Italy;Calabria;Quota ricavata da dem
-106;Cutro;1670;OD:1670;39.03663889;17.01522222;161;Italy;Calabria;Quota ricavata da dem
-107;Crotone - Papanice;1675;OD:1675;39.0725;17.02777778;118;Italy;Calabria;Quota ricavata da dem
-108;Crotone;1680;OD:1680;39.08694444;17.13111111;1;Italy;Calabria;Quota ricavata da dem
-109;Crotone - Ponte San Francesco;1685;OD:1685;39.07080556;17.10358333;29;Italy;Calabria;Quota ricavata da dem
-110;Capo Colonne;1690;OD:1690;39.02861111;17.20444444;1;Italy;Calabria;Quota ricavata da dem
-111;Crotone - Salica;1695;OD:1695;39.01222222;17.12611111;145;Italy;Calabria;Quota ricavata da dem
-112;Isola di Capo Rizzuto - Campolongo;1700;OD:1700;38.94305556;17.0088;151;Italy;Calabria;Quota ricavata da dem
-113;Cutro;1710;OD:1710;39.03666667;17.01527778;161;Italy;Calabria;Quota ricavata da dem
-114;Steccato;1720;OD:1720;38.94472222;16.92277778;42;Italy;Calabria;Quota ricavata da dem
-115;Cotronei;1724;OD:1724;39.15944444;16.78055556;477;Italy;Calabria;Quota ricavata da dem
-116;Petilia Policastro;1730;OD:1730;39.11083333;16.78777778;373;Italy;Calabria;Quota ricavata da dem
-117;Rivioto;1731;OD:1731;39.13527778;16.81583333;235;Italy;Calabria;Quota ricavata da dem
-118;Roccabernarda -Serrarossa;1733;OD:1733;39.07141667;16.889;49;Italy;Calabria;Quota ricavata da dem
-119;Belcastro SS 106;1734;OD:1734;38.94313889;16.90794444;13;Italy;Calabria;Quota ricavata da dem
-120;Petron�;1735;OD:1735;39.04180556;16.75877778;814;Italy;Calabria;Quota ricavata da dem
-121;San Mauro Marchesato;1740;OD:1740;39.10444444;16.92888889;212;Italy;Calabria;Quota ricavata da dem
-122;Casa Jolanda;1745;OD:1745;39.08333333;16.64;1560;Italy;Calabria;Quota ricavata da dem
-123;Marcedusa;1750;OD:1750;39.02611111;16.83527778;236;Italy;Calabria;Quota ricavata da dem
-124;Petilia Policastro - Pagliarelle;1755;OD:1755;39.14166667;16.748333;745;Italy;Calabria;Quota ricavata da dem
-125;Botricello;1760;OD:1760;38.94147222;16.85863889;32;Italy;Calabria;Quota ricavata da dem
-126;Vincolise;1761;OD:1761;39.01333333;16.64083306;521;Italy;Calabria;Quota ricavata da dem
-127;Cropani;1780;OD:1780;38.97083333;16.78;317;Italy;Calabria;Quota ricavata da dem
-128;Sersale;1790;OD:1790;39.01194444;16.72555556;781;Italy;Calabria;Quota ricavata da dem
-129;Sellia Marina;1800;OD:1800;38.90602778;16.74363889;55;Italy;Calabria;Quota ricavata da dem
-130;Monaco Villaggio Mancuso;1810;OD:1810;39.07305556;16.56777778;1215;Italy;Calabria;Quota ricavata da dem
-131;Racisi;1815;OD:1815;39.08333333;16.55666639;1213;Italy;Calabria;Quota ricavata da dem
-132;Soveria Simeri;1820;OD:1820;38.95022222;16.67402778;382;Italy;Calabria;Quota ricavata da dem
-133;Taverna - Ciricilla;1825;OD:1825;39.13963889;16.53358333;1411;Italy;Calabria;Quota ricavata da dem
-135;Albi;1830;OD:1830;39.02638889;16.59833333;803;Italy;Calabria;Quota ricavata da dem
-136;Polimieri;1831;OD:1831;39.09361111;16.54222194;1215;Italy;Calabria;Quota ricavata da dem
-137;Orso;1832;OD:1832;39.02777778;16.58444417;709;Italy;Calabria;Quota ricavata da dem
-138;Catanzaro Lido SS 106;1835;OD:1835;38.81730556;16.60613889;21;Italy;Calabria;Quota ricavata da dem
-139;Sant'Elia;1840;OD:1840;38.96444444;16.58638889;590;Italy;Calabria;Quota ricavata da dem
-140;Catanzaro;1850;OD:1850;38.91083333;16.58583333;315;Italy;Calabria;Quota ricavata da dem
-141;Catanzaro-Sant'Elia;1851;OD:1851;38.95208333;16.58269444;540;Italy;Calabria;Quota ricavata da dem
-143;Santa Maria di Catanzaro;1855;OD:1855;38.84944444;16.59777778;106;Italy;Calabria;Quota ricavata da dem
-144;Catanzaro Lido;1860;OD:1860;38.82055556;16.61305556;7;Italy;Calabria;Quota ricavata da dem
-145;Vivoli C.C.;1864;OD:1864;39.13833333;16.45666667;1301;Italy;Calabria;Quota ricavata da dem
-146;Borgia - Roccelletta;1865;OD:1865;38.81861111;16.59777778;20;Italy;Calabria;Quota ricavata da dem
-147;Carlopoli;1870;OD:1870;39.05611111;16.45444444;934;Italy;Calabria;Quota ricavata da dem
-148;Olivella Idrometro;1871;OD:1871;38.96416667;16.56222194;753;Italy;Calabria;Quota ricavata da dem
-149;Grascio;1872;OD:1872;38.90916667;16.57194417;307;Italy;Calabria;Quota ricavata da dem
-150;Fiorenza;1880;OD:1880;39.09222222;16.49333333;1147;Italy;Calabria;Quota ricavata da dem
-151;Umbri;1890;OD:1890;39.02583333;16.51361111;885;Italy;Calabria;Quota ricavata da dem
-152;Olivella;1900;OD:1900;38.96472222;16.53583333;405;Italy;Calabria;Quota ricavata da dem
-153;Gimigliano;1910;OD:1910;38.97138889;16.52555556;492;Italy;Calabria;Quota ricavata da dem
-154;Borgia;1920;OD:1920;38.82694444;16.50777778;298;Italy;Calabria;Quota ricavata da dem
-155;Girifalco;1930;OD:1930;38.82194444;16.42472222;397;Italy;Calabria;Quota ricavata da dem
-156;Cenadi - Serralta;1935;OD:1935;38.74916667;16.36833333;949;Italy;Calabria;Quota ricavata da dem
-157;Palermiti;1940;OD:1940;38.74919444;16.45286111;525;Italy;Calabria;Quota ricavata da dem
-158;Stalett�;1950;OD:1950;38.76541667;16.53877778;364;Italy;Calabria;Quota ricavata da dem
-159;Petrizzi;1955;OD:1955;38.70222222;16.47444444;419;Italy;Calabria;Quota ricavata da dem
-160;Chiaravalle Centrale;1960;OD:1960;38.67138889;16.40888889;551;Italy;Calabria;Quota ricavata da dem
-161;Crisura;1961;OD:1961;38.67333333;16.52166639;48;Italy;Calabria;Quota ricavata da dem
-162;Satriano Marina;1965;OD:1965;38.67555556;16.5425;25;Italy;Calabria;Quota ricavata da dem
-163;Soverato Marina;1970;OD:1970;38.69166667;16.54444444;13;Italy;Calabria;Quota ricavata da dem
-164;Serra San Bruno;1980;OD:1980;38.56527778;16.31972222;926;Italy;Calabria;Quota ricavata da dem
-165;Simbario;1990;OD:1990;38.61111111;16.32694444;767;Italy;Calabria;Quota ricavata da dem
-166;Campo Gagliato C.C.;1993;OD:1993;38.69027778;16.47333306;357;Italy;Calabria;Quota ricavata da dem
-167;Spadola;1995;OD:1995;38.60194444;16.33805556;763;Italy;Calabria;Quota ricavata da dem
-168;Davoli;1996;OD:1996;38.64944444;16.50666639;378;Italy;Calabria;Quota ricavata da dem
-169;Mammone;2000;OD:2000;38.58222222;16.40361111;1007;Italy;Calabria;Quota ricavata da dem
-170;Mammone Idrometro;2001;OD:2001;38.58166667;16.44416667;1000;Italy;Calabria;Quota ricavata da dem
-171;Alaco a Pirrella;2002;OD:2002;38.625;16.51277778;268;Italy;Calabria;Quota ricavata da dem
-172;Botteria;2003;OD:2003;38.475;16.53611111;70;Italy;Calabria;Quota ricavata da dem
-173;San Sostene;2010;OD:2010;38.63747222;16.48683333;446;Italy;Calabria;Quota ricavata da dem
-174;Badolato;2020;OD:2020;38.56916667;16.52166667;269;Italy;Calabria;Quota ricavata da dem
-175;Santa Caterina dello Ionio;2025;OD:2025;38.53694444;16.51305556;496;Italy;Calabria;Quota ricavata da dem
-176;Pietracupa;2030;OD:2030;38.55194444;16.40666639;1061;Italy;Calabria;Quota ricavata da dem
-177;Monasterace - Punta Stilo;2040;OD:2040;38.45361111;16.55222222;64;Italy;Calabria;Quota ricavata da dem
-178;Stilo - Ferdinandea;2050;OD:2050;38.485;16.37777778;1113;Italy;Calabria;Quota ricavata da dem
-179;Stilo;2060;OD:2060;38.43805556;16.56944444;19;Italy;Calabria;Quota ricavata da dem
-180;Riace;2070;OD:2070;38.41777778;16.47805556;321;Italy;Calabria;Quota ricavata da dem
-181;Stignano;2072;OD:2072;38.42516667;16.47438889;417;Italy;Calabria;Quota ricavata da dem
-182;Placanica;2080;OD:2080;38.41444444;16.47027778;238;Italy;Calabria;Quota ricavata da dem
-183;Monte Pecoraro;2083;OD:2083;38.51333333;16.35666639;1205;Italy;Calabria;Quota ricavata da dem
-184;Mongiana;2086;OD:2086;38.51630556;16.31672222;885;Italy;Calabria;Quota ricavata da dem
-185;Mongiana - Ponte Mongiana;2088;OD:2088;38.51472222;16.31444444;918;Italy;Calabria;Quota ricavata da dem
-186;Fabrizia;2090;OD:2090;38.486;16.30027778;880;Italy;Calabria;Quota ricavata da dem
-187;Nardodipace;2100;OD:2100;38.47277778;16.3425;1055;Italy;Calabria;Quota ricavata da dem
-188;San Nicola di Caulonia;2110;OD:2110;38.41305556;16.37222222;255;Italy;Calabria;Quota ricavata da dem
-189;Caulonia;2120;OD:2120;38.38325;16.41147222;136;Italy;Calabria;Quota ricavata da dem
-190;Caulonia SS106;2125;OD:2125;38.34802778;16.47288889;8;Italy;Calabria;Quota ricavata da dem
-191;Roccella Ionica;2130;OD:2130;38.32166667;16.4;20;Italy;Calabria;Quota ricavata da dem
-192;Mammola;2140;OD:2140;38.36658333;16.23555556;421;Italy;Calabria;Quota ricavata da dem
-193;Africo;2145;OD:2145;38.06666667;16.00666639;512;Italy;Calabria;Quota ricavata da dem
-194;Fabrizia - Cassari;2150;OD:2150;38.44222222;16.29333333;999;Italy;Calabria;Quota ricavata da dem
-195;Benestare;2155;OD:2155;38.18333333;16.15666639;156;Italy;Calabria;Quota ricavata da dem
-196;Gioiosa Ionica;2160;OD:2160;38.30111111;16.32972222;18;Italy;Calabria;Quota ricavata da dem
-197;Siderno Marina;2170;OD:2170;38.27405556;16.29852778;9;Italy;Calabria;Quota ricavata da dem
-198;Antonimina - Canolo Nuovo;2180;OD:2180;38.31305556;16.12722222;925;Italy;Calabria;Quota ricavata da dem
-199;Agnana Calabra;2190;OD:2190;38.30361111;16.22083333;276;Italy;Calabria;Quota ricavata da dem
-200;Gerace Superiore;2194;OD:2194;38.27222222;16.21833333;337;Italy;Calabria;Quota ricavata da dem
-201;Gerace Marina;2195;OD:2195;38.20388889;16.28999972;NA;Italy;Calabria;Quota ricavata da dem
-202;Antonimina;2200;OD:2200;38.25972222;16.18055556;126;Italy;Calabria;Quota ricavata da dem
-203;Portigliola a Stretta Gabella;2201;OD:2201;38.25777778;16.19083333;143;Italy;Calabria;Quota ricavata da dem
-204;Locri;2205;OD:2205;38.23963889;16.26794444;6;Italy;Calabria;Quota ricavata da dem
-205;Ardore Superiore;2210;OD:2210;38.20594444;16.15505556;275;Italy;Calabria;Quota ricavata da dem
-206;Bovalino Marina;2220;OD:2220;38.1485;16.17761111;9;Italy;Calabria;Quota ricavata da dem
-207;Casignana SS 106;2225;OD:2225;38.12761111;16.15930556;5;Italy;Calabria;Quota ricavata da dem
-208;Plati';2230;OD:2230;38.22222222;16.04444444;329;Italy;Calabria;Quota ricavata da dem
-209;Careri a Bosco;2231;OD:2231;38.195;16.08749972;305;Italy;Calabria;Quota ricavata da dem
-210;Carr�;2240;OD:2240;38.18194444;16.01555528;837;Italy;Calabria;Quota ricavata da dem
-211;San Luca - Santuario di Polsi;2250;OD:2250;38.16472222;15.96083333;1030;Italy;Calabria;Quota ricavata da dem
-212;San Luca;2260;OD:2260;38.14841667;16.06727778;131;Italy;Calabria;Quota ricavata da dem
-213;Sant'Agata del Bianco;2270;OD:2270;38.10075;16.08533333;310;Italy;Calabria;Quota ricavata da dem
-214;Casalnuovo (Cas. d'Afr.);2280;OD:2280;38.05611111;15.99166667;820;Italy;Calabria;Quota ricavata da dem
-215;Staiti;2290;OD:2290;37.99986111;16.0355;369;Italy;Calabria;Quota ricavata da dem
-216;Brancaleone Marina;2300;OD:2300;37.965;16.10333333;12;Italy;Calabria;Quota ricavata da dem
-217;Capo Spartivento;2310;OD:2310;37.92727778;16.05613889;61;Italy;Calabria;Quota ricavata da dem
-218;Bova Superiore;2320;OD:2320;37.99611111;15.93286111;791;Italy;Calabria;Quota ricavata da dem
-219;Bova Marina;2330;OD:2330;37.93138889;15.92166667;14;Italy;Calabria;Quota ricavata da dem
-220;Roccaforte del Greco;2340;OD:2340;38.04527778;15.90083333;719;Italy;Calabria;Quota ricavata da dem
-221;San Carlo;2350;OD:2350;37.95916667;15.89027778;88;Italy;Calabria;Quota ricavata da dem
-222;Bagaladi;2355;OD:2355;38.03;15.83999972;658;Italy;Calabria;Quota ricavata da dem
-223;Croce San Lorenzo C.C.;2360;OD:2360;38.01555556;15.83722222;624;Italy;Calabria;Quota ricavata da dem
-224;Melito di Porto Salvo;2370;OD:2370;37.92;15.7715;23;Italy;Calabria;Quota ricavata da dem
-225;Prunella di Melito;2375;OD:2375;37.93916667;15.47333306;NA;Italy;Calabria;Quota ricavata da dem
-226;Montebello Ionico;2380;OD:2380;37.98388889;15.75833333;463;Italy;Calabria;Quota ricavata da dem
-227;Capo dell'Armi;2390;OD:2390;37.96472222;15.68416667;180;Italy;Calabria;Quota ricavata da dem
-228;Sella Entrata;2395;OD:2395;38.0;15.72333306;727;Italy;Calabria;Quota ricavata da dem
-229;Motta San Giovanni;2400;OD:2400;38.0025;15.69444444;453;Italy;Calabria;Quota ricavata da dem
-230;Nucarelle C.C.;2410;OD:2410;38.05444444;15.82333306;891;Italy;Calabria;Quota ricavata da dem
-231;Armo;2420;OD:2420;38.07027778;15.71388889;352;Italy;Calabria;Quota ricavata da dem
-232;Croce Romeo C.C.;2430;OD:2430;38.09472222;15.84;1358;Italy;Calabria;Quota ricavata da dem
-233;Reggio Calabria;2450;OD:2450;38.10786111;15.65094444;72;Italy;Calabria;Quota ricavata da dem
-234;Reggio Calabria  Villa Comunale;2455;OD:2455;38.10444444;15.6366666;10;Italy;Calabria;Quota ricavata da dem
-235;Reggio Calabria - Arasi';2460;OD:2460;38.12419444;15.73716667;627;Italy;Calabria;Quota ricavata da dem
-236;Reggio Calabria - Cannav�;2462;OD:2462;38.10063889;15.6895;192;Italy;Calabria;Quota ricavata da dem
-237;Reggio Calabria - Rosario;2463;OD:2463;38.04138889;15.72444444;463;Italy;Calabria;Quota ricavata da dem
-238;Basilico';2464;OD:2464;38.15666667;15.82388889;1148;Italy;Calabria;Quota ricavata da dem
-239;Cardeto;2465;OD:2465;38.10336111;15.79955556;1230;Italy;Calabria;Quota ricavata da dem
-240;Sant'Alessio in Aspromonte;2466;OD:2466;38.16952778;15.75580556;536;Italy;Calabria;Quota ricavata da dem
-241;Gambarie d'Aspromonte;2470;OD:2470;38.19288889;15.84494444;1189;Italy;Calabria;Quota ricavata da dem
-242;Gallico Marina;2480;OD:2480;38.16555556;15.64722222;7;Italy;Calabria;Quota ricavata da dem
-243;San Roberto;2490;OD:2490;38.21194444;15.73444444;383;Italy;Calabria;Quota ricavata da dem
-244;Reggio Calabria - Catona;2495;OD:2495;38.191305560000004;15.64141667;30;Italy;Calabria;Quota ricavata da dem
-245;Villa San Giovanni;2500;OD:2500;38.21694444;15.635;39;Italy;Calabria;Quota ricavata da dem
-246;Scilla;2510;OD:2510;38.25166667;15.71972222;60;Italy;Calabria;Quota ricavata da dem
-247;Straorino Idrometro;2511;OD:2511;38.13111111;15.77388861;834;Italy;Calabria;Quota ricavata da dem
-248;Scilla - Villaggio del Pino;2512;OD:2512;38.23736111;15.73641667;590;Italy;Calabria;Quota ricavata da dem
-249;Scilla - Piano delle Aquile;2513;OD:2513;38.24708333;15.75241667;582;Italy;Calabria;Quota ricavata da dem
-250;Scilla -Tagli;2514;OD:2514;38.25647222;15.77436111;443;Italy;Calabria;Quota ricavata da dem
-251;Scilla - Solano;2515;OD:2515;38.25025;15.79655556;588;Italy;Calabria;Quota ricavata da dem
-252;Bagnara Calabra;2520;OD:2520;38.28652778;15.81088889;228;Italy;Calabria;Quota ricavata da dem
-253;Palmi;2530;OD:2530;38.36572222;15.86302778;268;Italy;Calabria;Quota ricavata da dem
-254;Oppido Mamertina;2534;OD:2534;38.28972222;15.985;325;Italy;Calabria;Quota ricavata da dem
-255;Santa Cristina d'Aspromonte;2540;OD:2540;38.25694444;15.96472222;448;Italy;Calabria;Quota ricavata da dem
-256;Santa Giorgia;2541;OD:2541;38.44194444;15.95805528;69;Italy;Calabria;Quota ricavata da dem
-257;Puzzara;2542;OD:2542;38.34611111;15.96361083;115;Italy;Calabria;Quota ricavata da dem
-258;Scif� Idrometro;2543;OD:2543;38.21166667;15.90249972;1045;Italy;Calabria;Quota ricavata da dem
-259;Rizziconi - Ponte Vecchio;2544;OD:2544;38.38008333;15.91222222;33;Italy;Calabria;Quota ricavata da dem
-260;Scif�;2550;OD:2550;38.21888889;15.89;945;Italy;Calabria;Quota ricavata da dem
-261;Sinopoli;2560;OD:2560;38.25991667;15.87747222;457;Italy;Calabria;Quota ricavata da dem
-262;Oppido Mamertina - Castellace;2570;OD:2570;38.3125;15.94027778;195;Italy;Calabria;Quota ricavata da dem
-263;Molochio;2580;OD:2580;38.30883333;16.03136111;287;Italy;Calabria;Quota ricavata da dem
-264;Perrone C.C.;2590;OD:2590;38.33111111;16.15666639;871;Italy;Calabria;Quota ricavata da dem
-265;Cittanova;2600;OD:2600;38.35222222;16.0775;407;Italy;Calabria;Quota ricavata da dem
-266;Rizziconi;2610;OD:2610;38.40769444;15.97163889;92;Italy;Calabria;Quota ricavata da dem
-267;Gioia Tauro (vecchia staz.);2620;OD:2620;38.43111111;15.89638889;22;Italy;Calabria;Quota ricavata da dem
-268;Gioia Tauro - Budello;2621;OD:2621;38.43091667;15.90733333;23;Italy;Calabria;Quota ricavata da dem
-269;Laureana di Borrello;2625;OD:2625;38.49083333;16.47333306;262;Italy;Calabria;Quota ricavata da dem
-270;Montecucco C.C.;2630;OD:2630;38.63472222;16.325;758;Italy;Calabria;Quota ricavata da dem
-271;Castagnara;2631;OD:2631;38.45583333;16.24555528;925;Italy;Calabria;Quota ricavata da dem
-272;Carmine;2632;OD:2632;38.49333333;16.02749972;67;Italy;Calabria;Quota ricavata da dem
-273;Metramo a Caredona;2633;OD:2633;38.455;16.23583306;893;Italy;Calabria;Quota ricavata da dem
-274;Barbassano;2634;OD:2634;38.5025;16.04861083;58;Italy;Calabria;Quota ricavata da dem
-275;Sbarretta;2635;OD:2635;38.50277778;16.02638861;42;Italy;Calabria;Quota ricavata da dem
-276;Filogaso;2640;OD:2640;38.68027778;16.23055556;255;Italy;Calabria;Quota ricavata da dem
-277;Pizzoni;2650;OD:2650;38.62;16.25277778;398;Italy;Calabria;Quota ricavata da dem
-278;Sant'Angelo di Gerocarne;2660;OD:2660;38.61111111;16.16888889;243;Italy;Calabria;Quota ricavata da dem
-279;Soriano Calabro;2664;OD:2664;38.59833333;16.23;302;Italy;Calabria;Quota ricavata da dem
-280;Dinami - San Pietro di Carid�;2665;OD:2665;38.54991667;16.12388889;142;Italy;Calabria;Quota ricavata da dem
-281;Arena;2670;OD:2670;38.56213889;16.21691667;566;Italy;Calabria;Quota ricavata da dem
-282;San Pier Fedele;2680;OD:2680;38.52388889;16.14277778;450;Italy;Calabria;Quota ricavata da dem
-283;Galatro;2684;OD:2684;38.46138889;16.10861111;186;Italy;Calabria;Quota ricavata da dem
-284;Feroleto della Chiesa;2690;OD:2690;38.46805556;16.06833333;180;Italy;Calabria;Quota ricavata da dem
-285;Giffone;2700;OD:2700;38.44027778;16.14638889;545;Italy;Calabria;Quota ricavata da dem
-286;Mammola - Limina C.C.;2710;OD:2710;38.37133333;16.18916667;674;Italy;Calabria;Quota ricavata da dem
-287;Polistena;2720;OD:2720;38.40638889;16.07444444;224;Italy;Calabria;Quota ricavata da dem
-288;Polistena - Budello;2721;OD:2721;38.40822222;16.07741667;261;Italy;Calabria;Quota ricavata da dem
-289;Taurianova;2722;OD:2722;38.35394444;16.01055556;207;Italy;Calabria;Quota ricavata da dem
-290;Mileto;2730;OD:2730;38.613861;16.064808;328;Italy;Calabria;Quota ricavata da dem
-291;Rombiolo;2734;OD:2734;38.59666667;16.02333333;336;Italy;Calabria;Quota ricavata da dem
-292;Rosarno;2740;OD:2740;38.5005;15.98811111;27;Italy;Calabria;Quota ricavata da dem
-293;Calimera;2750;OD:2750;38.55666667;16.01861111;141;Italy;Calabria;Quota ricavata da dem
-294;Joppolo;2760;OD:2760;38.592;15.90525;635;Italy;Calabria;Quota ricavata da dem
-295;Tropea;2770;OD:2770;38.67527778;15.89444444;15;Italy;Calabria;Quota ricavata da dem
-296;Zungri;2780;OD:2780;38.65347222;15.98294444;451;Italy;Calabria;Quota ricavata da dem
-297;Briatico;2790;OD:2790;38.72694444;16.03638889;49;Italy;Calabria;Quota ricavata da dem
-298;Monte Poro;2795;OD:2795;38.6;15.92333306;666;Italy;Calabria;Quota ricavata da dem
-299;Vibo Valentia;2800;OD:2800;38.67722222;16.10638889;481;Italy;Calabria;Quota ricavata da dem
-300;Vibo Valentia - Longobardi;2802;OD:2802;38.70277778;16.11972222;166;Italy;Calabria;Quota ricavata da dem
-301;Vibo Marina;2804;OD:2804;38.71833333;16.12194444;1;Italy;Calabria;Quota ricavata da dem
-302;Pizzo Calabro;2810;OD:2810;38.73305556;16.16138889;213;Italy;Calabria;Quota ricavata da dem
-303;Capo Vaticano;2815;OD:2815;38.62308333;15.829;72;Italy;Calabria;Quota ricavata da dem
-304;Maierato;2816;OD:2816;38.70844444;16.19183333;186;Italy;Calabria;Quota ricavata da dem
-305;Monterosso Calabro;2820;OD:2820;38.71636111;16.29238889;523;Italy;Calabria;Quota ricavata da dem
-306;Pizzo SS 18;2825;OD:2825;38.76677778;16.21422222;14;Italy;Calabria;Quota ricavata da dem
-307;Filadelfia;2830;OD:2830;38.78694444;16.29305556;579;Italy;Calabria;Quota ricavata da dem
-308;Ponte Morello;2831;OD:2831;38.74805556;16.25138889;90;Italy;Calabria;Quota ricavata da dem
-309;Torre Mezzapraia;2840;OD:2840;38.82083333;16.22027778;3;Italy;Calabria;Quota ricavata da dem
-310;Curinga;2844;OD:2844;38.82555556;16.32333333;378;Italy;Calabria;Quota ricavata da dem
-311;Curinga Scalo;2850;OD:2850;38.84;16.26111111;37;Italy;Calabria;Quota ricavata da dem
-312;San Tommaso;2860;OD:2860;39.08611111;16.37666667;859;Italy;Calabria;Quota ricavata da dem
-313;Decollatura;2870;OD:2870;39.04636111;16.35827778;745;Italy;Calabria;Quota ricavata da dem
-314;Acquabona C.C.;2874;OD:2874;39.02583333;16.35666639;867;Italy;Calabria;Quota ricavata da dem
-315;Serrastretta;2880;OD:2880;39.01305556;16.41583333;861;Italy;Calabria;Quota ricavata da dem
-316;Miglierina;2884;OD:2884;38.94805556;16.48999972;450;Italy;Calabria;Quota ricavata da dem
-317;Tiriolo;2890;OD:2890;38.93955556;16.50994444;523;Italy;Calabria;Quota ricavata da dem
-318;Marcellinara;2900;OD:2900;38.92861111;16.49444444;366;Italy;Calabria;Quota ricavata da dem
-319;Marino;2901;OD:2901;38.92444444;16.48999972;229;Italy;Calabria;Quota ricavata da dem
-320;Maida - Licciardi;2902;OD:2902;38.89583333;16.33888889;43;Italy;Calabria;Quota ricavata da dem
-321;Caraffa di Catanzaro;2910;OD:2910;38.88194444;16.48694444;318;Italy;Calabria;Quota ricavata da dem
-322;Vena di Maida;2914;OD:2914;38.88861111;16.40666667;215;Italy;Calabria;Quota ricavata da dem
-323;Serra del Gelo;2920;OD:2920;38.78444444;16.37055556;840;Italy;Calabria;Quota ricavata da dem
-324;Cortale;2924;OD:2924;38.83375;16.40225;450;Italy;Calabria;Quota ricavata da dem
-325;Feroleto Antico;2930;OD:2930;38.96305556;16.38861111;351;Italy;Calabria;Quota ricavata da dem
-326;Nicastro;2935;OD:2935;38.97861111;16.3225;297;Italy;Calabria;Quota ricavata da dem
-327;Nicastro - Bella;2940;OD:2940;38.98555556;16.29944444;597;Italy;Calabria;Quota ricavata da dem
-328;Carr� D'Ippolito;2944;OD:2944;38.9375;16.32333333;97;Italy;Calabria;Quota ricavata da dem
-329;Maida;2950;OD:2950;38.85330556;16.3645;282;Italy;Calabria;Quota ricavata da dem
-330;Lamezia Terme-Palazzo;2955;OD:2955;38.87583333;16.23305556;6;Italy;Calabria;Quota ricavata da dem
-331;Sant'Eufemia Lamezia;2960;OD:2960;38.92138889;16.25222222;28;Italy;Calabria;Quota ricavata da dem
-332;Capo Suvero;2970;OD:2970;38.95;16.15888889;67;Italy;Calabria;Quota ricavata da dem
-333;Savuto C.C.;2980;OD:2980;39.1625;16.50361111;1221;Italy;Calabria;Quota ricavata da dem
-334;Poverella;2981;OD:2981;39.1725;16.5025;1274;Italy;Calabria;Quota ricavata da dem
-335;Ponte Savuto;2982;OD:2982;39.155;16.31555528;643;Italy;Calabria;Quota ricavata da dem
-336;Martirano - Persico;2985;OD:2985;39.09205556;16.23244444;233;Italy;Calabria;Quota ricavata da dem
-337;Parenti;2990;OD:2990;39.16105556;16.40925;758;Italy;Calabria;Quota ricavata da dem
-338;Rogliano;3000;OD:3000;39.18361111;16.32583333;665;Italy;Calabria;Quota ricavata da dem
-339;Martirano;3010;OD:3010;39.08466667;16.24683333;255;Italy;Calabria;Quota ricavata da dem
-340;Nocera Terinese;3020;OD:3020;39.03783333;16.16630556;332;Italy;Calabria;Quota ricavata da dem
-341;Nocera Terinese SS 18;3025;OD:3025;39.03275;16.10144444;6;Italy;Calabria;Quota ricavata da dem
-342;Aiello Calabro;3030;OD:3030;39.11611111;16.16555556;381;Italy;Calabria;Quota ricavata da dem
-343;Amantea;3040;OD:3040;39.14916667;16.08625;278;Italy;Calabria;Quota ricavata da dem
-344;Fiumefreddo Bruzio;3050;OD:3050;39.235;16.07111111;157;Italy;Calabria;Quota ricavata da dem
-345;Paola;3060;OD:3060;39.36727778;16.04208333;282;Italy;Calabria;Quota ricavata da dem
-346;Cristiano C.C.;3070;OD:3070;39.32611111;16.10666639;1003;Italy;Calabria;Quota ricavata da dem
-347;Guardia Piemontese;3080;OD:3080;39.46666667;15.99972222;375;Italy;Calabria;Quota ricavata da dem
-348;Cetraro Superiore;3090;OD:3090;39.535055560000004;15.96408333;417;Italy;Calabria;Quota ricavata da dem
-349;Belvedere Marittimo;3100;OD:3100;39.64036111;15.84819444;42;Italy;Calabria;Quota ricavata da dem
-350;Cirella;3110;OD:3110;39.71472222;15.80916667;58;Italy;Calabria;Quota ricavata da dem
-351;Ruggio;3120;OD:3120;39.91111111;16.126814;1535;Italy;Calabria;Quota ricavata da dem
-352;Verbicaro Scalo;3124;OD:3124;39.76611111;15.82222222;24;Italy;Calabria;Quota ricavata da dem
-353;Laino Borgo;3150;OD:3150;39.95444444;15.97611111;344;Italy;Calabria;Quota ricavata da dem
-355;Sabanna;3152;OD:3152;39.86611111;15.92222222;499;Italy;Calabria;Quota ricavata da dem
-356;La Calda;3153;OD:3153;40.13722222;15.75916639;879;Italy;Calabria;Quota ricavata da dem
-357;Le Fornaci;3154;OD:3154;40.03194444;15.82888861;341;Italy;Calabria;Quota ricavata da dem
-358;C.le Castrocucco;3155;OD:3155;39.99219444;15.80169444;245;Italy;Calabria;Quota ricavata da dem
-359;Campotenese;3160;OD:3160;39.8725;16.06833333;978;Italy;Calabria;Quota ricavata da dem
-360;Tortora;3161;OD:3161;39.92747222;15.76333333;13;Italy;Calabria;Quota ricavata da dem
-361;Mormanno;3170;OD:3170;39.885;15.98777778;861;Italy;Calabria;Quota ricavata da dem
-362;Papasidero;3180;OD:3180;39.873;15.91030556;252;Italy;Calabria;Quota ricavata da dem
-363;Orsomarso;3190;OD:3190;39.8;15.90944444;327;Italy;Calabria;Quota ricavata da dem
-364;Praia d'Aieta;3195;OD:3195;39.90027778;15.77861111;26;Italy;Calabria;Quota ricavata da dem
-365;Scalea;3200;OD:3200;39.81108333;15.79230556;37;Italy;Calabria;Quota ricavata da dem
-366;Praia a Mare;3203;OD:3203;39.90055556;15.80666639;601;Italy;Calabria;Quota ricavata da dem
-367;Lagonegro;3210;OD:3210;40.11666667;15.79;888;Italy;Calabria;Quota ricavata da dem
-368;Aieta;3250;OD:3250;39.92916667;15.82361111;420;Italy;Calabria;Quota ricavata da dem
-369;Rocca Imperiale;845;OD:845;40.10888889;16.47333306;655;Italy;Calabria;Quota ricavata da dem
-370;Nocara;850;OD:850;40.08555556;16.48166667;442;Italy;Calabria;Quota ricavata da dem
-371;Montegiordano Scalo;860;OD:860;40.04055556;16.59805556;37;Italy;Calabria;Quota ricavata da dem
-372;Roseto Capo Spulico;865;OD:865;39.98694444;16.60361111;98;Italy;Calabria;Quota ricavata da dem
-373;Oriolo;870;OD:870;40.05383333;16.44902778;425;Italy;Calabria;Quota ricavata da dem
-374;Castroregio;880;OD:880;39.99361111;16.47861111;546;Italy;Calabria;Quota ricavata da dem
-375;Amendolara;890;OD:890;39.95361111;16.57972222;197;Italy;Calabria;Quota ricavata da dem
-376;Albidona;900;OD:900;39.92472222;16.46833333;675;Italy;Calabria;Quota ricavata da dem
-377;Alessandria del Carretto;910;OD:910;39.95861111;16.37972222;893;Italy;Calabria;Quota ricavata da dem
-378;Trebisacce;920;OD:920;39.86555556;16.53055556;9;Italy;Calabria;Quota ricavata da dem
-379;Cerchiara di Calabria;924;OD:924;39.86069444;16.38377778;652;Italy;Calabria;Quota ricavata da dem
-380;Villapiana Scalo;930;OD:930;39.795;16.49861111;NA;Italy;Calabria;Quota ricavata da dem
-381;Terzeria;931;OD:931;39.76722222;16.48888861;2;Italy;Calabria;Quota ricavata da dem
-382;Villapiana SS 106;935;OD:935;39.76822222;16.46672222;6;Italy;Calabria;Quota ricavata da dem
-383;Francavilla Marittima;940;OD:940;39.81833333;16.385;239;Italy;Calabria;Quota ricavata da dem
-384;San Lorenzo Bellizzi;950;OD:950;39.88861111;16.32888889;837;Italy;Calabria;Quota ricavata da dem
-385;Civita;960;OD:960;39.66333333;16.31222222;339;Italy;Calabria;Quota ricavata da dem
-386;Cassano allo Ionio;970;OD:970;39.78308333;16.31894444;180;Italy;Calabria;Quota ricavata da dem
-387;Doria;974;OD:974;39.73027778;16.37333333;21;Italy;Calabria;Quota ricavata da dem
-388;Sibari;976;OD:976;39.74694444;16.47333306;5;Italy;Calabria;Quota ricavata da dem
-389;Piane Crati;980;OD:980;39.2325;16.32277778;577;Italy;Calabria;Quota ricavata da dem
-390;Ponte Umberto;982;OD:982;39.81888889;16.19694417;400;Italy;Calabria;Quota ricavata da dem
-391;Cameli;983;OD:983;39.60583333;16.0725;330;Italy;Calabria;Quota ricavata da dem
-392;Serra Pedace;984;OD:984;39.27722222;16.34666667;756;Italy;Calabria;Quota ricavata da dem
-393;La Musica;985;OD:985;39.68388889;16.29777778;131;Italy;Calabria;Quota ricavata da dem
-394;Conca;986;OD:986;39.64194444;16.36888889;30;Italy;Calabria;Quota ricavata da dem
-395;San Marco Argentano Idrometro;987;OD:987;39.55666667;16.13305528;304;Italy;Calabria;Quota ricavata da dem
-396;Cecita Idrometro sul Mucone;988;OD:988;39.39916667;16.55805528;1363;Italy;Calabria;Quota ricavata da dem
-397;Luzzi Idrometro;989;OD:989;39.47666667;16.31055556;465;Italy;Calabria;Quota ricavata da dem
-398;Trenta;990;OD:990;39.28;16.32444444;593;Italy;Calabria;Quota ricavata da dem
-400;Fontanelle Idrometro;992;OD:992;39.26527778;16.25611083;440;Italy;Calabria;Quota ricavata da dem
+SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Elevation_DEM;Elevation_FonteDati;Regione;FullSiteCode;State
+1;1000;Domanico;16.2075;39.21638889;749;749;NA;Calabria;OD:1000;Italy
+2;1010;Cosenza;16.26527778;39.28694444;269;269;NA;Calabria;OD:1010;Italy
+4;1015;Cosenza - Busento;16.25733333;39.29177778;229;229;NA;Calabria;OD:1015;Italy
+5;1020;Cerisano;16.17444444;39.28111111;584;584;NA;Calabria;OD:1020;Italy
+6;1025;Castiglione Cosentino;16.25908333;39.35641667;196;196;NA;Calabria;OD:1025;Italy
+7;1030;San Pietro in Guarano;16.31361111;39.34555556;766;766;NA;Calabria;OD:1030;Italy
+8;1040;Rende;16.18027778;39.33111111;392;392;NA;Calabria;OD:1040;Italy
+9;1050;Rose;16.2875;39.39833333;396;396;NA;Calabria;OD:1050;Italy
+10;1060;Montalto Uffugo;16.13055556;39.40111111;436;436;NA;Calabria;OD:1060;Italy
+11;1070;Laghitello C.C.;16.10111111;39.43805556;764;764;NA;Calabria;OD:1070;Italy
+12;1080;San Martino di Finita;16.10805556;39.48972222;480;480;NA;Calabria;OD:1080;Italy
+13;1090;Camigliatello Silano (ex Federici);16.4372;39.33722222;1284;1284;NA;Calabria;OD:1090;Italy
+14;1092;Camigliatello - Monte Curcio;16.42305556;39.31611111;1711;1711;NA;Calabria;OD:1092;Italy
+15;1100;Cecita;16.53777778;39.39994444;1173;1173;NA;Calabria;OD:1100;Italy
+16;1110;Pinutello C.C.;16.47416667;39.45138889;1124;1124;NA;Calabria;OD:1110;Italy
+17;1120;Acri;16.3935;39.48252778;746;746;NA;Calabria;OD:1120;Italy
+18;1130;Torano Scalo;16.21;39.49388889;93;93;NA;Calabria;OD:1130;Italy
+19;1135;Fitterizzi;16.14083333;39.52027778;208;208;NA;Calabria;OD:1135;Italy
+20;1140;Tarsia;16.27277778;39.61722222;203;203;NA;Calabria;OD:1140;Italy
+21;1145;Mongrassano Scalo;16.21583333;39.53388889;124;124;NA;Calabria;OD:1145;Italy
+22;1150;Santa Sofia d'Epiro;16.32;39.5475;517;517;NA;Calabria;OD:1150;Italy
+23;1155;Santa Sofia d'Epiro - Crati;16.2625;39.59138889;68;68;NA;Calabria;OD:1155;Italy
+24;1160;Sant'Agata C.C.;16.38388889;39.64027778;99;99;NA;Calabria;OD:1160;Italy
+25;1170;Morano Calabro;16.13802778;39.84008333;604;604;NA;Calabria;OD:1170;Italy
+26;1180;Castrovillari;16.25416667;39.76555556;199;199;NA;Calabria;OD:1180;Italy
+27;1184;Piano Campolongo;16.10666639;39.775;1385;1385;NA;Calabria;OD:1184;Italy
+28;1185;Castrovillari - Camerata;16.27191667;39.73308333;63;63;NA;Calabria;OD:1185;Italy
+29;1190;Firmo;16.17416667;39.72194444;311;311;NA;Calabria;OD:1190;Italy
+30;1195;Lungro;16.12391667;39.73669444;573;573;NA;Calabria;OD:1195;Italy
+31;1200;Santa Agata d'Esaro;16.00277778;39.61944444;383;383;NA;Calabria;OD:1200;Italy
+32;1210;Malvito;16.05277778;39.59888889;320;320;NA;Calabria;OD:1210;Italy
+33;1220;Roggiano Gravina;16.15055556;39.61777778;258;258;NA;Calabria;OD:1220;Italy
+34;1230;San Sosti;16.02805556;39.66444444;384;384;NA;Calabria;OD:1230;Italy
+35;1240;Acquaformosa;16.10666667;39.72222222;518;518;NA;Calabria;OD:1240;Italy
+36;1250;Fagnano Castello;16.05555556;39.56388889;504;504;NA;Calabria;OD:1250;Italy
+37;1260;San Marco Argentano;16.11083333;39.55944444;285;285;NA;Calabria;OD:1260;Italy
+38;1264;Tarsia Scalo;16.28305556;39.62583333;286;286;NA;Calabria;OD:1264;Italy
+39;1270;Mongrassano;16.12333333;39.52555556;425;425;NA;Calabria;OD:1270;Italy
+40;1280;Spezzano Albanese Scalo;16.29027778;39.71;52;52;NA;Calabria;OD:1280;Italy
+41;1290;Caselle;16.42083333;39.72055556;12;12;NA;Calabria;OD:1290;Italy
+42;1294;Thurio;16.48999972;39.69222222;7;7;NA;Calabria;OD:1294;Italy
+43;1295;Sibari;16.49675;39.71041667;5;5;NA;Calabria;OD:1295;Italy
+44;1296;Macchia Albanese;16.38138889;39.58055556;353;353;NA;Calabria;OD:1296;Italy
+45;1300;San Giorgio Albanese;16.45277778;39.58333333;325;325;NA;Calabria;OD:1300;Italy
+46;1301;Corigliano Idrometro;16.53416667;39.60083333;90;90;NA;Calabria;OD:1301;Italy
+47;1302;Pizzuto;16.66888889;39.55888889;202;202;NA;Calabria;OD:1302;Italy
+48;1305;Pagania d'Acri;16.40666639;39.6;178;178;NA;Calabria;OD:1305;Italy
+49;1310;Schiavonea;16.53916667;39.65333333;3;3;NA;Calabria;OD:1310;Italy
+50;1320;San Giacomo d'Acri;16.465;39.52416667;720;720;NA;Calabria;OD:1320;Italy
+51;1324;Corigliano Calabro;16.52063889;39.58733333;254;254;NA;Calabria;OD:1324;Italy
+52;1330;Rossano;16.63416667;39.57444444;223;223;NA;Calabria;OD:1330;Italy
+53;1340;Staggi;16.57333333;39.47083333;1338;1338;NA;Calabria;OD:1340;Italy
+54;1341;Difesa;16.56333306;39.45083333;1207;1207;NA;Calabria;OD:1341;Italy
+55;1350;Difesella;16.53166667;39.45333333;1038;1038;NA;Calabria;OD:1350;Italy
+56;1360;Longobucco;16.61027778;39.44611111;869;869;NA;Calabria;OD:1360;Italy
+57;1365;Cozzo Carbonella;16.89;39.43333333;187;187;NA;Calabria;OD:1365;Italy
+58;1370;Bocchigliero;16.75305556;39.41722222;763;763;NA;Calabria;OD:1370;Italy
+59;1375;Macchia di Pietra;16.58999972;39.34472222;1420;1420;NA;Calabria;OD:1375;Italy
+60;1380;Cropalati;16.72444444;39.51583333;321;321;NA;Calabria;OD:1380;Italy
+61;1385;Cropalati - Trionto;16.74461111;39.519;129;129;NA;Calabria;OD:1385;Italy
+62;1390;Crosia;16.77305556;39.56666667;136;136;NA;Calabria;OD:1390;Italy
+63;1400;Pietrapaola;16.81444444;39.48722222;346;346;NA;Calabria;OD:1400;Italy
+64;1410;Cariati Marina;16.94022222;39.50513889;14;14;NA;Calabria;OD:1410;Italy
+65;1415;Crucoli SS 106;17.01027778;39.47344444;13;13;NA;Calabria;OD:1415;Italy
+66;1420;Campana;16.8275;39.40805556;474;474;NA;Calabria;OD:1420;Italy
+67;1430;Scala Coeli;16.89;39.44527778;296;296;NA;Calabria;OD:1430;Italy
+68;1440;Crucoli;17.00388889;39.42444444;279;279;NA;Calabria;OD:1440;Italy
+69;1444;Montagna C.C.;16.80583333;39.39;818;818;NA;Calabria;OD:1444;Italy
+70;1450;Umbriatico;16.91916667;39.35361111;301;301;NA;Calabria;OD:1450;Italy
+71;1455;Ciro' Marina - Punta Alice;17.12611111;39.38416667;8;8;NA;Calabria;OD:1455;Italy
+72;1456;Cir? Superiore;17.05880556;39.38158333;269;269;NA;Calabria;OD:1456;Italy
+73;1460;Ciro' Marina;17.10944444;39.40777778;27;27;NA;Calabria;OD:1460;Italy
+74;1470;San Giovanni in Fiore;16.71583333;39.26333333;967;967;NA;Calabria;OD:1470;Italy
+76;1472;Juntura;16.72638861;39.23833333;1074;1074;NA;Calabria;OD:1472;Italy
+77;1474;Torre Garga;16.66805528;39.27805556;1204;1204;NA;Calabria;OD:1474;Italy
+78;1475;Trepid? Idrometro;16.69972194;39.20444444;1243;1243;NA;Calabria;OD:1475;Italy
+79;1476;Schiena D'Asino;16.75972194;39.30916667;1086;1086;NA;Calabria;OD:1476;Italy
+80;1480;Quaresima C.C.;16.44777778;39.21611111;1345;1345;NA;Calabria;OD:1480;Italy
+81;1485;San Bernardo;16.60666639;39.3;1320;1320;NA;Calabria;OD:1485;Italy
+82;1490;Lorica C.C.;16.51305556;39.25138889;1383;1383;NA;Calabria;OD:1490;Italy
+83;1494;Rovale C.C.;16.55666639;39.25055556;1330;1330;NA;Calabria;OD:1494;Italy
+84;1495;Botte Donato;16.45838889;39.28072222;1751;1751;NA;Calabria;OD:1495;Italy
+85;1500;Nocelle - Arvo;16.545;39.24333333;1307;1307;NA;Calabria;OD:1500;Italy
+86;1510;Sculca;16.50222222;39.32194444;1360;1360;NA;Calabria;OD:1510;Italy
+87;1520;Monteoliveto C.C.;16.60305556;39.30583333;1320;1320;NA;Calabria;OD:1520;Italy
+88;1524;Serralunga;16.67333306;39.25805556;1055;1055;NA;Calabria;OD:1524;Italy
+89;1530;Stratalati C.C.;16.66583333;39.27861111;1222;1222;NA;Calabria;OD:1530;Italy
+91;1540;Berberano C.C.;16.575;39.18166667;1335;1335;NA;Calabria;OD:1540;Italy
+92;1550;Trepido';16.69777778;39.18861111;1243;1243;NA;Calabria;OD:1550;Italy
+93;1560;Casa Pasquale;16.71888889;39.18111111;1122;1122;NA;Calabria;OD:1560;Italy
+94;1570;Savelli;16.77277778;39.31277778;986;986;NA;Calabria;OD:1570;Italy
+95;1580;Cerenzia;16.78333333;39.2425;596;596;NA;Calabria;OD:1580;Italy
+96;1590;Belvedere Spinello;16.88777778;39.20722222;287;287;NA;Calabria;OD:1590;Italy
+97;1600;Santa Severina;16.91222222;39.14638889;216;216;NA;Calabria;OD:1600;Italy
+98;1610;Rocca di Neto;17.02277778;39.17527778;32;32;NA;Calabria;OD:1610;Italy
+99;1620;Verzino;16.86222222;39.31305556;484;484;NA;Calabria;OD:1620;Italy
+100;1630;Casabona;16.95583333;39.24805556;248;248;NA;Calabria;OD:1630;Italy
+101;1640;San Nicola dell'Alto;16.96783333;39.29458333;500;500;NA;Calabria;OD:1640;Italy
+102;1650;Strongoli;17.04777778;39.26555556;260;260;NA;Calabria;OD:1650;Italy
+103;1660;Crepacuore;17.08999972;39.11722222;13;13;NA;Calabria;OD:1660;Italy
+104;1665;Crotone - Ponte Forcosa;17.07111111;39.04111111;56;56;NA;Calabria;OD:1665;Italy
+105;1667;Ponticelli a Ponte SS. 106;17.11416639;39.12916667;18;18;NA;Calabria;OD:1667;Italy
+106;1670;Cutro;17.01522222;39.03663889;161;161;NA;Calabria;OD:1670;Italy
+107;1675;Crotone - Papanice;17.02777778;39.0725;118;118;NA;Calabria;OD:1675;Italy
+108;1680;Crotone;17.13111111;39.08694444;1;1;NA;Calabria;OD:1680;Italy
+109;1685;Crotone - Ponte San Francesco;17.10358333;39.07080556;29;29;NA;Calabria;OD:1685;Italy
+110;1690;Capo Colonne;17.20444444;39.02861111;1;1;NA;Calabria;OD:1690;Italy
+111;1695;Crotone - Salica;17.12611111;39.01222222;145;145;NA;Calabria;OD:1695;Italy
+112;1700;Isola di Capo Rizzuto - Campolongo;17.0088;38.94305556;151;151;NA;Calabria;OD:1700;Italy
+113;1710;Cutro;17.01527778;39.03666667;161;161;NA;Calabria;OD:1710;Italy
+114;1720;Steccato;16.92277778;38.94472222;42;42;NA;Calabria;OD:1720;Italy
+115;1724;Cotronei;16.78055556;39.15944444;477;477;NA;Calabria;OD:1724;Italy
+116;1730;Petilia Policastro;16.78777778;39.11083333;373;373;NA;Calabria;OD:1730;Italy
+117;1731;Rivioto;16.81583333;39.13527778;235;235;NA;Calabria;OD:1731;Italy
+118;1733;Roccabernarda -Serrarossa;16.889;39.07141667;49;49;NA;Calabria;OD:1733;Italy
+119;1734;Belcastro SS 106;16.90794444;38.94313889;13;13;NA;Calabria;OD:1734;Italy
+120;1735;Petron?;16.75877778;39.04180556;814;814;NA;Calabria;OD:1735;Italy
+121;1740;San Mauro Marchesato;16.92888889;39.10444444;212;212;NA;Calabria;OD:1740;Italy
+122;1745;Casa Jolanda;16.64;39.08333333;1560;1560;NA;Calabria;OD:1745;Italy
+123;1750;Marcedusa;16.83527778;39.02611111;236;236;NA;Calabria;OD:1750;Italy
+124;1755;Petilia Policastro - Pagliarelle;16.748333;39.14166667;745;745;NA;Calabria;OD:1755;Italy
+125;1760;Botricello;16.85863889;38.94147222;32;32;NA;Calabria;OD:1760;Italy
+126;1761;Vincolise;16.64083306;39.01333333;521;521;NA;Calabria;OD:1761;Italy
+127;1780;Cropani;16.78;38.97083333;317;317;NA;Calabria;OD:1780;Italy
+128;1790;Sersale;16.72555556;39.01194444;781;781;NA;Calabria;OD:1790;Italy
+129;1800;Sellia Marina;16.74363889;38.90602778;55;55;NA;Calabria;OD:1800;Italy
+130;1810;Monaco Villaggio Mancuso;16.56777778;39.07305556;1215;1215;NA;Calabria;OD:1810;Italy
+131;1815;Racisi;16.55666639;39.08333333;1213;1213;NA;Calabria;OD:1815;Italy
+132;1820;Soveria Simeri;16.67402778;38.95022222;382;382;NA;Calabria;OD:1820;Italy
+133;1825;Taverna - Ciricilla;16.53358333;39.13963889;1411;1411;NA;Calabria;OD:1825;Italy
+135;1830;Albi;16.59833333;39.02638889;803;803;NA;Calabria;OD:1830;Italy
+136;1831;Polimieri;16.54222194;39.09361111;1215;1215;NA;Calabria;OD:1831;Italy
+137;1832;Orso;16.58444417;39.02777778;709;709;NA;Calabria;OD:1832;Italy
+138;1835;Catanzaro Lido SS 106;16.60613889;38.81730556;21;21;NA;Calabria;OD:1835;Italy
+139;1840;Sant'Elia;16.58638889;38.96444444;590;590;NA;Calabria;OD:1840;Italy
+140;1850;Catanzaro;16.58583333;38.91083333;315;315;NA;Calabria;OD:1850;Italy
+141;1851;Catanzaro-Sant'Elia;16.58269444;38.95208333;540;540;NA;Calabria;OD:1851;Italy
+143;1855;Santa Maria di Catanzaro;16.59777778;38.84944444;106;106;NA;Calabria;OD:1855;Italy
+144;1860;Catanzaro Lido;16.61305556;38.82055556;7;7;NA;Calabria;OD:1860;Italy
+145;1864;Vivoli C.C.;16.45666667;39.13833333;1301;1301;NA;Calabria;OD:1864;Italy
+146;1865;Borgia - Roccelletta;16.59777778;38.81861111;20;20;NA;Calabria;OD:1865;Italy
+147;1870;Carlopoli;16.45444444;39.05611111;934;934;NA;Calabria;OD:1870;Italy
+148;1871;Olivella Idrometro;16.56222194;38.96416667;753;753;NA;Calabria;OD:1871;Italy
+149;1872;Grascio;16.57194417;38.90916667;307;307;NA;Calabria;OD:1872;Italy
+150;1880;Fiorenza;16.49333333;39.09222222;1147;1147;NA;Calabria;OD:1880;Italy
+151;1890;Umbri;16.51361111;39.02583333;885;885;NA;Calabria;OD:1890;Italy
+152;1900;Olivella;16.53583333;38.96472222;405;405;NA;Calabria;OD:1900;Italy
+153;1910;Gimigliano;16.52555556;38.97138889;492;492;NA;Calabria;OD:1910;Italy
+154;1920;Borgia;16.50777778;38.82694444;298;298;NA;Calabria;OD:1920;Italy
+155;1930;Girifalco;16.42472222;38.82194444;397;397;NA;Calabria;OD:1930;Italy
+156;1935;Cenadi - Serralta;16.36833333;38.74916667;949;949;NA;Calabria;OD:1935;Italy
+157;1940;Palermiti;16.45286111;38.74919444;525;525;NA;Calabria;OD:1940;Italy
+158;1950;Stalett?;16.53877778;38.76541667;364;364;NA;Calabria;OD:1950;Italy
+159;1955;Petrizzi;16.47444444;38.70222222;419;419;NA;Calabria;OD:1955;Italy
+160;1960;Chiaravalle Centrale;16.40888889;38.67138889;551;551;NA;Calabria;OD:1960;Italy
+161;1961;Crisura;16.52166639;38.67333333;48;48;NA;Calabria;OD:1961;Italy
+162;1965;Satriano Marina;16.5425;38.67555556;25;25;NA;Calabria;OD:1965;Italy
+163;1970;Soverato Marina;16.54444444;38.69166667;13;13;NA;Calabria;OD:1970;Italy
+164;1980;Serra San Bruno;16.31972222;38.56527778;926;926;NA;Calabria;OD:1980;Italy
+165;1990;Simbario;16.32694444;38.61111111;767;767;NA;Calabria;OD:1990;Italy
+166;1993;Campo Gagliato C.C.;16.47333306;38.69027778;357;357;NA;Calabria;OD:1993;Italy
+167;1995;Spadola;16.33805556;38.60194444;763;763;NA;Calabria;OD:1995;Italy
+168;1996;Davoli;16.50666639;38.64944444;378;378;NA;Calabria;OD:1996;Italy
+169;2000;Mammone;16.40361111;38.58222222;1007;1007;NA;Calabria;OD:2000;Italy
+170;2001;Mammone Idrometro;16.44416667;38.58166667;1000;1000;NA;Calabria;OD:2001;Italy
+171;2002;Alaco a Pirrella;16.51277778;38.625;268;268;NA;Calabria;OD:2002;Italy
+172;2003;Botteria;16.53611111;38.475;70;70;NA;Calabria;OD:2003;Italy
+173;2010;San Sostene;16.48683333;38.63747222;446;446;NA;Calabria;OD:2010;Italy
+174;2020;Badolato;16.52166667;38.56916667;269;269;NA;Calabria;OD:2020;Italy
+175;2025;Santa Caterina dello Ionio;16.51305556;38.53694444;496;496;NA;Calabria;OD:2025;Italy
+176;2030;Pietracupa;16.40666639;38.55194444;1061;1061;NA;Calabria;OD:2030;Italy
+177;2040;Monasterace - Punta Stilo;16.55222222;38.45361111;64;64;NA;Calabria;OD:2040;Italy
+178;2050;Stilo - Ferdinandea;16.37777778;38.485;1113;1113;NA;Calabria;OD:2050;Italy
+179;2060;Stilo;16.56944444;38.43805556;19;19;NA;Calabria;OD:2060;Italy
+180;2070;Riace;16.47805556;38.41777778;321;321;NA;Calabria;OD:2070;Italy
+181;2072;Stignano;16.47438889;38.42516667;417;417;NA;Calabria;OD:2072;Italy
+182;2080;Placanica;16.47027778;38.41444444;238;238;NA;Calabria;OD:2080;Italy
+183;2083;Monte Pecoraro;16.35666639;38.51333333;1205;1205;NA;Calabria;OD:2083;Italy
+184;2086;Mongiana;16.31672222;38.51630556;885;885;NA;Calabria;OD:2086;Italy
+185;2088;Mongiana - Ponte Mongiana;16.31444444;38.51472222;918;918;NA;Calabria;OD:2088;Italy
+186;2090;Fabrizia;16.30027778;38.486;880;880;NA;Calabria;OD:2090;Italy
+187;2100;Nardodipace;16.3425;38.47277778;1055;1055;NA;Calabria;OD:2100;Italy
+188;2110;San Nicola di Caulonia;16.37222222;38.41305556;255;255;NA;Calabria;OD:2110;Italy
+189;2120;Caulonia;16.41147222;38.38325;136;136;NA;Calabria;OD:2120;Italy
+190;2125;Caulonia SS106;16.47288889;38.34802778;8;8;NA;Calabria;OD:2125;Italy
+191;2130;Roccella Ionica;16.4;38.32166667;20;20;NA;Calabria;OD:2130;Italy
+192;2140;Mammola;16.23555556;38.36658333;421;421;NA;Calabria;OD:2140;Italy
+193;2145;Africo;16.00666639;38.06666667;512;512;NA;Calabria;OD:2145;Italy
+194;2150;Fabrizia - Cassari;16.29333333;38.44222222;999;999;NA;Calabria;OD:2150;Italy
+195;2155;Benestare;16.15666639;38.18333333;156;156;NA;Calabria;OD:2155;Italy
+196;2160;Gioiosa Ionica;16.32972222;38.30111111;18;18;NA;Calabria;OD:2160;Italy
+197;2170;Siderno Marina;16.29852778;38.27405556;9;9;NA;Calabria;OD:2170;Italy
+198;2180;Antonimina - Canolo Nuovo;16.12722222;38.31305556;925;925;NA;Calabria;OD:2180;Italy
+199;2190;Agnana Calabra;16.22083333;38.30361111;276;276;NA;Calabria;OD:2190;Italy
+200;2194;Gerace Superiore;16.21833333;38.27222222;337;337;NA;Calabria;OD:2194;Italy
+201;2195;Gerace Marina;16.28999972;38.20388889;NA;NA;NA;Calabria;OD:2195;Italy
+202;2200;Antonimina;16.18055556;38.25972222;126;126;NA;Calabria;OD:2200;Italy
+203;2201;Portigliola a Stretta Gabella;16.19083333;38.25777778;143;143;NA;Calabria;OD:2201;Italy
+204;2205;Locri;16.26794444;38.23963889;6;6;NA;Calabria;OD:2205;Italy
+205;2210;Ardore Superiore;16.15505556;38.20594444;275;275;NA;Calabria;OD:2210;Italy
+206;2220;Bovalino Marina;16.17761111;38.1485;9;9;NA;Calabria;OD:2220;Italy
+207;2225;Casignana SS 106;16.15930556;38.12761111;5;5;NA;Calabria;OD:2225;Italy
+208;2230;Plati';16.04444444;38.22222222;329;329;NA;Calabria;OD:2230;Italy
+209;2231;Careri a Bosco;16.08749972;38.195;305;305;NA;Calabria;OD:2231;Italy
+210;2240;Carr?;16.01555528;38.18194444;837;837;NA;Calabria;OD:2240;Italy
+211;2250;San Luca - Santuario di Polsi;15.96083333;38.16472222;1030;1030;NA;Calabria;OD:2250;Italy
+212;2260;San Luca;16.06727778;38.14841667;131;131;NA;Calabria;OD:2260;Italy
+213;2270;Sant'Agata del Bianco;16.08533333;38.10075;310;310;NA;Calabria;OD:2270;Italy
+214;2280;Casalnuovo (Cas. d'Afr.);15.99166667;38.05611111;820;820;NA;Calabria;OD:2280;Italy
+215;2290;Staiti;16.0355;37.99986111;369;369;NA;Calabria;OD:2290;Italy
+216;2300;Brancaleone Marina;16.10333333;37.965;12;12;NA;Calabria;OD:2300;Italy
+217;2310;Capo Spartivento;16.05613889;37.92727778;61;61;NA;Calabria;OD:2310;Italy
+218;2320;Bova Superiore;15.93286111;37.99611111;791;791;NA;Calabria;OD:2320;Italy
+219;2330;Bova Marina;15.92166667;37.93138889;14;14;NA;Calabria;OD:2330;Italy
+220;2340;Roccaforte del Greco;15.90083333;38.04527778;719;719;NA;Calabria;OD:2340;Italy
+221;2350;San Carlo;15.89027778;37.95916667;88;88;NA;Calabria;OD:2350;Italy
+222;2355;Bagaladi;15.83999972;38.03;658;658;NA;Calabria;OD:2355;Italy
+223;2360;Croce San Lorenzo C.C.;15.83722222;38.01555556;624;624;NA;Calabria;OD:2360;Italy
+224;2370;Melito di Porto Salvo;15.7715;37.92;23;23;NA;Calabria;OD:2370;Italy
+225;2375;Prunella di Melito;15.47333306;37.93916667;NA;NA;NA;Calabria;OD:2375;Italy
+226;2380;Montebello Ionico;15.75833333;37.98388889;463;463;NA;Calabria;OD:2380;Italy
+227;2390;Capo dell'Armi;15.68416667;37.96472222;180;180;NA;Calabria;OD:2390;Italy
+228;2395;Sella Entrata;15.72333306;38;727;727;NA;Calabria;OD:2395;Italy
+229;2400;Motta San Giovanni;15.69444444;38.0025;453;453;NA;Calabria;OD:2400;Italy
+230;2410;Nucarelle C.C.;15.82333306;38.05444444;891;891;NA;Calabria;OD:2410;Italy
+231;2420;Armo;15.71388889;38.07027778;352;352;NA;Calabria;OD:2420;Italy
+232;2430;Croce Romeo C.C.;15.84;38.09472222;1358;1358;NA;Calabria;OD:2430;Italy
+233;2450;Reggio Calabria;15.65094444;38.10786111;72;72;NA;Calabria;OD:2450;Italy
+234;2455;Reggio Calabria  Villa Comunale;15.6366666;38.10444444;10;10;NA;Calabria;OD:2455;Italy
+235;2460;Reggio Calabria - Arasi';15.73716667;38.12419444;627;627;NA;Calabria;OD:2460;Italy
+236;2462;Reggio Calabria - Cannav?;15.6895;38.10063889;192;192;NA;Calabria;OD:2462;Italy
+237;2463;Reggio Calabria - Rosario;15.72444444;38.04138889;463;463;NA;Calabria;OD:2463;Italy
+238;2464;Basilico';15.82388889;38.15666667;1148;1148;NA;Calabria;OD:2464;Italy
+239;2465;Cardeto;15.79955556;38.10336111;1230;1230;NA;Calabria;OD:2465;Italy
+240;2466;Sant'Alessio in Aspromonte;15.75580556;38.16952778;536;536;NA;Calabria;OD:2466;Italy
+241;2470;Gambarie d'Aspromonte;15.84494444;38.19288889;1189;1189;NA;Calabria;OD:2470;Italy
+242;2480;Gallico Marina;15.64722222;38.16555556;7;7;NA;Calabria;OD:2480;Italy
+243;2490;San Roberto;15.73444444;38.21194444;383;383;NA;Calabria;OD:2490;Italy
+244;2495;Reggio Calabria - Catona;15.64141667;38.191305560000004;30;30;NA;Calabria;OD:2495;Italy
+245;2500;Villa San Giovanni;15.635;38.21694444;39;39;NA;Calabria;OD:2500;Italy
+246;2510;Scilla;15.71972222;38.25166667;60;60;NA;Calabria;OD:2510;Italy
+247;2511;Straorino Idrometro;15.77388861;38.13111111;834;834;NA;Calabria;OD:2511;Italy
+248;2512;Scilla - Villaggio del Pino;15.73641667;38.23736111;590;590;NA;Calabria;OD:2512;Italy
+249;2513;Scilla - Piano delle Aquile;15.75241667;38.24708333;582;582;NA;Calabria;OD:2513;Italy
+250;2514;Scilla -Tagli;15.77436111;38.25647222;443;443;NA;Calabria;OD:2514;Italy
+251;2515;Scilla - Solano;15.79655556;38.25025;588;588;NA;Calabria;OD:2515;Italy
+252;2520;Bagnara Calabra;15.81088889;38.28652778;228;228;NA;Calabria;OD:2520;Italy
+253;2530;Palmi;15.86302778;38.36572222;268;268;NA;Calabria;OD:2530;Italy
+254;2534;Oppido Mamertina;15.985;38.28972222;325;325;NA;Calabria;OD:2534;Italy
+255;2540;Santa Cristina d'Aspromonte;15.96472222;38.25694444;448;448;NA;Calabria;OD:2540;Italy
+256;2541;Santa Giorgia;15.95805528;38.44194444;69;69;NA;Calabria;OD:2541;Italy
+257;2542;Puzzara;15.96361083;38.34611111;115;115;NA;Calabria;OD:2542;Italy
+258;2543;Scif? Idrometro;15.90249972;38.21166667;1045;1045;NA;Calabria;OD:2543;Italy
+259;2544;Rizziconi - Ponte Vecchio;15.91222222;38.38008333;33;33;NA;Calabria;OD:2544;Italy
+260;2550;Scif?;15.89;38.21888889;945;945;NA;Calabria;OD:2550;Italy
+261;2560;Sinopoli;15.87747222;38.25991667;457;457;NA;Calabria;OD:2560;Italy
+262;2570;Oppido Mamertina - Castellace;15.94027778;38.3125;195;195;NA;Calabria;OD:2570;Italy
+263;2580;Molochio;16.03136111;38.30883333;287;287;NA;Calabria;OD:2580;Italy
+264;2590;Perrone C.C.;16.15666639;38.33111111;871;871;NA;Calabria;OD:2590;Italy
+265;2600;Cittanova;16.0775;38.35222222;407;407;NA;Calabria;OD:2600;Italy
+266;2610;Rizziconi;15.97163889;38.40769444;92;92;NA;Calabria;OD:2610;Italy
+267;2620;Gioia Tauro (vecchia staz.);15.89638889;38.43111111;22;22;NA;Calabria;OD:2620;Italy
+268;2621;Gioia Tauro - Budello;15.90733333;38.43091667;23;23;NA;Calabria;OD:2621;Italy
+269;2625;Laureana di Borrello;16.47333306;38.49083333;262;262;NA;Calabria;OD:2625;Italy
+270;2630;Montecucco C.C.;16.325;38.63472222;758;758;NA;Calabria;OD:2630;Italy
+271;2631;Castagnara;16.24555528;38.45583333;925;925;NA;Calabria;OD:2631;Italy
+272;2632;Carmine;16.02749972;38.49333333;67;67;NA;Calabria;OD:2632;Italy
+273;2633;Metramo a Caredona;16.23583306;38.455;893;893;NA;Calabria;OD:2633;Italy
+274;2634;Barbassano;16.04861083;38.5025;58;58;NA;Calabria;OD:2634;Italy
+275;2635;Sbarretta;16.02638861;38.50277778;42;42;NA;Calabria;OD:2635;Italy
+276;2640;Filogaso;16.23055556;38.68027778;255;255;NA;Calabria;OD:2640;Italy
+277;2650;Pizzoni;16.25277778;38.62;398;398;NA;Calabria;OD:2650;Italy
+278;2660;Sant'Angelo di Gerocarne;16.16888889;38.61111111;243;243;NA;Calabria;OD:2660;Italy
+279;2664;Soriano Calabro;16.23;38.59833333;302;302;NA;Calabria;OD:2664;Italy
+280;2665;Dinami - San Pietro di Carid?;16.12388889;38.54991667;142;142;NA;Calabria;OD:2665;Italy
+281;2670;Arena;16.21691667;38.56213889;566;566;NA;Calabria;OD:2670;Italy
+282;2680;San Pier Fedele;16.14277778;38.52388889;450;450;NA;Calabria;OD:2680;Italy
+283;2684;Galatro;16.10861111;38.46138889;186;186;NA;Calabria;OD:2684;Italy
+284;2690;Feroleto della Chiesa;16.06833333;38.46805556;180;180;NA;Calabria;OD:2690;Italy
+285;2700;Giffone;16.14638889;38.44027778;545;545;NA;Calabria;OD:2700;Italy
+286;2710;Mammola - Limina C.C.;16.18916667;38.37133333;674;674;NA;Calabria;OD:2710;Italy
+287;2720;Polistena;16.07444444;38.40638889;224;224;NA;Calabria;OD:2720;Italy
+288;2721;Polistena - Budello;16.07741667;38.40822222;261;261;NA;Calabria;OD:2721;Italy
+289;2722;Taurianova;16.01055556;38.35394444;207;207;NA;Calabria;OD:2722;Italy
+290;2730;Mileto;16.064808;38.613861;328;328;NA;Calabria;OD:2730;Italy
+291;2734;Rombiolo;16.02333333;38.59666667;336;336;NA;Calabria;OD:2734;Italy
+292;2740;Rosarno;15.98811111;38.5005;27;27;NA;Calabria;OD:2740;Italy
+293;2750;Calimera;16.01861111;38.55666667;141;141;NA;Calabria;OD:2750;Italy
+294;2760;Joppolo;15.90525;38.592;635;635;NA;Calabria;OD:2760;Italy
+295;2770;Tropea;15.89444444;38.67527778;15;15;NA;Calabria;OD:2770;Italy
+296;2780;Zungri;15.98294444;38.65347222;451;451;NA;Calabria;OD:2780;Italy
+297;2790;Briatico;16.03638889;38.72694444;49;49;NA;Calabria;OD:2790;Italy
+298;2795;Monte Poro;15.92333306;38.6;666;666;NA;Calabria;OD:2795;Italy
+299;2800;Vibo Valentia;16.10638889;38.67722222;481;481;NA;Calabria;OD:2800;Italy
+300;2802;Vibo Valentia - Longobardi;16.11972222;38.70277778;166;166;NA;Calabria;OD:2802;Italy
+301;2804;Vibo Marina;16.12194444;38.71833333;1;1;NA;Calabria;OD:2804;Italy
+302;2810;Pizzo Calabro;16.16138889;38.73305556;213;213;NA;Calabria;OD:2810;Italy
+303;2815;Capo Vaticano;15.829;38.62308333;72;72;NA;Calabria;OD:2815;Italy
+304;2816;Maierato;16.19183333;38.70844444;186;186;NA;Calabria;OD:2816;Italy
+305;2820;Monterosso Calabro;16.29238889;38.71636111;523;523;NA;Calabria;OD:2820;Italy
+306;2825;Pizzo SS 18;16.21422222;38.76677778;14;14;NA;Calabria;OD:2825;Italy
+307;2830;Filadelfia;16.29305556;38.78694444;579;579;NA;Calabria;OD:2830;Italy
+308;2831;Ponte Morello;16.25138889;38.74805556;90;90;NA;Calabria;OD:2831;Italy
+309;2840;Torre Mezzapraia;16.22027778;38.82083333;3;3;NA;Calabria;OD:2840;Italy
+310;2844;Curinga;16.32333333;38.82555556;378;378;NA;Calabria;OD:2844;Italy
+311;2850;Curinga Scalo;16.26111111;38.84;37;37;NA;Calabria;OD:2850;Italy
+312;2860;San Tommaso;16.37666667;39.08611111;859;859;NA;Calabria;OD:2860;Italy
+313;2870;Decollatura;16.35827778;39.04636111;745;745;NA;Calabria;OD:2870;Italy
+314;2874;Acquabona C.C.;16.35666639;39.02583333;867;867;NA;Calabria;OD:2874;Italy
+315;2880;Serrastretta;16.41583333;39.01305556;861;861;NA;Calabria;OD:2880;Italy
+316;2884;Miglierina;16.48999972;38.94805556;450;450;NA;Calabria;OD:2884;Italy
+317;2890;Tiriolo;16.50994444;38.93955556;523;523;NA;Calabria;OD:2890;Italy
+318;2900;Marcellinara;16.49444444;38.92861111;366;366;NA;Calabria;OD:2900;Italy
+319;2901;Marino;16.48999972;38.92444444;229;229;NA;Calabria;OD:2901;Italy
+320;2902;Maida - Licciardi;16.33888889;38.89583333;43;43;NA;Calabria;OD:2902;Italy
+321;2910;Caraffa di Catanzaro;16.48694444;38.88194444;318;318;NA;Calabria;OD:2910;Italy
+322;2914;Vena di Maida;16.40666667;38.88861111;215;215;NA;Calabria;OD:2914;Italy
+323;2920;Serra del Gelo;16.37055556;38.78444444;840;840;NA;Calabria;OD:2920;Italy
+324;2924;Cortale;16.40225;38.83375;450;450;NA;Calabria;OD:2924;Italy
+325;2930;Feroleto Antico;16.38861111;38.96305556;351;351;NA;Calabria;OD:2930;Italy
+326;2935;Nicastro;16.3225;38.97861111;297;297;NA;Calabria;OD:2935;Italy
+327;2940;Nicastro - Bella;16.29944444;38.98555556;597;597;NA;Calabria;OD:2940;Italy
+328;2944;Carr? D'Ippolito;16.32333333;38.9375;97;97;NA;Calabria;OD:2944;Italy
+329;2950;Maida;16.3645;38.85330556;282;282;NA;Calabria;OD:2950;Italy
+330;2955;Lamezia Terme-Palazzo;16.23305556;38.87583333;6;6;NA;Calabria;OD:2955;Italy
+331;2960;Sant'Eufemia Lamezia;16.25222222;38.92138889;28;28;NA;Calabria;OD:2960;Italy
+332;2970;Capo Suvero;16.15888889;38.95;67;67;NA;Calabria;OD:2970;Italy
+333;2980;Savuto C.C.;16.50361111;39.1625;1221;1221;NA;Calabria;OD:2980;Italy
+334;2981;Poverella;16.5025;39.1725;1274;1274;NA;Calabria;OD:2981;Italy
+335;2982;Ponte Savuto;16.31555528;39.155;643;643;NA;Calabria;OD:2982;Italy
+336;2985;Martirano - Persico;16.23244444;39.09205556;233;233;NA;Calabria;OD:2985;Italy
+337;2990;Parenti;16.40925;39.16105556;758;758;NA;Calabria;OD:2990;Italy
+338;3000;Rogliano;16.32583333;39.18361111;665;665;NA;Calabria;OD:3000;Italy
+339;3010;Martirano;16.24683333;39.08466667;255;255;NA;Calabria;OD:3010;Italy
+340;3020;Nocera Terinese;16.16630556;39.03783333;332;332;NA;Calabria;OD:3020;Italy
+341;3025;Nocera Terinese SS 18;16.10144444;39.03275;6;6;NA;Calabria;OD:3025;Italy
+342;3030;Aiello Calabro;16.16555556;39.11611111;381;381;NA;Calabria;OD:3030;Italy
+343;3040;Amantea;16.08625;39.14916667;278;278;NA;Calabria;OD:3040;Italy
+344;3050;Fiumefreddo Bruzio;16.07111111;39.235;157;157;NA;Calabria;OD:3050;Italy
+345;3060;Paola;16.04208333;39.36727778;282;282;NA;Calabria;OD:3060;Italy
+346;3070;Cristiano C.C.;16.10666639;39.32611111;1003;1003;NA;Calabria;OD:3070;Italy
+347;3080;Guardia Piemontese;15.99972222;39.46666667;375;375;NA;Calabria;OD:3080;Italy
+348;3090;Cetraro Superiore;15.96408333;39.535055560000004;417;417;NA;Calabria;OD:3090;Italy
+349;3100;Belvedere Marittimo;15.84819444;39.64036111;42;42;NA;Calabria;OD:3100;Italy
+350;3110;Cirella;15.80916667;39.71472222;58;58;NA;Calabria;OD:3110;Italy
+351;3120;Ruggio;16.126814;39.91111111;1535;1535;NA;Calabria;OD:3120;Italy
+352;3124;Verbicaro Scalo;15.82222222;39.76611111;24;24;NA;Calabria;OD:3124;Italy
+353;3150;Laino Borgo;15.97611111;39.95444444;344;344;NA;Calabria;OD:3150;Italy
+355;3152;Sabanna;15.92222222;39.86611111;499;499;NA;Calabria;OD:3152;Italy
+356;3153;La Calda;15.75916639;40.13722222;879;879;NA;Calabria;OD:3153;Italy
+357;3154;Le Fornaci;15.82888861;40.03194444;341;341;NA;Calabria;OD:3154;Italy
+358;3155;C.le Castrocucco;15.80169444;39.99219444;245;245;NA;Calabria;OD:3155;Italy
+359;3160;Campotenese;16.06833333;39.8725;978;978;NA;Calabria;OD:3160;Italy
+360;3161;Tortora;15.76333333;39.92747222;13;13;NA;Calabria;OD:3161;Italy
+361;3170;Mormanno;15.98777778;39.885;861;861;NA;Calabria;OD:3170;Italy
+362;3180;Papasidero;15.91030556;39.873;252;252;NA;Calabria;OD:3180;Italy
+363;3190;Orsomarso;15.90944444;39.8;327;327;NA;Calabria;OD:3190;Italy
+364;3195;Praia d'Aieta;15.77861111;39.90027778;26;26;NA;Calabria;OD:3195;Italy
+365;3200;Scalea;15.79230556;39.81108333;37;37;NA;Calabria;OD:3200;Italy
+366;3203;Praia a Mare;15.80666639;39.90055556;601;601;NA;Calabria;OD:3203;Italy
+367;3210;Lagonegro;15.79;40.11666667;888;888;NA;Calabria;OD:3210;Italy
+368;3250;Aieta;15.82361111;39.92916667;420;420;NA;Calabria;OD:3250;Italy
+369;845;Rocca Imperiale;16.47333306;40.10888889;655;655;NA;Calabria;OD:845;Italy
+370;850;Nocara;16.48166667;40.08555556;442;442;NA;Calabria;OD:850;Italy
+371;860;Montegiordano Scalo;16.59805556;40.04055556;37;37;NA;Calabria;OD:860;Italy
+372;865;Roseto Capo Spulico;16.60361111;39.98694444;98;98;NA;Calabria;OD:865;Italy
+373;870;Oriolo;16.44902778;40.05383333;425;425;NA;Calabria;OD:870;Italy
+374;880;Castroregio;16.47861111;39.99361111;546;546;NA;Calabria;OD:880;Italy
+375;890;Amendolara;16.57972222;39.95361111;197;197;NA;Calabria;OD:890;Italy
+376;900;Albidona;16.46833333;39.92472222;675;675;NA;Calabria;OD:900;Italy
+377;910;Alessandria del Carretto;16.37972222;39.95861111;893;893;NA;Calabria;OD:910;Italy
+378;920;Trebisacce;16.53055556;39.86555556;9;9;NA;Calabria;OD:920;Italy
+379;924;Cerchiara di Calabria;16.38377778;39.86069444;652;652;NA;Calabria;OD:924;Italy
+380;930;Villapiana Scalo;16.49861111;39.795;NA;NA;NA;Calabria;OD:930;Italy
+381;931;Terzeria;16.48888861;39.76722222;2;2;NA;Calabria;OD:931;Italy
+382;935;Villapiana SS 106;16.46672222;39.76822222;6;6;NA;Calabria;OD:935;Italy
+383;940;Francavilla Marittima;16.385;39.81833333;239;239;NA;Calabria;OD:940;Italy
+384;950;San Lorenzo Bellizzi;16.32888889;39.88861111;837;837;NA;Calabria;OD:950;Italy
+385;960;Civita;16.31222222;39.66333333;339;339;NA;Calabria;OD:960;Italy
+386;970;Cassano allo Ionio;16.31894444;39.78308333;180;180;NA;Calabria;OD:970;Italy
+387;974;Doria;16.37333333;39.73027778;21;21;NA;Calabria;OD:974;Italy
+388;976;Sibari;16.47333306;39.74694444;5;5;NA;Calabria;OD:976;Italy
+389;980;Piane Crati;16.32277778;39.2325;577;577;NA;Calabria;OD:980;Italy
+390;982;Ponte Umberto;16.19694417;39.81888889;400;400;NA;Calabria;OD:982;Italy
+391;983;Cameli;16.0725;39.60583333;330;330;NA;Calabria;OD:983;Italy
+392;984;Serra Pedace;16.34666667;39.27722222;756;756;NA;Calabria;OD:984;Italy
+393;985;La Musica;16.29777778;39.68388889;131;131;NA;Calabria;OD:985;Italy
+394;986;Conca;16.36888889;39.64194444;30;30;NA;Calabria;OD:986;Italy
+395;987;San Marco Argentano Idrometro;16.13305528;39.55666667;304;304;NA;Calabria;OD:987;Italy
+396;988;Cecita Idrometro sul Mucone;16.55805528;39.39916667;1363;1363;NA;Calabria;OD:988;Italy
+397;989;Luzzi Idrometro;16.31055556;39.47666667;465;465;NA;Calabria;OD:989;Italy
+398;990;Trenta;16.32444444;39.28;593;593;NA;Calabria;OD:990;Italy
+400;992;Fontanelle Idrometro;16.25611083;39.26527778;440;440;NA;Calabria;OD:992;Italy

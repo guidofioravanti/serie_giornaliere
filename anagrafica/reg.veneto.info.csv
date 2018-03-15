@@ -1,249 +1,249 @@
-SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
-1;Conegliano Veneto;100;OD:100;45.88066;12.28254;71;Italy;Veneto;Quota ricavata da dem
-2;Porto Tolle - Pradon;101;OD:101;44.91663;12.36932;2;Italy;Veneto;Quota ricavata da dem
-3;Castelfranco Veneto;102;OD:102;45.69427;11.94814;51;Italy;Veneto;Quota ricavata da dem
-4;Villafranca Veronese;104;OD:104;45.37175;10.83289;67;Italy;Veneto;Quota ricavata da dem
-5;Lonigo;105;OD:105;45.38992;11.3799;31;Italy;Veneto;Quota ricavata da dem
-6;Montagnana;106;OD:106;45.24778;11.42161;14;Italy;Veneto;Quota ricavata da dem
-7;Salizzole;108;OD:108;45.23938;11.09591;22;Italy;Veneto;Quota ricavata da dem
-8;Malga Ciapela;11;OD:11;46.42785;11.9051;1501;Italy;Veneto;Quota ricavata da dem
-9;Cittadella;110;OD:110;45.65573;11.79385;49;Italy;Veneto;Quota ricavata da dem
-10;Legnaro;111;OD:111;45.34669;11.95239;7;Italy;Veneto;Quota ricavata da dem
-11;Rosolina - Po di Tramontana;112;OD:112;45.07048;12.26199;2;Italy;Veneto;Quota ricavata da dem
-12;Castelnovo Bariano;113;OD:113;45.03066;11.30257;12;Italy;Veneto;Quota ricavata da dem
-13;Villadose;114;OD:114;45.0707;11.92263;2;Italy;Veneto;Quota ricavata da dem
-14;Adria - Bellombra;115;OD:115;45.01509;12.00784;1;Italy;Veneto;Quota ricavata da dem
-15;Frassinelle Polesine;116;OD:116;44.98979;11.67902;6;Italy;Veneto;Quota ricavata da dem
-16;Sorga';117;OD:117;45.21726;11.00903;23;Italy;Veneto;Quota ricavata da dem
-17;Bardolino - Calmasino;118;OD:118;45.5177;10.765930000000001;161;Italy;Veneto;Quota ricavata da dem
-18;Roverchiara;119;OD:119;45.26514;11.25143;19;Italy;Veneto;Quota ricavata da dem
-19;Dolc�;120;OD:120;45.5989;10.84901;112;Italy;Veneto;Quota ricavata da dem
-20;Lusia;121;OD:121;45.09176;11.63388;6;Italy;Veneto;Quota ricavata da dem
-21;Trebaseleghe;122;OD:122;45.60174;12.02596;23;Italy;Veneto;Quota ricavata da dem
-22;Arcole;123;OD:123;45.37484;11.29606;28;Italy;Veneto;Quota ricavata da dem
-23;Marano di Valpolicella;124;OD:124;45.5473;10.92363;283;Italy;Veneto;Quota ricavata da dem
-24;San Pietro in Cariano;125;OD:125;45.50865;10.88834;137;Italy;Veneto;Quota ricavata da dem
-25;Illasi;126;OD:126;45.45954;11.17178;155;Italy;Veneto;Quota ricavata da dem
-26;Buttapietra;127;OD:127;45.35231;11.01065;41;Italy;Veneto;Quota ricavata da dem
-27;Grezzana;128;OD:128;45.50916;11.01372;176;Italy;Veneto;Quota ricavata da dem
-28;Castelnuovo del Garda;129;OD:129;45.45398;10.77261;122;Italy;Veneto;Quota ricavata da dem
-29;Montecchia di Crosara;130;OD:130;45.46737;11.28337;61;Italy;Veneto;Quota ricavata da dem
-30;Vangadizza (Legnago);131;OD:131;45.15687;11.28809;14;Italy;Veneto;Quota ricavata da dem
-31;Pescul;132;OD:132;46.43658;12.06916;1477;Italy;Veneto;Quota ricavata da dem
-32;Malo;134;OD:134;45.66871;11.46482;102;Italy;Veneto;Quota ricavata da dem
-33;Rifugio la Guardia (Recoaro Terme);135;OD:135;45.7182;11.18165;1261;Italy;Veneto;Quota ricavata da dem
-34;Sappada;136;OD:136;46.56997;12.70828;1293;Italy;Veneto;Quota ricavata da dem
-35;Valli del Pasubio;137;OD:137;45.7571;11.21496;619;Italy;Veneto;Quota ricavata da dem
-36;Lusiana;139;OD:139;45.78348;11.58835;665;Italy;Veneto;Quota ricavata da dem
-37;Passo Santa Caterina (Valdagno);140;OD:140;45.61913;11.25936;716;Italy;Veneto;Quota ricavata da dem
-38;Faedo (Cinto Euganeo);142;OD:142;45.30453;11.69705;274;Italy;Veneto;Quota ricavata da dem
-39;Rosa';144;OD:144;45.71592;11.77648;83;Italy;Veneto;Quota ricavata da dem
-40;Barbarano Vicentino;145;OD:145;45.39704;11.57065;18;Italy;Veneto;Quota ricavata da dem
-41;Trissino;146;OD:146;45.5787;11.35816;216;Italy;Veneto;Quota ricavata da dem
-42;Breganze;147;OD:147;45.71976;11.57653;193;Italy;Veneto;Quota ricavata da dem
-43;Brendola;148;OD:148;45.47142;11.46946;82;Italy;Veneto;Quota ricavata da dem
-44;Montegalda;149;OD:149;45.44899;11.66204;24;Italy;Veneto;Quota ricavata da dem
-45;Gares;15;OD:15;46.31246;11.88295;1392;Italy;Veneto;Quota ricavata da dem
-46;Noventa Vicentina;150;OD:150;45.26383;11.56677;14;Italy;Veneto;Quota ricavata da dem
-47;Masi;151;OD:151;45.11675;11.48118;10;Italy;Veneto;Quota ricavata da dem
-48;Balduina (Sant'Urbano);152;OD:152;45.13408;11.58438;8;Italy;Veneto;Quota ricavata da dem
-49;Quinto Vicentino;153;OD:153;45.56843;11.63065;36;Italy;Veneto;Quota ricavata da dem
-50;Crespano del Grappa;156;OD:156;45.84103;11.84084;372;Italy;Veneto;Quota ricavata da dem
-51;Portogruaro - Lison;159;OD:159;45.74482;12.76147;3;Italy;Veneto;Quota ricavata da dem
-52;Cavallino Treporti;160;OD:160;45.45805;12.48642;2;Italy;Veneto;Quota ricavata da dem
-53;Noventa di Piave - Grassaga;163;OD:163;45.66761;12.58868;4;Italy;Veneto;Quota ricavata da dem
-54;Eraclea;164;OD:164;45.60261;12.7073;2;Italy;Veneto;Quota ricavata da dem
-55;Fossalta di Portogruaro;165;OD:165;45.77501;12.89414;7;Italy;Veneto;Quota ricavata da dem
-56;Lugugnana (Portogruaro);166;OD:166;45.70425;12.94687;2;Italy;Veneto;Quota ricavata da dem
-57;Mira;167;OD:167;45.4353;12.11769;5;Italy;Veneto;Quota ricavata da dem
-58;Chioggia - Sant'Anna;168;OD:168;45.144;12.276;1;Italy;Veneto;Quota ricavata da dem
-59;Agna;169;OD:169;45.15861;11.95798;3;Italy;Veneto;Quota ricavata da dem
-60;Perarolo;17;OD:17;46.39349;12.35686;579;Italy;Veneto;Quota ricavata da dem
-61;Teolo;170;OD:170;45.34206;11.67737;114;Italy;Veneto;Quota ricavata da dem
-62;Codevigo;175;OD:175;45.24301;12.09993;2;Italy;Veneto;Quota ricavata da dem
-63;Grantorto;177;OD:177;45.59375;11.75219;34;Italy;Veneto;Quota ricavata da dem
-64;Cavarzere;178;OD:178;45.16084;12.08742;4;Italy;Veneto;Quota ricavata da dem
-65;Campodarsego;179;OD:179;45.49483;11.9137;15;Italy;Veneto;Quota ricavata da dem
-66;Este - Calaone;180;OD:180;45.24135;11.65501;153;Italy;Veneto;Quota ricavata da dem
-67;Tribano;182;OD:182;45.18603;11.84903;6;Italy;Veneto;Quota ricavata da dem
-68;Volpago del Montello;183;OD:183;45.78455;12.11314;171;Italy;Veneto;Quota ricavata da dem
-69;Zero Branco;184;OD:184;45.59004;12.17524;11;Italy;Veneto;Quota ricavata da dem
-70;Vazzola - Tezze;185;OD:185;45.81115;12.34149;38;Italy;Veneto;Quota ricavata da dem
-71;Gaiarine;186;OD:186;45.89151;12.49369;17;Italy;Veneto;Quota ricavata da dem
-72;Roncade;187;OD:187;45.64067;12.39647;7;Italy;Veneto;Quota ricavata da dem
-73;Villorba;188;OD:188;45.74828;12.23517;40;Italy;Veneto;Quota ricavata da dem
-74;Valdobbiadene - Bigolino;189;OD:189;45.88139;12.00731;189;Italy;Veneto;Quota ricavata da dem
-75;Agordo;19;OD:19;46.27737;12.0334;627;Italy;Veneto;Quota ricavata da dem
-76;Brustol� (Velo d'Astico);190;OD:190;45.80061;11.34351;390;Italy;Veneto;Quota ricavata da dem
-77;Molini (Laghi);191;OD:191;45.83265;11.25584;635;Italy;Veneto;Quota ricavata da dem
-78;Passo Xomo (Posina);192;OD:192;45.77677;11.2382;955;Italy;Veneto;Quota ricavata da dem
-79;Riofreddo a Valoje ;193;OD:193;45.8078;11.335;435;Italy;Veneto;Quota ricavata da dem
-80;Posina a Bazzoni;194;OD:194;45.8011;11.2932;477;Italy;Veneto;Quota ricavata da dem
-81;Farra di Soligo;195;OD:195;45.9015;12.1048;197;Italy;Veneto;Quota ricavata da dem
-82;Oderzo;196;OD:196;45.76503;12.52447;8;Italy;Veneto;Quota ricavata da dem
-83;Maser;197;OD:197;45.77817;11.94258;102;Italy;Veneto;Quota ricavata da dem
-84;Breda di Piave;198;OD:198;45.71705;12.33814;21;Italy;Veneto;Quota ricavata da dem
-85;Longarone;199;OD:199;46.26092;12.30382;434;Italy;Veneto;Quota ricavata da dem
-86;Cordevole a la Vizza;2;OD:2;46.4883;11.8487;1882;Italy;Veneto;Quota ricavata da dem
-87;Lamon;200;OD:200;46.04918;11.74661;586;Italy;Veneto;Quota ricavata da dem
-88;Monte Grande (Teolo);201;OD:201;45.36126;11.67305;347;Italy;Veneto;Quota ricavata da dem
-89;Passo Valles;203;OD:203;46.33847;11.80182;2001;Italy;Veneto;Quota ricavata da dem
-90;Ponte di Piave;204;OD:204;45.7165;12.52452;5;Italy;Veneto;Quota ricavata da dem
-91;Sant'Andrea (Gosaldo);21;OD:21;46.22896;11.95784;1279;Italy;Veneto;Quota ricavata da dem
-92;Codevigo - Ca' di Mezzo;211;OD:211;45.22624;12.14528;1;Italy;Veneto;Quota ricavata da dem
-93;Boite a Podestagno;214;OD:214;46.5949;12.1089;1433;Italy;Veneto;Quota ricavata da dem
-94;Cansiglio - Tramedere;216;OD:216;46.07684;12.41478;1014;Italy;Veneto;Quota ricavata da dem
-95;Feltre;217;OD:217;46.01553;11.89484;272;Italy;Veneto;Quota ricavata da dem
-96;Asiago - aeroporto;218;OD:218;45.88276;11.51124;1017;Italy;Veneto;Quota ricavata da dem
-97;Rovina di Cancia (Borca di Cadore);219;OD:219;46.4365;12.24284;1508;Italy;Veneto;Quota ricavata da dem
-98;Sant'Antonio Tortal;22;OD:22;46.04768;12.15469;568;Italy;Veneto;Quota ricavata da dem
-99;Treviso;220;OD:220;45.68049;12.22123;18;Italy;Veneto;Quota ricavata da dem
-100;Trecenta;221;OD:221;45.021;11.42688;10;Italy;Veneto;Quota ricavata da dem
-101;Falcade;223;OD:223;46.35478;11.86967;1172;Italy;Veneto;Quota ricavata da dem
-102;Valle di Cadore;224;OD:224;46.41477;12.33254;738;Italy;Veneto;Quota ricavata da dem
-103;Mogliano Veneto;227;OD:227;45.58008;12.308;5;Italy;Veneto;Quota ricavata da dem
-104;Campagna Lupia - Valle Averto;230;OD:230;45.34876;12.14177;1;Italy;Veneto;Quota ricavata da dem
-105;Sant'Apollinare (Rovigo);231;OD:231;45.03274;11.8262;3;Italy;Veneto;Quota ricavata da dem
-106;Bassano del Grappa;232;OD:232;45.7843;11.73052;136;Italy;Veneto;Quota ricavata da dem
-107;Padova - Orto Botanico;234;OD:234;45.39799;11.88057;14;Italy;Veneto;Quota ricavata da dem
-108;Soffranco;235;OD:235;46.27748;12.24293;804;Italy;Veneto;Quota ricavata da dem
-109;San Martino d'Alpago;236;OD:236;46.17982;12.39696;805;Italy;Veneto;Quota ricavata da dem
-110;Cortina d'Ampezzo - Gilardon;237;OD:237;46.53602;12.1276;1216;Italy;Veneto;Quota ricavata da dem
-111;Misurina;238;OD:238;46.57574;12.25027;1810;Italy;Veneto;Quota ricavata da dem
-112;Col di Pra';239;OD:239;46.29539;11.92904;895;Italy;Veneto;Quota ricavata da dem
-113;Vittorio Veneto;240;OD:240;45.98479;12.30779;136;Italy;Veneto;Quota ricavata da dem
-114;Fiorentina a Sottorovei;242;OD:242;46.4394;12.0112;1258;Italy;Veneto;Quota ricavata da dem
-115;Quero;245;OD:245;45.92482;11.93976;221;Italy;Veneto;Quota ricavata da dem
-116;Costalta;246;OD:246;46.5781;12.57575;1195;Italy;Veneto;Quota ricavata da dem
-117;Casamazzagno;247;OD:247;46.59322;12.5158;1370;Italy;Veneto;Quota ricavata da dem
-118;Piana di Marcesina - Rendole;248;OD:248;45.94867;11.6125;1309;Italy;Veneto;Quota ricavata da dem
-119;Sospirolo;25;OD:25;46.13997;12.07569;363;Italy;Veneto;Quota ricavata da dem
-120;Bosco Chiesanuova;251;OD:251;45.6187;11.03898;1028;Italy;Veneto;Quota ricavata da dem
-121;Venezia - Istituto Cavanis;252;OD:252;45.4293;12.3283;1;Italy;Veneto;Quota ricavata da dem
-122;Valeggio sul Mincio;253;OD:253;45.35985;10.73204;105;Italy;Veneto;Quota ricavata da dem
-123;Colognola ai Colli;260;OD:260;45.42442;11.22297;48;Italy;Veneto;Quota ricavata da dem
-124;Valpore (Seren del Grappa);262;OD:262;45.89662;11.80628;1266;Italy;Veneto;Quota ricavata da dem
-125;Belluno - aeroporto;264;OD:264;46.16369;12.24532;370;Italy;Veneto;Quota ricavata da dem
-126;Galzignano - Ca' Demia;265;OD:265;45.29948;11.74292;5;Italy;Veneto;Quota ricavata da dem
-127;Santa Giustina Bellunese;266;OD:266;46.07774;12.07269;279;Italy;Veneto;Quota ricavata da dem
-128;Sella Ciampigotto;268;OD:268;46.48625;12.58485;1778;Italy;Veneto;Quota ricavata da dem
-129;Adige a Albaredo ;270;OD:270;45.3125;11.2664;22;Italy;Veneto;Quota ricavata da dem
-130;Piave a Belluno ;271;OD:271;46.1272;12.2283;413;Italy;Veneto;Quota ricavata da dem
-131;Alpone a Monteforte ;273;OD:273;45.4139;11.2872;35;Italy;Veneto;Quota ricavata da dem
-132;Timonchio a Ponte Marchese ;276;OD:276;45.5747;11.5367;39;Italy;Veneto;Quota ricavata da dem
-133;Cordevole a Ponte Mas ;277;OD:277;46.1456;12.1272;383;Italy;Veneto;Quota ricavata da dem
-134;Agno a Recoaro Terme ;278;OD:278;45.6958;11.2117;670;Italy;Veneto;Quota ricavata da dem
-135;Monte Cesen;28;OD:28;45.94433;12.02154;1480;Italy;Veneto;Quota ricavata da dem
-136;Adige a Badia Polesine ;281;OD:281;45.0992;11.4892;11;Italy;Veneto;Quota ricavata da dem
-137;Brenta a Barziza ;283;OD:283;45.7772;11.7303;119;Italy;Veneto;Quota ricavata da dem
-138;Adige a Boara Pisani ;284;OD:284;45.1006;11.7858;5;Italy;Veneto;Quota ricavata da dem
-139;Tesina a Bolzano Vicentino ;285;OD:285;45.5936;11.6186;43;Italy;Veneto;Quota ricavata da dem
-140;Frassine a Borgofrassine ;286;OD:286;45.2442;11.4842;15;Italy;Veneto;Quota ricavata da dem
-141;Bacchiglione a Bovolenta ;287;OD:287;45.265;11.935;6;Italy;Veneto;Quota ricavata da dem
-142;Frassine a Brancaglia ;288;OD:288;45.2444;11.6389;15;Italy;Veneto;Quota ricavata da dem
-143;Gorzone a Carmignano ;291;OD:291;45.137;11.6439;8;Italy;Veneto;Quota ricavata da dem
-144;Musone a Castelfranco Veneto ;292;OD:292;45.6722;11.9195;41;Italy;Veneto;Quota ricavata da dem
-145;Adige a Cavarzere ;293;OD:293;45.1336;12.0822;1;Italy;Veneto;Quota ricavata da dem
-146;Livenza a Cessalto ;294;OD:294;45.6561;12.7997;1;Italy;Veneto;Quota ricavata da dem
-147;Gu� a Cologna Veneta ;295;OD:295;45.3097;11.3833;23;Italy;Veneto;Quota ricavata da dem
-148;Meschio a Cordignano ;296;OD:296;45.9364;12.4208;48;Italy;Veneto;Quota ricavata da dem
-149;Piave a Eraclea ;297;OD:297;45.5592;12.675;1;Italy;Veneto;Quota ricavata da dem
-150;Monticano a Fontanelle ;298;OD:298;45.8225;12.4425;17;Italy;Veneto;Quota ricavata da dem
-151;Monticano a Gorgo al Monticano;299;OD:299;45.77305;12.53889;9;Italy;Veneto;Quota ricavata da dem
-152;Arabba;3;OD:3;46.49926;11.87637;1653;Italy;Veneto;Quota ricavata da dem
-153;Livenza a La Salute di Livenza ;300;OD:300;45.7906;12.6114;9;Italy;Veneto;Quota ricavata da dem
-154;Adige a Legnago ;301;OD:301;45.1881;11.3142;16;Italy;Veneto;Quota ricavata da dem
-155;Brenta a Limena ;302;OD:302;45.5092;11.8269;23;Italy;Veneto;Quota ricavata da dem
-156;Bacchiglione a Longare ;303;OD:303;45.4836;11.6031;28;Italy;Veneto;Quota ricavata da dem
-157;Gu� a Lonigo ;304;OD:304;45.3889;11.3875;36;Italy;Veneto;Quota ricavata da dem
-158;Livenza a Meduna di Livenza ;306;OD:306;45.7726;12.6156;8;Italy;Veneto;Quota ricavata da dem
-159;Bacchiglione a Montegalda ;308;OD:308;45.4356;11.6703;23;Italy;Veneto;Quota ricavata da dem
-160;Piave a Nervesa della Battaglia ;309;OD:309;45.8306;12.2078;86;Italy;Veneto;Quota ricavata da dem
-161;Monticano a Oderzo ;310;OD:310;45.7714;12.4978;10;Italy;Veneto;Quota ricavata da dem
-162;Mincio a Peschiera Navigarda ;312;OD:312;45.4411;10.697;69;Italy;Veneto;Quota ricavata da dem
-163;Agno a Ponte Brogliano ;315;OD:315;45.5831;11.3689;155;Italy;Veneto;Quota ricavata da dem
-164;Piave a Ponte di Piave ;316;OD:316;45.6983;12.4578;10;Italy;Veneto;Quota ricavata da dem
-165;Po a Porto Levante ;319;OD:319;45.0431;12.365;1;Italy;Veneto;Quota ricavata da dem
-166;L�mene a Portogruaro ;320;OD:320;45.7333;12.675;5;Italy;Veneto;Quota ricavata da dem
-167;Retrone a Vicenza S.Agostino ;321;OD:321;45.5264;11.5247;34;Italy;Veneto;Quota ricavata da dem
-168;Alpone a S.Bonifacio ;322;OD:322;45.3878;11.265;26;Italy;Veneto;Quota ricavata da dem
-169;Piave a S.Don� di Piave ;323;OD:323;45.6114;12.5653;3;Italy;Veneto;Quota ricavata da dem
-170;Fratta a S.Salvaro ;325;OD:325;45.1981;11.4083;14;Italy;Veneto;Quota ricavata da dem
-171;Piave a Segusino ;327;OD:327;45.9181;11.9525;266;Italy;Veneto;Quota ricavata da dem
-172;Gorzone a Stanghella ;328;OD:328;45.1372;11.7578;5;Italy;Veneto;Quota ricavata da dem
-173;Brenta a Stra ;329;OD:329;45.4025;11.9978;9;Italy;Veneto;Quota ricavata da dem
-174;Follina;33;OD:33;45.9565;12.1173;199;Italy;Veneto;Quota ricavata da dem
-175;Fratta a Valli Mocenighe ;330;OD:330;45.1483;11.5647;9;Italy;Veneto;Quota ricavata da dem
-176;Monticano a Vazzola ;331;OD:331;45.8383;12.3986;25;Italy;Veneto;Quota ricavata da dem
-177;Adige a Verona ;332;OD:332;45.4422;11.0008;92;Italy;Veneto;Quota ricavata da dem
-178;Bacchiglione a Vicenza ;333;OD:333;45.5411;11.5472;63;Italy;Veneto;Quota ricavata da dem
-179;Bacchiglione a Padova Voltabarozzo ;334;OD:334;45.3778;11.9139;10;Italy;Veneto;Quota ricavata da dem
-180;Gallio;345;OD:345;45.86806;11.56333;1141;Italy;Veneto;Quota ricavata da dem
-181;La Secca;346;OD:346;46.12167;12.32638;346;Italy;Veneto;Quota ricavata da dem
-182;Roncadin Chies d'Alpago CAE;348;OD:348;46.17278;12.4039;818;Italy;Veneto;Quota ricavata da dem
-183;Passo Falzarego;37;OD:37;46.51806;12.00704;2138;Italy;Veneto;Quota ricavata da dem
-192;Malga Losch;390;OD:390;46.1545;11.5734;2197;Italy;Veneto;Quota ricavata da dem
-197;Casera Coltrondo;395;OD:395;46.3955;12.2637;1613;Italy;Veneto;Quota ricavata da dem
-198;Campomolon;396;OD:396;45.5223;11.1623;358;Italy;Veneto;Quota ricavata da dem
-201;Po a Ficarolo ;399;OD:399;44.9408;11.4203;8;Italy;Veneto;Quota ricavata da dem
-202;Livenza a Portobuffol� ;400;OD:400;45.7864;12.8375;8;Italy;Veneto;Quota ricavata da dem
-203;Livenza a Motta di Livenza ;401;OD:401;45.849;12.5356;11;Italy;Veneto;Quota ricavata da dem
-204;Biois a Cencenighe ;402;OD:402;46.3507;11.9656;896;Italy;Veneto;Quota ricavata da dem
-205;Boite a Cancia ;403;OD:403;46.4306;12.2224;920;Italy;Veneto;Quota ricavata da dem
-206;Astico a Pedescala ;404;OD:404;45.8432;11.3665;371;Italy;Veneto;Quota ricavata da dem
-207;Piave a Ponte della Lasta ;406;OD:406;46.5366;12.5215;976;Italy;Veneto;Quota ricavata da dem
-208;Posina a Stancari ;407;OD:407;45.8051;11.336;435;Italy;Veneto;Quota ricavata da dem
-209;Bisatto a Vo' Vecchio ;408;OD:408;45.3237;11.6162;12;Italy;Veneto;Quota ricavata da dem
-210;Chiampo;409;OD:409;45.53578;11.29394;165;Italy;Veneto;Quota ricavata da dem
-211;Bibione;425;OD:425;45.64064;13.07727;1;Italy;Veneto;Quota ricavata da dem
-212;Tesina Padovano a Veggiano ;444;OD:444;45.4453;11.7222;21;Italy;Veneto;Quota ricavata da dem
-213;Vicenza - Sant'Agostino;451;OD:451;45.52368;11.52063;33;Italy;Veneto;Quota ricavata da dem
-214;Verona - Parco Adige Nord;452;OD:452;45.46143;10.95412;70;Italy;Veneto;Quota ricavata da dem
-215;Favaro Veneto;454;OD:454;45.51959;12.27934;3;Italy;Veneto;Quota ricavata da dem
-216;Po a Cavanella Po ;456;OD:456;45.0244;12.1483;1;Italy;Veneto;Quota ricavata da dem
-217;Po a Ca' Dolfin ;457;OD:457;44.9375;12.4361;1;Italy;Veneto;Quota ricavata da dem
-218;Po a Porto Tolle ;458;OD:458;44.9453;12.2983;1;Italy;Veneto;Quota ricavata da dem
-219;Po a Ca' Venier ;459;OD:459;44.9581;12.33;1;Italy;Veneto;Quota ricavata da dem
-220;Meschio a Borgo Campion ;462;OD:462;45.9595;12.34;96;Italy;Veneto;Quota ricavata da dem
-221;Meschio a Vittorio Veneto ;463;OD:463;45.9906;12.3003;136;Italy;Veneto;Quota ricavata da dem
-222;Nogarolo di Tarzo;464;OD:464;45.98667;12.2461;290;Italy;Veneto;Quota ricavata da dem
-223;Faloria;47;OD:47;46.52677;12.17529;2210;Italy;Veneto;Quota ricavata da dem
-224;Podestagno (Cortina d'Ampezzo);48;OD:48;46.5929;12.11253;1433;Italy;Veneto;Quota ricavata da dem
-225;Villanova (Borca di Cadore);50;OD:50;46.44262;12.206480000000001;953;Italy;Veneto;Quota ricavata da dem
-226;Ponte Rio Cordon (Selva di Cadore);505;OD:505;46.45031;12.09616;1895;Italy;Veneto;Quota ricavata da dem
-227;Caprino Veronese - Platano;510;OD:510;45.60805;10.81444;329;Italy;Veneto;Quota ricavata da dem
-228;Auronzo;53;OD:53;46.55558;12.42613;877;Italy;Veneto;Quota ricavata da dem
-229;Mondeval di Sopra (Selva di Cadore);544;OD:544;46.46371;12.1013;2215;Italy;Veneto;Quota ricavata da dem
-230;Pian del Crep (Zoldo Alto);55;OD:55;46.37868;12.09333;1629;Italy;Veneto;Quota ricavata da dem
-231;Sant'Elena;551;OD:551;45.1957;11.69469;8;Italy;Veneto;Quota ricavata da dem
-232;Forno di Zoldo - Campo;56;OD:56;46.34599;12.18443;875;Italy;Veneto;Quota ricavata da dem
-233;Santo Stefano di Cadore;58;OD:58;46.557;12.55338;985;Italy;Veneto;Quota ricavata da dem
-234;Domegge di Cadore;59;OD:59;46.46028;12.41055;816;Italy;Veneto;Quota ricavata da dem
-235;Cordevole a Saviner;6;OD:6;46.442;11.9871;1152;Italy;Veneto;Quota ricavata da dem
-236;Malga Campobon (San Pietro di Cadore);60;OD:60;46.64397;12.60384;1999;Italy;Veneto;Quota ricavata da dem
-237;Cimacanale (San Pietro di Cadore);61;OD:61;46.60138;12.63099;1266;Italy;Veneto;Quota ricavata da dem
-238;Padola a Santo Stefano;62;OD:62;46.5586;12.5479;999;Italy;Veneto;Quota ricavata da dem
-239;Piave a Ponte nelle Alpi;65;OD:65;46.1721;12.2868;421;Italy;Veneto;Quota ricavata da dem
-240;Sonna a Feltre;66;OD:66;46.011;11.9135;269;Italy;Veneto;Quota ricavata da dem
-241;Monte Avena;67;OD:67;46.03144;11.82736;1276;Italy;Veneto;Quota ricavata da dem
-242;Castana;68;OD:68;45.81485;11.30868;485;Italy;Veneto;Quota ricavata da dem
-243;San Giovanni Ilarione;71;OD:71;45.54759;11.2251;316;Italy;Veneto;Quota ricavata da dem
-244;Astico a Pedescala;72;OD:72;45.844;11.36747;371;Italy;Veneto;Quota ricavata da dem
-245;Contra' Doppio (Posina);73;OD:73;45.80622;11.22556;746;Italy;Veneto;Quota ricavata da dem
-246;Monte Verena;74;OD:74;45.92964;11.4134;1877;Italy;Veneto;Quota ricavata da dem
-247;Turcati (Recoaro Terme);76;OD:76;45.70329;11.18511;693;Italy;Veneto;Quota ricavata da dem
-248;Recoaro Mille;77;OD:77;45.67974;11.22572;913;Italy;Veneto;Quota ricavata da dem
-249;Valdagno;79;OD:79;45.63065;11.30894;248;Italy;Veneto;Quota ricavata da dem
-250;Passo Pordoi;80;OD:80;46.48276;11.82271;2262;Italy;Veneto;Quota ricavata da dem
-251;Monte Summano;81;OD:81;45.75031;11.41507;672;Italy;Veneto;Quota ricavata da dem
-252;Pove del Grappa - Costalunga;82;OD:82;45.80485;11.7403;540;Italy;Veneto;Quota ricavata da dem
-253;Montecchio Precalcino;83;OD:83;45.65788;11.54816;71;Italy;Veneto;Quota ricavata da dem
-254;San Bortolo;87;OD:87;45.60781;11.18168;814;Italy;Veneto;Quota ricavata da dem
-255;Crespadoro;88;OD:88;45.62545;11.20952;513;Italy;Veneto;Quota ricavata da dem
-256;Caprile;9;OD:9;46.43977;11.99027;1076;Italy;Veneto;Quota ricavata da dem
-257;Passo Monte Croce Comelico;91;OD:91;46.65148;12.42416;1667;Italy;Veneto;Quota ricavata da dem
-258;Col Indes (Tambre);92;OD:92;46.11841;12.44035;1153;Italy;Veneto;Quota ricavata da dem
-259;Torch;93;OD:93;46.15086;12.36323;587;Italy;Veneto;Quota ricavata da dem
-260;Bagnolo di Po - Pellizzare;96;OD:96;44.98879;11.52975;7;Italy;Veneto;Quota ricavata da dem
-261;Concadirame (Rovigo);98;OD:98;45.09248;11.72105;6;Italy;Veneto;Quota ricavata da dem
-262;San Bellino;99;OD:99;45.03073;11.57719;7;Italy;Veneto;Quota ricavata da dem
+SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Elevation_DEM;Elevation_FonteDati;Regione;FullSiteCode;State
+1;100;Conegliano Veneto;12.28254;45.88066;71;71;NA;Veneto;OD:100;Italy
+2;101;Porto Tolle - Pradon;12.36932;44.91663;2;2;NA;Veneto;OD:101;Italy
+3;102;Castelfranco Veneto;11.94814;45.69427;51;51;NA;Veneto;OD:102;Italy
+4;104;Villafranca Veronese;10.83289;45.37175;67;67;NA;Veneto;OD:104;Italy
+5;105;Lonigo;11.3799;45.38992;31;31;NA;Veneto;OD:105;Italy
+6;106;Montagnana;11.42161;45.24778;14;14;NA;Veneto;OD:106;Italy
+7;108;Salizzole;11.09591;45.23938;22;22;NA;Veneto;OD:108;Italy
+8;11;Malga Ciapela;11.9051;46.42785;1501;1501;NA;Veneto;OD:11;Italy
+9;110;Cittadella;11.79385;45.65573;49;49;NA;Veneto;OD:110;Italy
+10;111;Legnaro;11.95239;45.34669;7;7;NA;Veneto;OD:111;Italy
+11;112;Rosolina - Po di Tramontana;12.26199;45.07048;2;2;NA;Veneto;OD:112;Italy
+12;113;Castelnovo Bariano;11.30257;45.03066;12;12;NA;Veneto;OD:113;Italy
+13;114;Villadose;11.92263;45.0707;2;2;NA;Veneto;OD:114;Italy
+14;115;Adria - Bellombra;12.00784;45.01509;1;1;NA;Veneto;OD:115;Italy
+15;116;Frassinelle Polesine;11.67902;44.98979;6;6;NA;Veneto;OD:116;Italy
+16;117;Sorga';11.00903;45.21726;23;23;NA;Veneto;OD:117;Italy
+17;118;Bardolino - Calmasino;10.765930000000001;45.5177;161;161;NA;Veneto;OD:118;Italy
+18;119;Roverchiara;11.25143;45.26514;19;19;NA;Veneto;OD:119;Italy
+19;120;Dolc�;10.84901;45.5989;112;112;NA;Veneto;OD:120;Italy
+20;121;Lusia;11.63388;45.09176;6;6;NA;Veneto;OD:121;Italy
+21;122;Trebaseleghe;12.02596;45.60174;23;23;NA;Veneto;OD:122;Italy
+22;123;Arcole;11.29606;45.37484;28;28;NA;Veneto;OD:123;Italy
+23;124;Marano di Valpolicella;10.92363;45.5473;283;283;NA;Veneto;OD:124;Italy
+24;125;San Pietro in Cariano;10.88834;45.50865;137;137;NA;Veneto;OD:125;Italy
+25;126;Illasi;11.17178;45.45954;155;155;NA;Veneto;OD:126;Italy
+26;127;Buttapietra;11.01065;45.35231;41;41;NA;Veneto;OD:127;Italy
+27;128;Grezzana;11.01372;45.50916;176;176;NA;Veneto;OD:128;Italy
+28;129;Castelnuovo del Garda;10.77261;45.45398;122;122;NA;Veneto;OD:129;Italy
+29;130;Montecchia di Crosara;11.28337;45.46737;61;61;NA;Veneto;OD:130;Italy
+30;131;Vangadizza (Legnago);11.28809;45.15687;14;14;NA;Veneto;OD:131;Italy
+31;132;Pescul;12.06916;46.43658;1477;1477;NA;Veneto;OD:132;Italy
+32;134;Malo;11.46482;45.66871;102;102;NA;Veneto;OD:134;Italy
+33;135;Rifugio la Guardia (Recoaro Terme);11.18165;45.7182;1261;1261;NA;Veneto;OD:135;Italy
+34;136;Sappada;12.70828;46.56997;1293;1293;NA;Veneto;OD:136;Italy
+35;137;Valli del Pasubio;11.21496;45.7571;619;619;NA;Veneto;OD:137;Italy
+36;139;Lusiana;11.58835;45.78348;665;665;NA;Veneto;OD:139;Italy
+37;140;Passo Santa Caterina (Valdagno);11.25936;45.61913;716;716;NA;Veneto;OD:140;Italy
+38;142;Faedo (Cinto Euganeo);11.69705;45.30453;274;274;NA;Veneto;OD:142;Italy
+39;144;Rosa';11.77648;45.71592;83;83;NA;Veneto;OD:144;Italy
+40;145;Barbarano Vicentino;11.57065;45.39704;18;18;NA;Veneto;OD:145;Italy
+41;146;Trissino;11.35816;45.5787;216;216;NA;Veneto;OD:146;Italy
+42;147;Breganze;11.57653;45.71976;193;193;NA;Veneto;OD:147;Italy
+43;148;Brendola;11.46946;45.47142;82;82;NA;Veneto;OD:148;Italy
+44;149;Montegalda;11.66204;45.44899;24;24;NA;Veneto;OD:149;Italy
+45;15;Gares;11.88295;46.31246;1392;1392;NA;Veneto;OD:15;Italy
+46;150;Noventa Vicentina;11.56677;45.26383;14;14;NA;Veneto;OD:150;Italy
+47;151;Masi;11.48118;45.11675;10;10;NA;Veneto;OD:151;Italy
+48;152;Balduina (Sant'Urbano);11.58438;45.13408;8;8;NA;Veneto;OD:152;Italy
+49;153;Quinto Vicentino;11.63065;45.56843;36;36;NA;Veneto;OD:153;Italy
+50;156;Crespano del Grappa;11.84084;45.84103;372;372;NA;Veneto;OD:156;Italy
+51;159;Portogruaro - Lison;12.76147;45.74482;3;3;NA;Veneto;OD:159;Italy
+52;160;Cavallino Treporti;12.48642;45.45805;2;2;NA;Veneto;OD:160;Italy
+53;163;Noventa di Piave - Grassaga;12.58868;45.66761;4;4;NA;Veneto;OD:163;Italy
+54;164;Eraclea;12.7073;45.60261;2;2;NA;Veneto;OD:164;Italy
+55;165;Fossalta di Portogruaro;12.89414;45.77501;7;7;NA;Veneto;OD:165;Italy
+56;166;Lugugnana (Portogruaro);12.94687;45.70425;2;2;NA;Veneto;OD:166;Italy
+57;167;Mira;12.11769;45.4353;5;5;NA;Veneto;OD:167;Italy
+58;168;Chioggia - Sant'Anna;12.276;45.144;1;1;NA;Veneto;OD:168;Italy
+59;169;Agna;11.95798;45.15861;3;3;NA;Veneto;OD:169;Italy
+60;17;Perarolo;12.35686;46.39349;579;579;NA;Veneto;OD:17;Italy
+61;170;Teolo;11.67737;45.34206;114;114;NA;Veneto;OD:170;Italy
+62;175;Codevigo;12.09993;45.24301;2;2;NA;Veneto;OD:175;Italy
+63;177;Grantorto;11.75219;45.59375;34;34;NA;Veneto;OD:177;Italy
+64;178;Cavarzere;12.08742;45.16084;4;4;NA;Veneto;OD:178;Italy
+65;179;Campodarsego;11.9137;45.49483;15;15;NA;Veneto;OD:179;Italy
+66;180;Este - Calaone;11.65501;45.24135;153;153;NA;Veneto;OD:180;Italy
+67;182;Tribano;11.84903;45.18603;6;6;NA;Veneto;OD:182;Italy
+68;183;Volpago del Montello;12.11314;45.78455;171;171;NA;Veneto;OD:183;Italy
+69;184;Zero Branco;12.17524;45.59004;11;11;NA;Veneto;OD:184;Italy
+70;185;Vazzola - Tezze;12.34149;45.81115;38;38;NA;Veneto;OD:185;Italy
+71;186;Gaiarine;12.49369;45.89151;17;17;NA;Veneto;OD:186;Italy
+72;187;Roncade;12.39647;45.64067;7;7;NA;Veneto;OD:187;Italy
+73;188;Villorba;12.23517;45.74828;40;40;NA;Veneto;OD:188;Italy
+74;189;Valdobbiadene - Bigolino;12.00731;45.88139;189;189;NA;Veneto;OD:189;Italy
+75;19;Agordo;12.0334;46.27737;627;627;NA;Veneto;OD:19;Italy
+76;190;Brustol� (Velo d'Astico);11.34351;45.80061;390;390;NA;Veneto;OD:190;Italy
+77;191;Molini (Laghi);11.25584;45.83265;635;635;NA;Veneto;OD:191;Italy
+78;192;Passo Xomo (Posina);11.2382;45.77677;955;955;NA;Veneto;OD:192;Italy
+79;193;Riofreddo a Valoje ;11.335;45.8078;435;435;NA;Veneto;OD:193;Italy
+80;194;Posina a Bazzoni;11.2932;45.8011;477;477;NA;Veneto;OD:194;Italy
+81;195;Farra di Soligo;12.1048;45.9015;197;197;NA;Veneto;OD:195;Italy
+82;196;Oderzo;12.52447;45.76503;8;8;NA;Veneto;OD:196;Italy
+83;197;Maser;11.94258;45.77817;102;102;NA;Veneto;OD:197;Italy
+84;198;Breda di Piave;12.33814;45.71705;21;21;NA;Veneto;OD:198;Italy
+85;199;Longarone;12.30382;46.26092;434;434;NA;Veneto;OD:199;Italy
+86;2;Cordevole a la Vizza;11.8487;46.4883;1882;1882;NA;Veneto;OD:2;Italy
+87;200;Lamon;11.74661;46.04918;586;586;NA;Veneto;OD:200;Italy
+88;201;Monte Grande (Teolo);11.67305;45.36126;347;347;NA;Veneto;OD:201;Italy
+89;203;Passo Valles;11.80182;46.33847;2001;2001;NA;Veneto;OD:203;Italy
+90;204;Ponte di Piave;12.52452;45.7165;5;5;NA;Veneto;OD:204;Italy
+91;21;Sant'Andrea (Gosaldo);11.95784;46.22896;1279;1279;NA;Veneto;OD:21;Italy
+92;211;Codevigo - Ca' di Mezzo;12.14528;45.22624;1;1;NA;Veneto;OD:211;Italy
+93;214;Boite a Podestagno;12.1089;46.5949;1433;1433;NA;Veneto;OD:214;Italy
+94;216;Cansiglio - Tramedere;12.41478;46.07684;1014;1014;NA;Veneto;OD:216;Italy
+95;217;Feltre;11.89484;46.01553;272;272;NA;Veneto;OD:217;Italy
+96;218;Asiago - aeroporto;11.51124;45.88276;1017;1017;NA;Veneto;OD:218;Italy
+97;219;Rovina di Cancia (Borca di Cadore);12.24284;46.4365;1508;1508;NA;Veneto;OD:219;Italy
+98;22;Sant'Antonio Tortal;12.15469;46.04768;568;568;NA;Veneto;OD:22;Italy
+99;220;Treviso;12.22123;45.68049;18;18;NA;Veneto;OD:220;Italy
+100;221;Trecenta;11.42688;45.021;10;10;NA;Veneto;OD:221;Italy
+101;223;Falcade;11.86967;46.35478;1172;1172;NA;Veneto;OD:223;Italy
+102;224;Valle di Cadore;12.33254;46.41477;738;738;NA;Veneto;OD:224;Italy
+103;227;Mogliano Veneto;12.308;45.58008;5;5;NA;Veneto;OD:227;Italy
+104;230;Campagna Lupia - Valle Averto;12.14177;45.34876;1;1;NA;Veneto;OD:230;Italy
+105;231;Sant'Apollinare (Rovigo);11.8262;45.03274;3;3;NA;Veneto;OD:231;Italy
+106;232;Bassano del Grappa;11.73052;45.7843;136;136;NA;Veneto;OD:232;Italy
+107;234;Padova - Orto Botanico;11.88057;45.39799;14;14;NA;Veneto;OD:234;Italy
+108;235;Soffranco;12.24293;46.27748;804;804;NA;Veneto;OD:235;Italy
+109;236;San Martino d'Alpago;12.39696;46.17982;805;805;NA;Veneto;OD:236;Italy
+110;237;Cortina d'Ampezzo - Gilardon;12.1276;46.53602;1216;1216;NA;Veneto;OD:237;Italy
+111;238;Misurina;12.25027;46.57574;1810;1810;NA;Veneto;OD:238;Italy
+112;239;Col di Pra';11.92904;46.29539;895;895;NA;Veneto;OD:239;Italy
+113;240;Vittorio Veneto;12.30779;45.98479;136;136;NA;Veneto;OD:240;Italy
+114;242;Fiorentina a Sottorovei;12.0112;46.4394;1258;1258;NA;Veneto;OD:242;Italy
+115;245;Quero;11.93976;45.92482;221;221;NA;Veneto;OD:245;Italy
+116;246;Costalta;12.57575;46.5781;1195;1195;NA;Veneto;OD:246;Italy
+117;247;Casamazzagno;12.5158;46.59322;1370;1370;NA;Veneto;OD:247;Italy
+118;248;Piana di Marcesina - Rendole;11.6125;45.94867;1309;1309;NA;Veneto;OD:248;Italy
+119;25;Sospirolo;12.07569;46.13997;363;363;NA;Veneto;OD:25;Italy
+120;251;Bosco Chiesanuova;11.03898;45.6187;1028;1028;NA;Veneto;OD:251;Italy
+121;252;Venezia - Istituto Cavanis;12.3283;45.4293;1;1;NA;Veneto;OD:252;Italy
+122;253;Valeggio sul Mincio;10.73204;45.35985;105;105;NA;Veneto;OD:253;Italy
+123;260;Colognola ai Colli;11.22297;45.42442;48;48;NA;Veneto;OD:260;Italy
+124;262;Valpore (Seren del Grappa);11.80628;45.89662;1266;1266;NA;Veneto;OD:262;Italy
+125;264;Belluno - aeroporto;12.24532;46.16369;370;370;NA;Veneto;OD:264;Italy
+126;265;Galzignano - Ca' Demia;11.74292;45.29948;5;5;NA;Veneto;OD:265;Italy
+127;266;Santa Giustina Bellunese;12.07269;46.07774;279;279;NA;Veneto;OD:266;Italy
+128;268;Sella Ciampigotto;12.58485;46.48625;1778;1778;NA;Veneto;OD:268;Italy
+129;270;Adige a Albaredo ;11.2664;45.3125;22;22;NA;Veneto;OD:270;Italy
+130;271;Piave a Belluno ;12.2283;46.1272;413;413;NA;Veneto;OD:271;Italy
+131;273;Alpone a Monteforte ;11.2872;45.4139;35;35;NA;Veneto;OD:273;Italy
+132;276;Timonchio a Ponte Marchese ;11.5367;45.5747;39;39;NA;Veneto;OD:276;Italy
+133;277;Cordevole a Ponte Mas ;12.1272;46.1456;383;383;NA;Veneto;OD:277;Italy
+134;278;Agno a Recoaro Terme ;11.2117;45.6958;670;670;NA;Veneto;OD:278;Italy
+135;28;Monte Cesen;12.02154;45.94433;1480;1480;NA;Veneto;OD:28;Italy
+136;281;Adige a Badia Polesine ;11.4892;45.0992;11;11;NA;Veneto;OD:281;Italy
+137;283;Brenta a Barziza ;11.7303;45.7772;119;119;NA;Veneto;OD:283;Italy
+138;284;Adige a Boara Pisani ;11.7858;45.1006;5;5;NA;Veneto;OD:284;Italy
+139;285;Tesina a Bolzano Vicentino ;11.6186;45.5936;43;43;NA;Veneto;OD:285;Italy
+140;286;Frassine a Borgofrassine ;11.4842;45.2442;15;15;NA;Veneto;OD:286;Italy
+141;287;Bacchiglione a Bovolenta ;11.935;45.265;6;6;NA;Veneto;OD:287;Italy
+142;288;Frassine a Brancaglia ;11.6389;45.2444;15;15;NA;Veneto;OD:288;Italy
+143;291;Gorzone a Carmignano ;11.6439;45.137;8;8;NA;Veneto;OD:291;Italy
+144;292;Musone a Castelfranco Veneto ;11.9195;45.6722;41;41;NA;Veneto;OD:292;Italy
+145;293;Adige a Cavarzere ;12.0822;45.1336;1;1;NA;Veneto;OD:293;Italy
+146;294;Livenza a Cessalto ;12.7997;45.6561;1;1;NA;Veneto;OD:294;Italy
+147;295;Gu� a Cologna Veneta ;11.3833;45.3097;23;23;NA;Veneto;OD:295;Italy
+148;296;Meschio a Cordignano ;12.4208;45.9364;48;48;NA;Veneto;OD:296;Italy
+149;297;Piave a Eraclea ;12.675;45.5592;1;1;NA;Veneto;OD:297;Italy
+150;298;Monticano a Fontanelle ;12.4425;45.8225;17;17;NA;Veneto;OD:298;Italy
+151;299;Monticano a Gorgo al Monticano;12.53889;45.77305;9;9;NA;Veneto;OD:299;Italy
+152;3;Arabba;11.87637;46.49926;1653;1653;NA;Veneto;OD:3;Italy
+153;300;Livenza a La Salute di Livenza ;12.6114;45.7906;9;9;NA;Veneto;OD:300;Italy
+154;301;Adige a Legnago ;11.3142;45.1881;16;16;NA;Veneto;OD:301;Italy
+155;302;Brenta a Limena ;11.8269;45.5092;23;23;NA;Veneto;OD:302;Italy
+156;303;Bacchiglione a Longare ;11.6031;45.4836;28;28;NA;Veneto;OD:303;Italy
+157;304;Gu� a Lonigo ;11.3875;45.3889;36;36;NA;Veneto;OD:304;Italy
+158;306;Livenza a Meduna di Livenza ;12.6156;45.7726;8;8;NA;Veneto;OD:306;Italy
+159;308;Bacchiglione a Montegalda ;11.6703;45.4356;23;23;NA;Veneto;OD:308;Italy
+160;309;Piave a Nervesa della Battaglia ;12.2078;45.8306;86;86;NA;Veneto;OD:309;Italy
+161;310;Monticano a Oderzo ;12.4978;45.7714;10;10;NA;Veneto;OD:310;Italy
+162;312;Mincio a Peschiera Navigarda ;10.697;45.4411;69;69;NA;Veneto;OD:312;Italy
+163;315;Agno a Ponte Brogliano ;11.3689;45.5831;155;155;NA;Veneto;OD:315;Italy
+164;316;Piave a Ponte di Piave ;12.4578;45.6983;10;10;NA;Veneto;OD:316;Italy
+165;319;Po a Porto Levante ;12.365;45.0431;1;1;NA;Veneto;OD:319;Italy
+166;320;L�mene a Portogruaro ;12.675;45.7333;5;5;NA;Veneto;OD:320;Italy
+167;321;Retrone a Vicenza S.Agostino ;11.5247;45.5264;34;34;NA;Veneto;OD:321;Italy
+168;322;Alpone a S.Bonifacio ;11.265;45.3878;26;26;NA;Veneto;OD:322;Italy
+169;323;Piave a S.Don� di Piave ;12.5653;45.6114;3;3;NA;Veneto;OD:323;Italy
+170;325;Fratta a S.Salvaro ;11.4083;45.1981;14;14;NA;Veneto;OD:325;Italy
+171;327;Piave a Segusino ;11.9525;45.9181;266;266;NA;Veneto;OD:327;Italy
+172;328;Gorzone a Stanghella ;11.7578;45.1372;5;5;NA;Veneto;OD:328;Italy
+173;329;Brenta a Stra ;11.9978;45.4025;9;9;NA;Veneto;OD:329;Italy
+174;33;Follina;12.1173;45.9565;199;199;NA;Veneto;OD:33;Italy
+175;330;Fratta a Valli Mocenighe ;11.5647;45.1483;9;9;NA;Veneto;OD:330;Italy
+176;331;Monticano a Vazzola ;12.3986;45.8383;25;25;NA;Veneto;OD:331;Italy
+177;332;Adige a Verona ;11.0008;45.4422;92;92;NA;Veneto;OD:332;Italy
+178;333;Bacchiglione a Vicenza ;11.5472;45.5411;63;63;NA;Veneto;OD:333;Italy
+179;334;Bacchiglione a Padova Voltabarozzo ;11.9139;45.3778;10;10;NA;Veneto;OD:334;Italy
+180;345;Gallio;11.56333;45.86806;1141;1141;NA;Veneto;OD:345;Italy
+181;346;La Secca;12.32638;46.12167;346;346;NA;Veneto;OD:346;Italy
+182;348;Roncadin Chies d'Alpago CAE;12.4039;46.17278;818;818;NA;Veneto;OD:348;Italy
+183;37;Passo Falzarego;12.00704;46.51806;2138;2138;NA;Veneto;OD:37;Italy
+192;390;Malga Losch;11.5734;46.1545;2197;2197;NA;Veneto;OD:390;Italy
+197;395;Casera Coltrondo;12.2637;46.3955;1613;1613;NA;Veneto;OD:395;Italy
+198;396;Campomolon;11.1623;45.5223;358;358;NA;Veneto;OD:396;Italy
+201;399;Po a Ficarolo ;11.4203;44.9408;8;8;NA;Veneto;OD:399;Italy
+202;400;Livenza a Portobuffol� ;12.8375;45.7864;8;8;NA;Veneto;OD:400;Italy
+203;401;Livenza a Motta di Livenza ;12.5356;45.849;11;11;NA;Veneto;OD:401;Italy
+204;402;Biois a Cencenighe ;11.9656;46.3507;896;896;NA;Veneto;OD:402;Italy
+205;403;Boite a Cancia ;12.2224;46.4306;920;920;NA;Veneto;OD:403;Italy
+206;404;Astico a Pedescala ;11.3665;45.8432;371;371;NA;Veneto;OD:404;Italy
+207;406;Piave a Ponte della Lasta ;12.5215;46.5366;976;976;NA;Veneto;OD:406;Italy
+208;407;Posina a Stancari ;11.336;45.8051;435;435;NA;Veneto;OD:407;Italy
+209;408;Bisatto a Vo' Vecchio ;11.6162;45.3237;12;12;NA;Veneto;OD:408;Italy
+210;409;Chiampo;11.29394;45.53578;165;165;NA;Veneto;OD:409;Italy
+211;425;Bibione;13.07727;45.64064;1;1;NA;Veneto;OD:425;Italy
+212;444;Tesina Padovano a Veggiano ;11.7222;45.4453;21;21;NA;Veneto;OD:444;Italy
+213;451;Vicenza - Sant'Agostino;11.52063;45.52368;33;33;NA;Veneto;OD:451;Italy
+214;452;Verona - Parco Adige Nord;10.95412;45.46143;70;70;NA;Veneto;OD:452;Italy
+215;454;Favaro Veneto;12.27934;45.51959;3;3;NA;Veneto;OD:454;Italy
+216;456;Po a Cavanella Po ;12.1483;45.0244;1;1;NA;Veneto;OD:456;Italy
+217;457;Po a Ca' Dolfin ;12.4361;44.9375;1;1;NA;Veneto;OD:457;Italy
+218;458;Po a Porto Tolle ;12.2983;44.9453;1;1;NA;Veneto;OD:458;Italy
+219;459;Po a Ca' Venier ;12.33;44.9581;1;1;NA;Veneto;OD:459;Italy
+220;462;Meschio a Borgo Campion ;12.34;45.9595;96;96;NA;Veneto;OD:462;Italy
+221;463;Meschio a Vittorio Veneto ;12.3003;45.9906;136;136;NA;Veneto;OD:463;Italy
+222;464;Nogarolo di Tarzo;12.2461;45.98667;290;290;NA;Veneto;OD:464;Italy
+223;47;Faloria;12.17529;46.52677;2210;2210;NA;Veneto;OD:47;Italy
+224;48;Podestagno (Cortina d'Ampezzo);12.11253;46.5929;1433;1433;NA;Veneto;OD:48;Italy
+225;50;Villanova (Borca di Cadore);12.206480000000001;46.44262;953;953;NA;Veneto;OD:50;Italy
+226;505;Ponte Rio Cordon (Selva di Cadore);12.09616;46.45031;1895;1895;NA;Veneto;OD:505;Italy
+227;510;Caprino Veronese - Platano;10.81444;45.60805;329;329;NA;Veneto;OD:510;Italy
+228;53;Auronzo;12.42613;46.55558;877;877;NA;Veneto;OD:53;Italy
+229;544;Mondeval di Sopra (Selva di Cadore);12.1013;46.46371;2215;2215;NA;Veneto;OD:544;Italy
+230;55;Pian del Crep (Zoldo Alto);12.09333;46.37868;1629;1629;NA;Veneto;OD:55;Italy
+231;551;Sant'Elena;11.69469;45.1957;8;8;NA;Veneto;OD:551;Italy
+232;56;Forno di Zoldo - Campo;12.18443;46.34599;875;875;NA;Veneto;OD:56;Italy
+233;58;Santo Stefano di Cadore;12.55338;46.557;985;985;NA;Veneto;OD:58;Italy
+234;59;Domegge di Cadore;12.41055;46.46028;816;816;NA;Veneto;OD:59;Italy
+235;6;Cordevole a Saviner;11.9871;46.442;1152;1152;NA;Veneto;OD:6;Italy
+236;60;Malga Campobon (San Pietro di Cadore);12.60384;46.64397;1999;1999;NA;Veneto;OD:60;Italy
+237;61;Cimacanale (San Pietro di Cadore);12.63099;46.60138;1266;1266;NA;Veneto;OD:61;Italy
+238;62;Padola a Santo Stefano;12.5479;46.5586;999;999;NA;Veneto;OD:62;Italy
+239;65;Piave a Ponte nelle Alpi;12.2868;46.1721;421;421;NA;Veneto;OD:65;Italy
+240;66;Sonna a Feltre;11.9135;46.011;269;269;NA;Veneto;OD:66;Italy
+241;67;Monte Avena;11.82736;46.03144;1276;1276;NA;Veneto;OD:67;Italy
+242;68;Castana;11.30868;45.81485;485;485;NA;Veneto;OD:68;Italy
+243;71;San Giovanni Ilarione;11.2251;45.54759;316;316;NA;Veneto;OD:71;Italy
+244;72;Astico a Pedescala;11.36747;45.844;371;371;NA;Veneto;OD:72;Italy
+245;73;Contra' Doppio (Posina);11.22556;45.80622;746;746;NA;Veneto;OD:73;Italy
+246;74;Monte Verena;11.4134;45.92964;1877;1877;NA;Veneto;OD:74;Italy
+247;76;Turcati (Recoaro Terme);11.18511;45.70329;693;693;NA;Veneto;OD:76;Italy
+248;77;Recoaro Mille;11.22572;45.67974;913;913;NA;Veneto;OD:77;Italy
+249;79;Valdagno;11.30894;45.63065;248;248;NA;Veneto;OD:79;Italy
+250;80;Passo Pordoi;11.82271;46.48276;2262;2262;NA;Veneto;OD:80;Italy
+251;81;Monte Summano;11.41507;45.75031;672;672;NA;Veneto;OD:81;Italy
+252;82;Pove del Grappa - Costalunga;11.7403;45.80485;540;540;NA;Veneto;OD:82;Italy
+253;83;Montecchio Precalcino;11.54816;45.65788;71;71;NA;Veneto;OD:83;Italy
+254;87;San Bortolo;11.18168;45.60781;814;814;NA;Veneto;OD:87;Italy
+255;88;Crespadoro;11.20952;45.62545;513;513;NA;Veneto;OD:88;Italy
+256;9;Caprile;11.99027;46.43977;1076;1076;NA;Veneto;OD:9;Italy
+257;91;Passo Monte Croce Comelico;12.42416;46.65148;1667;1667;NA;Veneto;OD:91;Italy
+258;92;Col Indes (Tambre);12.44035;46.11841;1153;1153;NA;Veneto;OD:92;Italy
+259;93;Torch;12.36323;46.15086;587;587;NA;Veneto;OD:93;Italy
+260;96;Bagnolo di Po - Pellizzare;11.52975;44.98879;7;7;NA;Veneto;OD:96;Italy
+261;98;Concadirame (Rovigo);11.72105;45.09248;6;6;NA;Veneto;OD:98;Italy
+262;99;San Bellino;11.57719;45.03073;7;7;NA;Veneto;OD:99;Italy

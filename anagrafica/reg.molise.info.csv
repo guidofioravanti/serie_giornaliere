@@ -1,20 +1,20 @@
-SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
-1;Castropignano Idro;178300;OD:178300;41.59;14.56;411;Italy;Molise;Quota ricavata da dem ** NA
-2;Roccamandolfi;192200;OD:192200;41.49;14.35;779;Italy;Molise; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
-3;Campobasso Meteo;197200;OD:197200;41.54;14.65;766;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-4;Trivento;198600;OD:198600;41.76;14.54;510;Italy;Molise; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
-5;Castelmauro;198700;OD:198700;41.83;14.72;649;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-6;Gambatesa;198800;OD:198800;41.5;14.91;577;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-7;Pietrabbondante;263900;OD:263900;41.74;14.38;1030;Italy;Molise;Quota ricavata da dem ** NA
-8;Palata;264000;OD:264000;41.88;14.78;487;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-9;Termoli;264100;OD:264100;41.97;15.99;90;Italy;Molise; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
-10;Bonefro;264200;OD:264200;41.7;14.92;681;Italy;Molise;Quota ricavata da dem ** NA
-11;Frosolone;264300;OD:264300;41.6;14.44;941;Italy;Molise;Quota ricavata da dem ** NA
-39;Campitello Matese;456400;OD:456400;41.45;14.38;1498;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-40;Lucito Biferno;463200;OD:463200;41.71;14.69;316;Italy;Molise;Quota ricavata da dem ** NA
-41;Campochiaro Quirino;463600;OD:463600;41.47;14.54;508;Italy;Molise;Quota ricavata da dem ** NA
-42;Mafalda;466800;OD:466800;41.94;14.7;396;Italy;Molise;Quota ricavata da dem ** NA
-43;Ponte Liscione;481500;OD:481500;41.82;14.85;113;Italy;Molise;Quota ricavata da dem ** NA
-48;Capracotta;57200;OD:57200;41.83;14.27;1395;Italy;Molise; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
-49;Ponte Caprafica;57800;OD:57800;41.89;14.63;217;Italy;Molise;Quota ricavata da dem ** NA
-50;Altopantano;58600;OD:58600;41.92;14.99;19;Italy;Molise;Quota ricavata da dem ** NA
+SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Elevation_DEM;Elevation_FonteDati;Regione;FullSiteCode;State;Comments
+1;178300;Castropignano Idro;14.56;41.59;411;411;NA;Molise;OD:178300;Italy;NA
+2;192200;Roccamandolfi;14.35;41.49;779;NA;779;Molise;OD:192200;Italy; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
+3;197200;Campobasso Meteo;14.65;41.54;766;NA;766;Molise;OD:197200;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+4;198600;Trivento;14.54;41.76;510;NA;510;Molise;OD:198600;Italy; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
+5;198700;Castelmauro;14.72;41.83;649;NA;649;Molise;OD:198700;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+6;198800;Gambatesa;14.91;41.5;577;NA;577;Molise;OD:198800;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+7;263900;Pietrabbondante;14.38;41.74;1030;1030;NA;Molise;OD:263900;Italy;NA
+8;264000;Palata;14.78;41.88;487;NA;487;Molise;OD:264000;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+9;264100;Termoli;15.99;41.97;90;NA;90;Molise;OD:264100;Italy; ** Serie di temperatura fornita come file Excel dal Centro Funzionale
+10;264200;Bonefro;14.92;41.7;681;681;NA;Molise;OD:264200;Italy;NA
+11;264300;Frosolone;14.44;41.6;941;941;NA;Molise;OD:264300;Italy;NA
+39;456400;Campitello Matese;14.38;41.45;1498;NA;1498;Molise;OD:456400;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+40;463200;Lucito Biferno;14.69;41.71;316;316;NA;Molise;OD:463200;Italy;NA
+41;463600;Campochiaro Quirino;14.54;41.47;508;508;NA;Molise;OD:463600;Italy;NA
+42;466800;Mafalda;14.7;41.94;396;396;NA;Molise;OD:466800;Italy;NA
+43;481500;Ponte Liscione;14.85;41.82;113;113;NA;Molise;OD:481500;Italy;NA
+48;57200;Capracotta;14.27;41.83;1395;NA;1395;Molise;OD:57200;Italy; ** Serie di prec/temperatura fornita come file Excel dal Centro Funzionale
+49;57800;Ponte Caprafica;14.63;41.89;217;217;NA;Molise;OD:57800;Italy;NA
+50;58600;Altopantano;14.99;41.92;19;19;NA;Molise;OD:58600;Italy;NA

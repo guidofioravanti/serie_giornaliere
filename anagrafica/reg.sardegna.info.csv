@@ -1,269 +1,269 @@
-SiteID;SiteName;SiteCode;FullSiteCode;Latitude;Longitude;Elevation;State;Regione;Comments
-577;Sarcidano (Colonia Penale);1;OD:001;39.8099;9.1448;682;Italy;Sardegna;Quota ricavata da dem
-578;Is Acquas (Sarcidano);2;OD:002;39.762;9.1155;430;Italy;Sardegna;Quota ricavata da dem
-579;Isili;3;OD:003;39.7399;9.1065;506;Italy;Sardegna;Quota ricavata da dem
-580;Gergei;4;OD:004;39.6998;9.1008;356;Italy;Sardegna;Quota ricavata da dem
-581;Villamar F.C.;6;OD:006;39.6181;8.9598;108;Italy;Sardegna;Quota ricavata da dem
-582;Lunamatrona F.C.;7;OD:007;39.6513;8.8973;186;Italy;Sardegna;Quota ricavata da dem
-583;Mandas F.C.;8;OD:008;39.6606;9.1307;483;Italy;Sardegna;Quota ricavata da dem
-584;Segariu;9;OD:009;39.5629;8.9829;135;Italy;Sardegna;Quota ricavata da dem
-585;Sanluri (O.N.C.);14;OD:014;39.5273;8.8498;63;Italy;Sardegna;Quota ricavata da dem
-586;Monti Mannu (Caserma);15;OD:015;39.3954;8.6637;447;Italy;Sardegna;Quota ricavata da dem
-587;Villacidro F.C.;16;OD:016;39.463;8.7422;192;Italy;Sardegna;Quota ricavata da dem
-588;Nuraminis;19;OD:019;39.4427;9.0134;99;Italy;Sardegna;Quota ricavata da dem
-589;Villasor FF.SS.;20;OD:020;39.3813;8.9432;26;Italy;Sardegna;Quota ricavata da dem
-590;Vallermosa;24;OD:024;39.3632;8.7956;71;Italy;Sardegna;Quota ricavata da dem
-591;Gesico F.C.;25;OD:025;39.6011;9.129;365;Italy;Sardegna;Quota ricavata da dem
-592;Guasila;26;OD:026;39.5622;9.0466;192;Italy;Sardegna;Quota ricavata da dem
-593;Senorbi' F.C.;27;OD:027;39.5311;9.1342;189;Italy;Sardegna;Quota ricavata da dem
-594;S.Andrea Frius;30;OD:030;39.4786;9.1686;305;Italy;Sardegna;Quota ricavata da dem
-595;Barrali;31;OD:031;39.4845;9.0984;138;Italy;Sardegna;Quota ricavata da dem
-596;Donori F.C.;32;OD:032;39.4279;9.1198;150;Italy;Sardegna;Quota ricavata da dem
-597;Decimomannu;34;OD:034;39.3094;8.9606;11;Italy;Sardegna;Quota ricavata da dem
-598;Decimomannu (Viv.Forest.);35;OD:035;39.2988;8.9707;4;Italy;Sardegna;Quota ricavata da dem
-599;Bellicai (Privata);36;OD:036;39.3338;8.4941;386;Italy;Sardegna;Quota ricavata da dem
-600;Punta Gennarta (Diga);37;OD:037;39.3318;8.5495;303;Italy;Sardegna;Quota ricavata da dem
-601;Iglesias;38;OD:038;39.31;8.5386;197;Italy;Sardegna;Quota ricavata da dem
-602;S.Giovanni (Domusnovas);42;OD:042;39.3372;8.6259;329;Italy;Sardegna;Quota ricavata da dem
-603;Villamassargia;43;OD:043;39.2759;8.64;113;Italy;Sardegna;Quota ricavata da dem
-604;Siliqua FF.SS.;45;OD:045;39.3012;8.807;63;Italy;Sardegna;Quota ricavata da dem
-605;Uta (C.R.A.);47;OD:047;39.2951;8.9258;14;Italy;Sardegna;Quota ricavata da dem
-606;Capoterra;48;OD:048;39.1748;8.9707;48;Italy;Sardegna;Quota ricavata da dem
-607;Is Cannoneris (Caserma);50;OD:050;39.0351;8.8529;594;Italy;Sardegna;Quota ricavata da dem
-608;Piscinamanna (Caserma);51;OD:051;38.9922;8.9194;153;Italy;Sardegna;Quota ricavata da dem
-609;Pula;53;OD:053;39.0105;9.0026;11;Italy;Sardegna;Quota ricavata da dem
-610;Rio Perdosu;54;OD:054;38.9417;8.9284;107;Italy;Sardegna;Quota ricavata da dem
-611;Domus de Maria;55;OD:055;38.9443;8.8638;80;Italy;Sardegna;Quota ricavata da dem
-612;Teulada;57;OD:057;38.9697;8.7728;102;Italy;Sardegna;Quota ricavata da dem
-613;S.Anna Arresi;58;OD:058;39.0053;8.6408;64;Italy;Sardegna;Quota ricavata da dem
-614;Porto Pino;59;OD:059;38.9677;8.5998;8;Italy;Sardegna;Quota ricavata da dem
-615;Pantaleo;60;OD:060;39.0902;8.7979;259;Italy;Sardegna;Quota ricavata da dem
-616;Santadi;61;OD:061;39.0935;8.7158;119;Italy;Sardegna;Quota ricavata da dem
-617;Campanasissa (C.ra);63;OD:063;39.2077;8.7752;313;Italy;Sardegna;Quota ricavata da dem
-618;Rosas (M.ra);66;OD:066;39.2071;8.7157;344;Italy;Sardegna;Quota ricavata da dem
-619;Narcao;67;OD:067;39.1686;8.6755;136;Italy;Sardegna;Quota ricavata da dem
-620;Terraseu;70;OD:070;39.2042;8.6255;360;Italy;Sardegna;Quota ricavata da dem
-621;Palmas Suergiu;71;OD:071;39.069;8.5579;10;Italy;Sardegna;Quota ricavata da dem
-622;S.Antioco;72;OD:072;39.0656;8.4575;11;Italy;Sardegna;Quota ricavata da dem
-623;Carloforte;74;OD:074;39.1374;8.3124;5;Italy;Sardegna;Quota ricavata da dem
-624;Bacu Abis (Flumentepido);75;OD:075;39.188;8.4818;72;Italy;Sardegna;Quota ricavata da dem
-625;Monteponi (M.ra);76;OD:076;39.2996;8.5086;133;Italy;Sardegna;Quota ricavata da dem
-626;Su Zurfuru (M.ra);81;OD:081;39.4198;8.4998;167;Italy;Sardegna;Quota ricavata da dem
-627;Fluminimaggiore;82;OD:082;39.437;8.499;84;Italy;Sardegna;Quota ricavata da dem
-628;Montevecchio (M.ra);84;OD:084;39.5571;8.5706;397;Italy;Sardegna;Quota ricavata da dem
-629;Gonnosfanadiga;85;OD:085;39.4928;8.6618;180;Italy;Sardegna;Quota ricavata da dem
-630;S.Gavino FF.SS.;88;OD:088;39.5507;8.7904;56;Italy;Sardegna;Quota ricavata da dem
-631;Sardara;89;OD:089;39.6162;8.8197;149;Italy;Sardegna;Quota ricavata da dem
-632;Pabillonis;90;OD:090;39.5936;8.7197;40;Italy;Sardegna;Quota ricavata da dem
-633;Villa Verde - Bannari;92;OD:092;39.7955;8.8211;212;Italy;Sardegna;Quota ricavata da dem
-634;Ales F.C.;93;OD:093;39.7651;8.8213;183;Italy;Sardegna;Quota ricavata da dem
-635;Baradili F.C.;94;OD:094;39.7194;8.8969;161;Italy;Sardegna;Quota ricavata da dem
-636;Mogoro;95;OD:095;39.6831;8.7787;138;Italy;Sardegna;Quota ricavata da dem
-637;Uras FF.SS.;96;OD:096;39.6993;8.7027;27;Italy;Sardegna;Quota ricavata da dem
-638;Arborea;99;OD:099;39.7739;8.5807;7;Italy;Sardegna;Quota ricavata da dem
-639;Marrubiu (C.ra);100;OD:100;39.7711;8.6611;37;Italy;Sardegna;Quota ricavata da dem
-640;S.Anna-Oristano;102;OD:102;39.8339;8.6273;12;Italy;Sardegna;Quota ricavata da dem
-641;S.Giusta;103;OD:103;39.8747;8.6086;2;Italy;Sardegna;Quota ricavata da dem
-642;Sassu Idrovora;104;OD:104;39.8256;8.5761;4;Italy;Sardegna;Quota ricavata da dem
-643;Oristano FF.SS.;105;OD:105;39.9025;8.603;11;Italy;Sardegna;Quota ricavata da dem
-644;Sos Canales (C.M.);106;OD:106;40.5535;9.3138;722;Italy;Sardegna;Quota ricavata da dem
-645;Osidda F.C.;107;OD:107;40.5272;9.1686;567;Italy;Sardegna;Quota ricavata da dem
-646;S.Giovanni- Bitti (C.ra);108;OD:108;40.4976;9.3437;755;Italy;Sardegna;Quota ricavata da dem
-647;Benetutti;110;OD:110;40.4546;9.1697;439;Italy;Sardegna;Quota ricavata da dem
-648;Bottida F.C.;111;OD:111;40.3867;9.0121;357;Italy;Sardegna;Quota ricavata da dem
-649;Illorai;113;OD:113;40.3528;8.9994;560;Italy;Sardegna;Quota ricavata da dem
-650;Rifornitore Tirso;114;OD:114;40.3259;9.0333;201;Italy;Sardegna;Quota ricavata da dem
-651;Sig.ra Marta (C.ra);115;OD:115;40.3243;9.1356;363;Italy;Sardegna;Quota ricavata da dem
-652;Orani;118;OD:118;40.2508;9.1807;587;Italy;Sardegna;Quota ricavata da dem
-653;Bolotana F.C.;119;OD:119;40.329;8.9595;547;Italy;Sardegna;Quota ricavata da dem
-654;Ottana;120;OD:120;40.2348;9.0428;198;Italy;Sardegna;Quota ricavata da dem
-655;Macomer;121;OD:121;40.2693;8.7725;558;Italy;Sardegna;Quota ricavata da dem
-656;Borore;123;OD:123;40.2214;8.8129;392;Italy;Sardegna;Quota ricavata da dem
-657;Silanus;124;OD:124;40.2905;8.8815;457;Italy;Sardegna;Quota ricavata da dem
-658;Noragugume;126;OD:126;40.2257;8.9195;264;Italy;Sardegna;Quota ricavata da dem
-659;Fonni;129;OD:129;40.1171;9.2547;937;Italy;Sardegna;Quota ricavata da dem
-660;Gavoi;132;OD:132;40.1591;9.1931;730;Italy;Sardegna;Quota ricavata da dem
-661;Tiana;134;OD:134;40.068;9.1486;609;Italy;Sardegna;Quota ricavata da dem
-662;Sedilo;138;OD:138;40.1742;8.9193;270;Italy;Sardegna;Quota ricavata da dem
-663;Ghilarza;140;OD:140;40.1217;8.837;280;Italy;Sardegna;Quota ricavata da dem
-664;S.Chiara d'Ula;143;OD:143;40.0518;8.8694;116;Italy;Sardegna;Quota ricavata da dem
-665;Busachi;144;OD:144;40.0326;8.8964;401;Italy;Sardegna;Quota ricavata da dem
-666;Desulo;146;OD:146;40.0147;9.2298;901;Italy;Sardegna;Quota ricavata da dem
-667;Tonara;147;OD:147;40.0267;9.1752;1035;Italy;Sardegna;Quota ricavata da dem
-668;Cossatzu (C.ra);148;OD:148;39.9429;9.1804;790;Italy;Sardegna;Quota ricavata da dem
-669;Sorgono F.C.;151;OD:151;40.0272;9.1049;741;Italy;Sardegna;Quota ricavata da dem
-670;Meanasardo;153;OD:153;39.9453;9.0729;572;Italy;Sardegna;Quota ricavata da dem
-671;Austis;154;OD:154;40.0715;9.0894;737;Italy;Sardegna;Quota ricavata da dem
-672;Ortueri;155;OD:155;40.0365;8.987;604;Italy;Sardegna;Quota ricavata da dem
-673;Ortuabis F.C.;156;OD:156;39.8877;9.1102;810;Italy;Sardegna;Quota ricavata da dem
-674;Santa Sofia;158;OD:158;39.8673;9.1324;817;Italy;Sardegna;Quota ricavata da dem
-675;Laconi F.C.;159;OD:159;39.8563;9.0506;565;Italy;Sardegna;Quota ricavata da dem
-676;Genoni;160;OD:160;39.7938;9.0078;463;Italy;Sardegna;Quota ricavata da dem
-677;Samugheo;163;OD:163;39.9479;8.941;366;Italy;Sardegna;Quota ricavata da dem
-678;Allai;164;OD:164;39.9575;8.8648;72;Italy;Sardegna;Quota ricavata da dem
-679;Abbasanta;166;OD:166;40.1255;8.8189;313;Italy;Sardegna;Quota ricavata da dem
-680;Paulilatino;167;OD:167;40.0831;8.7637;258;Italy;Sardegna;Quota ricavata da dem
-681;Mogorella;169;OD:169;39.8657;8.8585;290;Italy;Sardegna;Quota ricavata da dem
-682;Santa Vittoria;170;OD:170;39.9667;8.7374;23;Italy;Sardegna;Quota ricavata da dem
-683;Simaxis;171;OD:171;39.9306;8.6899;13;Italy;Sardegna;Quota ricavata da dem
-684;Riola;172;OD:172;39.9964;8.5402;3;Italy;Sardegna;Quota ricavata da dem
-685;Santulussurgiu;174;OD:174;40.1424;8.6525;602;Italy;Sardegna;Quota ricavata da dem
-686;Seneghe;175;OD:175;40.0808;8.6127;285;Italy;Sardegna;Quota ricavata da dem
-687;Bauladu;176;OD:176;40.0197;8.6722;43;Italy;Sardegna;Quota ricavata da dem
-688;Tega (C.ra);178;OD:178;40.1543;8.5253;281;Italy;Sardegna;Quota ricavata da dem
-689;Tresnuraghes F.C.;179;OD:179;40.2568;8.5245;255;Italy;Sardegna;Quota ricavata da dem
-690;Cuglieri;180;OD:180;40.1902;8.5679;465;Italy;Sardegna;Quota ricavata da dem
-691;Villanova Monteleone;181;OD:181;40.5024;8.4734;539;Italy;Sardegna;Quota ricavata da dem
-692;Reinamare (C.ra);182;OD:182;40.4696;8.5561;272;Italy;Sardegna;Quota ricavata da dem
-693;Pozzomaggiore;184;OD:184;40.3989;8.6597;444;Italy;Sardegna;Quota ricavata da dem
-694;Montresta;186;OD:186;40.3749;8.5002;456;Italy;Sardegna;Quota ricavata da dem
-695;Campeda;187;OD:187;40.3274;8.7849;668;Italy;Sardegna;Quota ricavata da dem
-696;Bonorva;189;OD:189;40.4186;8.7686;480;Italy;Sardegna;Quota ricavata da dem
-697;Sindia F.C.;191;OD:191;40.2983;8.6563;505;Italy;Sardegna;Quota ricavata da dem
-698;Bosa;192;OD:192;40.2979;8.5008;20;Italy;Sardegna;Quota ricavata da dem
-699;Alghero;196;OD:196;40.5586;8.3122;4;Italy;Sardegna;Quota ricavata da dem
-700;Ittiri;197;OD:197;40.5948;8.5689;405;Italy;Sardegna;Quota ricavata da dem
-701;Putifigari;198;OD:198;40.5628;8.461;249;Italy;Sardegna;Quota ricavata da dem
-702;Rudas (C.ra);199;OD:199;40.6114;8.3813;29;Italy;Sardegna;Quota ricavata da dem
-703;Olmedo F.C.;200;OD:200;40.651;8.3775;57;Italy;Sardegna;Quota ricavata da dem
-704;Fertilia;201;OD:201;40.5936;8.2847;3;Italy;Sardegna;Quota ricavata da dem
-705;Argentiera (M.ra);204;OD:204;40.739;8.1481;46;Italy;Sardegna;Quota ricavata da dem
-706;Stintino;206;OD:206;40.9374;8.2281;6;Italy;Sardegna;Quota ricavata da dem
-707;Thiesi;208;OD:208;40.525;8.7189;462;Italy;Sardegna;Quota ricavata da dem
-708;Bidighinzu-Diga (C.M.);209;OD:209;40.5575;8.6624;328;Italy;Sardegna;Quota ricavata da dem
-709;Uri;212;OD:212;40.6359;8.4912;160;Italy;Sardegna;Quota ricavata da dem
-710;Ploaghe;213;OD:213;40.6643;8.7459;395;Italy;Sardegna;Quota ricavata da dem
-711;Cargeghe;215;OD:215;40.6691;8.6141;355;Italy;Sardegna;Quota ricavata da dem
-712;Osilo;216;OD:216;40.7443;8.6713;556;Italy;Sardegna;Quota ricavata da dem
-713;Macciadosa (C.ra);221;OD:221;40.7304;8.4029;70;Italy;Sardegna;Quota ricavata da dem
-714;Sennori;223;OD:223;40.79;8.595;297;Italy;Sardegna;Quota ricavata da dem
-715;Porto Torres;224;OD:224;40.8353;8.4027;13;Italy;Sardegna;Quota ricavata da dem
-716;S.Giovanni Coghinas(C.ra);226;OD:226;40.8827;8.7565;277;Italy;Sardegna;Quota ricavata da dem
-717;S.Lucia di Bonorva (C.ra);227;OD:227;40.4228;8.8419;372;Italy;Sardegna;Quota ricavata da dem
-718;Torralba FF.SS.;228;OD:228;40.5154;8.7619;445;Italy;Sardegna;Quota ricavata da dem
-719;Ittireddu;232;OD:232;40.5458;8.904;331;Italy;Sardegna;Quota ricavata da dem
-720;Ardara;233;OD:233;40.6332;8.8184;275;Italy;Sardegna;Quota ricavata da dem
-721;Chilivani (Cabina);234;OD:234;40.6146;8.9073;219;Italy;Sardegna;Quota ricavata da dem
-722;Ozieri;235;OD:235;40.5845;9.0036;417;Italy;Sardegna;Quota ricavata da dem
-723;Fraigas (C.ra);236;OD:236;40.6289;8.9896;203;Italy;Sardegna;Quota ricavata da dem
-724;Planu Ladu (C.ra);238;OD:238;40.6852;8.9407;178;Italy;Sardegna;Quota ricavata da dem
-725;Oschiri;241;OD:241;40.7192;9.0997;211;Italy;Sardegna;Quota ricavata da dem
-726;Monti;242;OD:242;40.8053;9.3257;335;Italy;Sardegna;Quota ricavata da dem
-727;Zuighe (C.ra);244;OD:244;40.7574;9.3669;535;Italy;Sardegna;Quota ricavata da dem
-728;Mazzinaiu (C.ra);245;OD:245;40.7096;9.3716;604;Italy;Sardegna;Quota ricavata da dem
-729;Budduso';246;OD:246;40.578;9.2595;704;Italy;Sardegna;Quota ricavata da dem
-730;Caddau (C.ra);250;OD:250;40.825;9.0911;581;Italy;Sardegna;Quota ricavata da dem
-731;Muzzone (Diga);251;OD:251;40.7922;9.0257;247;Italy;Sardegna;Quota ricavata da dem
-732;Coghinas (C.ra);252;OD:252;40.8631;8.9521;91;Italy;Sardegna;Quota ricavata da dem
-733;Martis;254;OD:254;40.7793;8.8096;280;Italy;Sardegna;Quota ricavata da dem
-734;Sedini;255;OD:255;40.851;8.8173;288;Italy;Sardegna;Quota ricavata da dem
-735;Perfugas;256;OD:256;40.8296;8.8854;77;Italy;Sardegna;Quota ricavata da dem
-736;S.Maria Coghinas (C.ra);257;OD:257;40.9109;8.8879;19;Italy;Sardegna;Quota ricavata da dem
-737;Codaruina;258;OD:258;40.93;8.8249;12;Italy;Sardegna;Quota ricavata da dem
-738;S.Francesco d'Aglientu;260;OD:260;41.0782;9.1129;413;Italy;Sardegna;Quota ricavata da dem
-739;S.Teresa Gallura;262;OD:262;41.2415;9.1894;22;Italy;Sardegna;Quota ricavata da dem
-740;Curadoreddu (C.ra);263;OD:263;40.8642;9.1272;650;Italy;Sardegna;Quota ricavata da dem
-741;Val Licciola (Caserma);264;OD:264;40.8502;9.1527;1074;Italy;Sardegna;Quota ricavata da dem
-742;Tempio;265;OD:265;40.9034;9.1041;524;Italy;Sardegna;Quota ricavata da dem
-743;Aggius;266;OD:266;40.9291;9.0644;517;Italy;Sardegna;Quota ricavata da dem
-744;Padulo (C.ra);267;OD:267;40.948;9.0947;412;Italy;Sardegna;Quota ricavata da dem
-745;Calangianus;268;OD:268;40.9227;9.1932;528;Italy;Sardegna;Quota ricavata da dem
-746;S.Antonio C.-Diga;269;OD:269;40.9922;9.3004;309;Italy;Sardegna;Quota ricavata da dem
-747;Luogosanto;271;OD:271;41.0517;9.2044;253;Italy;Sardegna;Quota ricavata da dem
-748;Bassacutena (C.ra);272;OD:272;41.1097;9.2613;71;Italy;Sardegna;Quota ricavata da dem
-749;Palau;273;OD:273;41.1815;9.383;21;Italy;Sardegna;Quota ricavata da dem
-750;Guardia Vecchia;274;OD:274;41.228;9.4081;112;Italy;Sardegna;Quota ricavata da dem
-751;La Maddalena;276;OD:276;41.2117;9.4028;16;Italy;Sardegna;Quota ricavata da dem
-752;S.Pantaleo;277;OD:277;41.0472;9.4675;177;Italy;Sardegna;Quota ricavata da dem
-753;S.Maria d'Arzachena;278;OD:278;41.082;9.3712;85;Italy;Sardegna;Quota ricavata da dem
-754;Olbia;281;OD:281;40.9238;9.5077;2;Italy;Sardegna;Quota ricavata da dem
-755;Putzolu (C.ra);282;OD:282;40.9104;9.4034;91;Italy;Sardegna;Quota ricavata da dem
-756;Telti;283;OD:283;40.8763;9.351;298;Italy;Sardegna;Quota ricavata da dem
-757;Taroni (C.ra);285;OD:285;40.8945;9.2964;391;Italy;Sardegna;Quota ricavata da dem
-758;Padru;287;OD:287;40.7663;9.5215;162;Italy;Sardegna;Quota ricavata da dem
-759;Murta Maria (C.ra);288;OD:288;40.8908;9.586;15;Italy;Sardegna;Quota ricavata da dem
-760;Monte Petrosu (C.ra);289;OD:289;40.8425;9.653;37;Italy;Sardegna;Quota ricavata da dem
-761;Budoni (C.ra);290;OD:290;40.7104;9.6981;11;Italy;Sardegna;Quota ricavata da dem
-762;Ala' dei Sardi;292;OD:292;40.6506;9.3294;634;Italy;Sardegna;Quota ricavata da dem
-763;Mamone (Colonia Penale);293;OD:293;40.5716;9.4214;852;Italy;Sardegna;Quota ricavata da dem
-764;Lula;295;OD:295;40.4704;9.4873;536;Italy;Sardegna;Quota ricavata da dem
-765;Lode';297;OD:297;40.5913;9.5396;278;Italy;Sardegna;Quota ricavata da dem
-766;Torpe';298;OD:298;40.6277;9.6766;13;Italy;Sardegna;Quota ricavata da dem
-767;Montes (Caserma);301;OD:301;40.1235;9.3946;980;Italy;Sardegna;Quota ricavata da dem
-768;Orgosolo;303;OD:303;40.2045;9.3539;614;Italy;Sardegna;Quota ricavata da dem
-769;Mamoiada;304;OD:304;40.2136;9.2848;730;Italy;Sardegna;Quota ricavata da dem
-770;Oliena;306;OD:306;40.2754;9.4044;304;Italy;Sardegna;Quota ricavata da dem
-771;Noce Secca (C.ra);310;OD:310;40.2547;9.5751;684;Italy;Sardegna;Quota ricavata da dem
-772;Dorgali;311;OD:311;40.2908;9.5892;412;Italy;Sardegna;Quota ricavata da dem
-773;Nuoro;312;OD:312;40.3203;9.3208;530;Italy;Sardegna;Quota ricavata da dem
-774;Orune;313;OD:313;40.4069;9.3675;643;Italy;Sardegna;Quota ricavata da dem
-775;Galtelli';315;OD:315;40.3874;9.615;18;Italy;Sardegna;Quota ricavata da dem
-776;Orosei;317;OD:317;40.3805;9.6978;13;Italy;Sardegna;Quota ricavata da dem
-777;Cala Gonone;318;OD:318;40.2832;9.6373;70;Italy;Sardegna;Quota ricavata da dem
-778;Genna Silana (C.ra);319;OD:319;40.159;9.5079;1019;Italy;Sardegna;Quota ricavata da dem
-779;Giustizieri (C.ra);320;OD:320;40.0972;9.5303;712;Italy;Sardegna;Quota ricavata da dem
-780;Talana;321;OD:321;40.0411;9.4968;612;Italy;Sardegna;Quota ricavata da dem
-781;Baunei (C.ra);323;OD:323;40.0299;9.6651;450;Italy;Sardegna;Quota ricavata da dem
-782;Villagrande Strisaili;325;OD:325;39.9614;9.5066;708;Italy;Sardegna;Quota ricavata da dem
-783;Sa Teula (centrale);327;OD:327;39.9621;9.54;290;Italy;Sardegna;Quota ricavata da dem
-784;Tortoli';328;OD:328;39.9268;9.6582;11;Italy;Sardegna;Quota ricavata da dem
-785;Arzana;329;OD:329;39.9176;9.5282;651;Italy;Sardegna;Quota ricavata da dem
-786;Lanusei F.C.;330;OD:330;39.8794;9.5375;584;Italy;Sardegna;Quota ricavata da dem
-787;Barisardo;331;OD:331;39.8424;9.6433;34;Italy;Sardegna;Quota ricavata da dem
-788;Ierzu F.C.;332;OD:332;39.8036;9.5117;509;Italy;Sardegna;Quota ricavata da dem
-789;Genna Crexia (C.ra);333;OD:333;39.7836;9.553;370;Italy;Sardegna;Quota ricavata da dem
-790;Tertenia;335;OD:335;39.698;9.5755;119;Italy;Sardegna;Quota ricavata da dem
-791;Perdasdefogu;337;OD:337;39.682;9.4408;598;Italy;Sardegna;Quota ricavata da dem
-792;S.Barbara (C.ra);339;OD:339;39.5203;9.5956;8;Italy;Sardegna;Quota ricavata da dem
-793;Sicca d'erba (C.ra);341;OD:341;39.9032;9.4946;883;Italy;Sardegna;Quota ricavata da dem
-794;Bau de' Muggeris;342;OD:342;39.954;9.4264;759;Italy;Sardegna;Quota ricavata da dem
-795;Pira de Onni (C.ra);345;OD:345;40.0169;9.4032;937;Italy;Sardegna;Quota ricavata da dem
-796;Bau Mela;346;OD:346;39.991;9.4155;823;Italy;Sardegna;Quota ricavata da dem
-797;Bau Mandara;347;OD:347;39.981;9.44;872;Italy;Sardegna;Quota ricavata da dem
-798;Seulo;351;OD:351;39.8706;9.2354;781;Italy;Sardegna;Quota ricavata da dem
-799;Esterzili F.C.;352;OD:352;39.7888;9.2551;683;Italy;Sardegna;Quota ricavata da dem
-800;Villanovatulo F.C.;353;OD:353;39.7625;9.2135;361;Italy;Sardegna;Quota ricavata da dem
-801;Nurri F.C.;354;OD:354;39.7213;9.2295;561;Italy;Sardegna;Quota ricavata da dem
-802;Seui F.C.;355;OD:355;39.8373;9.3262;877;Italy;Sardegna;Quota ricavata da dem
-803;Arqueri' (C.ra);356;OD:356;39.8197;9.3668;999;Italy;Sardegna;Quota ricavata da dem
-804;Ussassai;357;OD:357;39.8197;9.3668;999;Italy;Sardegna;Quota ricavata da dem
-805;Sadali F.C.;358;OD:358;39.8155;9.2694;760;Italy;Sardegna;Quota ricavata da dem
-806;Goni;362;OD:362;39.5774;9.2861;418;Italy;Sardegna;Quota ricavata da dem
-807;Ballao;363;OD:363;39.5497;9.3602;128;Italy;Sardegna;Quota ricavata da dem
-808;Gairo Taquisara F.C.;364;OD:364;39.8567;9.4651;843;Italy;Sardegna;Quota ricavata da dem
-809;Escalaplano;366;OD:366;39.6243;9.3477;295;Italy;Sardegna;Quota ricavata da dem
-810;S.Nicolo' Gerrei;367;OD:367;39.498;9.304;389;Italy;Sardegna;Quota ricavata da dem
-811;Villasalto;368;OD:368;39.4925;9.3912;423;Italy;Sardegna;Quota ricavata da dem
-812;Armungia;369;OD:369;39.5229;9.3784;357;Italy;Sardegna;Quota ricavata da dem
-813;Muravera;371;OD:371;39.4241;9.563;20;Italy;Sardegna;Quota ricavata da dem
-814;Tuviois (M.ra);373;OD:373;39.3919;9.3195;591;Italy;Sardegna;Quota ricavata da dem
-815;Monte Acuto (C.ra);376;OD:376;39.3506;9.4819;136;Italy;Sardegna;Quota ricavata da dem
-816;Castiadas (Colonia Penale);377;OD:377;39.2363;9.497;167;Italy;Sardegna;Quota ricavata da dem
-817;Villasimius;380;OD:380;39.1434;9.5196;51;Italy;Sardegna;Quota ricavata da dem
-818;Burcei;382;OD:382;39.3462;9.3578;660;Italy;Sardegna;Quota ricavata da dem
-819;Corongiu (Acquedotto);383;OD:383;39.3109;9.2807;173;Italy;Sardegna;Quota ricavata da dem
-820;Sa Pira (Caserma);384;OD:384;39.3096;9.1863;186;Italy;Sardegna;Quota ricavata da dem
-821;Settimo S.Pietro;385;OD:385;39.289;9.1755;69;Italy;Sardegna;Quota ricavata da dem
-822;Dolianova F.C.;391;OD:391;39.3768;9.1678;211;Italy;Sardegna;Quota ricavata da dem
-823;Sestu (C.ra);393;OD:393;39.2965;9.0661;43;Italy;Sardegna;Quota ricavata da dem
-824;Suaredda;395;OD:395;40.7827;9.6574;11;Italy;Sardegna;Quota ricavata da dem
-825;Nuxis;396;OD:396;39.1548;8.7393;190;Italy;Sardegna;Quota ricavata da dem
-826;Sassari (Oss. Eco.);397;OD:397;40.7155;8.594;299;Italy;Sardegna;Quota ricavata da dem
-827;Bacu Abis;398;OD:398;39.2422;8.4666;118;Italy;Sardegna;Quota ricavata da dem
-828;Cuili Seu;399;OD:399;39.3092;9.4717;204;Italy;Sardegna;Quota ricavata da dem
-829;Flumini di Quartu;400;OD:400;39.2386;9.2824;24;Italy;Sardegna;Quota ricavata da dem
-830;La Corte;401;OD:401;40.735;8.2832;101;Italy;Sardegna;Quota ricavata da dem
-831;Monti Nieddu;402;OD:402;39.1019;8.9037;341;Italy;Sardegna;Quota ricavata da dem
-832;Nebida;403;OD:403;39.3187;8.437;283;Italy;Sardegna;Quota ricavata da dem
-833;Pranu Antoni (Diga);404;OD:404;39.9993;8.8474;90;Italy;Sardegna;Quota ricavata da dem
-834;Romana;405;OD:405;40.4879;8.602;292;Italy;Sardegna;Quota ricavata da dem
-835;Putzuidu;408;OD:408;40.0263;8.4078;2;Italy;Sardegna;Quota ricavata da dem
-839;S M  Neapolis;412;OD:412;39.6873;8.5517;5;Italy;Sardegna;Quota ricavata da dem
-840;Idrov 14;413;OD:413;39.7588;8.5852;4;Italy;Sardegna;Quota ricavata da dem
-843;Benzone;416;OD:416;40.1452;9.0529;185;Italy;Sardegna;Quota ricavata da dem
-847;Pattada;420;OD:420;40.5909;9.1517;569;Italy;Sardegna;Quota ricavata da dem
-849;Paduledda;422;OD:422;40.998;8.8973;193;Italy;Sardegna;Quota ricavata da dem
-852;Golfo Aranci;425;OD:425;40.9956;9.578;52;Italy;Sardegna;Quota ricavata da dem
-854;S L.di Siniscola;427;OD:427;40.6034;9.7396;16;Italy;Sardegna;Quota ricavata da dem
-861;San Priamo;434;OD:434;39.3581;9.5587;4;Italy;Sardegna;Quota ricavata da dem
-864;Cagliari;437;OD:437;39.2258;9.1178;29;Italy;Sardegna;Quota ricavata da dem
+SiteID;SiteCode;SiteName;Longitude;Latitude;Elevation;Elevation_DEM;Elevation_FonteDati;Regione;FullSiteCode;State
+577;1;Sarcidano (Colonia Penale);9.1448;39.8099;682;682;NA;Sardegna;OD:001;Italy
+578;2;Is Acquas (Sarcidano);9.1155;39.762;430;430;NA;Sardegna;OD:002;Italy
+579;3;Isili;9.1065;39.7399;506;506;NA;Sardegna;OD:003;Italy
+580;4;Gergei;9.1008;39.6998;356;356;NA;Sardegna;OD:004;Italy
+581;6;Villamar F.C.;8.9598;39.6181;108;108;NA;Sardegna;OD:006;Italy
+582;7;Lunamatrona F.C.;8.8973;39.6513;186;186;NA;Sardegna;OD:007;Italy
+583;8;Mandas F.C.;9.1307;39.6606;483;483;NA;Sardegna;OD:008;Italy
+584;9;Segariu;8.9829;39.5629;135;135;NA;Sardegna;OD:009;Italy
+585;14;Sanluri (O.N.C.);8.8498;39.5273;63;63;NA;Sardegna;OD:014;Italy
+586;15;Monti Mannu (Caserma);8.6637;39.3954;447;447;NA;Sardegna;OD:015;Italy
+587;16;Villacidro F.C.;8.7422;39.463;192;192;NA;Sardegna;OD:016;Italy
+588;19;Nuraminis;9.0134;39.4427;99;99;NA;Sardegna;OD:019;Italy
+589;20;Villasor FF.SS.;8.9432;39.3813;26;26;NA;Sardegna;OD:020;Italy
+590;24;Vallermosa;8.7956;39.3632;71;71;NA;Sardegna;OD:024;Italy
+591;25;Gesico F.C.;9.129;39.6011;365;365;NA;Sardegna;OD:025;Italy
+592;26;Guasila;9.0466;39.5622;192;192;NA;Sardegna;OD:026;Italy
+593;27;Senorbi' F.C.;9.1342;39.5311;189;189;NA;Sardegna;OD:027;Italy
+594;30;S.Andrea Frius;9.1686;39.4786;305;305;NA;Sardegna;OD:030;Italy
+595;31;Barrali;9.0984;39.4845;138;138;NA;Sardegna;OD:031;Italy
+596;32;Donori F.C.;9.1198;39.4279;150;150;NA;Sardegna;OD:032;Italy
+597;34;Decimomannu;8.9606;39.3094;11;11;NA;Sardegna;OD:034;Italy
+598;35;Decimomannu (Viv.Forest.);8.9707;39.2988;4;4;NA;Sardegna;OD:035;Italy
+599;36;Bellicai (Privata);8.4941;39.3338;386;386;NA;Sardegna;OD:036;Italy
+600;37;Punta Gennarta (Diga);8.5495;39.3318;303;303;NA;Sardegna;OD:037;Italy
+601;38;Iglesias;8.5386;39.31;197;197;NA;Sardegna;OD:038;Italy
+602;42;S.Giovanni (Domusnovas);8.6259;39.3372;329;329;NA;Sardegna;OD:042;Italy
+603;43;Villamassargia;8.64;39.2759;113;113;NA;Sardegna;OD:043;Italy
+604;45;Siliqua FF.SS.;8.807;39.3012;63;63;NA;Sardegna;OD:045;Italy
+605;47;Uta (C.R.A.);8.9258;39.2951;14;14;NA;Sardegna;OD:047;Italy
+606;48;Capoterra;8.9707;39.1748;48;48;NA;Sardegna;OD:048;Italy
+607;50;Is Cannoneris (Caserma);8.8529;39.0351;594;594;NA;Sardegna;OD:050;Italy
+608;51;Piscinamanna (Caserma);8.9194;38.9922;153;153;NA;Sardegna;OD:051;Italy
+609;53;Pula;9.0026;39.0105;11;11;NA;Sardegna;OD:053;Italy
+610;54;Rio Perdosu;8.9284;38.9417;107;107;NA;Sardegna;OD:054;Italy
+611;55;Domus de Maria;8.8638;38.9443;80;80;NA;Sardegna;OD:055;Italy
+612;57;Teulada;8.7728;38.9697;102;102;NA;Sardegna;OD:057;Italy
+613;58;S.Anna Arresi;8.6408;39.0053;64;64;NA;Sardegna;OD:058;Italy
+614;59;Porto Pino;8.5998;38.9677;8;8;NA;Sardegna;OD:059;Italy
+615;60;Pantaleo;8.7979;39.0902;259;259;NA;Sardegna;OD:060;Italy
+616;61;Santadi;8.7158;39.0935;119;119;NA;Sardegna;OD:061;Italy
+617;63;Campanasissa (C.ra);8.7752;39.2077;313;313;NA;Sardegna;OD:063;Italy
+618;66;Rosas (M.ra);8.7157;39.2071;344;344;NA;Sardegna;OD:066;Italy
+619;67;Narcao;8.6755;39.1686;136;136;NA;Sardegna;OD:067;Italy
+620;70;Terraseu;8.6255;39.2042;360;360;NA;Sardegna;OD:070;Italy
+621;71;Palmas Suergiu;8.5579;39.069;10;10;NA;Sardegna;OD:071;Italy
+622;72;S.Antioco;8.4575;39.0656;11;11;NA;Sardegna;OD:072;Italy
+623;74;Carloforte;8.3124;39.1374;5;5;NA;Sardegna;OD:074;Italy
+624;75;Bacu Abis (Flumentepido);8.4818;39.188;72;72;NA;Sardegna;OD:075;Italy
+625;76;Monteponi (M.ra);8.5086;39.2996;133;133;NA;Sardegna;OD:076;Italy
+626;81;Su Zurfuru (M.ra);8.4998;39.4198;167;167;NA;Sardegna;OD:081;Italy
+627;82;Fluminimaggiore;8.499;39.437;84;84;NA;Sardegna;OD:082;Italy
+628;84;Montevecchio (M.ra);8.5706;39.5571;397;397;NA;Sardegna;OD:084;Italy
+629;85;Gonnosfanadiga;8.6618;39.4928;180;180;NA;Sardegna;OD:085;Italy
+630;88;S.Gavino FF.SS.;8.7904;39.5507;56;56;NA;Sardegna;OD:088;Italy
+631;89;Sardara;8.8197;39.6162;149;149;NA;Sardegna;OD:089;Italy
+632;90;Pabillonis;8.7197;39.5936;40;40;NA;Sardegna;OD:090;Italy
+633;92;Villa Verde - Bannari;8.8211;39.7955;212;212;NA;Sardegna;OD:092;Italy
+634;93;Ales F.C.;8.8213;39.7651;183;183;NA;Sardegna;OD:093;Italy
+635;94;Baradili F.C.;8.8969;39.7194;161;161;NA;Sardegna;OD:094;Italy
+636;95;Mogoro;8.7787;39.6831;138;138;NA;Sardegna;OD:095;Italy
+637;96;Uras FF.SS.;8.7027;39.6993;27;27;NA;Sardegna;OD:096;Italy
+638;99;Arborea;8.5807;39.7739;7;7;NA;Sardegna;OD:099;Italy
+639;100;Marrubiu (C.ra);8.6611;39.7711;37;37;NA;Sardegna;OD:100;Italy
+640;102;S.Anna-Oristano;8.6273;39.8339;12;12;NA;Sardegna;OD:102;Italy
+641;103;S.Giusta;8.6086;39.8747;2;2;NA;Sardegna;OD:103;Italy
+642;104;Sassu Idrovora;8.5761;39.8256;4;4;NA;Sardegna;OD:104;Italy
+643;105;Oristano FF.SS.;8.603;39.9025;11;11;NA;Sardegna;OD:105;Italy
+644;106;Sos Canales (C.M.);9.3138;40.5535;722;722;NA;Sardegna;OD:106;Italy
+645;107;Osidda F.C.;9.1686;40.5272;567;567;NA;Sardegna;OD:107;Italy
+646;108;S.Giovanni- Bitti (C.ra);9.3437;40.4976;755;755;NA;Sardegna;OD:108;Italy
+647;110;Benetutti;9.1697;40.4546;439;439;NA;Sardegna;OD:110;Italy
+648;111;Bottida F.C.;9.0121;40.3867;357;357;NA;Sardegna;OD:111;Italy
+649;113;Illorai;8.9994;40.3528;560;560;NA;Sardegna;OD:113;Italy
+650;114;Rifornitore Tirso;9.0333;40.3259;201;201;NA;Sardegna;OD:114;Italy
+651;115;Sig.ra Marta (C.ra);9.1356;40.3243;363;363;NA;Sardegna;OD:115;Italy
+652;118;Orani;9.1807;40.2508;587;587;NA;Sardegna;OD:118;Italy
+653;119;Bolotana F.C.;8.9595;40.329;547;547;NA;Sardegna;OD:119;Italy
+654;120;Ottana;9.0428;40.2348;198;198;NA;Sardegna;OD:120;Italy
+655;121;Macomer;8.7725;40.2693;558;558;NA;Sardegna;OD:121;Italy
+656;123;Borore;8.8129;40.2214;392;392;NA;Sardegna;OD:123;Italy
+657;124;Silanus;8.8815;40.2905;457;457;NA;Sardegna;OD:124;Italy
+658;126;Noragugume;8.9195;40.2257;264;264;NA;Sardegna;OD:126;Italy
+659;129;Fonni;9.2547;40.1171;937;937;NA;Sardegna;OD:129;Italy
+660;132;Gavoi;9.1931;40.1591;730;730;NA;Sardegna;OD:132;Italy
+661;134;Tiana;9.1486;40.068;609;609;NA;Sardegna;OD:134;Italy
+662;138;Sedilo;8.9193;40.1742;270;270;NA;Sardegna;OD:138;Italy
+663;140;Ghilarza;8.837;40.1217;280;280;NA;Sardegna;OD:140;Italy
+664;143;S.Chiara d'Ula;8.8694;40.0518;116;116;NA;Sardegna;OD:143;Italy
+665;144;Busachi;8.8964;40.0326;401;401;NA;Sardegna;OD:144;Italy
+666;146;Desulo;9.2298;40.0147;901;901;NA;Sardegna;OD:146;Italy
+667;147;Tonara;9.1752;40.0267;1035;1035;NA;Sardegna;OD:147;Italy
+668;148;Cossatzu (C.ra);9.1804;39.9429;790;790;NA;Sardegna;OD:148;Italy
+669;151;Sorgono F.C.;9.1049;40.0272;741;741;NA;Sardegna;OD:151;Italy
+670;153;Meanasardo;9.0729;39.9453;572;572;NA;Sardegna;OD:153;Italy
+671;154;Austis;9.0894;40.0715;737;737;NA;Sardegna;OD:154;Italy
+672;155;Ortueri;8.987;40.0365;604;604;NA;Sardegna;OD:155;Italy
+673;156;Ortuabis F.C.;9.1102;39.8877;810;810;NA;Sardegna;OD:156;Italy
+674;158;Santa Sofia;9.1324;39.8673;817;817;NA;Sardegna;OD:158;Italy
+675;159;Laconi F.C.;9.0506;39.8563;565;565;NA;Sardegna;OD:159;Italy
+676;160;Genoni;9.0078;39.7938;463;463;NA;Sardegna;OD:160;Italy
+677;163;Samugheo;8.941;39.9479;366;366;NA;Sardegna;OD:163;Italy
+678;164;Allai;8.8648;39.9575;72;72;NA;Sardegna;OD:164;Italy
+679;166;Abbasanta;8.8189;40.1255;313;313;NA;Sardegna;OD:166;Italy
+680;167;Paulilatino;8.7637;40.0831;258;258;NA;Sardegna;OD:167;Italy
+681;169;Mogorella;8.8585;39.8657;290;290;NA;Sardegna;OD:169;Italy
+682;170;Santa Vittoria;8.7374;39.9667;23;23;NA;Sardegna;OD:170;Italy
+683;171;Simaxis;8.6899;39.9306;13;13;NA;Sardegna;OD:171;Italy
+684;172;Riola;8.5402;39.9964;3;3;NA;Sardegna;OD:172;Italy
+685;174;Santulussurgiu;8.6525;40.1424;602;602;NA;Sardegna;OD:174;Italy
+686;175;Seneghe;8.6127;40.0808;285;285;NA;Sardegna;OD:175;Italy
+687;176;Bauladu;8.6722;40.0197;43;43;NA;Sardegna;OD:176;Italy
+688;178;Tega (C.ra);8.5253;40.1543;281;281;NA;Sardegna;OD:178;Italy
+689;179;Tresnuraghes F.C.;8.5245;40.2568;255;255;NA;Sardegna;OD:179;Italy
+690;180;Cuglieri;8.5679;40.1902;465;465;NA;Sardegna;OD:180;Italy
+691;181;Villanova Monteleone;8.4734;40.5024;539;539;NA;Sardegna;OD:181;Italy
+692;182;Reinamare (C.ra);8.5561;40.4696;272;272;NA;Sardegna;OD:182;Italy
+693;184;Pozzomaggiore;8.6597;40.3989;444;444;NA;Sardegna;OD:184;Italy
+694;186;Montresta;8.5002;40.3749;456;456;NA;Sardegna;OD:186;Italy
+695;187;Campeda;8.7849;40.3274;668;668;NA;Sardegna;OD:187;Italy
+696;189;Bonorva;8.7686;40.4186;480;480;NA;Sardegna;OD:189;Italy
+697;191;Sindia F.C.;8.6563;40.2983;505;505;NA;Sardegna;OD:191;Italy
+698;192;Bosa;8.5008;40.2979;20;20;NA;Sardegna;OD:192;Italy
+699;196;Alghero;8.3122;40.5586;4;4;NA;Sardegna;OD:196;Italy
+700;197;Ittiri;8.5689;40.5948;405;405;NA;Sardegna;OD:197;Italy
+701;198;Putifigari;8.461;40.5628;249;249;NA;Sardegna;OD:198;Italy
+702;199;Rudas (C.ra);8.3813;40.6114;29;29;NA;Sardegna;OD:199;Italy
+703;200;Olmedo F.C.;8.3775;40.651;57;57;NA;Sardegna;OD:200;Italy
+704;201;Fertilia;8.2847;40.5936;3;3;NA;Sardegna;OD:201;Italy
+705;204;Argentiera (M.ra);8.1481;40.739;46;46;NA;Sardegna;OD:204;Italy
+706;206;Stintino;8.2281;40.9374;6;6;NA;Sardegna;OD:206;Italy
+707;208;Thiesi;8.7189;40.525;462;462;NA;Sardegna;OD:208;Italy
+708;209;Bidighinzu-Diga (C.M.);8.6624;40.5575;328;328;NA;Sardegna;OD:209;Italy
+709;212;Uri;8.4912;40.6359;160;160;NA;Sardegna;OD:212;Italy
+710;213;Ploaghe;8.7459;40.6643;395;395;NA;Sardegna;OD:213;Italy
+711;215;Cargeghe;8.6141;40.6691;355;355;NA;Sardegna;OD:215;Italy
+712;216;Osilo;8.6713;40.7443;556;556;NA;Sardegna;OD:216;Italy
+713;221;Macciadosa (C.ra);8.4029;40.7304;70;70;NA;Sardegna;OD:221;Italy
+714;223;Sennori;8.595;40.79;297;297;NA;Sardegna;OD:223;Italy
+715;224;Porto Torres;8.4027;40.8353;13;13;NA;Sardegna;OD:224;Italy
+716;226;S.Giovanni Coghinas(C.ra);8.7565;40.8827;277;277;NA;Sardegna;OD:226;Italy
+717;227;S.Lucia di Bonorva (C.ra);8.8419;40.4228;372;372;NA;Sardegna;OD:227;Italy
+718;228;Torralba FF.SS.;8.7619;40.5154;445;445;NA;Sardegna;OD:228;Italy
+719;232;Ittireddu;8.904;40.5458;331;331;NA;Sardegna;OD:232;Italy
+720;233;Ardara;8.8184;40.6332;275;275;NA;Sardegna;OD:233;Italy
+721;234;Chilivani (Cabina);8.9073;40.6146;219;219;NA;Sardegna;OD:234;Italy
+722;235;Ozieri;9.0036;40.5845;417;417;NA;Sardegna;OD:235;Italy
+723;236;Fraigas (C.ra);8.9896;40.6289;203;203;NA;Sardegna;OD:236;Italy
+724;238;Planu Ladu (C.ra);8.9407;40.6852;178;178;NA;Sardegna;OD:238;Italy
+725;241;Oschiri;9.0997;40.7192;211;211;NA;Sardegna;OD:241;Italy
+726;242;Monti;9.3257;40.8053;335;335;NA;Sardegna;OD:242;Italy
+727;244;Zuighe (C.ra);9.3669;40.7574;535;535;NA;Sardegna;OD:244;Italy
+728;245;Mazzinaiu (C.ra);9.3716;40.7096;604;604;NA;Sardegna;OD:245;Italy
+729;246;Budduso';9.2595;40.578;704;704;NA;Sardegna;OD:246;Italy
+730;250;Caddau (C.ra);9.0911;40.825;581;581;NA;Sardegna;OD:250;Italy
+731;251;Muzzone (Diga);9.0257;40.7922;247;247;NA;Sardegna;OD:251;Italy
+732;252;Coghinas (C.ra);8.9521;40.8631;91;91;NA;Sardegna;OD:252;Italy
+733;254;Martis;8.8096;40.7793;280;280;NA;Sardegna;OD:254;Italy
+734;255;Sedini;8.8173;40.851;288;288;NA;Sardegna;OD:255;Italy
+735;256;Perfugas;8.8854;40.8296;77;77;NA;Sardegna;OD:256;Italy
+736;257;S.Maria Coghinas (C.ra);8.8879;40.9109;19;19;NA;Sardegna;OD:257;Italy
+737;258;Codaruina;8.8249;40.93;12;12;NA;Sardegna;OD:258;Italy
+738;260;S.Francesco d'Aglientu;9.1129;41.0782;413;413;NA;Sardegna;OD:260;Italy
+739;262;S.Teresa Gallura;9.1894;41.2415;22;22;NA;Sardegna;OD:262;Italy
+740;263;Curadoreddu (C.ra);9.1272;40.8642;650;650;NA;Sardegna;OD:263;Italy
+741;264;Val Licciola (Caserma);9.1527;40.8502;1074;1074;NA;Sardegna;OD:264;Italy
+742;265;Tempio;9.1041;40.9034;524;524;NA;Sardegna;OD:265;Italy
+743;266;Aggius;9.0644;40.9291;517;517;NA;Sardegna;OD:266;Italy
+744;267;Padulo (C.ra);9.0947;40.948;412;412;NA;Sardegna;OD:267;Italy
+745;268;Calangianus;9.1932;40.9227;528;528;NA;Sardegna;OD:268;Italy
+746;269;S.Antonio C.-Diga;9.3004;40.9922;309;309;NA;Sardegna;OD:269;Italy
+747;271;Luogosanto;9.2044;41.0517;253;253;NA;Sardegna;OD:271;Italy
+748;272;Bassacutena (C.ra);9.2613;41.1097;71;71;NA;Sardegna;OD:272;Italy
+749;273;Palau;9.383;41.1815;21;21;NA;Sardegna;OD:273;Italy
+750;274;Guardia Vecchia;9.4081;41.228;112;112;NA;Sardegna;OD:274;Italy
+751;276;La Maddalena;9.4028;41.2117;16;16;NA;Sardegna;OD:276;Italy
+752;277;S.Pantaleo;9.4675;41.0472;177;177;NA;Sardegna;OD:277;Italy
+753;278;S.Maria d'Arzachena;9.3712;41.082;85;85;NA;Sardegna;OD:278;Italy
+754;281;Olbia;9.5077;40.9238;2;2;NA;Sardegna;OD:281;Italy
+755;282;Putzolu (C.ra);9.4034;40.9104;91;91;NA;Sardegna;OD:282;Italy
+756;283;Telti;9.351;40.8763;298;298;NA;Sardegna;OD:283;Italy
+757;285;Taroni (C.ra);9.2964;40.8945;391;391;NA;Sardegna;OD:285;Italy
+758;287;Padru;9.5215;40.7663;162;162;NA;Sardegna;OD:287;Italy
+759;288;Murta Maria (C.ra);9.586;40.8908;15;15;NA;Sardegna;OD:288;Italy
+760;289;Monte Petrosu (C.ra);9.653;40.8425;37;37;NA;Sardegna;OD:289;Italy
+761;290;Budoni (C.ra);9.6981;40.7104;11;11;NA;Sardegna;OD:290;Italy
+762;292;Ala' dei Sardi;9.3294;40.6506;634;634;NA;Sardegna;OD:292;Italy
+763;293;Mamone (Colonia Penale);9.4214;40.5716;852;852;NA;Sardegna;OD:293;Italy
+764;295;Lula;9.4873;40.4704;536;536;NA;Sardegna;OD:295;Italy
+765;297;Lode';9.5396;40.5913;278;278;NA;Sardegna;OD:297;Italy
+766;298;Torpe';9.6766;40.6277;13;13;NA;Sardegna;OD:298;Italy
+767;301;Montes (Caserma);9.3946;40.1235;980;980;NA;Sardegna;OD:301;Italy
+768;303;Orgosolo;9.3539;40.2045;614;614;NA;Sardegna;OD:303;Italy
+769;304;Mamoiada;9.2848;40.2136;730;730;NA;Sardegna;OD:304;Italy
+770;306;Oliena;9.4044;40.2754;304;304;NA;Sardegna;OD:306;Italy
+771;310;Noce Secca (C.ra);9.5751;40.2547;684;684;NA;Sardegna;OD:310;Italy
+772;311;Dorgali;9.5892;40.2908;412;412;NA;Sardegna;OD:311;Italy
+773;312;Nuoro;9.3208;40.3203;530;530;NA;Sardegna;OD:312;Italy
+774;313;Orune;9.3675;40.4069;643;643;NA;Sardegna;OD:313;Italy
+775;315;Galtelli';9.615;40.3874;18;18;NA;Sardegna;OD:315;Italy
+776;317;Orosei;9.6978;40.3805;13;13;NA;Sardegna;OD:317;Italy
+777;318;Cala Gonone;9.6373;40.2832;70;70;NA;Sardegna;OD:318;Italy
+778;319;Genna Silana (C.ra);9.5079;40.159;1019;1019;NA;Sardegna;OD:319;Italy
+779;320;Giustizieri (C.ra);9.5303;40.0972;712;712;NA;Sardegna;OD:320;Italy
+780;321;Talana;9.4968;40.0411;612;612;NA;Sardegna;OD:321;Italy
+781;323;Baunei (C.ra);9.6651;40.0299;450;450;NA;Sardegna;OD:323;Italy
+782;325;Villagrande Strisaili;9.5066;39.9614;708;708;NA;Sardegna;OD:325;Italy
+783;327;Sa Teula (centrale);9.54;39.9621;290;290;NA;Sardegna;OD:327;Italy
+784;328;Tortoli';9.6582;39.9268;11;11;NA;Sardegna;OD:328;Italy
+785;329;Arzana;9.5282;39.9176;651;651;NA;Sardegna;OD:329;Italy
+786;330;Lanusei F.C.;9.5375;39.8794;584;584;NA;Sardegna;OD:330;Italy
+787;331;Barisardo;9.6433;39.8424;34;34;NA;Sardegna;OD:331;Italy
+788;332;Ierzu F.C.;9.5117;39.8036;509;509;NA;Sardegna;OD:332;Italy
+789;333;Genna Crexia (C.ra);9.553;39.7836;370;370;NA;Sardegna;OD:333;Italy
+790;335;Tertenia;9.5755;39.698;119;119;NA;Sardegna;OD:335;Italy
+791;337;Perdasdefogu;9.4408;39.682;598;598;NA;Sardegna;OD:337;Italy
+792;339;S.Barbara (C.ra);9.5956;39.5203;8;8;NA;Sardegna;OD:339;Italy
+793;341;Sicca d'erba (C.ra);9.4946;39.9032;883;883;NA;Sardegna;OD:341;Italy
+794;342;Bau de' Muggeris;9.4264;39.954;759;759;NA;Sardegna;OD:342;Italy
+795;345;Pira de Onni (C.ra);9.4032;40.0169;937;937;NA;Sardegna;OD:345;Italy
+796;346;Bau Mela;9.4155;39.991;823;823;NA;Sardegna;OD:346;Italy
+797;347;Bau Mandara;9.44;39.981;872;872;NA;Sardegna;OD:347;Italy
+798;351;Seulo;9.2354;39.8706;781;781;NA;Sardegna;OD:351;Italy
+799;352;Esterzili F.C.;9.2551;39.7888;683;683;NA;Sardegna;OD:352;Italy
+800;353;Villanovatulo F.C.;9.2135;39.7625;361;361;NA;Sardegna;OD:353;Italy
+801;354;Nurri F.C.;9.2295;39.7213;561;561;NA;Sardegna;OD:354;Italy
+802;355;Seui F.C.;9.3262;39.8373;877;877;NA;Sardegna;OD:355;Italy
+803;356;Arqueri' (C.ra);9.3668;39.8197;999;999;NA;Sardegna;OD:356;Italy
+804;357;Ussassai;9.3668;39.8197;999;999;NA;Sardegna;OD:357;Italy
+805;358;Sadali F.C.;9.2694;39.8155;760;760;NA;Sardegna;OD:358;Italy
+806;362;Goni;9.2861;39.5774;418;418;NA;Sardegna;OD:362;Italy
+807;363;Ballao;9.3602;39.5497;128;128;NA;Sardegna;OD:363;Italy
+808;364;Gairo Taquisara F.C.;9.4651;39.8567;843;843;NA;Sardegna;OD:364;Italy
+809;366;Escalaplano;9.3477;39.6243;295;295;NA;Sardegna;OD:366;Italy
+810;367;S.Nicolo' Gerrei;9.304;39.498;389;389;NA;Sardegna;OD:367;Italy
+811;368;Villasalto;9.3912;39.4925;423;423;NA;Sardegna;OD:368;Italy
+812;369;Armungia;9.3784;39.5229;357;357;NA;Sardegna;OD:369;Italy
+813;371;Muravera;9.563;39.4241;20;20;NA;Sardegna;OD:371;Italy
+814;373;Tuviois (M.ra);9.3195;39.3919;591;591;NA;Sardegna;OD:373;Italy
+815;376;Monte Acuto (C.ra);9.4819;39.3506;136;136;NA;Sardegna;OD:376;Italy
+816;377;Castiadas (Colonia Penale);9.497;39.2363;167;167;NA;Sardegna;OD:377;Italy
+817;380;Villasimius;9.5196;39.1434;51;51;NA;Sardegna;OD:380;Italy
+818;382;Burcei;9.3578;39.3462;660;660;NA;Sardegna;OD:382;Italy
+819;383;Corongiu (Acquedotto);9.2807;39.3109;173;173;NA;Sardegna;OD:383;Italy
+820;384;Sa Pira (Caserma);9.1863;39.3096;186;186;NA;Sardegna;OD:384;Italy
+821;385;Settimo S.Pietro;9.1755;39.289;69;69;NA;Sardegna;OD:385;Italy
+822;391;Dolianova F.C.;9.1678;39.3768;211;211;NA;Sardegna;OD:391;Italy
+823;393;Sestu (C.ra);9.0661;39.2965;43;43;NA;Sardegna;OD:393;Italy
+824;395;Suaredda;9.6574;40.7827;11;11;NA;Sardegna;OD:395;Italy
+825;396;Nuxis;8.7393;39.1548;190;190;NA;Sardegna;OD:396;Italy
+826;397;Sassari (Oss. Eco.);8.594;40.7155;299;299;NA;Sardegna;OD:397;Italy
+827;398;Bacu Abis;8.4666;39.2422;118;118;NA;Sardegna;OD:398;Italy
+828;399;Cuili Seu;9.4717;39.3092;204;204;NA;Sardegna;OD:399;Italy
+829;400;Flumini di Quartu;9.2824;39.2386;24;24;NA;Sardegna;OD:400;Italy
+830;401;La Corte;8.2832;40.735;101;101;NA;Sardegna;OD:401;Italy
+831;402;Monti Nieddu;8.9037;39.1019;341;341;NA;Sardegna;OD:402;Italy
+832;403;Nebida;8.437;39.3187;283;283;NA;Sardegna;OD:403;Italy
+833;404;Pranu Antoni (Diga);8.8474;39.9993;90;90;NA;Sardegna;OD:404;Italy
+834;405;Romana;8.602;40.4879;292;292;NA;Sardegna;OD:405;Italy
+835;408;Putzuidu;8.4078;40.0263;2;2;NA;Sardegna;OD:408;Italy
+839;412;S M  Neapolis;8.5517;39.6873;5;5;NA;Sardegna;OD:412;Italy
+840;413;Idrov 14;8.5852;39.7588;4;4;NA;Sardegna;OD:413;Italy
+843;416;Benzone;9.0529;40.1452;185;185;NA;Sardegna;OD:416;Italy
+847;420;Pattada;9.1517;40.5909;569;569;NA;Sardegna;OD:420;Italy
+849;422;Paduledda;8.8973;40.998;193;193;NA;Sardegna;OD:422;Italy
+852;425;Golfo Aranci;9.578;40.9956;52;52;NA;Sardegna;OD:425;Italy
+854;427;S L.di Siniscola;9.7396;40.6034;16;16;NA;Sardegna;OD:427;Italy
+861;434;San Priamo;9.5587;39.3581;4;4;NA;Sardegna;OD:434;Italy
+864;437;Cagliari;9.1178;39.2258;29;29;NA;Sardegna;OD:437;Italy
