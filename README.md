@@ -11,10 +11,17 @@ Anagrafica di HisCentral aggiustata tenendo conto delle informazioni dei Centri 
 Per elaborare gli indicatori del 2017 le serie di temperatura sono state estese (per il solo 2017, in attesa di avere i dati caricati su HisCentral) con serie limitrofe prese da serie regionali dell'Emilia. Le serie omogenee di tmax e tmin per l'Emilia sono circa 19, solo per 7 serie sono state trovate stazioni limitrofe (massima distanza 25 km) con una differenza di quota di massimo 100 metri. Le stazioni associate (hisCentral con serie caricate sul database SCIA) sono le seguenti (i codici a destra della virgola superiori a 9000 sono i codici delle serie HisCentral, i codici a sinistra della virgola sono quelli delle serie disponibili dalla rete regionale per il 2017)
 
 COD_STAZ==1,9013
+
 COD_STAZ==7097,9200
+
 COD_STAZ==7098,9277
-COD_STAZ==7102,9146   
+
+COD_STAZ==7102,9146
+
 COD_STAZ==7112,9225  
+
 COD_STAZ==7118,9314 
+
 COD_STAZ==7127,9588 
+
 COD_STAZ==8,9139
